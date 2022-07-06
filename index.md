@@ -1,6 +1,5 @@
 
 <a href="https://youtu.be/DFMEBquxeO8" target="_blank" ><img src="https://www.typedifferent.com/fonts/bd_rainbow/bd_rainbow_example1.jpg" /> </a>
-<img src="https://thesource.com/wp-content/uploads/2022/02/AB3A9173-700x400.jpg" alt="####KALI_IS_MY_WIFE_AS_WELL_MUNA_is_STILL_MUNI##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
 {% highlight ruby %}
 1 # HOLE_TO_ANOTHER_UNiVERSE##############################
 2 # TO####################################################
