@@ -7,6 +7,8 @@
 }
   
 </style>  
+## MOViE_TRAiLERS June20th2022
+[Akira - Trailer (1988)](https://www.youtube.com/watch?v=h74_MO4Gc7c)[ROBOT CARNIVAL | Trailer | 1987 | ロボットカーニバル](https://www.youtube.com/watch?v=r4FJDzsl12M) [Galaxy Express 999: Eternal Fantasy (1998) ](https://www.youtube.com/watch?v=ttmhy-iWFPQ) [Dreams (1990) Official Trailer - Akira Kurosawa, Martin Scorsese](https://youtu.be/bPHsu5NaVfM)[4 Strings - Take Me Away (Official Video HD)](https://www.youtube.com/watch?v=NFZrz-_ONKU)
 <iframe src="https://gcp-embeds.datpiff.com/mixtape/89021/" width="100%" height="270" frameborder="0"></iframe>
 <a href="https://youtu.be/DFMEBquxeO8" target="_blank" ><img src="https://www.typedifferent.com/fonts/bd_rainbow/bd_rainbow_example1.jpg" /> </a>
 {% highlight ruby %}
