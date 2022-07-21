@@ -7,6 +7,10 @@
 }
   
 </style> 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/GWNeDDimc7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/100682106&color=%232c1d14&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/thecaptainwhowenttolunch" title="The Captain Who Went To Lunch" target="_blank" style="color: #cccccc; text-decoration: none;">The Captain Who Went To Lunch</a> · <a href="https://soundcloud.com/thecaptainwhowenttolunch/gil-scott-heron-angel-dust" title="Gil Scott Heron- Angel Dust" target="_blank" style="color: #cccccc; text-decoration: none;">Gil Scott Heron- Angel Dust</a></div>
+[GiL_SCOTT_HERON::THE_REVOLUTiON_WiLL_NOT_BE_TELEViSED]()
+[CHRiSTOPHER_CROSS::SAiLiNG](https://www.youtube.com/watch?v=IST-GfqUwDA)
 [The POLiCE::THE_KiNG_OF_PAiN](https://www.youtube.com/watch?v=SZlRX03BzeA)
 [U.S.A. For Africa - We Are the World (Official Video)](https://www.youtube.com/watch?v=9AjkUyX0rVw)
 ## TiTLE_SEQUENCE :: TYPOGRAPHY 
