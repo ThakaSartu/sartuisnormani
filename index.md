@@ -7,6 +7,8 @@
 }
   
 </style> 
+[One Voice - Always on my Mind](https://www.youtube.com/watch?v=NhXwdDXOUhM)
+[Tia and Tamera Mowry on Rising Star 1992](https://www.youtube.com/watch?v=i06s-YmLx5o)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DchYSxopfO0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 [Kash Doll spotted]( https://youtube.com/shorts/JMBTOu6rphc?feature=share)
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/100682106&color=%232c1d14&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
