@@ -8,6 +8,7 @@
   
 </style> 
 
+[Kash Doll spotted]( https://youtube.com/shorts/JMBTOu6rphc?feature=share)
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/100682106&color=%232c1d14&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
 [CHRiSTOPHER_CROSS::SAiLiNG](https://www.youtube.com/watch?v=IST-GfqUwDA)
