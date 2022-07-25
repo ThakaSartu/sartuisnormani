@@ -8,6 +8,10 @@
   
 </style>
 
+<img src="https://img.favpng.com/18/12/15/socket-am4-ryzen-central-processing-unit-cpu-socket-advanced-micro-devices-png-favpng-xSGk0fcvdvDWZbpFmHbYKLgFc.jpg">
+<img src="https://e7.pngegg.com/pngimages/909/839/png-clipart-ryzen-logo-brand-advanced-micro-devices-desktop-host-power-supply-text-trademark-thumbnail.png">
+<img src="https://w7.pngwing.com/pngs/985/759/png-transparent-socket-am4-amd-ryzen-3-1200-central-processing-unit-others-miscellaneous-electronics-orange.png">
+<img src="https://c1.neweggimages.com/ProductImageCompressAll1280/B1MBS2111150RD3JICB.jpg">
 <iframe width="80%" height="315" src="https://www.youtube.com/embed/zLieaeVtOPQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="80%" height="315" src="https://www.youtube.com/embed/_30bmyN35Y4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="%80" height="315" src="https://www.youtube.com/embed/hsr4PmeEocE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
