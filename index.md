@@ -7,6 +7,34 @@
 }
   
 </style>
+<video width="80%" controls>
+  <source src="https://v2.kickstarter.com/1658743300-%2B92NQeoHk4ENUm6ih6yt%2BjOoDifb6I%2BJax2SUZOGei8%3D/projects/765297/video-320064-h264_high.mp4" type="video/mp4">
+  
+  Your browser does not support HTML video.
+</video>
+
+<p>
+Video courtesy of 
+<a href="https://www.bigbuckbunny.org/" target="_blank">Big Buck Bunny</a>.
+</p>
+
+<img src="https://cdn.shopify.com/s/files/1/0105/4542/products/gratefuldead-verybestof-blackvinyl-1_1000x1000.jpg?v=1655490999">
+<img src="https://cdn.shopify.com/s/files/1/0105/4542/products/grandpuba-2000-blackvinyl-2_1000x1000.jpg?v=1656449738">
+<img src="https://cdn.shopify.com/s/files/1/0105/4542/products/raekwon-onlybuilt-mov-2_1000x1000.jpg?v=1657733477">
+<img src="https://cdn.shopify.com/s/files/1/0105/4542/products/onkyo-TX-8260_2400x2400.jpg?v=1571265209">
+<img src="https://cdn.shopify.com/s/files/1/0105/4542/products/onkyo-TX-8260-1_2400x2400.jpg?v=1571265209">
+<a href="https://www.turntablelab.com/collections/amplifiers-pre-amps-alpha/products/marantz-m-cr612-compact-network-cd-receiver">MARANTZ
+M-CR612 Compact Network CD Player / Receiver</a>
+<img src="https://cdn.shopify.com/s/files/1/0105/4542/products/marantz-m-cr612-compact-network-cd-receiver-1_1000x1000.jpg?v=1615922824">
+<img src="https://cdn.shopify.com/s/files/1/0105/4542/products/patricerushen-straightfromtheheart-coloredvinyl-2_1000x1000.jpg?v=1658419906">
+<img src="https://cdn.shopify.com/s/files/1/0105/4542/products/ghostfacekillah-ironman-blueandcream-3_1000x1000.jpg?v=1658327019">
+<a href="https://www.turntablelab.com/collections/music-hall-mmf-1-5-ttl-turntable-lab-edition-turntable/products/turntable-lab-mmf-1-5-ttl-kanto-yu6-turntable-package">TURNTABLE LAB MMF 1.5.ttl / Kanto YU6 / Turntable Package </a>
+<img src="https://cdn.shopify.com/s/files/1/0105/4542/products/ttlsetup-mmf15-yu6b_1000x1000.jpg?v=1654547054">
+<img src="https://cdn.shopify.com/s/files/1/0105/4542/products/musichall-mmf15ttl_1000x1000.jpg?v=1654199421">
+<a href="https://www.turntablelab.com/collections/speakers-alpha/products/kanto-tuk-powered-speakers-matte-white-tukmw-open-box-special">KANTO TUK Powered Speakers - Matte White (TUKMW) </a>
+<img src="https://cdn.shopify.com/s/files/1/0105/4542/products/TUKMW_Main_8580032d-c56e-449b-87f6-4db9d4df7993_1000x1000.jpg?v=1643128084">
+<a href="https://www.turntablelab.com/collections/speakers-alpha/products/audioengine-s6-powered-subwoofer-grey">AUDIOENGINE::S6 Powered Subwoofer - Grey </a>
+<img src="https://cdn.shopify.com/s/files/1/0105/4542/products/audioengine-s6-powered-subwoofer-grey-1_1000x1000.jpg?v=1644867317">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9ZXuZZbKH8Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <img src="https://cdn.shopify.com/s/files/1/0105/4542/products/numarkpt01-1_397f6f5d-33fa-47c9-86e0-38f85d2e6b3a_1000x1000.jpg">
 <img src="https://cdn.shopify.com/s/files/1/0105/4542/products/numarkpt01-1_397f6f5d-33fa-47c9-86e0-38f85d2e6b3a_1000x1000.jpg">
