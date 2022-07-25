@@ -7,10 +7,14 @@
 }
   
 </style>
-
-
-
-<a href="https://www.kickstarter.com/projects/1400947701/drumpants-an-entire-band-in-your-pocket/description">DrumPants: An Entire Band in your Pocket :: KiCKSTARTER </a>
+<img src="https://www.marantz.com/-/media/images/marantzna/sr7015/marantz_sr7015_8k_lifestyle_product_gallery_1.png?cx=0&cy=0&cw=1440&ch=860&hash=FA60D5667B386ECB571D2F1EFFF9624D">
+<img src="https://www.marantz.com/-/media/images/marantzna/sr7015/mz_sr7015_product_gallery_4k_2.png?cx=0&cy=0&cw=1440&ch=860&hash=19D0447095FB833512E8F78BE5A7947F">
+<img src="https://www.marantz.com/-/media/images/marantzna/sr7015/mz_sr7015_product_gallery_4k_4.png?cx=0&cy=0&cw=1440&ch=860&hash=936F318A7B3D659F792722817E0FD8D7">
+<img src="https://www.bowerswilkins.com/-/media/images/bw_nd_ecom/category/loudspeakers/loudspeakers_600seriessbs_desktop.jpg">
+<img src="https://cdn.shopify.com/s/files/1/0105/4542/products/kendrick-mrmorale-1_1000x1000.jpg?v=1656620057">
+<iframe width="50%" height="315" src="https://www.youtube.com/embed/cNwuPPOcJLU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="80%" height="315" src="https://www.youtube.com/embed/TCZp4FaIFH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="70%" height="315" src="https://www.youtube.com/embed/nf5D3TVkd_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><a href="https://www.kickstarter.com/projects/1400947701/drumpants-an-entire-band-in-your-pocket/description">DrumPants: An Entire Band in your Pocket :: KiCKSTARTER </a>
 <video width="80%" controls>
   <source src="https://v2.kickstarter.com/1658743300-%2B92NQeoHk4ENUm6ih6yt%2BjOoDifb6I%2BJax2SUZOGei8%3D/projects/765297/video-320064-h264_high.mp4" type="video/mp4">
   
