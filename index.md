@@ -7,6 +7,23 @@
 }
   
 </style>
+<center>
+  
+<img src="https://images.ctfassets.net/8cd2csgvqd3m/3JLcz8pBBxRlppptAEZxGL/9451703d75da93d44281d8c3907c9065/Beosound_stage_Carousel_2.jpg">
+<img src="https://images.ctfassets.net/8cd2csgvqd3m/3w3dmWdE6FvGngML2X3TR7/a18f67d5d5c014ddf03eafff15eff48d/Beosound-Stage_Carousel_1.jpg">
+  <video width="80%" controls>
+  <source src="https://videos.ctfassets.net/8cd2csgvqd3m/2lJPxUH5XqdTxFjyQi5peI/c9c2125c9aa081cd5ac7be7e4d5ec03e/Sound_And_Vision_For_Your_Home_Beolab_28___Beovision_Harmony_0003_Loop.mp4" type="video/mp4">
+  
+  Your browser does not support HTML video.
+</video>
+
+<p>
+Video courtesy of 
+<a href="https://www.bigbuckbunny.org/" target="_blank">Big Buck Bunny</a>.
+</p>
+  
+<iframe width="56%" height="315" src="https://www.youtube.com/embed/tkcMGRZhdOM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<img src="https://images.ctfassets.net/8cd2csgvqd3m/01gGDwUWNQq9Yy64jbk4Tb/f7e307c18fcffa83209113ff78823ab9/Portal_Black_1.png">
 <img src="https://www.marantz.com/-/media/images/marantzna/sr7015/marantz_sr7015_8k_lifestyle_product_gallery_1.png">
 <img src="https://www.marantz.com/-/media/images/marantzna/sr7015/mz_sr7015_product_gallery_4k_2.png">
 <img src="https://www.marantz.com/-/media/images/marantzna/sr7015/mz_sr7015_product_gallery_4k_4.png">
@@ -215,3 +232,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+</center>
