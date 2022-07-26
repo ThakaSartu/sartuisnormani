@@ -8,6 +8,7 @@
   
 </style>
 <center>
+  <iframe src='//players.brightcove.net/84373748001/default_default/index.html?videoId=6273590132001' allowfullscreen frameborder=0></iframe>
   <iframe src='//players.brightcove.net/84373748001/default_default/index.html?videoId=6261040486001' allowfullscreen frameborder=0></iframe>
   <img src="https://media.gamestop.com/i/gamestop/11105660/FAR-CRY-6---PlayStation-5" alt="##FARCRY_WHY_DID_YOU_STEAL_MY_HUSBANDS##INSTAGRAM_FACEBOOK_LINKEDiN_PiNTEREST_GiTHUB_STORY?">
   <img src="https://media.gamestop.com/i/gamestop/11162003/Gran-Turismo-7---PlayStation-5">
