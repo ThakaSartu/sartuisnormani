@@ -8,6 +8,7 @@
   
 </style>
 <center>
+<img src="https://cdn.shopify.com/s/files/1/3005/5554/products/million-dollar-vandal-cover@2x.jpg?v=1519689357" >
 <img src="http://1.bp.blogspot.com/_UXXtJmb1kNs/Swsc7CGXUDI/AAAAAAAAEfw/e8t3BTnTl_M/s1600/FolkloreCassetteIndonesia2003.jpg" alt="Nelly_is_my_wife_please help us end prostitution" >
 
 <iframe width="80%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1074628126&color=%23ff1def&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/munilong" title="Muni Long" target="_blank" style="color: #cccccc; text-decoration: none;">Muni Long</a> · <a href="https://soundcloud.com/munilong/sneaky-link-2" title="Sneaky Link" target="_blank" style="color: #cccccc; text-decoration: none;">Sneaky Link</a></div>
