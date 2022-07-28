@@ -98,13 +98,28 @@ Your audience you shared with Travis will love this flick. Its about a sentient 
     </div>
   </div>
 </div>
-<a href="https://www.youtube.com/watch?v=X5i0JU_NsZU">
-  <h2> ROUJIN Z - Full Movie  English Subs 1991 老人Z ##WATCHNOW </h2></a>
-
+<a href="https://www.youtube.com/watch?v=X5i0JU_NsZU">ROUJIN Z - Full Movie  English Subs 1991 老人Z ##WATCHNOW</a>
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/ROJiNZ_BUDDAH.png">
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/SARTU_LEELAHBELLAHS_HOSPiTAL_PROSTiTUTiON.jpg">
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/Roujin-Z-mayhem-3-800-x-450.jpg">
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://i.pinimg.com/originals/14/49/c5/1449c520ea7b4eaf82bed24191ac9f9b.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAYMacross - Do You Remember Love ?" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://i.pinimg.com/originals/14/49/c5/1449c520ea7b4eaf82bed24191ac9f9b.jpg" alt="Macross - Do You Remember Love ?" >
+      </div>
+    </div>
+  </div>
+</div>
+<a href="https://youtu.be/mOrZYz5LMJg">SUPERDiMENSiON MACROSS Macross Do You Remember Love? (1984) English Dub</a>
+<img src="https://static.wikia.nocookie.net/macross/images/b/b1/SDF-1-1_DYRL.png">
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/R.jpg">
+[THE_WHiTE_STRiPES 7NATiON_ARMY](https://youtu.be/RDuzszjrdcc)
 [Gnarls Barkley - Crazy](https://youtu.be/-N4jf6rtyuw)
 [Gotye - Somebody That I Used To Know feat. Kimbra](https://youtu.be/8UVNT4wvIGY)
 [The White Stripes - 300 M.P.H. Torrential Outpour Blues](https://youtu.be/mcog70xgyAw)
@@ -115,6 +130,7 @@ Your audience you shared with Travis will love this flick. Its about a sentient 
 [Bullet With Butterfly Wings - THe SMashiNG_PUMPKiNS](https://youtu.be/xCmA1uC0r9A)
 [Audioslave - Show Me How to Live](https://youtu.be/vVXIK1xCRpY)
 [Soundgarden - Outshined](https://youtu.be/sNh-iw7gsuI)
+[ACDC_MiX](https://youtu.be/U_tyfMUSGo4)
 <iframe width="90%" height="315" src="https://www.youtube.com/embed/wvAnQqVJ3XQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ## SAATU##iM_DOM4NOW
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/CD-E-LDc384" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
