@@ -66,6 +66,23 @@
 }
   
 </style>
+## GOOD_QUARANTiNE_MOViE
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://th.bing.com/th/id/OIP.mpEivFuUyhn_yUGzVm0megHaLF?pid=ImgDet&rs=1" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAYMacross - Do You Remember Love ?" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://th.bing.com/th/id/OIP.mpEivFuUyhn_yUGzVm0megHaLF?pid=ImgDet&rs=1" alt="Macross - Do You Remember Love ?" > 
+      </div>
+    </div>
+  </div>
+</div>
+<a href="https://youtu.be/5HkBxcJJ2cE">Grave of the fireflies ENGLiSH_DUB find it with subtitles in Japanese at somepoint the emotions are more on point... Great english dub tho! </a>
+<a href="https://www.youtube.com/watch?v=SQNWBxNSJ4w">The Tragic Innocence of Grave of The Fireflies | BONUS_FEATURE </a>
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
