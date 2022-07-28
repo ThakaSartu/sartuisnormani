@@ -6,8 +6,84 @@
   width: 100%;
 }
   
-</style>
+/* ##TWO_PANEL_LAYOUT_ADDED_7_28_2022_FOR_SPLiT_SCREEN_POSTS */
+  .twoPanelSpread {
+  background-color: #00db46; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to right, #e66250, #ff80cc);
+}
 
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.panelColumn {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+  overflow: hidden;
+}
+
+.leftColumn {
+  background-color: #2470ff;
+  width: 100%;
+}
+
+.leftColumn img {
+  flex-shrink: 0;
+  min-width: 100%;
+  min-height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.rightColumn {
+  background-color: #c9ff23;
+}
+.rightColumn img {
+  flex-shrink: 0;
+  min-width: 100%;
+  min-height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.twoPanelSpread > img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+  
+</style>
+## DEAR NORMANi_aka_SARTU
+Your audience you shared with Travis will love this flick. Its about a sentient hospital bed working with the community to save people lives.
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/ROUJiNZ_POSTER.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/ROUJiNZ_POSTER.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+<img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/ROJiNZ_BUDDAH.png">
+<img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/SARTU_LEELAHBELLAHS_HOSPiTAL_PROSTiTUTiON.jpg">
+<img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/Roujin-Z-mayhem-3-800-x-450.jpg">
+<img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/R.jpg">
+[Puddle Of Mudd - Blurry](https://youtu.be/xJJsoquu70o)
+[Collective Soul - Shine](https://youtu.be/7mICybM1sRY)
 [The Smashing Pumpkins - Today](https://youtu.be/EGDatsy_Hgk)
 [Bullet With Butterfly Wings - THe SMashiNG_PUMPKiNS](https://youtu.be/xCmA1uC0r9A)
 ## SAATU##iM_DOM4NOW
