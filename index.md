@@ -69,7 +69,8 @@
   .panel4-container {
 
     display: flex;
-    justify-content: space-evenly;         width:100%;
+    justify-content: space-evenly;         
+    width:100%;
     height:100%;
     object-fit: cover;
     overflow: hidden;
@@ -78,17 +79,18 @@
     gap: 5px;
 
   } 
+  
 </style>
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
       <div class='leftColumn'>
-        <img src="https://i.discogs.com/FtLNAPN5Xcl8XxxIX3uP_SRHG6ByojFlKUDT7QC74RY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDg5/MTAtMTU0MDUxMTUy/OC04MDA2LmpwZWc.jpeg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAYMacross - Do You Remember Love ?" >
+        <img src="https://i.discogs.com/FtLNAPN5Xcl8XxxIX3uP_SRHG6ByojFlKUDT7QC74RY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDg5/MTAtMTU0MDUxMTUy/OC04MDA2LmpwZWc.jpeg" >
       </div>
     </div>
     <div class='panelColumn'>
       <div class='rightColumn'>
-        <img src="https://i.discogs.com/FtLNAPN5Xcl8XxxIX3uP_SRHG6ByojFlKUDT7QC74RY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDg5/MTAtMTU0MDUxMTUy/OC04MDA2LmpwZWc.jpeg" alt="Macross - Do You Remember Love ?" > 
+        <img src="https://i.discogs.com/FtLNAPN5Xcl8XxxIX3uP_SRHG6ByojFlKUDT7QC74RY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDg5/MTAtMTU0MDUxMTUy/OC04MDA2LmpwZWc.jpeg" > 
       </div>
     </div>
   </div>
