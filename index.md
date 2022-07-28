@@ -7,6 +7,8 @@
 }
   
 </style>
+[Scooby Doo Where Are You! 2 4 Hassle In The Castle](https://youtu.be/o7iEu4T3KYY)
+[SPRAYDAY - Episode 09 - GESER USA](https://www.youtube.com/watch?v=rkPTbKjv_7k)
 [Product Review: Chrome Test::BOMBiNG_SCiENCE](https://www.youtube.com/watch?v=HXSANKFHrFM)
 [BREAKFAST_iN_BEiEAD_WRKS New York DJ Red Alert Mixes October 1984.wmv](https://www.youtube.com/watch?v=w8va-oDxTNc) 
 [Learn How to Scratch Vol. 1 with Kool DJ Red Alert ::Home Boys Videos Plus, 1989::](https://www.youtube.com/watch?v=A0k7HpoRqqE)
