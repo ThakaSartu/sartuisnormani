@@ -66,6 +66,21 @@
 }
   
 </style>
+## SOCiAL_MEDiA_iS_DEAD
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://www.2600.com/sites/default/files/covers/37-1_Cover.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://www.2600.com/sites/default/files/covers/37-1_Cover.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>	
 ## DEAR_SARTU
 Thanks for the song, it left me in tears
 <div class='twoPanelSpread'>
@@ -137,6 +152,7 @@ Your audience you shared with Travis will love this flick. Its about a sentient 
 <a href="https://youtu.be/mOrZYz5LMJg">SUPERDiMENSiON MACROSS Macross Do You Remember Love? (1984) English Dub</a>
 <img src="https://static.wikia.nocookie.net/macross/images/b/b1/SDF-1-1_DYRL.png">
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/R.jpg">
+[Queen - Its Late iwannaSEE_MY_WiFE_and_TOUCH_HER](https://youtu.be/M2c6qblEwnQ)
 [THE_WHiTE_STRiPES 7NATiON_ARMY](https://youtu.be/RDuzszjrdcc)
 [Gnarls Barkley - Crazy](https://youtu.be/-N4jf6rtyuw)
 [Gotye - Somebody That I Used To Know feat. Kimbra](https://youtu.be/8UVNT4wvIGY)
