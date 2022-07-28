@@ -60,10 +60,30 @@
   max-height: 100%;
 }
 
+ /* ##COLOR_FOR_LiNK_HOVER_ViSiTED_ETC */
+ a:hover {
+  color: #c9ff23;
+}
   
 </style>
 ## DEAR NORMANi_aka_SARTU
 Your audience you shared with Travis will love this flick. Its about a sentient hospital bed working with the community to save people lives.
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://th.bing.com/th/id/R.a102ab8f6c81794dd343620957a2ac20?rik=7VS5HQm%2f4CovZQ&riu=http%3a%2f%2fwww.my-sf.com%2fwp-content%2fuploads%2f2016%2f05%2fRobot-Carnival.jpg&ehk=iNHpdPnLXXlfS1OswxkyXQDAke7MJsJcXiQWEdfLp6M%3d&risl=&pid=ImgRaw&r=0" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://th.bing.com/th/id/R.a102ab8f6c81794dd343620957a2ac20?rik=7VS5HQm%2f4CovZQ&riu=http%3a%2f%2fwww.my-sf.com%2fwp-content%2fuploads%2f2016%2f05%2fRobot-Carnival.jpg&ehk=iNHpdPnLXXlfS1OswxkyXQDAke7MJsJcXiQWEdfLp6M%3d&risl=&pid=ImgRaw&r=0" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+<a href="https://youtu.be/id1eRjO4p_0">ROBOT_CARNiVAL  Full Anime Movie English_Subbed</a>
+<a href="https://youtu.be/id1eRjO4p_0">Robot Carnival Full ロボットカーニバル</a>
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
@@ -79,30 +99,23 @@ Your audience you shared with Travis will love this flick. Its about a sentient 
   </div>
 </div>
 <a href="https://www.youtube.com/watch?v=X5i0JU_NsZU">
-  ROUJIN Z - Full Movie  English Subs 1991 老人Z </a>
-<div class='twoPanelSpread'>
-  <div class='row'>
-    <div class='panelColumn'>
-      <div class='leftColumn'>
-        <img src="https://th.bing.com/th/id/R.a102ab8f6c81794dd343620957a2ac20?rik=7VS5HQm%2f4CovZQ&riu=http%3a%2f%2fwww.my-sf.com%2fwp-content%2fuploads%2f2016%2f05%2fRobot-Carnival.jpg&ehk=iNHpdPnLXXlfS1OswxkyXQDAke7MJsJcXiQWEdfLp6M%3d&risl=&pid=ImgRaw&r=0" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
-      </div>
-    </div>
-    <div class='panelColumn'>
-      <div class='rightColumn'>
-        <img src="https://th.bing.com/th/id/R.a102ab8f6c81794dd343620957a2ac20?rik=7VS5HQm%2f4CovZQ&riu=http%3a%2f%2fwww.my-sf.com%2fwp-content%2fuploads%2f2016%2f05%2fRobot-Carnival.jpg&ehk=iNHpdPnLXXlfS1OswxkyXQDAke7MJsJcXiQWEdfLp6M%3d&risl=&pid=ImgRaw&r=0" alt="Girl in a jacket" >
-      </div>
-    </div>
-  </div>
-</div>
-<a href="">ROBOT_CARNiVAL  Full Anime Movie English_Subbed</>
+  <h2> ROUJIN Z - Full Movie  English Subs 1991 老人Z ##WATCHNOW </h2></a>
+
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/ROJiNZ_BUDDAH.png">
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/SARTU_LEELAHBELLAHS_HOSPiTAL_PROSTiTUTiON.jpg">
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/Roujin-Z-mayhem-3-800-x-450.jpg">
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/R.jpg">
+[Gnarls Barkley - Crazy](https://youtu.be/-N4jf6rtyuw)
+[Gotye - Somebody That I Used To Know feat. Kimbra](https://youtu.be/8UVNT4wvIGY)
+[The White Stripes - 300 M.P.H. Torrential Outpour Blues](https://youtu.be/mcog70xgyAw)
+[THE_WHiTE_STRiPES iCKy_THUMP](https://youtu.be/evypdgY6KpQ)
 [Puddle Of Mudd - Blurry](https://youtu.be/xJJsoquu70o)
 [Collective Soul - Shine](https://youtu.be/7mICybM1sRY)
 [The Smashing Pumpkins - Today](https://youtu.be/EGDatsy_Hgk)
 [Bullet With Butterfly Wings - THe SMashiNG_PUMPKiNS](https://youtu.be/xCmA1uC0r9A)
+[Audioslave - Show Me How to Live](https://youtu.be/vVXIK1xCRpY)
+[Soundgarden - Outshined](https://youtu.be/sNh-iw7gsuI)
+<iframe width="90%" height="315" src="https://www.youtube.com/embed/wvAnQqVJ3XQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ## SAATU##iM_DOM4NOW
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/CD-E-LDc384" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 [Scooby Doo Where Are You! 2 4 Hassle In The Castle](https://youtu.be/o7iEu4T3KYY)
