@@ -64,8 +64,69 @@
  a:hover {
   color: #c9ff23;
 }
-  
+
+/* 4PANEL_SPREAD_CREATED_FOR_SARTUS_MODELiNG_ENERGY, many uses tho to feature things ##ASK_DiDO */
+  .panel4-container {
+
+    display: flex;
+    justify-content: space-evenly;         width:100%;
+    height:100%;
+    object-fit: cover;
+    overflow: hidden;
+    height: 100%;
+    padding: 0px;
+    gap: 5px;
+
+  } 
 </style>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://i.discogs.com/FtLNAPN5Xcl8XxxIX3uP_SRHG6ByojFlKUDT7QC74RY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDg5/MTAtMTU0MDUxMTUy/OC04MDA2LmpwZWc.jpeg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAYMacross - Do You Remember Love ?" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://i.discogs.com/FtLNAPN5Xcl8XxxIX3uP_SRHG6ByojFlKUDT7QC74RY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDg5/MTAtMTU0MDUxMTUy/OC04MDA2LmpwZWc.jpeg" alt="Macross - Do You Remember Love ?" > 
+      </div>
+    </div>
+  </div>
+</div>
+<div class="panel4-container">
+   
+    <div class="item1"><img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/SARTUZALAH_RESTORED_TO_NORMANi_ViA_SARTU_FORWARDS.gif"></div>
+    <div class="item2"><img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/SARTUZALAH_RESTORED_TO_NORMANi_ViA_SARTU_REVERSE.gif"></div>
+    <div class="item3"><img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/SARTUZALAH_RESTORED_TO_NORMANi_ViA_SARTU_REVERSE.gif"></div>
+    <div class="item4"><img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/SARTUZALAH_RESTORED_TO_NORMANi_ViA_SARTU_FORWARDS.gif"></div>
+
+</div>
+[GROVERWASHiNTON_MASTERPEiCE](https://youtu.be/zbZwqGqSCS4)
+[RONNiE_LAWS - FRiENDS_and_STRANGERS](https://youtu.be/nRCun0fCr_U)
+[RONNiE_LAWS - LiFE_iN_PARADiSE](https://youtu.be/gm32Ev5muTU)
+[KASiF - I Just Gotta Have You](https://youtu.be/2hNxvL4vjqo)
+[KASiF - STONE_LOVE](https://youtu.be/IQGEn2qernc)
+[RONNiE_LAWS - ALWAYS_THERE](https://youtu.be/w7jjO5QuesU)
+[RONNiE_LAWS - ALL_FOR_YOU](https://youtu.be/by2u7frqoeA)
+[RONNiE_LAWS - FLAME](https://youtu.be/-1K8rFKk7zc) &#128293;
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://i.discogs.com/m2ZYx0liTGB8deoZHrtTVgk-6-CzF0GvCbOaLSZc0mo/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NTQ4/NTctMTQ4MjY2MDcw/NS00MzQ1LmpwZWc.jpeg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAYMacross - Do You Remember Love ?" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://i.discogs.com/m2ZYx0liTGB8deoZHrtTVgk-6-CzF0GvCbOaLSZc0mo/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NTQ4/NTctMTQ4MjY2MDcw/NS00MzQ1LmpwZWc.jpeg" alt="Macross - Do You Remember Love ?" > 
+      </div>
+    </div>
+  </div>
+</div>
+[James Brown - Mind Power - 1973](https://www.youtube.com/watch?v=yeTP6qsu0Bo)
+It takes MiND_POWER to DEAL_WiT_STARVATiON - <a href="https://en.wikipedia.org/wiki/James_Brown">James Brown</a>
+[Kashif - I Just Gotta Have You](https://youtu.be/zSOUNeiTkiE)
+
 ## GOOD_QUARANTiNE_MOViE
 <div class='twoPanelSpread'>
   <div class='row'>
