@@ -165,6 +165,20 @@ Your audience you shared with Travis will love this flick. Its about a sentient 
 [Audioslave - Show Me How to Live](https://youtu.be/vVXIK1xCRpY)
 [Soundgarden - Outshined](https://youtu.be/sNh-iw7gsuI)
 [ACDC_MiX](https://youtu.be/U_tyfMUSGo4)
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://i.pinimg.com/originals/be/bf/10/bebf105ab581b720c3874282a8eb0bb9.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAYMacross - Do You Remember Love ?" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://i.pinimg.com/originals/be/bf/10/bebf105ab581b720c3874282a8eb0bb9.jpg" alt="Macross - Do You Remember Love ?" > 
+      </div>
+    </div>
+  </div>
+</div>
 <iframe width="90%" height="315" src="https://www.youtube.com/embed/wvAnQqVJ3XQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ## SAATU##iM_DOM4NOW
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/CD-E-LDc384" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
