@@ -7,6 +7,11 @@
 }
   
 </style>
+
+[BREAKFAST_iN_BEiEAD_WRKS New York DJ Red Alert Mixes October 1984.wmv](https://www.youtube.com/watch?v=w8va-oDxTNc) 
+[Learn How to Scratch Vol. 1 with Kool DJ Red Alert ::Home Boys Videos Plus, 1989::](https://www.youtube.com/watch?v=A0k7HpoRqqE)
+[Can Control - Everything You Need To know](https://youtu.be/S8sBIUYhvnc)
+[How To Graffiti Pieces: Everything You Need To Know!](https://youtu.be/ALvLLOHFfog)
 <img src="https://cdn.shopify.com/s/files/1/3005/5554/products/12ozprophet-ny-fat-cap-detail_900x.jpg?v=1518218677">
 <iframe width="80%" height="315" src="https://www.youtube.com/embed/aDGcKDk_in0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 [Arise, Serpentor, Arise! | A Real American Hero | 40th Anniversary | G.I. Joe Official](https://www.youtube.com/watch?v=Te611XRUU8Q)
