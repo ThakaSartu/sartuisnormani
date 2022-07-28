@@ -66,6 +66,23 @@
 }
   
 </style>
+## DEAR_SARTU
+Thanks for the song, it left me in tears
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/SARTU_AS_NORMANiE__THANKS_FOR_THE_SONG_I_LOVE_YOU_ALWAYS.PNG" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAYMacross - Do You Remember Love ?" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/SARTU_AS_NORMANiE__THANKS_FOR_THE_SONG_I_LOVE_YOU_ALWAYS.PNG" alt="Macross - Do You Remember Love ?" > 
+      </div>
+    </div>
+  </div>
+</div>
+<a href="https://soundcloud.com/nija-music/love-like-this?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><p>Love Like This - Nija</p></a> <a href="https://soundcloud.com/nija-music/love-like-this?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><p>Love Like This - Nija</p></a>
 ## DEAR NORMANi_aka_SARTU
 Your audience you shared with Travis will love this flick. Its about a sentient hospital bed working with the community to save people lives.
 <div class='twoPanelSpread'>
