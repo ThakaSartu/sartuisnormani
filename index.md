@@ -7,6 +7,9 @@
 }
   
 </style>
+
+[The Smashing Pumpkins - Today](https://youtu.be/EGDatsy_Hgk)
+[Bullet With Butterfly Wings - THe SMashiNG_PUMPKiNS](https://youtu.be/xCmA1uC0r9A)
 ## SAATU##iM_DOM4NOW
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/CD-E-LDc384" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 [Scooby Doo Where Are You! 2 4 Hassle In The Castle](https://youtu.be/o7iEu4T3KYY)
