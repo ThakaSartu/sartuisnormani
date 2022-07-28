@@ -93,14 +93,15 @@
     </div>
   </div>
 </div>
+
 <div class="panel4-container">
    
     <div class="item1"><img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/SARTUZALAH_RESTORED_TO_NORMANi_ViA_SARTU_FORWARDS.gif"></div>
     <div class="item2"><img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/SARTUZALAH_RESTORED_TO_NORMANi_ViA_SARTU_REVERSE.gif"></div>
     <div class="item3"><img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/SARTUZALAH_RESTORED_TO_NORMANi_ViA_SARTU_REVERSE.gif"></div>
     <div class="item4"><img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/SARTUZALAH_RESTORED_TO_NORMANi_ViA_SARTU_FORWARDS.gif"></div>
-
 </div>
+
 [GROVERWASHiNTON_MASTERPEiCE](https://youtu.be/zbZwqGqSCS4)
 [RONNiE_LAWS - FRiENDS_and_STRANGERS](https://youtu.be/nRCun0fCr_U)
 [RONNiE_LAWS - LiFE_iN_PARADiSE](https://youtu.be/gm32Ev5muTU)
@@ -108,7 +109,7 @@
 [KASiF - STONE_LOVE](https://youtu.be/IQGEn2qernc)
 [RONNiE_LAWS - ALWAYS_THERE](https://youtu.be/w7jjO5QuesU)
 [RONNiE_LAWS - ALL_FOR_YOU](https://youtu.be/by2u7frqoeA)
-[RONNiE_LAWS - FLAME](https://youtu.be/-1K8rFKk7zc) &#128293;
+[RONNiE_LAWS - FLAME](https://youtu.be/-1K8rFKk7zc)
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
