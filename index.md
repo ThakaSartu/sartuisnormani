@@ -66,6 +66,21 @@
 }
   
 </style>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://image.tmdb.org/t/p/original/tyTjCSFc3lxiqEfoj72ccfMNm3e.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAYMacross - Do You Remember Love ?" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://image.tmdb.org/t/p/original/tyTjCSFc3lxiqEfoj72ccfMNm3e.jpg" alt="Macross - Do You Remember Love ?" > 
+      </div>
+    </div>
+  </div>
+</div>
+<a href="https://youtu.be/FtPhrCTjMtQ">Akira (アキラ) Japanese Theatrical Trailer 1 </a>
 ## SOCiAL_MEDiA_iS_DEAD
 <div class='twoPanelSpread'>
   <div class='row'>
