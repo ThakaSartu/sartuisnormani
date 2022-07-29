@@ -81,6 +81,22 @@
   } 
   
 </style>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://cdn.shopify.com/s/files/1/0337/8301/products/p_startled-local_1024x1024@2x.jpg" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://cdn.shopify.com/s/files/1/0337/8301/products/p_startled-local_1024x1024@2x.jpg" > 
+      </div>
+    </div>
+  </div>
+</div>
+[MUNI LONG - JUST BEGINNING | MAJORSTAGE LIVE STUDIO PERFORMANCE](https://www.youtube.com/watch?v=48ap9EdcdRw)
+[KASH DOLL BOB PONYTAIL!| SO FREAKIN EASY!| ROXY BENNETT](https://www.youtube.com/watch?v=QlRssdY5yCc)
 [Watch Me Slay this KASH DOLL PONYTAIL](https://www.youtube.com/watch?v=7vE59VvsUGc)
 <div class='twoPanelSpread'>
   <div class='row'>
