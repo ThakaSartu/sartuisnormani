@@ -126,6 +126,7 @@
   </div>
 </div>
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/KASHDOLL_SHADES.gif" >
+[DREEZY-BADBiTCH](https://youtu.be/iDz19sE7ehc)
 [DREEZY_Don't Know Me](https://youtu.be/lOX1hhRDT0g)
 [Dreezy - Body](https://youtu.be/i0Fh1SkjXPQ)
 [Dreezy - Spazz](https://youtu.be/mfS0-zDJztM)
@@ -143,21 +144,22 @@
 [DJ Taz  – That's Riiiiiight](https://youtu.be/G0yOF5dpCLw)
 [Tay B x Kash Doll - Like Woah](https://youtu.be/XJOKtclFErI)
 [Megan Thee Stallion - Big Ole Freak ](https://youtu.be/oBYf6gpVvRA)
+<!-- ##Dear_CORAL_MEYU_JABDU No matter how disrespectful you watched ##COHABiTATiON get with those child molesting Kidnappers. The work we put in regards to organizaation and excelling in design in our demographic saved everyones life. MUNA, ErikaH, and sartu were able to save us using my design skillset that i passed on to the family and all those extended mofos that latched on at Dance411 -->
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
       <div class='leftColumn'>
-        <img src="https://raw.githubusercontent.com/ThakaRashard/holetoanotheruniverse/gh-pages/img/vsco5cfd9f85d1d95.jpg" >
+        <img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc4ad731d78312109000009/vsco5fc4ad74da87e.jpg?w=679&dpr=1" >
       </div>
     </div>
     <div class='panelColumn'>
       <div class='rightColumn'>
-        <img src="https://raw.githubusercontent.com/ThakaRashard/holetoanotheruniverse/gh-pages/img/vsco5cfd9f85d1d95.jpg" > 
+        <img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc4ad731d78312109000009/vsco5fc4ad74da87e.jpg?w=679&dpr=1" > 
       </div>
     </div>
   </div>
 </div>
-
+<!-- Write your comments here -->
 <h2>Prostitution: A ‘victimless crime’?</h2>
 <i>For the vast majority of prostituted women, prostitution is the experience of being hunted, assaulted and battered.</i>
 Viewing prostitution as a genuine "choice" for women, such as secretarial work or waitressing, diminishes the possibility of getting women out and improving their lives [Reuters]
