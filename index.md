@@ -80,7 +80,7 @@
 
   }   
 </style>
-
+<img src="https://rnbmagazine.com/wp-content/uploads/2016/03/12540994_1251998834814743_6271972541806376283_n.jpg">
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
@@ -110,7 +110,7 @@
   </div>
 </div>
 
-<img src="im.vsco.co/aws-us-west-2/12f8b0/56497/605fd738f6ce2a34906f8e61/vsco605fd738d8cf4.jpg">
+<img src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/605fd738f6ce2a34906f8e61/vsco605fd738d8cf4.jpg">
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
@@ -126,6 +126,7 @@
   </div>
 </div>
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/KASHDOLL_SHADES.gif" >
+[Dreezy - Body](https://youtu.be/i0Fh1SkjXPQ)
 [Dreezy - Spazz](https://youtu.be/mfS0-zDJztM)
 [Hitkidd & Glorilla - FNF](https://youtu.be/ww6ykF2ktaI)
 [Chief Keef - Love Sosa_NO_ONE_OWNS_COLLOQUiAL_PHRASES](https://youtu.be/YWyHZNBz6FE)
