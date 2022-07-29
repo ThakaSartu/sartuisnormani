@@ -126,6 +126,7 @@
   </div>
 </div>
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/KASHDOLL_SHADES.gif" >
+[SWV - Rain](https://youtu.be/e4C0r7UM4Cs)
 [DREEZY-BADBiTCH](https://youtu.be/iDz19sE7ehc)
 [DREEZY_Don't Know Me](https://youtu.be/lOX1hhRDT0g)
 [Dreezy - Body](https://youtu.be/i0Fh1SkjXPQ)
@@ -149,12 +150,12 @@
   <div class='row'>
     <div class='panelColumn'>
       <div class='leftColumn'>
-        <img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc4ad731d78312109000009/vsco5fc4ad74da87e.jpg?w=679&dpr=1" >
+        <img src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5fc4ad731d78312109000009/vsco5fc4ad74da87e.jpg" >
       </div>
     </div>
     <div class='panelColumn'>
       <div class='rightColumn'>
-        <img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc4ad731d78312109000009/vsco5fc4ad74da87e.jpg?w=679&dpr=1" > 
+        <img src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5fc4ad731d78312109000009/vsco5fc4ad74da87e.jpg" > 
       </div>
     </div>
   </div>
