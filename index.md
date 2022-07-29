@@ -80,9 +80,11 @@
 
   }   
 </style>
+
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/KASHDOLL_SHADES.gif" >
 [Latto_ft_SAWEETiE - BiTCH FRUM DAH SOUF](https://youtu.be/x8mAyKX9muE)
 [Kash Doll ft. DJ Infamous, Mulatto & Benny The Butcher - Bad Azz](https://youtu.be/N4oMrTT_fZw)
+[Latto - Muwop ft. Gucci Mane](https://youtu.be/meFxq3-mNEc)
 [Kash Doll - Thumbin](https://youtu.be/Knt-zAyH1v8)
 [GLOBAL_PROSTiYUTiON_POLiTiKS::Megan Thee Stallion - Thot Shit](https://youtu.be/KynkMn5Hv3Q)
 [Megan Thee Stallion - Captain Hook](https://youtu.be/n5LWsc-qCdA)
