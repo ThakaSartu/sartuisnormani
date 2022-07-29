@@ -81,6 +81,23 @@
   } 
   
 </style>
+
+
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/600b63321d78311648000002/vsco600b633f7eca7.jpg" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/600b63321d78311648000002/vsco600b633f7eca7.jpg" > 
+      </div>
+    </div>
+  </div>
+</div>
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
