@@ -81,6 +81,20 @@
   } 
   
 </style>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/600b63321d78311648000007/vsco600b633be75a6.jpg" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://im.vsco.co/aws-us-west-2/12f8b0/56497/600b63321d78311648000004/vsco600b633e0f89d.jpg" > 
+      </div>
+    </div>
+  </div>
+</div>
 <h2>Sierra Leone’s president declares rape a national emergency</h2>
 Statistics revealed the reported cases of sexual and gender-based violence nearly doubled last year in the country. <a href="https://www.aljazeera.com/news/2019/2/8/sierra-leones-president-declares-rape-a-national-emergency" alt="##ALJAZEERA | Women's Rights
 " >ReadMore...</a>
@@ -102,10 +116,7 @@ and worked hard to get a new 9-5. Constancia did not like me or Coral living wit
 
 I told her that Matt stole and raped her and she needs our help, so we have to keep looking. Constancia and Akeeva constantly defended Matt. He is a known pedophile and child and adult rapist in the Atlanta art community. I did not know this. We shopped at the same record store and he often offered me work. I loath rapist. I loath pedophilia. Once I learned of his ways I distanced myself. So ##Erikas_mother_and_sister_DEFENDING_HIM, struck me as bizarre. "##Its_just_a_white_boy_jokeHe_didnt_sell_her". 
 [DFACS](https://dfcs.georgia.gov/)
-stalked me on Facebook and indirectly accused me of ##CHILD_MOLESTATION for a video where we were playing with a wand style muscle massager, it was innocent. They
-
-[forcibly removed Coral](https://www.youtube.com/watch?v=AmYdIZhahrQ)
-saying that I was saying 
+stalked me on Facebook and indirectly accused me of ##CHILD_MOLESTATION for a video where we were playing with a wand style muscle massager, it was innocent. They [forcibly removed Coral](https://www.youtube.com/watch?v=AmYdIZhahrQ) saying that I was saying 
 ["inappropriate things"](https://www.youtube.com/watch?v=9sCE3HhjSbY)
 and violating her by saying that her mom had been raped and kidnapped. I learned that telling Coral the ugly truth was the best way to keep a solid trust filled relationship with her. In the DFACS meeting, puzzled I told Mashonga the truth, I cant find work, my reputation was being sabotaged and I could not even get a job at ##Kroger the local grocery store. I told Mashonga I needed money for food, Constancia would not feed niether me or Coral. I asked Mashonga in 
 [This_Family_Meeting](https://www.youtube.com/watch?v=Q8NXhT6_Tx8)
@@ -122,7 +133,12 @@ if she cared about me dying on the street and she shook her head, no. I was neve
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/-oZuyrU764s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/CsM4jNSAm4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/ydGxlS8l7Y0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="panel4-container">
 
+  <div class="item1"><img src="https://www.tribalgear.com/global/wp-content/uploads/JOKER_FLAG_MAIN.jpg" alt="##I_AM_WORTHY_OF_HUMAN_CONTACT"></div>
+  <div class="item2"><img src="https://www.tribalgear.com/global/wp-content/uploads/JOKER_FLAG_MAIN.jpg" alt="##I_AM_WORTHY_OF_HUMAN_CONTACT"></div>
+  <div class="item3"><img src="https://www.tribalgear.com/global/wp-content/uploads/JOKER_FLAG_MAIN.jpg" alt="##I_AM_WORTHY_OF_HUMAN_CONTACT"></div>
+  <div class="item4"><img src="https://www.tribalgear.com/global/wp-content/uploads/JOKER_FLAG_MAIN.jpg" alt="##I_AM_WORTHY_OF_HUMAN_CONTACT"></div>
 <span class="neonText"> Dear Danielle_MAshonga, DFACS, DPSS
 	WHERE_IS_CORAL?!?!?</span>	
 <p>
