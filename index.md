@@ -81,7 +81,56 @@
   }   
 </style>
 
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://media.pitchfork.com/photos/5929bbaf5e6ef95969322c86/1:1/w_600/772f4eb7.jpg" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://media.pitchfork.com/photos/5929bbaf5e6ef95969322c86/1:1/w_600/772f4eb7.jpg" > 
+      </div>
+    </div>
+  </div>
+</div>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/6024c9b624abe16b7500000b/vsco6024c9b6946b9.jpg" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/6024c9b624abe16b7500000b/vsco6024c9b6946b9.jpg" > 
+      </div>
+    </div>
+  </div>
+</div>
+
+<img src="im.vsco.co/aws-us-west-2/12f8b0/56497/605fd738f6ce2a34906f8e61/vsco605fd738d8cf4.jpg">
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://raw.githubusercontent.com/ThakaRashard/holetoanotheruniverse/gh-pages/img/vsco5cfd9f85d1d95.jpg" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://raw.githubusercontent.com/ThakaRashard/holetoanotheruniverse/gh-pages/img/vsco5cfd9f85d1d95.jpg" > 
+      </div>
+    </div>
+  </div>
+</div>
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/KASHDOLL_SHADES.gif" >
+[Dreezy - Spazz](https://youtu.be/mfS0-zDJztM)
+[Hitkidd & Glorilla - FNF](https://youtu.be/ww6ykF2ktaI)
+[Chief Keef - Love Sosa_NO_ONE_OWNS_COLLOQUiAL_PHRASES](https://youtu.be/YWyHZNBz6FE)
+[Saweetie - My Type](https://youtu.be/x5c2iRHlAHA)
+[GOAPELE_ft_CARL_CARLSON::DiFFERENT](https://youtu.be/uUsxseXL6mw)
 [Latto_ft_SAWEETiE - BiTCH FRUM DAH SOUF](https://youtu.be/x8mAyKX9muE)
 [Kash Doll ft. DJ Infamous, Mulatto & Benny The Butcher - Bad Azz](https://youtu.be/N4oMrTT_fZw)
 [Latto - Muwop ft. Gucci Mane](https://youtu.be/meFxq3-mNEc)
