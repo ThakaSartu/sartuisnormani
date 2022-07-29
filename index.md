@@ -105,13 +105,24 @@
 </div>
 
 [GROVERWASHiNTON_MASTERPEiCE](https://youtu.be/zbZwqGqSCS4)
-[RONNiE_LAWS - FRiENDS_and_STRANGERS](https://youtu.be/nRCun0fCr_U)
-[RONNiE_LAWS - LiFE_iN_PARADiSE](https://youtu.be/gm32Ev5muTU)
+[SLAVE-WATCHiNG_YOU](https://youtu.be/xkI_yIhIk1c)
+[SLAVE-JUSTA_A_TOUCH_OF_LOVE](https://youtu.be/F1czSmdfcTk)
+[Tom Browne - Funkin' for Jamaica](https://youtu.be/XYclWyC4qQo)
+[Gladys Knight & The Pips - Save the Overtime Four_Me](https://youtu.be/Y36aBTuRr1o)
+[Brothers Johnson - StrawberryLetter23 1977](https://youtu.be/f0bdLdTJdKI)
+[LOOSE_ENDS HANGiN_ON_A_STRiNG](https://youtu.be/nP9zoP3km7g)
+[I Can't Go for That ](https://youtu.be/Ry04tCx4Bqw)
 [KASiF - I Just Gotta Have You](https://youtu.be/2hNxvL4vjqo)
 [KASiF - STONE_LOVE](https://youtu.be/IQGEn2qernc)
+[THE_SPiNNERS Could It Be I'm Falling in Love](https://youtu.be/NaMmX7OCyCA)
+[RONNiE_LAWS - FRiENDS_and_STRANGERS](https://youtu.be/nRCun0fCr_U)
+[RONNiE_LAWS - LiFE_iN_PARADiSE](https://youtu.be/gm32Ev5muTU)
 [RONNiE_LAWS - ALWAYS_THERE](https://youtu.be/w7jjO5QuesU)
 [RONNiE_LAWS - ALL_FOR_YOU](https://youtu.be/by2u7frqoeA)
 [RONNiE_LAWS - FLAME](https://youtu.be/-1K8rFKk7zc)
+[Surface - Only you can Make me Happy](https://youtu.be/tlaAMMaTs58)
+[CAMEO - Attack Me With Your Love](https://youtu.be/U4fkI6Wg06I)
+[Love Come Down (12" Version) (Remastered) · Evelyn "Champagne" King](https://youtu.be/TJdM9dazxQo)
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
@@ -193,7 +204,13 @@ Thanks for the song, it left me in tears
     </div>
   </div>
 </div>
-<a href="https://soundcloud.com/nija-music/love-like-this?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><p>Love Like This - Nija</p></a> <a href="https://soundcloud.com/nija-music/love-like-this?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><p>Love Like This - Nija</p></a>
+<a href="https://soundcloud.com/nija-music/love-like-this?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><p>Love Like This - Nija</p></a>  
+
+<h2>Here is a SKATE_ViD4YAH</h2>
+[H-Street - Hokus Pokus](https://youtu.be/LyOeNcN_xwA) 
+[Plan B - Questionable](https://youtu.be/8sEXCfX0rdk)
+[Girl Skateboards – Mouse ](https://youtu.be/H72u318Tpuk)
+[Alien Workshop – Memory Screen](https://youtu.be/LIZ6XjAK_38)
 
 <h2> DEAR NORMANi_aka_SARTU </h2>
 Your audience you shared with Travis will love this flick. Its about a sentient hospital bed working with the community to save people lives.
