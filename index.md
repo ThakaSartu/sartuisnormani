@@ -110,7 +110,7 @@
   </div>
 </div>
 
-<img src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/605fd738f6ce2a34906f8e61/vsco605fd738d8cf4.jpg">
+
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
@@ -126,6 +126,7 @@
   </div>
 </div>
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/KASHDOLL_SHADES.gif" >
+[DREEZY_Don't Know Me](https://youtu.be/lOX1hhRDT0g)
 [Dreezy - Body](https://youtu.be/i0Fh1SkjXPQ)
 [Dreezy - Spazz](https://youtu.be/mfS0-zDJztM)
 [Hitkidd & Glorilla - FNF](https://youtu.be/ww6ykF2ktaI)
