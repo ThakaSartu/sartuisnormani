@@ -80,10 +80,16 @@
 
   }   
 </style>
-
-
+<img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/KASHDOLL_SHADES.gif" >
+[Latto_ft_SAWEETiE - BiTCH FRUM DAH SOUF](https://youtu.be/x8mAyKX9muE)
+[Kash Doll ft. DJ Infamous, Mulatto & Benny The Butcher - Bad Azz](https://youtu.be/N4oMrTT_fZw)
+[Kash Doll - Thumbin](https://youtu.be/Knt-zAyH1v8)
+[GLOBAL_PROSTiYUTiON_POLiTiKS::Megan Thee Stallion - Thot Shit](https://youtu.be/KynkMn5Hv3Q)
+[Megan Thee Stallion - Captain Hook](https://youtu.be/n5LWsc-qCdA)
+[Megan Thee Stallion - B.I.T.C.H. ](https://youtu.be/BF8TE5qsOCs)
 [DJ Taz  – That's Riiiiiight](https://youtu.be/G0yOF5dpCLw)
 [Tay B x Kash Doll - Like Woah](https://youtu.be/XJOKtclFErI)
+[Megan Thee Stallion - Big Ole Freak ](https://youtu.be/oBYf6gpVvRA)
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
