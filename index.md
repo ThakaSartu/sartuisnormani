@@ -82,8 +82,34 @@
   
 </style>
 
-
-
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://im.vsco.co/aws-us-west-2/12f8b0/56497/5fcc5f451d78311b8f000000/vsco5fcc5f47c6ce6.jpg" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://im.vsco.co/aws-us-west-2/12f8b0/56497/5fcc5f451d78311b8f000000/vsco5fcc5f47c6ce6.jpg" > 
+      </div>
+    </div>
+  </div>
+</div>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://cdn.shopify.com/s/files/1/3005/5554/products/12ozprophet-forum-tee-detail2_720x.jpg" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://cdn.shopify.com/s/files/1/3005/5554/products/12ozprophet-forum-tee-detail3@2x.jpg" > 
+      </div>
+    </div>
+  </div>
+</div>
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
