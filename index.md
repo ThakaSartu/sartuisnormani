@@ -139,7 +139,6 @@
 </div>
 [James Brown - Mind Power - 1973](https://www.youtube.com/watch?v=yeTP6qsu0Bo)
 It takes MiND_POWER to DEAL_WiT_STARVATiON - <a href="https://en.wikipedia.org/wiki/James_Brown">James Brown</a>
-[Kashif - I Just Gotta Have You](https://youtu.be/zSOUNeiTkiE)
 
 ## GOOD_QUARANTiNE_MOViE
 <div class='twoPanelSpread'>
