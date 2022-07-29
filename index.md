@@ -82,7 +82,8 @@
   
 </style>
 <h2>Sierra Leone’s president declares rape a national emergency</h2>
-Statistics revealed the reported cases of sexual and gender-based violence nearly doubled last year in the country.
+Statistics revealed the reported cases of sexual and gender-based violence nearly doubled last year in the country. <a href="https://www.aljazeera.com/news/2019/2/8/sierra-leones-president-declares-rape-a-national-emergency" alt="##ALJAZEERA | Women's Rights
+" >ReadMore...</a>
 
 <h2>I need to get my daughter out of a molesters hands (・о・) </h2>
 <h2 class="neonText"> Its been 757 days since I have seen our daughter ##CORAL_IRIS_KELLY. </h2> 
