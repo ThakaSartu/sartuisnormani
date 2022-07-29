@@ -81,6 +81,22 @@
   } 
   
 </style>
+<div class="panel4-container">
+
+  <div class="item1"><img src="https://www.tribalgear.com/global/wp-content/uploads/JOKER_FLAG_MAIN.jpg" alt="##I_AM_WORTHY_OF_HUMAN_CONTACT"></div>
+  <div class="item2"><img src="https://www.tribalgear.com/global/wp-content/uploads/JOKER_FLAG_MAIN.jpg" alt="##I_AM_WORTHY_OF_HUMAN_CONTACT"></div>
+  <div class="item3"><img src="https://www.tribalgear.com/global/wp-content/uploads/JOKER_FLAG_MAIN.jpg" alt="##I_AM_WORTHY_OF_HUMAN_CONTACT"></div>
+  <div class="item4"><img src="https://www.tribalgear.com/global/wp-content/uploads/JOKER_FLAG_MAIN.jpg" alt="##I_AM_WORTHY_OF_HUMAN_CONTACT"></div>
+
+</div>
+<div class="panel4-container">
+
+  <div class="item1"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/ezgif.com-gif-maker%20(2).gif" alt="##I_AM_WORTHY_OF_HUMAN_CONTACT"></div>
+  <div class="item2"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/ezgif.com-gif-maker%20(2).gif" alt="##I_AM_WORTHY_OF_HUMAN_CONTACT"></div>
+  <div class="item3"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/ezgif.com-gif-maker%20(2).gif" alt="##I_AM_WORTHY_OF_HUMAN_CONTACT"></div>
+  <div class="item4"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/ezgif.com-gif-maker%20(2).gif" alt="##I_AM_WORTHY_OF_HUMAN_CONTACT"></div>
+
+</div>
 <img src="https://cdn.shopify.com/s/files/1/3005/5554/products/12ozprophet-experiment-001-tee-detail-4_900x.jpg" >
 <div class='twoPanelSpread'>
   <div class='row'>
