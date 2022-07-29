@@ -78,9 +78,27 @@
     padding: 0px;
     gap: 5px;
 
-  } 
-  
+  }   
 </style>
+
+
+[DJ Taz  – That's Riiiiiight](https://youtu.be/G0yOF5dpCLw)
+[Tay B x Kash Doll - Like Woah](https://youtu.be/XJOKtclFErI)
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://raw.githubusercontent.com/ThakaRashard/holetoanotheruniverse/gh-pages/img/vsco5cfd9f85d1d95.jpg" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://raw.githubusercontent.com/ThakaRashard/holetoanotheruniverse/gh-pages/img/vsco5cfd9f85d1d95.jpg" > 
+      </div>
+    </div>
+  </div>
+</div>
+
 <h2>Prostitution: A ‘victimless crime’?</h2>
 <i>For the vast majority of prostituted women, prostitution is the experience of being hunted, assaulted and battered.</i>
 Viewing prostitution as a genuine "choice" for women, such as secretarial work or waitressing, diminishes the possibility of getting women out and improving their lives [Reuters]
