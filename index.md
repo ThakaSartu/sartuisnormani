@@ -81,7 +81,12 @@
   } 
   
 </style>
-
+<h2>Prostitution: A ‘victimless crime’?</h2>
+<i>For the vast majority of prostituted women, prostitution is the experience of being hunted, assaulted and battered.</i>
+Viewing prostitution as a genuine "choice" for women, such as secretarial work or waitressing, diminishes the possibility of getting women out and improving their lives [Reuters]
+When actress Anne Hathaway accepted her Oscar statuette last month for her supporting role in Les Miserables, she ended her speech by saying, “Here’s hoping that someday in the not too distant future, the misfortunes of Fantine will only be found in stories and never more in real life.”<a href="https://www.aljazeera.com/opinions/2013/3/19/prostitution-a-victimless-crime">..ReadMore...</a>
+<a href="https://www.aljazeera.com/author/katie_pedigo_20133187172398242">Author: Katie Pedigo,  Al Jazeera</a>
+<img src="https://www.aljazeera.com/wp-content/uploads/2013/03/201331874649927734_20.jpeg" >
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
