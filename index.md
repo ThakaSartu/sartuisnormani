@@ -263,7 +263,11 @@ padding-top: 20px;
 
 </style>
 ## Hole To Another Universe 
-## Dear THOMAS_KHELETi_YOUTUBE_iS_SCRAMBLiNG_MY_RESULTS_SO_I_CANT_TALK_TO_QUXUBE
+<h1>DEAR_ERiKA_RENEE_JOHNSON_KELLY(selassie_if_Lauren_is_right)</h2>
+[PLEASE_LiSTEN__iMiSSiNG_YOU_BEiNG_THAT_YOU_SO_FAR_AWAY](https://youtu.be/zRwLMC2wP0g)
+<iframe width="95%" height="315" src="https://www.youtube.com/embed/FIwhUiwWb-s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Dear THOMAS_KHELETi_YOUTUBE_iS_SCRAMBLiNG
+## MY_RESULTS_SO_I_CANT_TALK_TO_QUXUBE
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/QUXUBE_IS_SCRAMBLED.png " >
 [DEAR_QUXUBE::CLASSiCK_BuSTA_RHYMES::Busta Rhymes - Put Your Hands Where My Eyes Could See](https://youtu.be/GSoQDaXh144)
 [Tweet feat. Missy Elliott ‎– Oops (Oh My)](https://youtu.be/P5rqNyulfsQ)
@@ -273,6 +277,15 @@ padding-top: 20px;
 [Kilo Ali- Freak How You Want It](https://youtu.be/9Ow--8nd2P4)
 [Pressha - Splackavellie](https://youtu.be/XzbkF_msWk0)
 [Playa - Cheers 2 U](https://youtu.be/0yvSkYpVZ_I)
+[Faith Evans - Soon As I Get Home](https://youtu.be/ylB0BIVS20U)
+[SWV - Weak](https://youtu.be/976b8TPPFJU)
+[Xscape - Just Kickin' It (Official Video)](https://www.youtube.com/watch?v=w_BTEFAVwjU)
+[Xscape - My Little Secret](https://youtu.be/iDHggk9NlN8)
+[Xscape - Who Can I Run To](https://youtu.be/xLjyPBQk_Os)
+[Xscape - The Arms of the One Who Loves You](https://youtu.be/5auQz0cWzbw)
+[Dru Hill - These Are The Times](https://youtu.be/6wPkC3DO_7Y)
+[Musiq Soulchild - So Beautiful](https://youtu.be/LgPpowVNEfE)
+
 
 <i>QUXUBE, PLEASE PLAY_COMFORTABLY_LOUD</i>
 ## DEAR_MUNA::PLEASE_SHARE_WiTH_JABDU
@@ -314,8 +327,10 @@ Refers to a situation in which one spouse severs ties with the family, forsaking
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/DEAR_MEGAN_iiAM_WORKiNG_ON_EVERYONES_PUBLiC_PERCEPTION_THE_PORN_HAS_MESSED_US_ALL_UP_aND_WE_ALL_INNOCENT.png" >
 <h2>	(╯°□°)╯︵ ʞooqǝɔɐɟ </h2>
 [DEAR_MUNA::PLEASE_LiSTEN ~> Monica - Before You Walk Out Of My Life](https://youtu.be/Ptiz0KtR16E)
+[Musiq - Halfcrazy](https://youtu.be/IP4V3TTC3fw)
 [RKELLY::Trapped In the Closet (Chapters 1-5)::HiPHOP_RnB_OPERA](https://youtu.be/TVQv8Bh-RFY)
 [Fantasia - Truth Is](https://www.youtube.com/watch?v=e265_NvKvRQ)
+[TOKiMONSTA (feat. Yuna) - Don't Call Me (Official Video)](https://youtu.be/KMpED8Iy7L8)
 [Toni Braxton - Just Be A Man About It ](https://youtu.be/wpaR3wzTlvo)
 [Kelly Price - Friend Of Mine ft. Ronald Isley, R. Kelly, and SEVER_MSK](https://youtu.be/swP0h-K_Tss)
 [The Isley Brothers - Contagious](https://youtu.be/-qnSz6Lh5pY)
@@ -360,6 +375,8 @@ Refers to a situation in which one spouse severs ties with the family, forsaking
 [Monica - Why I Love You So Much](https://youtu.be/qFRCPLAvxnM) <h2>ʕ♥ᴥ♥ʔ</h2> 
 [CASE - Happily Ever After](https://youtu.be/SRIdaMBKgk8)
 [Faith Evans - Soon As I Get Home](https://youtu.be/ylB0BIVS20U)
+[Floetry - Say Yes](https://youtu.be/PCCGIXME164)
+[Daley - Alone Together ft. Marsha Ambrosius](https://youtu.be/uV2kWGSFYXM)
 
 <audio preload="metadata" id="myAudio" ontimeupdate="onTimeUpdate()">
   <!-- <source src="audio.ogg" type="audio/ogg"> -->
