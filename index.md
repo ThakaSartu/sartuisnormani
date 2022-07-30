@@ -97,6 +97,10 @@
     </div>
   </div>
 </div>
+
+
+[Skratch School - Roland DJ-808 - Recreating Run-DMC's "Peter Piper"](https://youtu.be/uf-I0-a9BO0)
+[Roland DJ-505 DJ Controller for Serato Video Manual](https://youtu.be/ix_4gGWgVJ0)
 [Roland DJ-505 Demonstration](https://youtu.be/Hl9KRtWHVhc)
 [Blunt Vietnam Vet Marine Tells You Exactly What Happened To Him](https://youtu.be/tixOyiR8B-8)
 [Wayne Gretzky || Career NHL Highlights || 1979-1999 ](https://youtu.be/iRD5Fn8ecsg)
