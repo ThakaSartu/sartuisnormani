@@ -115,6 +115,7 @@
     border-radius: 1px;
     padding: 8px;
   }
+ 
 /* ##6panel4collages use equallateral images */
   .sixpanel {
   align-items: stretch;
@@ -142,12 +143,27 @@
 
 </style>
 ## Hole To Another Universe 
-
+<div class="flex3BorderedPaddedROW">
+   
+    <div class="item1">                        
+<a href="https://www.youtube.com/watch?v=2HlOo0wwGQo" ><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SartUBreast_inTOXiCATE_Me.gif" > </a></div>
+    <div class="item2">                        
+<a href="https://www.youtube.com/watch?v=2HlOo0wwGQo" ><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SartUBreast_inTOXiCATE_Me.gif" > </a></div>
+    <div class="item3">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SartUBreast_inTOXiCATE_Me.gif" /></div>
+</div>
+<h2>HORROR_CHOLO_FONT OpenTYPE_FONT</h2>
+Dear Lauren, Muna and Sartu may or may not know about the shirt, however im sure CORAL_DOES! I made a strangerthings inspired shirt, "ZOMBiE_BOY based on WiLL_BYERS character, but applied to our demographic. With the SOCiAL_MEDiA_Prostitution_War waging its felt like the upside down for a while. All our design work from the ATLANTA_CHAPTER of our business is stuck in the [PRiNTFULS_DESiGN_RESOURCES_SECTiON](https://printful.com) of my account. I have been locked out like everything else and I still have no access to rashard@gmail or ymail.com so Im kinda stuck... But here is the font either way [HANDSELECTA_HAS_THE_FONT](https://www.handselecta.com/fonts-commercial) . Graffiti fonts are really hard to make because the rhythms are not reulated in most handstyles for the entire alphabet. [MiKE_GiANT_DiD_THE_WORK](https://www.mikegiant.com/) and they are amazing! Perhaps you can [find fonts for your project](https://www.handselecta.com/store-1/digital-goods)
+<img href="https://images.squarespace-cdn.com/content/v1/5e8a7126d84c050678c7fd75/1646157743484-Y4YTY1FQUZD8A5CJBM31/Giant+Horror+-+Shop%402x.png">
+<img href="https://images.squarespace-cdn.com/content/v1/5e8a7126d84c050678c7fd75/1645998890554-55XT6J3LVGZ9SWFJ0TH6/Giant_Diamond_A.gif">
+<img href="">
 <h2>FLEXBOX FROGGY</h2>
 Dear_Sartu:LAUREN_asWELL, I found a game that helps you learn CSS [FLEXBOX](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) from a post on DEV_dOt_cOm.
 [TRY_FLEXBOX_FROGGY](http://flexboxfroggy.com/)
 [SEE_ORiGiNAL_POST::BY_](https://dev.to/santiagocodes/the-3gs-of-css-flexbox-edition-4b64)
 [ALiST_APART_CSS_GRiDS](https://alistapart.com/article/practical-grid/)
+[Designing for the Unexpected by Cathy DuttonJuly 15, 2021](https://alistapart.com/article/designing-for-the-unexpected/)
+[Making Room for Variation by Yesenia Perez-Cruz](https://alistapart.com/article/making-room-for-variation/)
+[]()
 <div class="sixpanel">
 
   <div class="item1"> <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
