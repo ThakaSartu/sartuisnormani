@@ -86,7 +86,9 @@
  <li><a href="https://thakarashard.github.io/RESUME/">2 # TO###MY_RESUME################################</a></li>
  <li><a href="https://thakarashard.github.io/film1">3 # Sartu###SANDBOX#############################</a></li>
  <li><a href="#about">4 # UNiVERSAL_KONTAKT##联系##接触##اتصل##접촉##যোগাযোগ#</a></li>
-  
+ 
+[Transworld Skateboarding Championship 1986 - Radical Moves - Freestyle Skateboarding](https://youtu.be/f61xVLYm74I)
+[XSCAPE_UNDERSTANDiNG](https://www.youtube.com/watch?v=k2btwdWYAX0)
 <h2>WASHiNGTON_POST:"Violence against women rampant under Taliban"</h2>
 Women in Afghanistan have faced an onslaught of violence and human rights abuses since the Taliban’s return to national power less than a year ago — and the “scope, magnitude and severity” of violations are “increasing month to month,” according to a new report by Amnesty International... <a href="https://www.msn.com/en-us/news/world/violence-against-women-rampant-under-taliban-new-report-finds/ar-AA102ah8?cvid=3a104b0837b642d7a20f54f95196de90#image=1">ReadMore, Its just like LOS_ANGELES&ATLANTA_PROSTiTUTiON... NoBODY_iS_READiNG_THE_QURAN in these ##ABUSiVE_ViBRATionS</a>
   
