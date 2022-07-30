@@ -153,9 +153,9 @@
 </div>
 <h2>HORROR_CHOLO_FONT OpenTYPE_FONT</h2>
 Dear Lauren, Muna and Sartu may or may not know about the shirt, however im sure CORAL_DOES! I made a strangerthings inspired shirt, "ZOMBiE_BOY based on WiLL_BYERS character, but applied to our demographic. With the SOCiAL_MEDiA_Prostitution_War waging its felt like the upside down for a while. All our design work from the ATLANTA_CHAPTER of our business is stuck in the [PRiNTFULS_DESiGN_RESOURCES_SECTiON](https://printful.com) of my account. I have been locked out like everything else and I still have no access to rashard@gmail or ymail.com so Im kinda stuck... But here is the font either way [HANDSELECTA_HAS_THE_FONT](https://www.handselecta.com/fonts-commercial) . Graffiti fonts are really hard to make because the rhythms are not reulated in most handstyles for the entire alphabet. [MiKE_GiANT_DiD_THE_WORK](https://www.mikegiant.com/) and they are amazing! Perhaps you can [find fonts for your project](https://www.handselecta.com/store-1/digital-goods)
-<img href="https://images.squarespace-cdn.com/content/v1/5e8a7126d84c050678c7fd75/1646157743484-Y4YTY1FQUZD8A5CJBM31/Giant+Horror+-+Shop%402x.png">
-<img href="https://images.squarespace-cdn.com/content/v1/5e8a7126d84c050678c7fd75/1645998890554-55XT6J3LVGZ9SWFJ0TH6/Giant_Diamond_A.gif">
-<img href="">
+<img src="https://images.squarespace-cdn.com/content/v1/5e8a7126d84c050678c7fd75/1646157743484-Y4YTY1FQUZD8A5CJBM31/Giant+Horror+-+Shop%402x.png">
+<img src="https://images.squarespace-cdn.com/content/v1/5e8a7126d84c050678c7fd75/1645998890554-55XT6J3LVGZ9SWFJ0TH6/Giant_Diamond_A.gif">
+
 <h2>FLEXBOX FROGGY</h2>
 Dear_Sartu:LAUREN_asWELL, I found a game that helps you learn CSS [FLEXBOX](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) from a post on DEV_dOt_cOm.
 [TRY_FLEXBOX_FROGGY](http://flexboxfroggy.com/)
