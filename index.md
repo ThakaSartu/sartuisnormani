@@ -153,9 +153,11 @@
 </div>
 <h2>HORROR_CHOLO_FONT OpenTYPE_FONT</h2>
 Dear Lauren, 
-Muna and Sartu may or may not know about the shirt, however im sure CORAL_DOES! I made a strangerthings inspired shirt, "ZOMBiE_BOY based on WiLL_BYERS character, but applied to our demographic. With the SOCiAL_MEDiA_Prostitution_War waging its felt like the upside down for a while. All our design work from the ATLANTA_CHAPTER of our business is stuck in the [PRiNTFULS_DESiGN_RESOURCES_SECTiON](https://printful.com) of my account. I have been locked out like everything else and I still have no access to rashard@gmail or ymail.com so Im kinda stuck... But here is the font either way [HANDSELECTA_HAS_THE_FONT](https://www.handselecta.com/fonts-commercial) . Graffiti fonts are really hard to make because the rhythms are not reulated in most handstyles for the entire alphabet. [MiKE_GiANT_DiD_THE_WORK](https://www.mikegiant.com/) and they are amazing! Perhaps you can [find fonts for your project](https://www.handselecta.com/store-1/digital-goods)
+Muna and Sartu may or may not know about the shirt, however im sure CORAL_DOES! I made a [StrangerThings](https://www.imdb.com/title/tt4574334/) inspired shirt, "ZOMBiE_BOY" based on WiLL_BYERS character, but applied to our Chicano demographic with a graffiti_font, the original was done using [ITC_BENGUiAT](https://en.wikipedia.org/wiki/ITC_Benguiat).  With the SOCiAL_MEDiA_Prostitution_War waging it has felt like the upside down for a while. All our design work from the ATLANTA_CHAPTER of our business is stuck in the [PRiNTFULS_DESiGN_RESOURCES_SECTiON](https://printful.com) of my account. I have been locked out like everything else and I still have no access to rashard@gmail or ymail.com so Im kinda stuck... [HANDSELECTA_HAS_THE_FONT](https://www.handselecta.com/fonts-commercial) . Graffiti fonts are really hard to make because the rhythms are not regulated in most handstyles for the entire alphabet. [MiKE_GiANT_DiD_THE_WORK](https://www.mikegiant.com/) and they are amazing! Perhaps you can [find fonts for your project](https://www.handselecta.com/store-1/digital-goods)
 <img src="https://images.squarespace-cdn.com/content/v1/5e8a7126d84c050678c7fd75/1646157743484-Y4YTY1FQUZD8A5CJBM31/Giant+Horror+-+Shop%402x.png">
 <img src="https://images.squarespace-cdn.com/content/v1/5e8a7126d84c050678c7fd75/1645998890554-55XT6J3LVGZ9SWFJ0TH6/Giant_Diamond_A.gif">
+<img src="https://cdn0.vox-cdn.com/uploads/chorus_asset/file/6630545/strangerthingsgif.0.gif">
+[ITC Benguiat is a decorative serif typeface designed by Ed Benguiat and released by the International Typeface Corporation (ITC) in 1977.](https://www.linotype.com/576/itc-benguiat-family.html) The face is loosely based upon typefaces of the Art Nouveau period but is not considered an academic revival. The face follows ITC's design formulary of an extremely high x-height, combined with multiple widths and weights. The original version of 1977 contained numerous nonstandard ligatures (such as AB, AE, AH, AK, AR, LA, SS, TT) and alternate shapes for some letters which were not carried into the digital version.<a hrefTAKEN_FRON_WiKiPEDiA</i>
 
 <h2>FLEXBOX FROGGY</h2>
 Dear_Sartu:LAUREN_asWELL, I found a game that helps you learn CSS [FLEXBOX](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) from a post on DEV_dOt_cOm.
@@ -164,7 +166,7 @@ Dear_Sartu:LAUREN_asWELL, I found a game that helps you learn CSS [FLEXBOX](http
 [ALiST_APART_CSS_GRiDS](https://alistapart.com/article/practical-grid/)
 [Designing for the Unexpected by Cathy DuttonJuly 15, 2021](https://alistapart.com/article/designing-for-the-unexpected/)
 [Making Room for Variation by Yesenia Perez-Cruz](https://alistapart.com/article/making-room-for-variation/)
-[]()
+[KULER___NOW_KNOWN_AS_ADOBE_COLOR](https://color.adobe.com/create/color-wheel)<i>DEAR_MUNA, Sartu has been tutoring me in Color_Theory</i>
 <div class="sixpanel">
 
   <div class="item1"> <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
