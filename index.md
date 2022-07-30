@@ -263,7 +263,9 @@ padding-top: 20px;
 
 </style>
 ## Hole To Another Universe 
-
+[DEAR_QUXUBE::CLASSiCK_BuSTA_RHYMES::Busta Rhymes - Put Your Hands Where My Eyes Could See](https://youtu.be/GSoQDaXh144)
+[Tweet feat. Missy Elliott ‎– Oops (Oh My)](https://youtu.be/P5rqNyulfsQ) 
+<i>QUXUBE, PLEASE PLAY_TWEET_OOPS COMFORTABLY_LOUD</i>
 ## DEAR_MUNA::PLEASE_SHARE_WiTH_JABDU
 His uncle, one of your brother in laws is in FXcrew... MSK_SEVER should not be there when he watches
 [‘FX CREW’ (Graffiti Writers Crew) New York, 1998 [RARE full graff art VHS documentary archive]](https://youtu.be/Jv7ECeiD1p4)
