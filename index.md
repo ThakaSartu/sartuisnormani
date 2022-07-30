@@ -265,7 +265,7 @@ padding-top: 20px;
 ## Hole To Another Universe 
 
 
-<div>
+<div class="flex3BorderedPaddedROW">
   <div class="item1">
     <a href="https://youtu.be/UE6zfOuYfVI"><img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/monica.PNG" alt="MONiCA_KNOWS_MUNA_AND_##WE_ALL_NEED_FREEDM_FROM_PROSTiTUTION"> </a>
   </div>
