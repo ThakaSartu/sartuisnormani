@@ -264,16 +264,36 @@ padding-top: 20px;
 </style>
 ## Hole To Another Universe 
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/DEAR_MEGAN_iiAM_WORKiNG_ON_EVERYONES_PUBLiC_PERCEPTION_THE_PORN_HAS_MESSED_US_ALL_UP_aND_WE_ALL_INNOCENT.png" >
-
+<h2>	(╯°□°)╯︵ ʞooqǝɔɐɟ </h2>
+[RKELLY::Trapped In the Closet (Chapters 1-5)::HiPHOP_RnB_OPERA](https://youtu.be/TVQv8Bh-RFY)
+[Fantasia - Truth Is](https://www.youtube.com/watch?v=e265_NvKvRQ)
+[Toni Braxton - Just Be A Man About It ](https://youtu.be/wpaR3wzTlvo)
+[Kelly Price - Friend Of Mine ft. Ronald Isley, R. Kelly, and SEVER_MSK](https://youtu.be/swP0h-K_Tss)
+[The Isley Brothers - Contagious](https://youtu.be/-qnSz6Lh5pY)
+[The Isley Brothers - Busted ft. JS ](https://youtu.be/PDKGDPSq03A)
 [CHANGiNG_FACES - Foolin' Around](https://youtu.be/S3R5D8EW90U)
 [702 - Get It Together](https://youtu.be/HxGNLsz9V5c)
+[Cherish - Unappreciated](https://youtu.be/tbPqVMbT34Q)
 [CHANGiNG_FACES - G.H.E.T.T.O.U.T., Pt. II](https://youtu.be/qeUSpB_bG7k)
 [Changing Faces - G. H. E. T. T. O. U. T. ](https://youtu.be/sJgI6sRFkP0)
 [Mary J. Blige - Not Gon' Cry ](https://youtu.be/WiM3bGcXYxk)
 [Vivian Green - Emotional Rollercoaster](https://youtu.be/63TudFk9-u8)
+[Mary J. Blige - MrS. Wrong ft. Drake](https://youtu.be/eS-y2R9cmnQ)
 [Donell Jones - Where I Wanna Be](https://youtu.be/PhfCgSA6DeQ)
 [AVANT - SEPARATED](https://youtu.be/yBhkqCOTW9I)
-[Erykah Badu - Tyrone____all4u_MUNA](https://youtu.be/YY2-mrsXgMM)
+[Erykah Badu - Tyrone___all4u_MUNA](https://youtu.be/YY2-mrsXgMM)
+[DEAR_MUNA_THE_MORE_YOU_TALK_THE_MORE_THiNGS_SounD_THE_SAME ~>  My Lovin' (You're Never Gonna Get It) ](https://youtu.be/JIuYQ_4TcXg)
+[Lauryn Hill - Ex-Factor](https://www.youtube.com/watch?v=cE-bnWqLqxE)
+[Keyshia Cole - I Should Have Cheated (BET Version) (Official Music Video)](https://youtu.be/29qvbeDA0iU)
+[MUNA_YOUR_ALLURE_HAS_FALTERED::iM_ALL_CRiED_OWT](https://youtu.be/D2_A3Ia-69U)
+[Uncle Sam - I Don't Ever Want TO See You Again](https://youtu.be/OWasrUYMHgo)
+[Dru Hill - Never Make A Promise](https://youtu.be/JAnA6c7Jql4)
+[Dru Hill - We're Not Making Love No More](https://youtu.be/V1O726-a0UI)
+[SEVER_MSK_IS_MESSiN_WiT_MY_HEAD_iN_MY_BED::Dru Hill - In My Bed](https://youtu.be/_Ixip0K2r10)
+[DEAR_MUNA - We Can't Be Friends_ft_Deborah Cox](https://youtu.be/01yPbUXnJZk)
+[Tamia - Stranger In My House](https://youtu.be/Bjq4wg2tzCU)
+[Sunshine Anderson "Heard It All Before"](https://youtu.be/NGMInHRR2Fo)
+
 
 <img src="https://static.hiphopdx.com/2022/01/B6B54A45-621E-4D03-98A1-B17B88E4ECCD-e1642796934275.jpeg">
 <div class="flex3BorderedPaddedROW">
@@ -284,7 +304,9 @@ padding-top: 20px;
 <a href="https://www.youtube.com/watch?v=2HlOo0wwGQo" ><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SartUBreast_inTOXiCATE_Me.gif" > </a></div>
     <div class="item3">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SartUBreast_inTOXiCATE_Me.gif" /></div>
 </div>
-
+[SARTU Nobody's Supposed To Be Here ft. Deborah Cox -](https://youtu.be/H947PtHmh0Y)
+[BUT_YOU_GOT_MY__Understanding and hand in marriage ༼ つ ◕_◕ ༽つ ft. Xscape - (Official Video)](https://youtu.be/HR5J5jUDcnA)
+[Whitney Houston - I Have Nothing ─=≡Σ((( つ◕ل͜◕)つ](https://youtu.be/FxYw0XPEoKE) [Nija - Love Like This (Official Audio)](https://youtu.be/zekfQq8AI4A) 
 
 <audio preload="metadata" id="myAudio" ontimeupdate="onTimeUpdate()">
   <!-- <source src="audio.ogg" type="audio/ogg"> -->
