@@ -263,6 +263,24 @@ padding-top: 20px;
 
 </style>
 ## Hole To Another Universe 
+    <div class="item1">                        
+<a href="https://youtu.be/UE6zfOuYfVI" ><img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/monica.PNG" > </a></div>
+    <div class="item2">                        
+<a href="https://youtu.be/UE6zfOuYfVI" ><img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/monica1.PNG" > </a></div>
+    <div class="item3">   
+<a href="https://youtu.be/UE6zfOuYfVI" ><img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/monica3.PNG" /> </a></div>
+</div>
+[Monica - So Gone (Official Video)](https://youtu.be/UE6zfOuYfVI)
+<h2>The general definition of abandonment is:</h2>
+<ol>
+  <li>Giving up or withdrawal of support from something or someone</li>
+  <li>The act of leaving or deserting a person or property.</li>
+</ol>
+<h2>What is husband abandonment syndrome?</h2>
+Spousal Abandonment Syndrome is when one of the spouses leaves the marriage without any warning, and—usually–without having shown any signs of unhappiness with the relationship. With spousal abandonment, there is often no outward sign that one of the spouses is frustrated or considering leaving the marriage.
+<h2>Marital desertion (abandonment)</h2> 
+Refers to a situation in which one spouse severs ties with the family, forsaking his or her responsibilities and duties to the family. Simply moving out of the family home in an attempt to create a temporary or permanent separation is not considered abandonment. The difference is often seen in the person’s refusal to provide necessary support...[ReadMore](https://www.midlifedivorcerecovery.com/spousal-abandonment-syndrome/#:~:text=Spousal%20Abandonment%20Syndrome%20is%20when,or%20considering%20leaving%20the%20marriage.)
+
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/DEAR_MEGAN_iiAM_WORKiNG_ON_EVERYONES_PUBLiC_PERCEPTION_THE_PORN_HAS_MESSED_US_ALL_UP_aND_WE_ALL_INNOCENT.png" >
 <h2>	(╯°□°)╯︵ ʞooqǝɔɐɟ </h2>
 [DEAR_MUNA::PLEASE_LiSTEN ~> Monica - Before You Walk Out Of My Life](https://youtu.be/Ptiz0KtR16E)
