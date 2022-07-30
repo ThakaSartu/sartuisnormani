@@ -263,9 +263,18 @@ padding-top: 20px;
 
 </style>
 ## Hole To Another Universe 
+## Dear THOMAS_KHELETi_YOUTUBE_iS_SCRAMBLiNG_MY_RESULTS_SO_I_CANT_TALK_TO_QUXUBE
+<img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/QUXUBE_IS_SCRAMBLED.png " >
 [DEAR_QUXUBE::CLASSiCK_BuSTA_RHYMES::Busta Rhymes - Put Your Hands Where My Eyes Could See](https://youtu.be/GSoQDaXh144)
-[Tweet feat. Missy Elliott ‎– Oops (Oh My)](https://youtu.be/P5rqNyulfsQ) 
-<i>QUXUBE, PLEASE PLAY_TWEET_OOPS COMFORTABLY_LOUD</i>
+[Tweet feat. Missy Elliott ‎– Oops (Oh My)](https://youtu.be/P5rqNyulfsQ)
+[Slick Partna](https://youtu.be/Jd_pmCI74NY)
+[That's Right by DJ Taz](https://youtu.be/xHLh0tZJfR0)
+[So So Def Bass Allstars-Apple Pie](https://youtu.be/ycPFLmxM-BI)
+[Kilo Ali- Freak How You Want It](https://youtu.be/9Ow--8nd2P4)
+[Pressha - Splackavellie](https://youtu.be/XzbkF_msWk0)
+[Playa - Cheers 2 U](https://youtu.be/0yvSkYpVZ_I)
+
+<i>QUXUBE, PLEASE PLAY_COMFORTABLY_LOUD</i>
 ## DEAR_MUNA::PLEASE_SHARE_WiTH_JABDU
 His uncle, one of your brother in laws is in FXcrew... MSK_SEVER should not be there when he watches
 [‘FX CREW’ (Graffiti Writers Crew) New York, 1998 [RARE full graff art VHS documentary archive]](https://youtu.be/Jv7ECeiD1p4)
@@ -348,7 +357,9 @@ Refers to a situation in which one spouse severs ties with the family, forsaking
 [BUT_YOU_GOT_MY__Understanding and hand in marriage ༼ つ ◕_◕ ༽つ ft. Xscape - (Official Video)](https://youtu.be/HR5J5jUDcnA)
 [Whitney Houston - I Have Nothing ─=≡Σ((( つ◕ل͜◕)つ](https://youtu.be/FxYw0XPEoKE)
 [Nija - Love Like This (Official Audio)](https://youtu.be/zekfQq8AI4A)
-[Monica - Why I Love You So Much](https://youtu.be/qFRCPLAvxnM) <h2>ʕ♥ᴥ♥ʔ</h2>
+[Monica - Why I Love You So Much](https://youtu.be/qFRCPLAvxnM) <h2>ʕ♥ᴥ♥ʔ</h2> 
+[CASE - Happily Ever After](https://youtu.be/SRIdaMBKgk8)
+[Faith Evans - Soon As I Get Home](https://youtu.be/ylB0BIVS20U)
 
 <audio preload="metadata" id="myAudio" ontimeupdate="onTimeUpdate()">
   <!-- <source src="audio.ogg" type="audio/ogg"> -->
