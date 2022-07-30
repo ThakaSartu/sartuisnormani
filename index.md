@@ -86,7 +86,22 @@
  <li><a href="https://thakarashard.github.io/RESUME/">2 # TO###MY_RESUME################################</a></li>
  <li><a href="https://thakarashard.github.io/film1">3 # Sartu###SANDBOX#############################</a></li>
  <li><a href="#about">4 # UNiVERSAL_KONTAKT##联系##接触##اتصل##접촉##যোগাযোগ#</a></li>
- 
+  
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://i.discogs.com/1fQkfWACgQNEhP7xaih0ExsvLhZMJRScGOBdsziKoG0/rs:fit/g:sm/q:90/h:599/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjM0/OS0xMTcxNDQwNDky/LmpwZWc.jpeg" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://i.discogs.com/1fQkfWACgQNEhP7xaih0ExsvLhZMJRScGOBdsziKoG0/rs:fit/g:sm/q:90/h:599/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjM0/OS0xMTcxNDQwNDky/LmpwZWc.jpeg" > 
+      </div>
+    </div>
+  </div>
+</div>
+
 [Transworld Skateboarding Championship 1986 - Radical Moves - Freestyle Skateboarding](https://youtu.be/f61xVLYm74I)
 [XSCAPE_UNDERSTANDiNG](https://www.youtube.com/watch?v=k2btwdWYAX0)
 <h2>WASHiNGTON_POST:"Violence against women rampant under Taliban"</h2>
