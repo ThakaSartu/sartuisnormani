@@ -263,6 +263,19 @@ padding-top: 20px;
 
 </style>
 ## Hole To Another Universe 
+<img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/DEAR_MEGAN_iiAM_WORKiNG_ON_EVERYONES_PUBLiC_PERCEPTION_THE_PORN_HAS_MESSED_US_ALL_UP_aND_WE_ALL_INNOCENT.png" >
+
+[CHANGiNG_FACES - Foolin' Around](https://youtu.be/S3R5D8EW90U)
+[702 - Get It Together](https://youtu.be/HxGNLsz9V5c)
+[CHANGiNG_FACES - G.H.E.T.T.O.U.T., Pt. II](https://youtu.be/qeUSpB_bG7k)
+[Changing Faces - G. H. E. T. T. O. U. T. ](https://youtu.be/sJgI6sRFkP0)
+[Mary J. Blige - Not Gon' Cry ](https://youtu.be/WiM3bGcXYxk)
+[Vivian Green - Emotional Rollercoaster](https://youtu.be/63TudFk9-u8)
+[Donell Jones - Where I Wanna Be](https://youtu.be/PhfCgSA6DeQ)
+[AVANT - SEPARATED](https://youtu.be/yBhkqCOTW9I)
+[Erykah Badu - Tyrone____all4u_MUNA](https://youtu.be/YY2-mrsXgMM)
+
+<img src="https://static.hiphopdx.com/2022/01/B6B54A45-621E-4D03-98A1-B17B88E4ECCD-e1642796934275.jpeg">
 <div class="flex3BorderedPaddedROW">
    
     <div class="item1">                        
