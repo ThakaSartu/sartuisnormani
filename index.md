@@ -264,6 +264,7 @@ padding-top: 20px;
 </style>
 ## Hole To Another Universe 
 
+[Cara Delevingne Opens up About Those Weird Megan Thee Stallion Pics](https://www.pride.com/celebrities/2022/7/29/cara-delevingne-opens-about-those-weird-megan-thee-stallion-pics) [Cara, Have You Ever](https://youtu.be/Xkj1An6Wnec) been accused of something awkward and did not get the chance to clear it up?! Id love to share our story for the ladies of Dance411 to verify so I can get my brides and children returned.
 
 <div class="flex3BorderedPaddedROW">
   <div class="item1">
