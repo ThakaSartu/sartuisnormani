@@ -83,6 +83,20 @@
 ## Hole To Another Universe 
 
 
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://static.roland.com/assets/images/products/main/dj-505_main.jpg" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://static.roland.com/assets/images/products/main/dj-505_main.jpg" > 
+      </div>
+    </div>
+  </div>
+</div>
 
 [Blunt Vietnam Vet Marine Tells You Exactly What Happened To Him](https://youtu.be/tixOyiR8B-8)
 [Wayne Gretzky || Career NHL Highlights || 1979-1999 ](https://youtu.be/iRD5Fn8ecsg)
