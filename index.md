@@ -263,13 +263,20 @@ padding-top: 20px;
 
 </style>
 ## Hole To Another Universe 
-    <div class="item1">                        
-<a href="https://youtu.be/UE6zfOuYfVI" ><img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/monica.PNG" > </a></div>
-    <div class="item2">                        
-<a href="https://youtu.be/UE6zfOuYfVI" ><img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/monica1.PNG" > </a></div>
-    <div class="item3">   
-<a href="https://youtu.be/UE6zfOuYfVI" ><img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/monica3.PNG" /> </a></div>
+
+
+<div>
+  <div class="item1">
+    <a href="https://youtu.be/UE6zfOuYfVI"><img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/monica.PNG" alt="MONiCA_KNOWS_MUNA_AND_##WE_ALL_NEED_FREEDM_FROM_PROSTiTUTION"> </a>
+  </div>
+  <div class="item2">
+    <a href="https://youtu.be/UE6zfOuYfVI"><img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/monica1.PNG" alt="MONiCA_KNOWS_MUNA_AND_##WE_ALL_NEED_FREEDM_FROM_PROSTiTUTION"> </a>
+  </div>
+  <div class="item3">
+    <a href="https://youtu.be/UE6zfOuYfVI"><img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/monica3.PNG" alt="MONiCA_KNOWS_MUNA_AND_##WE_ALL_NEED_FREEDM_FROM_PROSTiTUTION"> </a>
+  </div>
 </div>
+
 [Monica - So Gone (Official Video)](https://youtu.be/UE6zfOuYfVI)
 <h2>The general definition of abandonment is:</h2>
 <ol>
