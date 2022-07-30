@@ -79,10 +79,80 @@
     gap: 5px;
 
   }   
+  
+/* 3PANEL_SPREAD_WORKS_WELL_WITH_SQUARE_AND_VERTiCAL_iMAGES */  
+
+  .flex3BorderedPaddedROW {
+
+    display: flex;
+     align-items: stretch; 
+    /* flex-flow: row nowrap; */ 
+    flex-direction: row; 
+    flex-wrap: nowrap; 
+    justify-content: center;
+    align-content: stretch;
+    height: 100%;
+    padding: 15px;
+    gap: 5px;
+    width:100%;
+    height:100%;
+    object-fit: cover;
+    overflow: hidden;
+
+  }
+
+  .flex3BorderedPaddedROW > div{
+   
+    border: 1px solid #c9ff23;
+    border-radius: 1px;
+    padding: 8px;
+  }
+
+
+  .flex3BorderedPaddedROW > img{
+   
+    border: 3px dotted #c9ff23;
+    border-radius: 1px;
+    padding: 8px;
+  }
+
 </style>
 ## Hole To Another Universe 
 
 
+
+<img src="https://i.discogs.com/YzhtLts7LkthVlFHqcaq5ZNZ59GEwslZA9KCw556CSc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTIz/My0xNDI2MTY2MTc0/LTkwODYuanBlZw.jpeg">
+[Stevie Wonder - Songs In The Key Of Life (1976) Part 1 (Full Double Album + Bonus Single)](https://youtu.be/HrJB-MItdVY)
+[STEViE_WONDER::DiSCOGS_PROFiLE::DiSCOGRAPHY_iNFO](https://www.discogs.com/artist/18956-Stevie-Wonder)
+<div class="flex3BorderedPaddedROW">
+   
+    <div class="item1">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/DEAR_SARTU_IM_READY_FOR_FALL_FEELINGS.gif" /></div>
+    <div class="item2">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/DEAR_SARTU_IM_READY_FOR_FALL_FEELINGS.gif" /></div>
+    <div class="item3">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/DEAR_SARTU_IM_READY_FOR_FALL_FEELINGS.gif" /></div>
+</div>
+
+<div class="flex-container">
+   
+    <div class="item1">                        <img src="https://i.pinimg.com/750x/30/13/5b/30135bf01bdfabbb1e3bbaa88c83d817.jpg" /></div>
+    <div class="item2">                        <img src="https://i.pinimg.com/750x/46/4e/50/464e5070a0373aea50ef425e527aa612.jpg" /></div>
+    <div class="item3">                        <img src="https://i.pinimg.com/750x/67/ac/78/67ac78499dfbe78dc9d80dcf67a99dcd.jpg" /></div>
+</div>
+
+[Stevie Wonder ~ The Secret Life Of Plants (Live Audio) Roxy Hollywood 1980](https://youtu.be/r1e_lpI5cxk)
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://i.discogs.com/ZlgObIQP6EObzqA3Io-xpL9o_Cb-BUUI3yHtSV37UyI/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTg0/NzYtMTM0OTczNjY5/Mi0zMjU2LmpwZWc.jpeg" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://i.discogs.com/d78Psq5VDP5VtorDKNh9JiEwWUyYccc8OsJfORxUj5A/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTg0/NzYtMTM0OTczNjY5/Ni00NjE5LmpwZWc.jpeg" > 
+      </div>
+    </div>
+  </div>
+</div>
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
@@ -98,6 +168,13 @@
   </div>
 </div>
 
+
+[Stevie Wonder – Stevie Wonder's Journey Through The Secret Life Of Plants](https://www.discogs.com/master/86450-Stevie-Wonder-Stevie-Wonders-Journey-Through-The-Secret-Life-Of-Plants)
+[Stevie Wonder - Innervisions Live Compilation](https://youtu.be/wiOHNJmiYCo)
+[INNERVISIONS (Side I) By Stevie Wonder](https://youtu.be/ZkluFWf0yys)
+[Stevie Wonder - The Original Musiquarium I _ VINYL _ (1982) disco 2 side D](https://youtu.be/HNvF5nHbdmM)
+[Stevie Wonder "VINYL" - The Original Musiquarium I (disc 2 side C) 1982](https://youtu.be/mMRIhouKDUA)
+[Stevie Wonder VINYL - The Original Musiquarium I (disc 1 side B) 1982...](https://youtu.be/HNvF5nHbdmM)
 [Raptors Halftime Show - DJ Jazzy Jeff, Skratch Bastid, Hedspin & Four Color Zack](https://youtu.be/iHxvJObhxs8)
 [Skratch School - Roland DJ-808 - Recreating Run-DMC's "Peter Piper"](https://youtu.be/uf-I0-a9BO0)
 [Roland DJ-505 DJ Controller for Serato Video Manual](https://youtu.be/ix_4gGWgVJ0)
