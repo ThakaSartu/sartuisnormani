@@ -142,6 +142,12 @@
 
 </style>
 ## Hole To Another Universe 
+
+<h2>FLEXBOX FROGGY</h2>
+Dear_Sartu:LAUREN_asWELL, I found a game that helps you learn CSS [FLEXBOX](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) from a post on DEV_dOt_cOm.
+[TRY_FLEXBOX_FROGGY](http://flexboxfroggy.com/)
+[SEE_ORiGiNAL_POST::BY_](https://dev.to/santiagocodes/the-3gs-of-css-flexbox-edition-4b64)
+[ALiST_APART_CSS_GRiDS](https://alistapart.com/article/practical-grid/)
 <div class="sixpanel">
 
   <div class="item1"> <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
