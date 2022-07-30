@@ -453,7 +453,7 @@ Dear_Sartu:LAUREN_asWELL, I found a game that helps you learn CSS [FLEXBOX](http
     <div class="item3">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/DEAR_SARTU_IM_READY_FOR_FALL_FEELINGS.gif" /></div>
 </div>
 
-<div class="flex-container">
+<div class="flex3BorderedPaddedROW">
    
     <div class="item1">                        <img src="https://i.pinimg.com/750x/30/13/5b/30135bf01bdfabbb1e3bbaa88c83d817.jpg" /></div>
     <div class="item2">                        <img src="https://i.pinimg.com/750x/46/4e/50/464e5070a0373aea50ef425e527aa612.jpg" /></div>
