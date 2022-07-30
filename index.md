@@ -81,12 +81,7 @@
   }   
 </style>
 ## Hole To Another Universe 
-<ul>
- <li><a href="https://t.ly/XWoc">1 # HOLE_TO_ANOTHER_UNiVERSE###BLOG###########היים##</a></li>
- <li><a href="https://thakarashard.github.io/RESUME/">2 # TO###MY_RESUME################################</a></li>
- <li><a href="https://thakarashard.github.io/film1">3 # Sartu###SANDBOX#############################</a></li>
- <li><a href="#about">4 # UNiVERSAL_KONTAKT##联系##接触##اتصل##접촉##যোগাযোগ#</a></li>
-  
+[Bishop Bullwinkle Hell To Da Naw,Naw,Naw With Da Bicycle](https://youtu.be/8QxIIz1yEsA)
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
