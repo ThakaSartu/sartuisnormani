@@ -81,6 +81,11 @@
   }   
 </style>
 ## Hole To Another Universe 
+
+
+
+[Blunt Vietnam Vet Marine Tells You Exactly What Happened To Him](https://youtu.be/tixOyiR8B-8)
+[Wayne Gretzky || Career NHL Highlights || 1979-1999 ](https://youtu.be/iRD5Fn8ecsg)
 [Bishop Bullwinkle Hell To Da Naw,Naw,Naw With Da Bicycle](https://youtu.be/8QxIIz1yEsA)
 <div class='twoPanelSpread'>
   <div class='row'>
