@@ -263,12 +263,20 @@ padding-top: 20px;
 
 </style>
 ## Hole To Another Universe 
-## Beyonce::THiS_SONG_iS_FOREVER_HEALiNG
+
+## DEAR_MUNA::PLEASE_SHARE_WiTH_JABDU
+His uncle, one of your brother in laws is in FXcrew... MSK_SEVER should not be there when he watches
+[‘FX CREW’ (Graffiti Writers Crew) New York, 1998 [RARE full graff art VHS documentary archive]](https://youtu.be/Jv7ECeiD1p4)
+<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/fxPaint.PNG">
+
+## Beyonce::THeSe_SONGS_FOREVER_HEALiNG_ME
 [Beyoncé - Me, Myself and I (Video Version)](https://youtu.be/4S37SGxZSMc)
 <img src="https://i.discogs.com/KIHimth04lcZOjvotk_-0XFVWzRcEDseWe-HBLj7JvE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMzcz/NjEtMTQ2Nzc0MDgw/Mi0yMTMzLmpwZWc.jpeg">
 [Cara Delevingne Opens up About Those Weird Megan Thee Stallion Pics](https://www.pride.com/celebrities/2022/7/29/cara-delevingne-opens-about-those-weird-megan-thee-stallion-pics) [Cara, Have You Ever ft. BRANDY_KiDNAPPED_BY_SOME_PERVERT_NORWOOD](https://youtu.be/Xkj1An6Wnec) been accused of something awkward and did not get the chance to clear it up?! Id love to share our story for the ladies of Dance411 to verify so I can get my brides and children returned.
 [Destiny's Child - Emotion](https://youtu.be/xWKdMmH0B-E)
 [Destiny's Child - Cater 2 U](https://youtu.be/juqws1LIH-I)
+[Destiny's Child - Girl](https://youtu.be/ZIszesDaK9U)
+
 <div class="flex3BorderedPaddedROW">
   <div class="item1">
     <a href="https://youtu.be/UE6zfOuYfVI"><img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/monica.PNG" alt="MONiCA_KNOWS_MUNA_AND_##WE_ALL_NEED_FREEDM_FROM_PROSTiTUTION"> </a>
