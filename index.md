@@ -264,9 +264,15 @@ padding-top: 20px;
 </style>
 ## Hole To Another Universe 
 
-
-
-
+## Dear_Muna___MuwaH___MuNi
+### whatever it is these days
+Please share this book with the kids, ERika Id like Coral and Nine to link together someday. Id love to read this to them at the #BiLLY_JEAN_LiBRARY, if I get approved for some work with kids shit by the community. [The Read Aloud Cloud: An Innocent's Guide to the Tech Inside](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119677635) Is a huge gift from the older dudes of our iNFORMATiON_TECHNOLOGY era. I wanna share it with the family family study style so we can all be hip to how to treat <i>THE_CLOUD</i> and stay safe from these kidnappers and treasonist human traffickers that have used social media to frame, blackball, and torture your husband. I want Heather, Lauren, Kelela, all the ladies you dont speak to and visit [LALiBELA in ##LiTTLE_ETHiOPiA](https://www.lalibelala.com/) with the children so you can ground them in habesha culture. Take Erika and Sartu and be brave I got a special person, I did not know I had... And she wanna make it real publicly. Lets get this cleaned up, these women need answers and its not fair for you to be held up by those gay ass pimps. Its affecting other peoples SEX_LiVES
+[By the way this song dont work in our relationship, it sho sound good tho! ~> The S.O.S. Band - Just Be Good To Me](https://www.youtube.com/watch?v=UWVWVMIconI)
+<img src="https://i5.walmartimages.com/asr/041f899d-197e-418f-a2e3-02c9f5ee833b.075d79e1b7053a276ac59192ac0f5a3d.jpeg">
+[Cutie Pie](https://www.youtube.com/watch?v=hEpIQ9kX0tc)
+[When I Hear Music](https://youtu.be/RNSuX4KoWWQ)
+[Using em vs. rem in CSS by Lawrence Eagles](https://blog.logrocket.com/using-em-vs-rem-css/#:~:text=As%20mentioned%20before%2C%20em%20values%20are%20relative%20to,relative%20to%20the%20browser%E2%80%99s%20default%20font-size%20of%2016px.)
+[Let the Music Play (12 Inch Version) - SHANNON::TOMMY_BOY FREESTYLE MUSiC](https://www.youtube.com/watch?v=NCSHF1rm3Y4)
 [NuSHOOZ - I_CANT_WAIT](https://youtu.be/iNngC1Ea2rA)
 [GOOGLE_WEB_FONTS](https://fonts.google.com/)
 <img src="https://www.graffiti.org/oc/owie_aub.jpg">
@@ -290,7 +296,7 @@ padding-top: 20px;
 <img src="https://www.graffiti.org/fresno/sleepwall7.jpg">
 [Billy Ocean - Get Outta My Dreams, Get Into My Car (Official Video)](https://www.youtube.com/watch?v=zNgcYGgtf8M)
 [BiLLY_OCEAN::Caribbean Queen (No More Love On the Run)](https://www.youtube.com/watch?v=VOiZC020nl0)
-[fontsquirrel(https://www.fontsquirrel.com/)
+[fontsquirrel](https://www.fontsquirrel.com/)
 [Change - The Glow Of Love [HQ]](https://www.youtube.com/watch?v=UMOJvKD_26I)
 [It Never Rains (In Southern California) - Tony! Toni! Toné!](https://youtu.be/Yp_5pQGTAtI)
 [Tony! Toni! Toné! - ANNiVERSARY](https://www.youtube.com/watch?v=UviG2rGwi9A)
