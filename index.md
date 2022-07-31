@@ -268,6 +268,7 @@ padding-top: 20px;
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/3.jpg">
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/4.jpg">
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/5.jpg">
+<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/DEAR_SARTU_IM_READY_FOR_FALL_FEELINGS.gif" >
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
@@ -282,6 +283,7 @@ padding-top: 20px;
     </div>
   </div>
 </div>
+<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/NO_SO_CHOOSY_SAUTUZEE.gif">
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/7.jpg">
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/8.jpg">
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/9.jpg">
