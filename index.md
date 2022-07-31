@@ -263,6 +263,11 @@ padding-top: 20px;
 
 </style>
 ## Hole To Another Universe 
+### SUBURBAN_WIFEY_NiGHTMARE
+[KASHDOLL ROBBED IN LA!!!](https://www.youtube.com/watch?v=6s4slL3_jtI)
+
+## I saw Quxube on this hair channel once
+[How To: Install U Part Wig | Natural Wig || Ft. Nadula Hair](https://www.youtube.com/channel/UCn2JXG1R8JPdae0egLPYJsw)
 ## i210_2015_commute
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/137559595&color=%23222222&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/anthonyn98" title="Sneakyyy" target="_blank" style="color: #cccccc; text-decoration: none;">Sneakyyy</a> · <a href="https://soundcloud.com/anthonyn98/barbed-wire-feat-ash-riser" title="Barbed Wire (feat. Ash Riser)" target="_blank" style="color: #cccccc; text-decoration: none;">Barbed Wire (feat. Ash Riser)</a></div>
 
