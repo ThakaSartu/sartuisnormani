@@ -263,6 +263,35 @@ padding-top: 20px;
 
 </style>
 ## Hole To Another Universe 
+
+
+<img src="https://www.graffiti.org/oc/owie_aub.jpg">
+<img src="https://www.graffiti.org/fresno/sleep-bed.jpg"> 
+<img src="https://www.graffiti.org/fresno/sj014.jpg">
+<img src="https://www.graffiti.org/fresno/sleepwall.jpg">
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://www.graffiti.org/fresno/sleepwall2.jpg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT">
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://www.graffiti.org/fresno/sleepwall3.jpg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT"> 
+      </div>
+    </div>
+  </div>
+</div>
+<img src="https://www.graffiti.org/fresno/sleepwall7.jpg">
+
+[BiLLY_OCEAN::Caribbean Queen (No More Love On the Run)](https://www.youtube.com/watch?v=VOiZC020nl0)
+[fontsquirrel(https://www.fontsquirrel.com/)
+[Change - The Glow Of Love [HQ]](https://www.youtube.com/watch?v=UMOJvKD_26I)
+[It Never Rains (In Southern California) - Tony! Toni! Toné!](https://youtu.be/Yp_5pQGTAtI)
+[Tony! Toni! Toné! - ANNiVERSARY](https://www.youtube.com/watch?v=UviG2rGwi9A)
+<img src="https://www.graffiti.org/fresno/hash1.jpg">
+<img src="https://www.graffiti.org/fresno/werk2.jpg">
 ## WHO_WOULD?
 ### ROB_SARTU_OF_ALL_HER_EXOTiC_JEWELERY_FROM_THE_MiDDLE_EAST?
 ### ROB_HER_HUSBAND_OF_ALL_COMMUNiCATiON_DEViCES
