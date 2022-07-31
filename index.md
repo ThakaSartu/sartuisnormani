@@ -263,6 +263,20 @@ padding-top: 20px;
 
 </style>
 ## Hole To Another Universe 
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://images.fineartamerica.com/images-medium-large-5/usa-nevada-black-rock-desert-jaynes-gallery.jpg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT">
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://images.fineartamerica.com/images-medium-large-5/usa-nevada-black-rock-desert-jaynes-gallery.jpg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT"> 
+      </div>
+    </div>
+  </div>
+</div>
 ### SUBURBAN_WIFEY_NiGHTMARE
 [KASHDOLL ROBBED IN LA!!!](https://www.youtube.com/watch?v=6s4slL3_jtI)
 
