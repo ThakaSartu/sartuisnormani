@@ -264,6 +264,7 @@ padding-top: 20px;
 
 </style>
 ## Hole To Another Universe
+[Encore (Extended Version)](https://www.youtube.com/watch?v=ABX0PQjkaLk)
 [Jones Girls Who Can I Run To 1979)(240p H 264 AAC)](https://www.youtube.com/watch?v=JRpKQb9J-nU)
 [The Jones Girls - Children of the Night (Official Soul Train Video)](https://www.youtube.com/watch?v=9mCuHtX0Lao)
 [The Jones Girls - Nights Over Egypt](https://www.youtube.com/watch?v=pzxwZ6wjDAM)
