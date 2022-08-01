@@ -149,7 +149,24 @@
 
 </style>
 ## Hole To Another Universe
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://i.discogs.com/kdwQw1UT7Vc69KdJ1PxNVHMvtFCzxIuEMNYn-PIboEY/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNDg4/MjQtMTQ5NTAxNTgx/MC05NDg3LmpwZWc.jpeg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT">
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://th.bing.com/th/id/R.e06536c1ec6efef97081522f2a76d43b?rik=BuBzf4Xg2uYZBg&riu=http%3a%2f%2fimage.iheart.com%2fbell-ingestion-pipeline-production-umg%2ffull%2f00602567295594_20201217024811397%2f17UM1IM41552_T1_cvrart.jpg&ehk=dghvoDahI4fnpNEl0P1TTuK17kq%2b3vlShRdYkQpNbb4%3d&risl=1&pid=ImgRaw&r=0" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT"> 
+      </div>
+    </div>
+  </div>
+</div>
+[Armageddon It · Def Leppard](https://www.youtube.com/watch?v=GgUnqQbNzoE)
 
+### SUBURBAN_WIFEY_NiGHTMARE
+[KASHDOLL ROBBED IN LA!!!](https://www.youtube.com/watch?v=6s4slL3_jtI)
 # Dear_HAYAT
 ## Sartu_got_robbed
 [Please watch this video, you can feel her terror.](https://www.youtube.com/watch?v=6s4slL3_jtI) As we both know her parents were murdered during that 80s criminal ass regime in [Dire-Dawa](https://en.wikipedia.org/wiki/Dire_Dawa), earlier this week on the phone she left me inspired to look at the [RealEstate_iN_DiRE_DAWA](https://jiji.com.et/houses-apartments-for-sale). And I feel so helpless shes raped and sodomized to the point I often dont recognize her and Im going mad with lonelyness. As you know we are well known in Alpharetta, Hollywood and Venice's telepath communites as a fully telekinetic Tantric couple thats separated by prostitution. People in hollywood think because she is posted on the internet shes not kidnapped. I work for JPL still and I was taken away from my job because all my women got kidnapped. Including Muna, that derlic ass Cracker SEVER_MSK has ruined her, she is so fucking whitewashed and the children get no contact with me they have all caught so much BLACK_ENTERTAiNMENT_NETWORK_DiCK they dont look the same after all the molestation. Can you talk to DAnielle_Mushonga for us DPSS_iS_CLEARLY_HUMAN_TRAFFiCKiNG_WiTH_DFACS
