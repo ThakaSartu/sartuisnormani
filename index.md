@@ -150,7 +150,7 @@
 </style>
 ## Hole To Another Universe
 [Kirk Franklin - I Smile (Official Video) ##DEAR_MUWAH_LUNA__THiS_LiGHTiNG_is_iN_YOUR_GRASP STAGE_STROBE_ON_LINEN_WITH_COLOR_GELS A_RING_LIGHT_UP_TOP_AND_IN_FRONT YOU_CAN_GET_VID_LIKE_THIS_ON_AN_iPHONE](https://www.youtube.com/watch?v=Z8SPwT3nQZ8)
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/236021984&color=%23393a3d&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
 [Telling the Truth - Mary J. Blige](https://www.youtube.com/watch?v=Va3yc7okXQ4)
 <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="xdooWa" data-user="amdsouza92" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/amdsouza92/pen/xdooWa">
