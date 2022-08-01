@@ -149,6 +149,28 @@
 
 </style>
 ## Hole To Another Universe
+<img src="https://i.discogs.com/Gs984BCV01TFnS053AcmBpf7a1v3kkV8jFUTMjhuUVE/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDA0/MjMtMTQxNTkyOTk3/Ny0yMzYwLmpwZWc.jpeg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT">
+[Pink Floyd Another Brick in the Wall parts 1, 2 and 3 :: We don't need no education
+We don't need no thought control
+No dark sarcasm in the classroom
+Teacher, leave them kids alone
+Hey, teacher, leave them kids alone
+All in all it's just another brick in the wall
+All in all you're just another brick in the wall](https://www.youtube.com/watch?v=pRw0Y6SzOtI)
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://i.discogs.com/Gs984BCV01TFnS053AcmBpf7a1v3kkV8jFUTMjhuUVE/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDA0/MjMtMTQxNTkyOTk3/Ny0yMzYwLmpwZWc.jpeg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT">
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://i.discogs.com/Gs984BCV01TFnS053AcmBpf7a1v3kkV8jFUTMjhuUVE/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDA0/MjMtMTQxNTkyOTk3/Ny0yMzYwLmpwZWc.jpeg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT"> 
+      </div>
+    </div>
+  </div>
+</div>
 [Tainted Love / Where Did Our Love Go (Extended Version / Medley)](https://www.youtube.com/watch?v=q84psZX6MbA)
 [Bennie And The Jets (Remastered 2014) ELTON_JOHN](https://www.youtube.com/watch?v=ZBUW433Porw)
 [This Is for the Lover in You](https://www.youtube.com/watch?v=Sn_mS9cZUss)
