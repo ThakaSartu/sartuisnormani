@@ -264,6 +264,18 @@ padding-top: 20px;
 
 </style>
 ## Hole To Another Universe
+
+[Hollywood Boulevard Walking Tour - Los Angeles, California](https://www.youtube.com/watch?v=WBhhOjwVeKw)
+[Posin' Til Closin' (UK 12" Version) · Heatwave](https://www.youtube.com/watch?v=2L6aw0Pba-M)
+[Ai No Corrida - QUINCY JONES '1981](https://www.youtube.com/watch?v=fXmmWBzS-_o)
+[Stomp! · The Brothers Johnson](https://www.youtube.com/watch?v=TFY1_zZ5Nc4)
+[DEAR_MONALEO, GROOVY_YOUTUBE_FiND ~> M.i.c.h.a.e.l * J.a.c.k.s.o.n - Off The Wall (1979)](https://www.youtube.com/watch?v=aDH1EPqyMb4)
+[Strawberry Letter 23 · The Brothers Johnson](https://www.youtube.com/watch?v=rquygdjf0d8)
+[Footsteps in the Dark, Pts. 1 & 2](https://www.youtube.com/watch?v=Dyq9zlYMw9g)
+[Voyage to Atlantis](https://www.youtube.com/watch?v=BQ4jWVon4iE)
+[DEAR_QUXUBE ThiS_iS_2015_JPL_COMMUTE_JAMS_LALiBELA_KNOW_EVERYTHiNG L.T.D. Jeffery Osborne](https://www.youtube.com/watch?v=nXePgT3JiH0)
+[SWV - Rain (Official Video)](https://www.youtube.com/watch?v=QQyXHfOy1UU)
+[SWV - Use Your Heart](https://www.youtube.com/watch?v=0N5hZvXi51c)
 [Encore (Extended Version)](https://www.youtube.com/watch?v=ABX0PQjkaLk)
 [Jones Girls Who Can I Run To 1979)(240p H 264 AAC)](https://www.youtube.com/watch?v=JRpKQb9J-nU)
 [The Jones Girls - Children of the Night (Official Soul Train Video)](https://www.youtube.com/watch?v=9mCuHtX0Lao)
@@ -273,6 +285,22 @@ padding-top: 20px;
 [S.O.S. Band- Even When You Sleep](https://www.youtube.com/watch?v=aX0wGKIgSZU)
 [WEEKEND GIRL (Original Full-Length Album Version) - SOS Band](https://www.youtube.com/watch?v=8BvuSzxcE5o)
 [The S.O.S. Band - Tell Me If You Still Care](https://www.youtube.com/watch?v=GSsTyAVP5j0)
+<img src="https://api.time.com/wp-content/uploads/2012/11/41-2012-11-28t080803z_49263854.jpg">
+[Driving Downtown - Los Angeles 4K - USA 4yearsAgo](https://www.youtube.com/watch?v=Cw0d-nqSNE8)
+Home to the world’s 3rd largest economic area, after Tokyo and New York ($866 Billion in 2015), Los Angeles is the second-most populous city in the United States after New York City. With 4 Million residents and almost 19 Million in the surrounding area, Los Angeles is the largest and most populous city in the state of California and the cultural, financial, and commercial center of Southern California.
+
+The economy of Los Angeles is driven by international trade, entertainment (television, motion pictures, video games, music recording, and production), aerospace, technology, petroleum, fashion, apparel, and tourism. Other significant industries include finance, telecommunications, law, healthcare, and transportation. In the 2017 Global Financial Centres Index, Los Angeles was ranked as having the 19th most competitive financial center in the world, and sixth most competitive in United States (after New York City, San Francisco, Chicago, Boston, and Washington, D.C.).
+
+Los Angeles is located in a large basin bounded by the Pacific Ocean on one side and by mountains as high as 10,000 feet (3,000 m) on the others. The city proper, which covers about 469 square miles (1,210 km2), is the seat of Los Angeles County, the most populated county in the country. 
+
+Los Angeles is the center of the Los Angeles metropolitan area, with 13.1 million residents the second largest in the United States after New York City. It is part of Los Angeles-Long Beach combined statistical area, also the second most populous in the nation with a 2015 estimated population of 18.7 million.
+
+Historically home to the Chumash and Tongva, Los Angeles was claimed by Juan Rodríguez Cabrillo for Spain in 1542 along with the rest of what would become Alta California. The city was officially founded on September 4, 1781, by Spanish governor Felipe de Neve. It became a part of Mexico in 1821 following the Mexican War of Independence. In 1848, at the end of the Mexican–American War, Los Angeles and the rest of California were purchased as part of the Treaty of Guadalupe Hidalgo, becoming part of the United States. Los Angeles was incorporated as a municipality on April 4, 1850, five months before California achieved statehood. The discovery of oil in the 1890s brought rapid growth to the city. The completion of the Los Angeles Aqueduct in 1913, delivering water from Eastern California, later assured the city's continued rapid growth.
+
+Nicknamed the "City of Angels" partly because of its name's Spanish meaning, Los Angeles is known for its Mediterranean climate, ethnic diversity, and sprawling metropolis. The city is also one of the most substantial economic engines within the nation, with a diverse economy in a broad range of professional and cultural fields. Los Angeles is also famous as the home of Hollywood, a major center of the world entertainment industry. A global city, it has been ranked 6th in the Global Cities Index and 9th in the Global Economic Power Index. The Los Angeles combined statistical area also has a gross metropolitan product of $831 billion (as of 2008), making it the third-largest in the world, after the Greater Tokyo and New York metropolitan areas. Los Angeles hosted the 1932 and 1984 Summer Olympics and will host the event for a third time in 2028.
+
+<img src="https://static0.thetravelimages.com/wordpress/wp-content/uploads/2018/09/HawaiiVolcano.jpg">
+[The Very Best Of Soul - Teddy Pendergrass, The O'Jays, Isley Brothers, Luther Vandross, Marvin Gaye](https://www.youtube.com/watch?v=VzBvDChOvrU)
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/2.jpg">
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/1.jpg">
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/3.jpg">
