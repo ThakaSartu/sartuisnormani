@@ -149,6 +149,8 @@
 
 </style>
 ## Hole To Another Universe
+<img src="https://installmd.com/upload/images/20210703/16253198381381.jpg">
+[How to use the curl command in Linux command line tool and library for transferring data with URLs](https://installmd.com/i/cli/curl)
 [Baltimora - Tarzan Boy (extended original)](https://www.youtube.com/watch?v=gSQ_iJ7aXKQ)
 <img src="https://ductam.info/wp-content/uploads/2018/10/good_curl_logo-2048x783.png">
 <img src="https://i.discogs.com/Gs984BCV01TFnS053AcmBpf7a1v3kkV8jFUTMjhuUVE/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDA0/MjMtMTQxNTkyOTk3/Ny0yMzYwLmpwZWc.jpeg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT">
