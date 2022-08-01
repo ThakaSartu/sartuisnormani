@@ -150,6 +150,10 @@
 </style>
 ## Hole To Another Universe
 
+#### HTAU_THEME_MUSiC_RN
+[Ridge Racer - Rare Hero](https://www.youtube.com/watch?v=l3bhNLtXvHA) &#128293;&#128293;&#128293;
+&#128293;&#128293;&#128293;&#128293;&#128293;
+
 [Jam On It](https://www.youtube.com/watch?v=apnh_MpXlTE)
 [When I Hear Music](https://www.youtube.com/watch?v=WRcLYanZrho)
 <img src="https://149455152.v2.pressablecdn.com/wp-content/uploads/2018/09/Goal-Zero-Sherpa-100AC.jpg">
