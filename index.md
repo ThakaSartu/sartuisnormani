@@ -149,7 +149,7 @@
 
 </style>
 ## Hole To Another Universe
-<iframe src="https://archive.org/embed/arcade_samsho4" width="90%" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 [SAMURAi_SHOWDOWN](https://archive.org/details/arcade_samsho) 
 
 ## LAPL, YOUR_SECURiTY_GAURDS_ARE_A_PESTiLENCE
