@@ -153,7 +153,7 @@
 #### HTAU_THEME_MUSiC_RN
 [Ridge Racer - Rare Hero](https://www.youtube.com/watch?v=l3bhNLtXvHA) &#128293;&#128293;&#128293;
 &#128293;&#128293;&#128293;&#128293;&#128293;
-## Dear_JABDU_and_CoraL
+## Dear_NiNE_JABDU_and_CoraL
 Here, this was my release day purchase after working hard to buy my Playstation1 cash. Its RAVE_RACER_iN_JAPAN and Ridge_Racer in tha states [PlayStation history: From console neophyte to all-conquering veteran](https://www.androidauthority.com/playstation-history-1220628/)
 <iframe width="80%" height="315" src="https://www.youtube.com/embed/m8nsUcAwkj8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
