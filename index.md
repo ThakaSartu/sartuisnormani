@@ -150,6 +150,22 @@
 </style>
 ## Hole To Another Universe
 
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://i.discogs.com/q7JEPdpNa6MhgtRZVF2Lm7q8iXPiiw0SlVp0EoVN8Gc/rs:fit/g:sm/q:90/h:501/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NTcy/MjMtMTQ4NzQ2OTU1/My0zNDk3LmpwZWc.jpeg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT">
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://i.discogs.com/q7JEPdpNa6MhgtRZVF2Lm7q8iXPiiw0SlVp0EoVN8Gc/rs:fit/g:sm/q:90/h:501/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NTcy/MjMtMTQ4NzQ2OTU1/My0zNDk3LmpwZWc.jpeg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT"> 
+      </div>
+    </div>
+  </div>
+</div>
+[Bruce Springsteen - Dancing In the Dark](https://youtu.be/129kuDCQtHs)
 [Journey - Don't Stop Believin' (Official Audio)](https://youtu.be/1k8craCGpgs)
 [Starship - We Built This City](https://www.youtube.com/watch?v=IDI2WQJyE7I)
 [More Than a Feeling](https://www.youtube.com/watch?v=ufQUxoidxkM)
