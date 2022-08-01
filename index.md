@@ -150,11 +150,35 @@
 </style>
 ## Hole To Another Universe
 
+## DEAR_MUNA
+You know I rag you guys about being lame all the time but this is serious prostitution allegations or not... The condition Justin has is called [Bell's palsy](https://www.mayoclinic.org/diseases-conditions/bells-palsy/symptoms-causes/syc-20370028). And he connected with mad prostituted women. Those pimps and ##PSYCHO_JONS have nerve gas. You can ask Erika, Sartu, Coral or Quxube, Matt Field and possibly SEVER_MSK but I have to be right if I accuse (SEVER##AWR_MSK)[https://www.graffiti.org/sever/index.html]. I cant be wrong with that guy. He dont realize that when we were early teens we looked up to him. So him stealing Muna is like yo look at those little boys at the basketball court. That skinny flat chested [DoubleDucher](https://www.youtube.com/watch?v=Kh1rgPIkWKA) is gonna be mine and he will never share a meal with her again once my plan is complete. Ill dissolve any family he builds. ##PiMP_SHiT_MAH_NiGGAH -SiGNED ATLANTAS_MOST_AGGY_NYMPHO_HUMANTRAFFiKiNG_PiMP_THiNG...
+#### BACK_TO_JUSTiN
+I wish people would listen to the people outside about the chemical weapon problem in Los Angeles. I have been attacked alot and the poison make certain muscle groups contract violently to a freeze or you loose all control of the muscle group. Justin spend time outside... Yes I have been blackballed and being a roof dweller I dont have the disadvantage of closed in permanet housing, and that is uncirculated air. Drink lots of water comfortably and excercise moderately, break a sweat and that [keeps ya body clean, Ha.](https://www.youtube.com/watch?v=3yylD-wixT0) So despite my aversion to prostitution rap and its related fallout I do understand that alot of people are lonely for ##quarantine so the ##CORONA_BAE while it needs to be explained, we want you healthy... AGRESSiVELY_RESEARCH_NERVE_GAS they were using Sarin and Anthrax for a while [Nerve Gas Poisoning](https://www.drugs.com/cg/nerve-gas-poisoning.html) I just know because of the symptoms, like these super pusFilled blisters that I got from an attack on my ass at the central library while I was using the computer. I still have the scabs for samples if you know someone responsible in law enforcement that wants to takle it.  
+
+[JUSTIN BIEBER REVEALS SCARY DIAGNOSIS ...Has Caused Facial Paralysis](https://www.tmz.com/2022/06/10/justin-bieber-battling-virus-that-has-paralyzed-part-of-his-face/)
+[Cherrelle - Saturday Love - Lyrics](https://www.youtube.com/watch?v=efLcgUQmyT8) 
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://i926.photobucket.com/albums/ad105/ichiban619/various%20graffiti%20magazines/12OzProphetIssue61997-AEROHOLICS-26.jpg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT">
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://i926.photobucket.com/albums/ad105/ichiban619/various%20graffiti%20magazines/12OzProphetIssue61997-AEROHOLICS-28.jpg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT"> 
+      </div>
+    </div>
+  </div>
+</div>
+
+[IchiBan`s Street Scribers Yard](http://street-scribers-yard.blogspot.com/)
 [SAMURAi_SHOWDOWN](https://archive.org/details/arcade_samsho) 
 
 ## LAPL, YOUR_SECURiTY_GAURDS_ARE_A_PESTiLENCE
 THE_FAT_BALD_ONE_ALWAYS_STALKS_AND_DiSTRACTS_ME_AT_CENTRAL
-If I cant breath in my fucking mask and I am more than 6 feet away from another person I should have the right to use the library! Its so distracting... THEY_TiME_THE_SHiT because alot of them work extra shift for the pimps and shit, so its personal. 
+If I cant breath in my fucking mask and I am more than 6 feet away from another person I should have the right to use the library with my mask off! Its so distracting!!! THEY_TiME_THE_SHiT because alot of them work extra shift for the pimps and shit, so its personal. 
 - I am an open source developer, please respect that I have been robbed and blackballed and the library is the place I get my shit together. Stop being so cruel, you guys kicked me out of the Octavia Center while I was filling out paperwork. Then I got denied acces because I am not doing anything creative and I am not permitted to download anything or browse the internet... [##TMZ_WHATS_WRONG_WiTH_THiS_LiBRARY](https://www.bing.com/search?q=porn+library+santa+monica&PC=U316&FORM=CHROMN) [AND_YOU_KNOW_MY_MiSSiNG_ASS_FAMiLY](https://www.cbsnews.com/losangeles/news/adult-film-shot-at-santa-monica-public-library-during-business-hours-sparks-outrage/) Appears in porn and I have been menaced in the library and on the train with guys flashing me porn of kidnapped dance411 members... "You'll never see your wives again" they say
 
 [Adult Film Shot At Santa Monica Public Library During Business Hours Sparks Outrage](https://www.cbsnews.com/losangeles/news/adult-film-shot-at-santa-monica-public-library-during-business-hours-sparks-outrage/)
@@ -195,9 +219,11 @@ from POiSONOUS_DARTS
 [Ghostface Killah - Poisonous Darts (Official Audio)](https://www.youtube.com/watch?v=oo26-NdzqbE)
 [Ghostface Killah · Box In Hand](https://www.youtube.com/watch?v=oiG-DJ37wXQ)
 <img src="https://cdn.f1connect.net/compress/photo/location/8fb167dad21040dbadabd1bc8ce0d9a6/c3a51d6c-4551-4b80-bd77-22b519c6d928.png">
+
 [SARTU_WEARiNG_MY_BROTHER MEMORiAL_STYLE](https://www.pinterest.com/pin/476114991866603327)
 [SARTU_iN_AFRO_WiG The ##HUMAN_TRAFFiCKeRs MADE_HER_CUT_HER_MANE_OFF](https://www.pinterest.com/pin/476114991867389020)
 [Y2K baddie Outfit inspo | Look is in my bio ❤️](https://www.pinterest.com/pin/476114991868686622/?mt=login)
+
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
