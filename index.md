@@ -264,8 +264,14 @@ padding-top: 20px;
 
 </style>
 ## Hole To Another Universe
-
+[DEAR_ERiKA_MUNA_KELELA_LALiBELA_QUXUBE KAMPiRE JENNiFER, Heather, Sandy, Sartu_Lauren - LiSTEN_TO_Africa_BY_TOTO](https://www.youtube.com/watch?v=FTQbiNvZqaY)
+<h2>	(╯°□°)╯︵ ʞooqǝɔɐɟ </h2>
+#### HEATWAVE = VENiCe_HOLLYWiERD_JON_CULTURE
+### A_PiMP = A_HUSBANDS_DELiQUENT_JON
 [Hollywood Boulevard Walking Tour - Los Angeles, California](https://www.youtube.com/watch?v=WBhhOjwVeKw)
+<h2>	(╯°□°)╯︵ ʞooqǝɔɐɟ </h2>
+
+[Gangsters of the Groove · Heatwave](https://www.youtube.com/watch?v=AyHhzwEhygQ)
 [Posin' Til Closin' (UK 12" Version) · Heatwave](https://www.youtube.com/watch?v=2L6aw0Pba-M)
 [Ai No Corrida - QUINCY JONES '1981](https://www.youtube.com/watch?v=fXmmWBzS-_o)
 [Stomp! · The Brothers Johnson](https://www.youtube.com/watch?v=TFY1_zZ5Nc4)
@@ -365,6 +371,7 @@ I want Heather, Lauren, Kelela, all the ladies you dont speak to and visit [LALi
     </div>
   </div>
 </div>
+<h2>	(╯°□°)╯︵ ʞooqǝɔɐɟ </h2>
 <img src="https://www.graffiti.org/fresno/sleepwall7.jpg">
 [Billy Ocean - Get Outta My Dreams, Get Into My Car (Official Video)](https://www.youtube.com/watch?v=zNgcYGgtf8M)
 [BiLLY_OCEAN::Caribbean Queen (No More Love On the Run)](https://www.youtube.com/watch?v=VOiZC020nl0)
