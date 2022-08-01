@@ -542,7 +542,7 @@ puis créer une instance le MediaPlayer en passant la div.
 Les controls sont ajoutés dynamiquement.
 -->
   <div class="media-player">
-    <video class="made-player-video" poster="https://www.pinkvilla.com/files/styles/amp_metadata_content_image/public/cardi_b_normani_slam_trolls_for_suggesting_wild_side_shouldve_been_a_solo.jpg">
+    <video class="made-player-video" poster="">
      <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/NormaniWildSideOfficialVideoftCardiB.mp4" type="video/mp4">
     
      <p>Your user agent does not support the HTML5 Video element.</p>
@@ -576,6 +576,7 @@ On peut un peu contrôler le player de manière externe (play, pause, son,...)
 You know prostitution clans often send the sex slaves out with themes like maids, police etc... Villiage People type shit. You are in the recording industry, she was a fellow instructor at Dance411 on moreland ave. You got a lot of LaFace records on your wall I know you know someone that can get me to my family. Muna was supposed to be dead but she Erika, and my 10 year old Coral are in prostitution. You may have heard about the RnB_Molestors of yester year calling her LaRoc. I just know you know something that can reunite us, because Muna singing as Muni Long on Jimmy Kimmel and her friends who sold her into prostitution took me to a staged funeral where they had duped the whole family into attending, That was my last free conversation with Sartu, now shes some hairy bastards prostitute and I have had to defend myself from Organ Harvesting, particularly the penis choppers. Riad and Travis Scott would menace me about Organ harvesting both of us in front of our clan, children and all AM57, that what we call ourselves. You guys never skate or paint graffiti so you dont get that we are the continuation of a legendary Atlanta Art Collective AM7 and we need protection to create art and now we are into Web Development. I am a polygamist, ask Ella Mai, verify me and help us stop their sex trafficking... HUMAN_TRAFFiCKiNG_iS_HiGHLY_iLLEGAL
 </p>
 <img src="https://www.thejacobsonfirmpc.com/wp-content/uploads/2016/12/kash-logo-reg.jpg">
+
 [WHOSAMPLED::MiSSYs_SAMPLES_FOR_MY_STRUGGLES](https://www.whosampled.com/Missy-Elliott/My-Struggles/)	
 [DEAR_CORAL_MEYU_JABDU_NiNE_CYNTHiA_WONDERFUL_YODA ya aunt gonna have a baby in some time and I want you guys to practice being alert to each others needs and reporting to your mothers](https://www.msn.com/en-us/lifestyle/family/big-brother-warns-mom-about-baby/vi-AAZZKKQ?ocid=msedgntp&cvid=65ab8bc11ab0406f856d2ccf79bede7b&category=foryou)
 
@@ -584,10 +585,12 @@ You know prostitution clans often send the sex slaves out with themes like maids
 [THE_CROWN_PROSECUTION_SERVICE](https://www.cps.gov.uk/)	
 [THE LAND OF NO MEN: Kenya's Women-Only Village](https://www.youtube.com/watch?v=-QY8FALExGA)
 <span class="neonText">አዳምም አለ። ይህች አጥንት ከአጥንቴ ናት፥ ሥጋም ከሥጋዬ ናት፤ እርስዋ ከወንድ ተገኝታለችና ሴት ትባል።</span>
-<p> Dear Sartu, since California has a climate very similar to ##ETHiOPiA_as_WE_KNOWiT. Coffee might be a good crop in addition to cannabis. Tobacco maybe? I spent time with our family in 
+<p> Dear Sartu, since California has a climate very similar to ##ETHiOPiA_as_WE_KNOWiT. Coffee might be a good crop in addition to cannabis. Tobacco maybe? I spent time with our family in  
+
 [REiDsViLLE](https://en.wikipedia.org/wiki/Reidsville,_Georgia)
 where my family friend Coalas and Fred jr grew at an eary pre-Watchtower point Tobacco, and later to sqaush, melons, and leafygreens. I did not know that tobacco bit, however Vickye used to always spout off details about the family members of their Georgia settlement as it was described to me. So anyway after getting aquainted with "Brother" Benny Willams I always looked forward to a trip to hear on of his sermons. After the Kingdom hall there was a dinner at a local familys house to give the speaker of the "talk" as we called them some <span class="neonText">HOSPiTALiTY</span>. One one occasion they took Vickye and I to pick some squash from their still attatched to the vine squash farm lushilusly grown on thier small southern family commercial farm near Claxton where Colas worked. There wwas a cake factory that made mostly holiday fruitcake year around for the winter christian holiday Christmas. Them things dont tast that good but they last a long ass time. In this time of need Muna will not even bring me fruitcake... Just another Erika... But, since technology has ousted me at the money earning level from child molestation allegations, I think pursuing farming is an option I want to explore for my slice of caring for this family's needs
 	</p>
+
 [SEEDS OF GOLD: A faster way to grow coffee and earn from it](https://www.youtube.com/watch?v=PfGXrOuOeMU)
 [African Village Life, Visiting Cows On A Farm, Drinking Raw Milk.](https://www.youtube.com/watch?v=VjXpM3A-lhY)
 [FARM CLINIC: The 19th edition of Seeds of Gold](https://www.youtube.com/watch?v=y1anIIH2eUU)
@@ -606,6 +609,7 @@ where my family friend Coalas and Fred jr grew at an eary pre-Watchtower point T
 
 <h2>I need to get my daughter out of a molesters hands (・о・) </h2>
 <h2 class="neonText"> Its been 757 days since I have seen our daughter ##CORAL_IRIS_KELLY. </h2> 
+
 Her mother mother Erika Renee Kelly was kidnapped on Feb 2,2020. A local Atlanta Matt Field bragged about it on Facebook stating "I_SOLD_HER. I found her near Venice beach California and my tattooist Kennie_Davis of ##Jolly_Roger_Tattoo in _Stockbridge#Georgia was not too far from the scene. Erika and I were not estranged when she disappeared as 
 [ESSENCE_MAGAZiNE_STATED](https://www.essence.com/news/erika-kelly-missing-atlanta-georgia/) we were coparenting. I was laid off from my IT job at [Ionic Security](https://www.linkedin.com/company/ionic-security) after my work was repeatedly sabotaged by my manager. I opened a case with ##Fulton_County_Family_Services two months before our eviction from our ##East_Atlanta_Home_at_631_Moreland_Ave_in_Atlanta_Georgia they failed to process us after repeated visits and calls. I took odd jobs and even scored a mural gig with 
 [Mercedes_BenZ_Stadium](https://mercedesbenzstadium.com/) for the 
@@ -668,7 +672,8 @@ Sex educator and artist Betty Dodson had been teaching her famous Bodysex worksh
 <a href="https://www.w3.org/Style/LieBos3e/em.en.html"> How To Style Text Elements with Font, Size, and Color in CSS </a>
 <a href="https://www.w3.org/Style/LieBos3e/em.en.html">The amazing em unit and other best practices </a>
 <a href="https://clagnut.com/blog/348/"> How to size text using ems </a>
-<span class="neonText">አዳምም አለ። ይህች አጥንት ከአጥንቴ ናት፥ ሥጋም ከሥጋዬ ናት፤ እርስዋ ከወንድ ተገኝታለችና ሴት ትባል።</span>	
+<span class="neonText">አዳምም አለ። ይህች አጥንት ከአጥንቴ ናት፥ ሥጋም ከሥጋዬ ናት፤ እርስዋ ከወንድ ተገኝታለችና ሴት ትባል።</span>
+
 [THiS_iS_NOT_HOW_HEALTHY_AFRiCA##OPERATES](https://www.youtube.com/watch?v=EPoXBbigVeo) 
 [Sexuality: A Graphic Guide | Launch Event](https://youtu.be/jOIbOMWBHHM) 
 [The Freeze Response and Sexual Assault: PTSD and Trauma Recovery](https://www.youtube.com/watch?v=pes7H4ECTdw) 
@@ -693,13 +698,16 @@ Sex educator and artist Betty Dodson had been teaching her famous Bodysex worksh
 Video courtesy of 
 <a href="https://www.bigbuckbunny.org/" target="_blank">Big Buck Bunny</a>.
 </p>
+
 [Compiz-like effects in Enlightenment 17](https://www.youtube.com/watch?v=TQPsCDJUti0) 
 I want a Macintosh for a lot of SHIT!! BUT I think we will do better as 
 [PODCASTERS_USiNG_LiNUX](https://rss.com/podcasts/bubblegumpop/)
 . Download [UBUNTU_STUDiO](https://ubuntustudio.org/)
  if you have [access_to_a_computer](https://www.openglobalrights.org/covid-19-exposes-why-access-to-internet-is-human-right/)
- and
- [INSTALL_TO_USB_SO_YOU_CAN_KEEP_YOUR_DATA_AND_THE_BUSiNESS_PORTABLE](https://help.ubuntu.com/community/Ubuntu%20Studio%20Installation)  I_PRAY_YOUR_PiMP_DOES_NOT_CHECK your orfices for [USB_STiCKS](https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/v2/78cc6b05-96fb-5cb0-b97c-1517ec410e89/ShortForm-Generic-480p-16-9-1409173089793-rpcbe5.mp4). When I can save up enough change Im gonna get a thinkpad replacement and run [ENLiGHTENMENT](https://www.elivecd.org/). I cant make a clear argument here but I want you to keep your head productive [,WATCH_THiS there are not many videos on this platform](https://www.youtube.com/watch?v=aCH18F4OtXQ). Those pimps are not smart and I pray they dont kill you. The rapes are bade enough. Remember the Chair rapes in VENiCE, and those sidewalk rapes. THIS_PLACE... We going to be ok, I will wait for you forever ok. You are not alone. I am still your husband, and only my penis can heal you. I miss our old webseries on iNSTAGRAM that moved to Facebook, then LiNKEDiN, then Facebook... They all hid your prostitution fueled [gangrapes](https://www.hindustantimes.com/videos/world-news/us-influencer-gangraped-in-pakistan-by-3-men-netizens-condemn-shameful-act-101658467051066.html) since their employees were buying you from sex traffickers. Its happening in a lot of places, I remember the johns of Venice laughed at you not remembering that they hit it as they menaced me on the boardwalk [U.O.E.N.O TYPESHiT](https://www.youtube.com/watch?v=cMJrfSTI0Xg).
+ and 
+ [INSTALL_TO_USB_SO_YOU_CAN_KEEP_YOUR_DATA_AND_THE_BUSiNESS_PORTABLE](h://help.uttpsbuntu.com/community/Ubuntu%20Studio%20Installation)
+
+   I_PRAY_YOUR_PiMP_DOES_NOT_CHECK your orfices for [USB_STiCKS](https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/v2/78cc6b05-96fb-5cb0-b97c-1517ec410e89/ShortForm-Generic-480p-16-9-1409173089793-rpcbe5.mp4). When I can save up enough change Im gonna get a thinkpad replacement and run [ENLiGHTENMENT](https://www.elivecd.org/). I cant make a clear argument here but I want you to keep your head productive [,WATCH_THiS there are not many videos on this platform](https://www.youtube.com/watch?v=aCH18F4OtXQ). Those pimps are not smart and I pray they dont kill you. The rapes are bade enough. Remember the Chair rapes in VENiCE, and those sidewalk rapes. THIS_PLACE... We going to be ok, I will wait for you forever ok. You are not alone. I am still your husband, and only my penis can heal you. I miss our old webseries on iNSTAGRAM that moved to Facebook, then LiNKEDiN, then Facebook... They all hid your prostitution fueled [gangrapes](https://www.hindustantimes.com/videos/world-news/us-influencer-gangraped-in-pakistan-by-3-men-netizens-condemn-shameful-act-101658467051066.html) since their employees were buying you from sex traffickers. Its happening in a lot of places, I remember the johns of Venice laughed at you not remembering that they hit it as they menaced me on the boardwalk [U.O.E.N.O TYPESHiT](https://www.youtube.com/watch?v=cMJrfSTI0Xg).
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
@@ -710,7 +718,8 @@ I want a Macintosh for a lot of SHIT!! BUT I think we will do better as
     </div>
     <div class='panelColumn'>
       <div class='rightColumn'>
-           <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://pbs.twimg.com/media/FN_BTKZXsAQRoHj?format=jpg&name=large" alt=""> </a>
+
+           <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"> <img src="https://pbs.twimg.com/media/FN_BTKZXsAQRoHj?format=jpg&name=large" alt=""> </a>
         
       </div>
     </div>
@@ -722,7 +731,7 @@ I want a Macintosh for a lot of SHIT!! BUT I think we will do better as
 [::COMPiZ_FUSiON_ON_UBuNTu_LiNUX:: DEAR_MAMA_IMAN__THiS_iS_HOW_MY_DESKTOP_LOOK_12years_AGO_ASK_HEATHER](https://www.youtube.com/watch?v=USedxVrU2Ko) [3D Rotating and Wobbly Window Effects in Kali | How to Install Compiz Fusion in Kali 2020.4 | Ethica](https://youtu.be/IwcwIAsqEgU)
 
 <h1>TWiTTER_LiKE_PiNTEREST_AND_FACEBOOK & LiNKEDiN
- ##SUPRESSED_SARTU's
+##SUPRESSED_SARTU's
 ##MiSSiNG_PERSONS_CASE </h1>
 
 <div class="flex-container">
@@ -858,7 +867,9 @@ Genre:	Hip Hop, Funk / Soul
 Style:	Disco
 ```
 <h2>Since i couldn’t remove all my tattoos I’m getting them covered</h2>
+
 [https://twitter.com/kashdoll/status/1129563640259121153/photo/1](https://twitter.com/kashdoll/status/1129563640259121153/photo/1)
+
 <div class="sixpanel">
   <div class="item1"> <img src="https://pbs.twimg.com/media/D60EAyRU8AA6HPZ?format=jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
   <div class="item2"> <img src="https://pbs.twimg.com/media/D60EAyRU8AA6HPZ?format=jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
