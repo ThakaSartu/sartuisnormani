@@ -149,18 +149,446 @@
 
 </style>
 ## Hole To Another Universe
+
 [Journey - Don't Stop Believin' (Official Audio)](https://youtu.be/1k8craCGpgs)
 [Starship - We Built This City](https://www.youtube.com/watch?v=IDI2WQJyE7I)
 [More Than a Feeling](https://www.youtube.com/watch?v=ufQUxoidxkM)
 [DEAR_ERiKA_MUNA_KELELA_LALiBELA_QUXUBE KAMPiRE JENNiFER, Heather, Sandy, Sartu_Lauren - LiSTEN_TO_Africa_BY_TOTO](https://www.youtube.com/watch?v=FTQbiNvZqaY)
 <h2>	(╯°□°)╯︵ ʞooqǝɔɐɟ </h2>
+# SARTUs_PROPOSAL_PLAYER
+Dear_SARTU
+Im working on this embeddable player. Hint, Hint, chuckles... iN_BED_ABLE. I need you bad, im so lonely. You have been run through my playlist confirms its time for you to heal and recover. Here, im working on it but its not working on the page. I just dont know the answer so Im studying JavaScript. Its the prerequisite for [Node.js Competency](https://nodejs.org/en/)
+<div class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="PoREzyQ" data-user="thakarashard"  data-prefill='{"title":"HTML Audio Player","description":"HTML Audio Player","tags":["html","javascript","player","audio"],"scripts":[],"stylesheets":[]}'>
+  <pre data-lang="html">
+&lt;html lang="en" dir="ltr">
+  &lt;head>
+    &lt;meta charset="utf-8">
+    &lt;link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+    &lt;script src="https://kit.fontawesome.com/a062562745.js" crossorigin="anonymous">&lt;/script>
+    &lt;title>MP3 Player&lt;/title>
+    &lt;link rel=stylesheet href="style.css" media=all> 
+  &lt;/head>
+  &lt;body>
+
+
+&lt;audio preload="metadata" id="myAudio" ontimeupdate="onTimeUpdate()">
+  &lt;!-- &lt;source src="audio.ogg" type="audio/ogg"> -->
+  &lt;source id="source-audio" src="" type="audio/mpeg">
+  Your browser does not support the audio element.
+&lt;/audio>
+
+&lt;div class="player-ctn">
+  &lt;div class="infos-ctn">
+    &lt;div class="timer">00:00&lt;/div>
+    &lt;div class="title">&lt;/div>
+    &lt;div class="duration">00:00&lt;/div>
+  &lt;/div>
+  &lt;div id="myProgress">
+    &lt;div id="myBar">&lt;/div>
+  &lt;/div>
+  &lt;div class="btn-ctn">
+     &lt;div class="btn-action first-btn" onclick="previous()">
+        &lt;div id="btn-faws-back">
+          &lt;i class='fas fa-step-backward'>&lt;/i>
+        &lt;/div>
+     &lt;/div>
+     &lt;div class="btn-action" onclick="rewind()">
+        &lt;div id="btn-faws-rewind">
+          &lt;i class='fas fa-backward'>&lt;/i>
+        &lt;/div>
+     &lt;/div>
+     &lt;div class="btn-action" onclick="toggleAudio()">
+        &lt;div id="btn-faws-play-pause">
+          &lt;i class='fas fa-play' id="icon-play">&lt;/i>
+          &lt;i class='fas fa-pause' id="icon-pause" style="display: none">&lt;/i>
+        &lt;/div>
+     &lt;/div>
+     &lt;div class="btn-play" onclick="forward()">
+        &lt;div id="btn-faws-forward">
+          &lt;i class='fas fa-forward'>&lt;/i>
+        &lt;/div>
+     &lt;/div>
+     &lt;div class="btn-action" onclick="next()">
+        &lt;div id="btn-faws-next">
+          &lt;i class='fas fa-step-forward'>&lt;/i>
+        &lt;/div>
+     &lt;/div>
+     &lt;div class="btn-mute" id="toggleMute" onclick="toggleMute()">
+        &lt;div id="btn-faws-volume">
+          &lt;i id="icon-vol-up" class='fas fa-volume-up'>&lt;/i>
+          &lt;i id="icon-vol-mute" class='fas fa-volume-mute' style="display: none">&lt;/i>
+        &lt;/div>
+     &lt;/div>
+  &lt;/div>
+  &lt;div class="playlist-ctn">&lt;/div>
+&lt;/div>
+&lt;script src=app.js>&lt;/script>
+
+  &lt;/body>
+&lt;/html>
+</pre>
+  <pre data-lang="css">
+#myProgress {
+  width: 100%;
+   background-color: #d9d9f2; 
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+#myBar {
+  width: 0%;
+  height: 5px;
+  background-color: #ffc266;
+  border-radius: 10px;
+}
+
+.logo {
+  fill: red;
+}
+
+.btn-action{
+  cursor: pointer;
+  padding-top: 10px;
+  width: 30px;
+}
+
+.btn-ctn, .infos-ctn{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.infos-ctn{
+padding-top: 20px;
+}
+
+.btn-ctn > div {
+ padding: 5px;
+ margin-top: 18px;
+ margin-bottom: 18px;
+}
+
+.infos-ctn > div {
+ margin-bottom: 8px;
+ color: #ffc266;
+}
+
+.first-btn{
+  margin-left: 3px;
+}
+
+.duration{
+  margin-left: 10px;
+}
+
+.title{
+  margin-left: 10px;
+  width: 610px;
+  text-align: center;
+}
+
+.player-ctn{
+  border-radius: 0px;
+  width: 90%;
+  padding: 10px;
+  background-color: grey;
+  margin:auto;
+  margin-top: 5px;
+}
+
+.playlist-track-ctn{
+  display: flex;
+  background-color: #c9ff23;
+  margin-top: 3px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.playlist-track-ctn:last-child{
+  border: 1px solid #ffc266; 
+}
+
+.playlist-track-ctn > div{
+  margin:10px;
+}
+.playlist-info-track{
+  width: 80%;
+}
+.playlist-info-track,.playlist-duration{
+  padding-top: 7px;
+  padding-bottom: 7px;
+  color: grey;
+  font-size: 14px;
+  pointer-events: none;
+}
+.playlist-ctn{
+   padding-bottom: 20px;
+}
+.active-track{
+  background: #4d4d4d;
+  color: #ffc266 !important;
+  font-weight: bold;
+  
+}
+
+.active-track > .playlist-info-track,.active-track >.playlist-duration,.active-track > .playlist-btn-play{
+  color: #fff !important;
+}
+
+
+.playlist-btn-play{
+  pointer-events: none;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.fas{
+  color: #ffcaa6;
+  font-size: 20px;
+}</pre>
+  <pre data-lang="js">  function createTrackItem(index,name,duration){
+    var trackItem = document.createElement('div');
+    trackItem.setAttribute("class", "playlist-track-ctn");
+    trackItem.setAttribute("id", "ptc-"+index);
+    trackItem.setAttribute("data-index", index);
+    document.querySelector(".playlist-ctn").appendChild(trackItem);
+
+    var playBtnItem = document.createElement('div');
+    playBtnItem.setAttribute("class", "playlist-btn-play");
+    playBtnItem.setAttribute("id", "pbp-"+index);
+    document.querySelector("#ptc-"+index).appendChild(playBtnItem);
+
+    var btnImg = document.createElement('i');
+    btnImg.setAttribute("class", "fas fa-play");
+    btnImg.setAttribute("height", "40");
+    btnImg.setAttribute("width", "40");
+    btnImg.setAttribute("id", "p-img-"+index);
+    document.querySelector("#pbp-"+index).appendChild(btnImg);
+
+    var trackInfoItem = document.createElement('div');
+    trackInfoItem.setAttribute("class", "playlist-info-track");
+    trackInfoItem.innerHTML = name
+    document.querySelector("#ptc-"+index).appendChild(trackInfoItem);
+
+    var trackDurationItem = document.createElement('div');
+    trackDurationItem.setAttribute("class", "playlist-duration");
+    trackDurationItem.innerHTML = duration
+    document.querySelector("#ptc-"+index).appendChild(trackDurationItem);
+  }
+
+  var listAudio = [
+    {
+      name:"##AMEL_LARRiEUX  - I_DO_TAKE##SARTU",
+      file:"https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/audio/Amel_Larrieux_iDoTake__SARTU_I_DO_TAKE_YOU_AS_MY_WIFE_PLEASE_RESPOND_IN_PHYSICALITY.mp3",
+      duration:"05:28"
+    },
+    {
+      name:"##HARLEM_WORLD_1981 ##TREATCHEROUS3_VS_BUSY_BEE",
+      file:"https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/KoolMoeDeevsBusyBeeStarskiDec1981HarlemWorld.mp3",
+      duration:"11:49"
+    },
+    {
+      name:"##RENé_&_Angela -  ##iMAGiNARY_PLAYMATES",
+      file:"https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/audio/Imaginary_Playmates128kbps_RNE_and_ANGELA.mp3",
+      duration:"04:37"
+    },
+    {
+      name:"##BiG_PUN ft. FAT_JOEY_CRACK - GLAMOUR_LiFE",
+      file:"https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/audio/BiGPUN_GLAMOURLiFE.mp3",
+      duration:"04:42"
+    }
+  ]
+
+  for (var i = 0; i &lt; listAudio.length; i++) {
+      createTrackItem(i,listAudio[i].name,listAudio[i].duration);
+  }
+  var indexAudio = 0;
+
+  function loadNewTrack(index){
+    var player = document.querySelector('#source-audio')
+    player.src = listAudio[index].file
+    document.querySelector('.title').innerHTML = listAudio[index].name
+    this.currentAudio = document.getElementById("myAudio");
+    this.currentAudio.load()
+    this.toggleAudio()
+    this.updateStylePlaylist(this.indexAudio,index)
+    this.indexAudio = index;
+  }
+
+  var playListItems = document.querySelectorAll(".playlist-track-ctn");
+
+  for (let i = 0; i &lt; playListItems.length; i++){
+    playListItems[i].addEventListener("click", getClickedElement.bind(this));
+  }
+
+  function getClickedElement(event) {
+    for (let i = 0; i &lt; playListItems.length; i++){
+      if(playListItems[i] == event.target){
+        var clickedIndex = event.target.getAttribute("data-index")
+        if (clickedIndex == this.indexAudio ) { // alert('Same audio');
+            this.toggleAudio()
+        }else{
+            loadNewTrack(clickedIndex);
+        }
+      }
+    }
+  }
+
+  document.querySelector('#source-audio').src = listAudio[indexAudio].file
+  document.querySelector('.title').innerHTML = listAudio[indexAudio].name
+
+
+  var currentAudio = document.getElementById("myAudio");
+
+  currentAudio.load()
+  
+  currentAudio.onloadedmetadata = function() {
+        document.getElementsByClassName('duration')[0].innerHTML = this.getMinutes(this.currentAudio.duration)
+  }.bind(this);
+
+  var interval1;
+
+  function toggleAudio() {
+
+    if (this.currentAudio.paused) {
+      document.querySelector('#icon-play').style.display = 'none';
+      document.querySelector('#icon-pause').style.display = 'block';
+      document.querySelector('#ptc-'+this.indexAudio).classList.add("active-track");
+      this.playToPause(this.indexAudio)
+      this.currentAudio.play();
+    }else{
+      document.querySelector('#icon-play').style.display = 'block';
+      document.querySelector('#icon-pause').style.display = 'none';
+      this.pauseToPlay(this.indexAudio)
+      this.currentAudio.pause();
+    }
+  }
+
+  function pauseAudio() {
+    this.currentAudio.pause();
+    clearInterval(interval1);
+  }
+
+  var timer = document.getElementsByClassName('timer')[0]
+
+  var barProgress = document.getElementById("myBar");
+
+
+  var width = 0;
+
+  function onTimeUpdate() {
+    var t = this.currentAudio.currentTime
+    timer.innerHTML = this.getMinutes(t);
+    this.setBarProgress();
+    if (this.currentAudio.ended) {
+      document.querySelector('#icon-play').style.display = 'block';
+      document.querySelector('#icon-pause').style.display = 'none';
+      this.pauseToPlay(this.indexAudio)
+      if (this.indexAudio &lt; listAudio.length-1) {
+          var index = parseInt(this.indexAudio)+1
+          this.loadNewTrack(index)
+      }
+    }
+  }
+
+
+  function setBarProgress(){
+    var progress = (this.currentAudio.currentTime/this.currentAudio.duration)*100;
+    document.getElementById("myBar").style.width = progress + "%";
+  }
+
+
+  function getMinutes(t){
+    var min = parseInt(parseInt(t)/60);
+    var sec = parseInt(t%60);
+    if (sec &lt; 10) {
+      sec = "0"+sec
+    }
+    if (min &lt; 10) {
+      min = "0"+min
+    }
+    return min+":"+sec
+  }
+
+  var progressbar = document.querySelector('#myProgress')
+  progressbar.addEventListener("click", seek.bind(this));
+
+
+  function seek(event) {
+    var percent = event.offsetX / progressbar.offsetWidth;
+    this.currentAudio.currentTime = percent * this.currentAudio.duration;
+    barProgress.style.width = percent*100 + "%";
+  }
+
+  function forward(){
+    this.currentAudio.currentTime = this.currentAudio.currentTime + 5
+    this.setBarProgress();
+  }
+
+  function rewind(){
+    this.currentAudio.currentTime = this.currentAudio.currentTime - 5
+    this.setBarProgress();
+  }
+
+
+  function next(){
+    if (this.indexAudio &lt;listAudio.length-1) {
+        var oldIndex = this.indexAudio
+        this.indexAudio++;
+        updateStylePlaylist(oldIndex,this.indexAudio)
+        this.loadNewTrack(this.indexAudio);
+    }
+  }
+
+  function previous(){
+    if (this.indexAudio>0) {
+        var oldIndex = this.indexAudio
+        this.indexAudio--;
+        updateStylePlaylist(oldIndex,this.indexAudio)
+        this.loadNewTrack(this.indexAudio);
+    }
+  }
+
+  function updateStylePlaylist(oldIndex,newIndex){
+    document.querySelector('#ptc-'+oldIndex).classList.remove("active-track");
+    this.pauseToPlay(oldIndex);
+    document.querySelector('#ptc-'+newIndex).classList.add("active-track");
+    this.playToPause(newIndex)
+  }
+
+  function playToPause(index){
+    var ele = document.querySelector('#p-img-'+index)
+    ele.classList.remove("fa-play");
+    ele.classList.add("fa-pause");
+  }
+
+  function pauseToPlay(index){
+    var ele = document.querySelector('#p-img-'+index)
+    ele.classList.remove("fa-pause");
+    ele.classList.add("fa-play");
+  }
+
+
+  function toggleMute(){
+    var btnMute = document.querySelector('#toggleMute');
+    var volUp = document.querySelector('#icon-vol-up');
+    var volMute = document.querySelector('#icon-vol-mute');
+    if (this.currentAudio.muted == false) {
+       this.currentAudio.muted = true
+       volUp.style.display = "none"
+       volMute.style.display = "block"
+    }else{
+      this.currentAudio.muted = false
+      volMute.style.display = "none"
+      volUp.style.display = "block"
+    }
+  }</pre></div>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 #### HEATWAVE = VENiCe_HOLLYWiERD_JON_CULTURE
 ### A_PiMP = A_HUSBANDS_DELiQUENT_JON
-[Hollywood Boulevard Walking Tour - Los Angeles, California](https://www.youtube.com/watch?v=WBhhOjwVeKw)
-<h2>	(╯°□°)╯︵ ʞooqǝɔɐɟ </h2>
 
 [Gangsters of the Groove · Heatwave](https://www.youtube.com/watch?v=AyHhzwEhygQ)
 [Posin' Til Closin' (UK 12" Version) · Heatwave](https://www.youtube.com/watch?v=2L6aw0Pba-M)
+[DEAR_PROSTiTUTiON - You Give Love A Bad Name](https://youtu.be/KrZHPOeOxQQ)
+[Hollywood Boulevard Walking Tour - Los Angeles, California](https://www.youtube.com/watch?v=WBhhOjwVeKw)
+<h2>	(╯°□°)╯︵ ʞooqǝɔɐɟ </h2>
 [Ai No Corrida - QUINCY JONES '1981](https://www.youtube.com/watch?v=fXmmWBzS-_o)
 [Stomp! · The Brothers Johnson](https://www.youtube.com/watch?v=TFY1_zZ5Nc4)
 [DEAR_MONALEO, GROOVY_YOUTUBE_FiND ~> M.i.c.h.a.e.l * J.a.c.k.s.o.n - Off The Wall (1979)](https://www.youtube.com/watch?v=aDH1EPqyMb4)
