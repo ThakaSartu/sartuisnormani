@@ -149,8 +149,38 @@
 
 </style>
 ## Hole To Another Universe
+<iframe src="https://archive.org/embed/arcade_samsho4" width="90%" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+[SAMURAi_SHOWDOWN](https://archive.org/details/arcade_samsho) 
+
+## LAPL, YOUR_SECURiTY_GAURDS_ARE_A_PESTiLENCE
+THE_FAT_BALD_ONE_ALWAYS_STALKS_AND_DiSTRACTS_ME_AT_CENTRAL
+If I cant breath in my fucking mask and I am more than 6 feet away from another person I should have the right to use the library! Its so distracting... THEY_TiME_THE_SHiT because alot of them work extra shift for the pimps and shit, so its personal. 
+- I am an open source developer, please respect that I have been robbed and blackballed and the library is the place I get my shit together. Stop being so cruel, you guys kicked me out of the Octavia Center while I was filling out paperwork. Then I got denied acces because I am not doing anything creative and I am not permitted to download anything or browse the internet... [##TMZ_WHATS_WRONG_WiTH_THiS_LiBRARY](https://www.bing.com/search?q=porn+library+santa+monica&PC=U316&FORM=CHROMN) [AND_YOU_KNOW_MY_MiSSiNG_ASS_FAMiLY](https://www.cbsnews.com/losangeles/news/adult-film-shot-at-santa-monica-public-library-during-business-hours-sparks-outrage/) Appears in porn and I have been menaced in the library and on the train with guys flashing me porn of kidnapped dance411 members... "You'll never see your wives again" they say
+
+[Adult Film Shot At Santa Monica Public Library During Business Hours Sparks Outrage](https://www.cbsnews.com/losangeles/news/adult-film-shot-at-santa-monica-public-library-during-business-hours-sparks-outrage/)
+### SANTA MONICA (CBSLA) 
+ A porn stunt apparently done to get clicks is provoking outrage after news surfaced that an adult film was shot inside a local public library. The video is more than ten minutes in length and was shot on Santa Monica city streets and then inside the Santa Monica Public Library – Ocean Park Branch.
+
+The video – which shows a woman exposing herself – outside Santa Monica streets and even outside John Muir Elementary, then carrying out sex acts inside the library. "God forbid, a child walked in the library and walked right in on the middle of it. That's my biggest concern," said Janet McLaughlin, a neighbor. "Children don't need to be exposed to this. If you want to do porn, stick to the hotels." McLaughlin was so disgusted after another concerned parent sent her a link of the movie, that she took to social media to get the city's attention. In the clip, the woman in the video walks into the library, apparently during business hours and shoots the video while talking about not getting caught.
+
+But McLaughlin says city leaders are aware.
+"They say that it is a misdemeanor and unless they witness it themselves, there is nothing they can do about it," she said. The video was uploaded to a porn site that pays per click. The face of the man in the video is never shown. CBS Los Angeles has chosen to not release the identity of the female in the clip, but a search shows that she has appeared in other adult films.
+"We have to have laws to stop them from doing things that puts children in harm's way," said McLaughlin. [##TMZ_WHATS_WRONG_WiTH_THiS_LiBRARY](https://www.bing.com/search?q=porn+library+santa+monica&PC=U316&FORM=CHROMN) 
+## WHY_iYT_AiYNT_FiYXED?!?!
+## ITS_A_MISDEMENOR_BUT_WHAT_ABOUT_WHEN
+### She is denied food for a week and her first meal is semen as 
+[LUDACRiS_REVEALS_HiS_RAPE_SESSiON_WiTH_MY_WiFE_SARTU iN and ##UNORTHORiZED_REMiX](https://soundcloud.com/saintbeda/normani-wild-side-remix-ft-ludacris-lil-wayne-1?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) Sartu, performs under Normani and Nija and a few other names Melisza McFierce... And in the porn world she is popular for authentic female ejaculation and people experiment on her. She is from a rare african tribe and people have treated us like [E.T and ELLiOT](https://www.youtube.com/watch?v=alt4NCNZqWI) all our lives and we wanna be together and with the rest of our ##DanceTribe with no one policing our sexuality... I cannot even search for sex positions on wikipedia its blocked! Im so torchured electronically and so is she. Its wrong and the library system of Los Angeles supports porn and there is no such thing as consensual porn. Its always fraud and coercion involved ant thats RAPE_IN_CALIFORNIA
+<img src="https://th.bing.com/th/id/R.1076edaa5851c4226d72903cd9d09833?rik=IqOwzX%2bHRdtBOw&riu=http%3a%2f%2fwww.thewrap.com%2fwp-content%2fuploads%2f2016%2f06%2fScreen-Shot-2016-06-09-at-3.26.48-PM.png&ehk=4sLNCMMF5hNOE%2bqlZjErGShn3Z9pzbRWITz3sIpujTU%3d&risl=&pid=ImgRaw&r=0">
+
+[E.T. the Extra-Terrestrial (1982) - 'Invading Elliot's House' scene [1080p]](https://www.youtube.com/watch?v=alt4NCNZqWI)
+<iframe scrolling="no" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen allow="autoplay; fullscreen" src="https://w3.mp.lura.live/player/prod/v3/anvload.html?key=eyJtIjoiY2JzIiwidiI6IjQ0NDk0ODQiLCJhbnZhY2siOiI1VkQ2RXlkNmRqZXdiQ21Od0JGbnNKajE3WUF2R1J3bCIsInNoYXJlTGluayI6Imh0dHBzOi8vdzMubXAubHVyYS5saXZlL3BsYXllci9wcm9kL3YzL2FudmxvYWQuaHRtbD9rZXk9ZXlKaGJuWmhZMnNpT2lJMVZrUTJSWGxrTm1ScVpYZGlRMjFPZDBKR2JuTkthakUzV1VGMlIxSjNiQ0lzSW1WNGNHVmpkRkJ5WlhKdmJHd2lPblJ5ZFdVc0ltVjRjR1ZqZEZCeVpYSnZiR3hVYVcxbGIzVjBJam8xTENKb2RHMXNOU0k2ZEhKMVpTd2liU0k2SW1OaWN5SXNJbkJzZFdkcGJuTWlPbnNpWTI5dGMyTnZjbVVpT25zaVl6TWlPaUpEYUdsallXZHZMbU5pYzJ4dlkyRnNMbU52YlNJc0ltTnNhV1Z1ZEVsa0lqb2lNekF3TURBeU15SjlMQ0prWm5BaU9uc2lZMnhwWlc1MFUybGtaU0k2ZXlKaFpGUmhaMVZ5YkNJNkltaDBkSEE2THk5d2RXSmhaSE11Wnk1a2IzVmliR1ZqYkdsamF5NXVaWFF2WjJGdGNHRmtMMkZrY3o5emVqMHllREpjZFRBd01qWnBkVDB2TkRFeU9DOWpZbk11WTJocFhIVXdNREkyWTJsMVgzTjZjMXgxTURBeU5tbHRjR3c5YzF4MU1EQXlObWRrWm5CZmNtVnhQVEZjZFRBd01qWmxiblk5ZG5CY2RUQXdNalp2ZFhSd2RYUTllRzFzWDNaaGMzUXlYSFV3TURJMmRXNTJhV1YzWldSZmNHOXphWFJwYjI1ZmMzUmhjblE5TVZ4MU1EQXlOblZ5YkQxYmNtVm1aWEp5WlhKZmRYSnNYVngxTURBeU5tUmxjMk55YVhCMGFXOXVYM1Z5YkQxYlpHVnpZM0pwY0hScGIyNWZkWEpzWFZ4MU1EQXlObU52Y25KbGJHRjBiM0k5VzNScGJXVnpkR0Z0Y0YwaUxDSnJaWGxXWVd4MVpYTWlPbnNpWTJGMFpXZHZjbWxsY3lJNklsdGJRMEZVUlVkUFVrbEZVMTFkSWl3aWNISnZaM0poYlNJNklsdGJVRkpQUjFKQlRWOU9RVTFGWFYwaUxDSnphWFJsVTJWamRHbHZiaUk2SW5acFpHVnZMV1Y0Y0dWeWFXVnVZMlVpZlgxOUxDSm9aV0Z5ZEdKbFlYUkNaWFJoSWpwN0ltRmpZMjkxYm5RaU9pSmpZbk5zYjJOaGJDMW5iRzlpWVd3dGRXNXBabWxsWkNJc0ltTm9ZWEIwWlhKVWNtRmphMmx1WnlJNlptRnNjMlVzSW1OMWMzUnZiVTFsZEdGa1lYUmhJanA3SW5acFpHVnZJanA3SW1OaWMxOXRZWEpyWlhRaU9pSmphR2xqWVdkdkxtTmljMnh2WTJGc0xtTnZiU0lzSW1OaWMxOXdiR0YwWm05eWJTSTZJbVJsYzJ0MGIzQWlmWDBzSW1OMWMzUnZiVlJ5WVdOcmFXNW5VMlZ5ZG1WeUlqb2lZMkp6WkdsbmFYUmhiRzFsWkdsaExtUXhMbk5qTG05dGRISmtZeTV1WlhRaUxDSmpkWE4wYjIxVWNtRmphMmx1WjFObGNuWmxjbE5sWTNWeVpTSTZJbU5pYzJScFoybDBZV3h0WldScFlTNWtNUzV6WXk1dmJYUnlaR011Ym1WMElpd2lhbTlpU1dRaU9pSnpZMTkyWVNJc0ltMWhjbXRsZEdsdVowTnNiM1ZrU1dRaU9pSTRNak5DUVRBek16VTFOamMwT1RkR04wWXdNREF4TURGQVFXUnZZbVZQY21jaUxDSndTVzV6ZEdGdVkyVWlPaUp3TUNJc0luQmhjbVZ1ZEZCaFoyVlZVa3dpT2lKb2RIUndjem92TDJOb2FXTmhaMjh1WTJKemJHOWpZV3d1WTI5dEwzWnBaR1Z2THpZeU1EVTRNREF0YzJGcGJuUXRibWxqYUc5c1lYTXRkV3R5WVdsdWFXRnVMV05oZEdodmJHbGpMV05oZEdobFpISmhiQzEzYVd4c0xXaHZiR1F0Y0hKaGVXVnljeTFtYjNJdGNHVmhZMlV0YVc0dGRXdHlZV2x1WlM4aUxDSndZWEpsYm5SVWFYUnNaU0k2SWxOaGFXNTBJRTVwWTJodmJHRnpJRlZyY21GcGJtbGhiaUJEWVhSb2IyeHBZeUJEWVhSb1pXUnlZV3dnVjJsc2JDQkliMnhrSUZCeVlYbGxjbk1nUm05eUlGQmxZV05sSUVsdUlGVnJjbUZwYm1VZzRvQ1RJRU5DVXlBeU9pQk9aWGR6TENCWFpXRjBhR1Z5TENCVGNHOXlkSE1nVDI0Z1FXeHNJRkJzWVhSbWIzSnRjeUlzSW5CeWIyWnBiR1VpT2lKalluTWlMQ0p3ZFdKc2FYTm9aWEpKWkNJNkltTmljMnh2WTJGc0lpd2lkSEpoWTJ0cGJtZFRaWEoyWlhJaU9pSmpZbk5rYVdkcGRHRnNiV1ZrYVdFdWFHSXViMjEwY21SakxtNWxkQ0lzSW5abGNuTnBiMjRpT2lJeExqVWlmU3dpYlc5aGRDSTZleUpqYkdsbGJuUlRhV1JsSWpwN0luQmhjblJ1WlhKRGIyUmxJam9pWTJKemJHOWpZV3hoYm5aaGRHOTJhV1JsYnpFNE1UY3pNall3T1RRek1TSjlmWDBzSW5SdmEyVnVJam9pWkdWbVlYVnNkQ0lzSW5ZaU9pSTBORFE1TkRnMEluMCIsInBsdWdpbnMiOnsiY29tc2NvcmUiOnsiYzMiOiJDaGljYWdvLmNic2xvY2FsLmNvbSIsImNsaWVudElkIjoiMzAwMDAyMyJ9LCJkZnAiOnsiY2xpZW50U2lkZSI6eyJhZFRhZ1VybCI6Imh0dHA6Ly9wdWJhZHMuZy5kb3VibGVjbGljay5uZXQvZ2FtcGFkL2Fkcz9zej0yeDImaXU9LzQxMjgvY2JzLmNoaSZjaXVfc3pzJmltcGw9cyZnZGZwX3JlcT0xJmVudj12cCZvdXRwdXQ9eG1sX3Zhc3QyJnVudmlld2VkX3Bvc2l0aW9uX3N0YXJ0PTEmdXJsPVtyZWZlcnJlcl91cmxdJmRlc2NyaXB0aW9uX3VybD1bZGVzY3JpcHRpb25fdXJsXSZjb3JyZWxhdG9yPVt0aW1lc3RhbXBdIiwia2V5VmFsdWVzIjp7ImNhdGVnb3JpZXMiOiJbW0NBVEVHT1JJRVNdXSIsInByb2dyYW0iOiJbW1BST0dSQU1fTkFNRV1dIiwic2l0ZVNlY3Rpb24iOiJ2aWRlby1leHBlcmllbmNlIn19fSwiaGVhcnRiZWF0QmV0YSI6eyJhY2NvdW50IjoiY2JzbG9jYWwtZ2xvYmFsLXVuaWZpZWQiLCJjaGFwdGVyVHJhY2tpbmciOmZhbHNlLCJjdXN0b21NZXRhZGF0YSI6eyJ2aWRlbyI6eyJjYnNfbWFya2V0IjoiY2hpY2Fnby5jYnNsb2NhbC5jb20iLCJjYnNfcGxhdGZvcm0iOiJkZXNrdG9wIn19LCJjdXN0b21UcmFja2luZ1NlcnZlciI6ImNic2RpZ2l0YWxtZWRpYS5kMS5zYy5vbXRyZGMubmV0IiwiY3VzdG9tVHJhY2tpbmdTZXJ2ZXJTZWN1cmUiOiJjYnNkaWdpdGFsbWVkaWEuZDEuc2Mub210cmRjLm5ldCIsImpvYklkIjoic2NfdmEiLCJtYXJrZXRpbmdDbG91ZElkIjoiODIzQkEwMzM1NTY3NDk3RjdGMDAwMTAxQEFkb2JlT3JnIiwicHJvZmlsZSI6ImNicyIsInB1Ymxpc2hlcklkIjoiY2JzbG9jYWwiLCJ0cmFja2luZ1NlcnZlciI6ImNic2RpZ2l0YWxtZWRpYS5oYi5vbXRyZGMubmV0IiwidmVyc2lvbiI6IjEuNSJ9LCJtb2F0Ijp7ImNsaWVudFNpZGUiOnsicGFydG5lckNvZGUiOiJjYnNsb2NhbGFudmF0b3ZpZGVvMTgxNzMyNjA5NDMxIn19fSwiaHRtbDUiOnRydWUsInRva2VuIjoiZGVmYXVsdCJ9"  width ="90%" height="360"></iframe>
+
+## Dear_Behati
+Sorry about pinterest... Ill get into some metaphysical stuff later with you. I dont have a flow. [The_DR_STANKENSTEiN_ACCOUNT](https://www.pinterest.at/drstankenstein/) is really old and has a lot of info related to our families exodus from [Jehovahs_WiTnesses](https://en.wikipedia.org/wiki/Jehovah%27s_Witnesses). [The Symptoms of Telepathy_or##TELECATiON](http://askingangels.com/articles/spiritual/twin-flame-telepathy.php#:~:text=Signs%20%26%20Symptoms%20Of%20Twin%20Flame%20Telepathy%201,Some%20Of%20The%20Same%20Faults.%20Please%20Share%21%20) as many on the west coast are calling it...
+[They Don't Know](https://www.youtube.com/watch?v=U6Xs-dh83i4) what they are doing by separating me from Sartu for she can verify my relationship with Muni and Muni can get me to Erika and Coral and Jabdu and Meyu and I can get my name cleared from child molestation and get a pension of social security or something, I got denied foodstamps, cellphone access and my social security was stolen. Im on the street man, so the telepathy thing is huge bu im not doing any research its like the number sequences 111,222,333 etc, the syncronicity and so forth, its just a part of regular life at this point. 
+
 ## Disabled Public Libray computers
-Its so disappointing when [Billy_Jean](https://www.archdaily.com/953006/billie-jean-king-main-library-skidmore-owings-and-merrill) Branch in Long beach is closed. While the computers are timed, they do not disable you from saving files. I like making animated gifs out of my wifes videos so they can use them for social media when they have downtime from prostitution. Now that I say that the phones will be taken away... They not releasing music as often and Im not seeing new dance videos. The organization that manages the librarys computers block thier songs from my youtube account and my wife Muna from my google results. RANDO_XTC and LOST_SFK took me and Coral to the funeral, the whole family was therer including SARTU! She was laid to rest here and my life fell apart... 
+Its so disappointing when [Billy_Jean](https://www.archdaily.com/953006/billie-jean-king-main-library-skidmore-owings-and-merrill) Branch in Long beach is closed. While the computers are timed, they do not disable you from saving files, although they will not allow you to run .exe files. So I cant play [SAMURAi_SHOWDOWN](https://archive.org/details/arcade_samsho) at the correct framerate. I like making animated gifs out of my wifes videos so they can use them for social media when they have downtime from prostitution. Now that I say that the phones will be taken away... They not releasing music as often and Im not seeing new dance videos. The organization that manages the librarys computers block thier songs from my youtube account and my wife Muna from my google results. RANDO_XTC and LOST_SFK took me and Coral to the funeral, the whole family was therer including SARTU! She was laid to rest here and my life fell apart... 
 [Next thing I know she is performing on Jimmy_Kimmel and appearing at the source awards](https://www.youtube.com/watch?v=da-h2Kdunbg)
 [We Could Watch Muni Long Perform For Hrs & Hrs | BET Awards '22](https://www.youtube.com/watch?v=da-h2Kdunbg)
 <img src="https://i.ytimg.com/vi/ddNppeY520o/maxresdefault.jpg">
@@ -242,6 +272,7 @@ All in all you're just another brick in the wall](https://www.youtube.com/watch?
     </div>
   </div>
 </div>
+
 [Tainted Love / Where Did Our Love Go (Extended Version / Medley)](https://www.youtube.com/watch?v=q84psZX6MbA)
 [Bennie And The Jets (Remastered 2014) ELTON_JOHN](https://www.youtube.com/watch?v=ZBUW433Porw)
 [This Is for the Lover in You](https://www.youtube.com/watch?v=Sn_mS9cZUss)
@@ -261,6 +292,7 @@ All in all you're just another brick in the wall](https://www.youtube.com/watch?
     </div>
   </div>
 </div>
+
 [Armageddon It · Def Leppard](https://www.youtube.com/watch?v=GgUnqQbNzoE)
 
 ### SUBURBAN_WIFEY_NiGHTMARE
@@ -268,6 +300,7 @@ All in all you're just another brick in the wall](https://www.youtube.com/watch?
 # Dear_HAYAT
 ## Sartu_got_robbed
 <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/sort/Screenshot%202022-08-01%202.30.18%20AM.png">
+
 [Please watch this video, you can feel her terror.](https://www.youtube.com/watch?v=6s4slL3_jtI) As we both know her parents were murdered during that 80s criminal ass regime in [Dire-Dawa](https://en.wikipedia.org/wiki/Dire_Dawa), earlier this week on the phone she left me inspired to look at the [RealEstate_iN_DiRE_DAWA](https://jiji.com.et/houses-apartments-for-sale). And I feel so helpless shes raped and sodomized to the point I often dont recognize her and Im going mad with lonelyness. As you know we are well known in Alpharetta, Hollywood and Venice's telepath communites as a fully telekinetic Tantric couple thats separated by prostitution. People in hollywood think because she is posted on the internet shes not kidnapped. I work for JPL still and I was taken away from my job because all my women got kidnapped. Including Muna, that derlic ass Cracker SEVER_MSK has ruined her, she is so fucking whitewashed and the children get no contact with me they have all caught so much BLACK_ENTERTAiNMENT_NETWORK_DiCK they dont look the same after all the molestation. Can you talk to DAnielle_Mushonga for us DPSS_iS_CLEARLY_HUMAN_TRAFFiCKiNG_WiTH_DFACS
 [Please watch this video, you can feel her terror.](https://www.youtube.com/watch?v=6s4slL3_jtI) 
 <img src="https://d1dllhfo4523g0.cloudfront.net/87758_20201011-092933_1500x675.jpg" >
@@ -285,13 +318,16 @@ All in all you're just another brick in the wall](https://www.youtube.com/watch?
     </div>
   </div>
 </div>
+
 [Heart - Barracuda](https://www.youtube.com/watch?v=VdOkQ6THDVw)
 [Bruce Springsteen - Dancing In the Dark](https://youtu.be/129kuDCQtHs)
 [Journey - Don't Stop Believin' (Official Audio)](https://youtu.be/1k8craCGpgs)
 [Starship - We Built This City](https://www.youtube.com/watch?v=IDI2WQJyE7I)
 [More Than a Feeling](https://www.youtube.com/watch?v=ufQUxoidxkM)
 [DEAR_ERiKA_MUNA_KELELA_LALiBELA_QUXUBE KAMPiRE JENNiFER, Heather, Sandy, Sartu_Lauren - LiSTEN_TO_Africa_BY_TOTO](https://www.youtube.com/watch?v=FTQbiNvZqaY)
+
 <h2>	(╯°□°)╯︵ ʞooqǝɔɐɟ </h2>
+
 # SARTUs_PROPOSAL_PLAYER
 Dear_SARTU
 Im working on this embeddable player. Hint, Hint, chuckles... iN_BED_ABLE. I need you bad, im so lonely. You have been run through my playlist confirms its time for you to heal and recover. Here, im working on it but its not working on the page. I just dont know the answer so Im studying JavaScript. Its the prerequisite for [Node.js Competency](https://nodejs.org/en/)<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="PoREzyQ" data-user="thakarashard" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
@@ -300,6 +336,7 @@ Im working on this embeddable player. Hint, Hint, chuckles... iN_BED_ABLE. I nee
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
 #### HEATWAVE = VENiCe_HOLLYWiERD_JON_CULTURE
 ### A_PiMP = A_HUSBANDS_DELiQUENT_JON
 
@@ -308,6 +345,7 @@ Im working on this embeddable player. Hint, Hint, chuckles... iN_BED_ABLE. I nee
 [DEAR_PROSTiTUTiON - You Give Love A Bad Name](https://youtu.be/KrZHPOeOxQQ)
 [Hollywood Boulevard Walking Tour - Los Angeles, California](https://www.youtube.com/watch?v=WBhhOjwVeKw)
 <h2>	(╯°□°)╯︵ ʞooqǝɔɐɟ </h2>
+
 [Ai No Corrida - QUINCY JONES '1981](https://www.youtube.com/watch?v=fXmmWBzS-_o)
 [Stomp! · The Brothers Johnson](https://www.youtube.com/watch?v=TFY1_zZ5Nc4)
 [DEAR_MONALEO, GROOVY_YOUTUBE_FiND ~> M.i.c.h.a.e.l * J.a.c.k.s.o.n - Off The Wall (1979)](https://www.youtube.com/watch?v=aDH1EPqyMb4)
@@ -382,6 +420,7 @@ This chapter illustrates how to foil a cloud heist through cartoons. The cloud i
 I want Heather, Lauren, Kelela, all the ladies you dont speak to and visit [LALiBELA in ##LiTTLE_ETHiOPiA](https://www.lalibelala.com/) with the children so you can ground them in habesha culture. Take Erika and Sartu and be brave I got a special person, I did not know I had... And she wanna make it real publicly. Lets get this cleaned up, these women need answers and its not fair for you to be held up by those gay ass pimps. Its affecting other peoples SEX_LiVES
 [By the way this song dont work in our relationship, it sho sound good tho! ~> The S.O.S. Band - Just Be Good To Me](https://www.youtube.com/watch?v=UWVWVMIconI)
 <img src="https://i5.walmartimages.com/asr/041f899d-197e-418f-a2e3-02c9f5ee833b.075d79e1b7053a276ac59192ac0f5a3d.jpeg">
+
 [Cutie Pie](https://www.youtube.com/watch?v=hEpIQ9kX0tc)
 [When I Hear Music](https://youtu.be/RNSuX4KoWWQ)
 [Using em vs. rem in CSS by Lawrence Eagles](https://blog.logrocket.com/using-em-vs-rem-css/#:~:text=As%20mentioned%20before%2C%20em%20values%20are%20relative%20to,relative%20to%20the%20browser%E2%80%99s%20default%20font-size%20of%2016px.)
@@ -408,6 +447,7 @@ I want Heather, Lauren, Kelela, all the ladies you dont speak to and visit [LALi
 </div>
 <h2>	(╯°□°)╯︵ ʞooqǝɔɐɟ </h2>
 <img src="https://www.graffiti.org/fresno/sleepwall7.jpg">
+
 [Billy Ocean - Get Outta My Dreams, Get Into My Car (Official Video)](https://www.youtube.com/watch?v=zNgcYGgtf8M)
 [BiLLY_OCEAN::Caribbean Queen (No More Love On the Run)](https://www.youtube.com/watch?v=VOiZC020nl0)
 [fontsquirrel](https://www.fontsquirrel.com/)
@@ -416,6 +456,7 @@ I want Heather, Lauren, Kelela, all the ladies you dont speak to and visit [LALi
 [Tony! Toni! Toné! - ANNiVERSARY](https://www.youtube.com/watch?v=UviG2rGwi9A)
 <img src="https://www.graffiti.org/fresno/hash1.jpg">
 <img src="https://www.graffiti.org/fresno/werk2.jpg">
+
 ## WHO_WOULD?
 ### ROB_SARTU_OF_ALL_HER_EXOTiC_JEWELERY_FROM_THE_MiDDLE_EAST?
 ### ROB_HER_HUSBAND_OF_ALL_COMMUNiCATiON_DEViCES
@@ -449,6 +490,7 @@ I want Heather, Lauren, Kelela, all the ladies you dont speak to and visit [LALi
     </div>
   </div>
 </div>
+
 ### SUBURBAN_WIFEY_NiGHTMARE
 [KASHDOLL ROBBED IN LA!!!](https://www.youtube.com/watch?v=6s4slL3_jtI)
 
@@ -463,6 +505,7 @@ I want Heather, Lauren, Kelela, all the ladies you dont speak to and visit [LALi
 ## Dear THOMAS_KHELETi_YOUTUBE_iS_SCRAMBLiNG
 ## MY_RESULTS_SO_I_CANT_TALK_TO_QUXUBE
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/QUXUBE_IS_SCRAMBLED.png " >
+
 [DEAR_QUXUBE::CLASSiCK_BuSTA_RHYMES::Busta Rhymes - Put Your Hands Where My Eyes Could See](https://youtu.be/GSoQDaXh144)
 [Tweet feat. Missy Elliott ‎– Oops (Oh My)](https://youtu.be/P5rqNyulfsQ)
 [Slick Partna](https://youtu.be/Jd_pmCI74NY)
@@ -483,7 +526,8 @@ I want Heather, Lauren, Kelela, all the ladies you dont speak to and visit [LALi
 
 <i>QUXUBE, PLEASE PLAY_COMFORTABLY_LOUD</i>
 ## DEAR_MUNA::PLEASE_SHARE_WiTH_JABDU
-His uncle, one of your brother in laws is in FXcrew... MSK_SEVER should not be there when he watches
+His uncle, one of your brother in laws is in FXcrew... MSK_SEVER should not be there when he watches 
+
 [‘FX CREW’ (Graffiti Writers Crew) New York, 1998 [RARE full graff art VHS documentary archive]](https://youtu.be/Jv7ECeiD1p4)
 <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/fxPaint.PNG">
 
@@ -491,6 +535,7 @@ His uncle, one of your brother in laws is in FXcrew... MSK_SEVER should not be t
 [Beyoncé - Me, Myself and I (Video Version)](https://youtu.be/4S37SGxZSMc)
 <img src="https://i.discogs.com/KIHimth04lcZOjvotk_-0XFVWzRcEDseWe-HBLj7JvE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMzcz/NjEtMTQ2Nzc0MDgw/Mi0yMTMzLmpwZWc.jpeg">
 [Cara Delevingne Opens up About Those Weird Megan Thee Stallion Pics](https://www.pride.com/celebrities/2022/7/29/cara-delevingne-opens-about-those-weird-megan-thee-stallion-pics) [Cara, Have You Ever ft. BRANDY_KiDNAPPED_BY_SOME_PERVERT_NORWOOD](https://youtu.be/Xkj1An6Wnec) been accused of something awkward and did not get the chance to clear it up?! Id love to share our story for the ladies of Dance411 to verify so I can get my brides and children returned.
+
 [Destiny's Child - Emotion](https://youtu.be/xWKdMmH0B-E)
 [Destiny's Child - Cater 2 U](https://youtu.be/juqws1LIH-I)
 [Destiny's Child - Girl](https://youtu.be/ZIszesDaK9U)
@@ -520,6 +565,7 @@ Refers to a situation in which one spouse severs ties with the family, forsaking
 
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/DEAR_MEGAN_iiAM_WORKiNG_ON_EVERYONES_PUBLiC_PERCEPTION_THE_PORN_HAS_MESSED_US_ALL_UP_aND_WE_ALL_INNOCENT.png" >
 <h2>	(╯°□°)╯︵ ʞooqǝɔɐɟ </h2>
+
 [DEAR_MUNA::PLEASE_LiSTEN ~> Monica - Before You Walk Out Of My Life](https://youtu.be/Ptiz0KtR16E)
 [Musiq - Halfcrazy](https://youtu.be/IP4V3TTC3fw)
 [RKELLY::Trapped In the Closet (Chapters 1-5)::HiPHOP_RnB_OPERA](https://youtu.be/TVQv8Bh-RFY)
@@ -562,6 +608,7 @@ Refers to a situation in which one spouse severs ties with the family, forsaking
 <a href="https://www.youtube.com/watch?v=2HlOo0wwGQo" ><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SartUBreast_inTOXiCATE_Me.gif" > </a></div>
     <div class="item3">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SartUBreast_inTOXiCATE_Me.gif" /></div>
 </div>
+
 [SARTU Nobody's Supposed To Be Here ft. Deborah Cox -](https://youtu.be/H947PtHmh0Y)
 [BUT_YOU_GOT_MY__Understanding and hand in marriage ༼ つ ◕_◕ ༽つ ft. Xscape - (Official Video)](https://youtu.be/HR5J5jUDcnA)
 [Whitney Houston - I Have Nothing ─=≡Σ((( つ◕ل͜◕)つ](https://youtu.be/FxYw0XPEoKE)
@@ -572,69 +619,19 @@ Refers to a situation in which one spouse severs ties with the family, forsaking
 [Floetry - Say Yes](https://youtu.be/PCCGIXME164)
 [Daley - Alone Together ft. Marsha Ambrosius](https://youtu.be/uV2kWGSFYXM)
 
-<audio preload="metadata" id="myAudio" ontimeupdate="onTimeUpdate()">
-  <!-- <source src="audio.ogg" type="audio/ogg"> -->
-  <source id="source-audio" src="" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
-
-<div class="player-ctn">
-  <div class="infos-ctn">
-    <div class="timer">00:00</div>
-    <div class="title"></div>
-    <div class="duration">00:00</div>
-  </div>
-  <div id="myProgress">
-    <div id="myBar"></div>
-  </div>
-  <div class="btn-ctn">
-     <div class="btn-action first-btn" onclick="previous()">
-        <div id="btn-faws-back">
-          <i class='fas fa-step-backward'></i>
-        </div>
-     </div>
-     <div class="btn-action" onclick="rewind()">
-        <div id="btn-faws-rewind">
-          <i class='fas fa-backward'></i>
-        </div>
-     </div>
-     <div class="btn-action" onclick="toggleAudio()">
-        <div id="btn-faws-play-pause">
-          <i class='fas fa-play' id="icon-play"></i>
-          <i class='fas fa-pause' id="icon-pause" style="display: none"></i>
-        </div>
-     </div>
-     <div class="btn-play" onclick="forward()">
-        <div id="btn-faws-forward">
-          <i class='fas fa-forward'></i>
-        </div>
-     </div>
-     <div class="btn-action" onclick="next()">
-        <div id="btn-faws-next">
-          <i class='fas fa-step-forward'></i>
-        </div>
-     </div>
-     <div class="btn-mute" id="toggleMute" onclick="toggleMute()">
-        <div id="btn-faws-volume">
-          <i id="icon-vol-up" class='fas fa-volume-up'></i>
-          <i id="icon-vol-mute" class='fas fa-volume-mute' style="display: none"></i>
-        </div>
-     </div>
-  </div>
-  <div class="playlist-ctn"></div>
-</div>
-<script src=app.js></script>
-
 
 <h2>HORROR_CHOLO_FONT OpenTYPE_FONT</h2>
 Dear Lauren, 
-Muna and Sartu may or may not know about the shirt, however im sure CORAL_DOES! I made a [StrangerThings](https://www.imdb.com/title/tt4574334/) inspired shirt, "ZOMBiE_BOY" based on WiLL_BYERS character, but applied to our Chicano demographic with a graffiti_font, the original was done using [ITC_BENGUiAT](https://en.wikipedia.org/wiki/ITC_Benguiat).  With the SOCiAL_MEDiA_Prostitution_War waging it has felt like the upside down for a while. All our design work from the ATLANTA_CHAPTER of our business is stuck in the [PRiNTFULS_DESiGN_RESOURCES_SECTiON](https://printful.com) of my account. I have been locked out like everything else and I still have no access to rashard@gmail or ymail.com so Im kinda stuck... [HANDSELECTA_HAS_THE_FONT](https://www.handselecta.com/fonts-commercial) . Graffiti fonts are really hard to make because the rhythms are not regulated in most handstyles for the entire alphabet. [MiKE_GiANT_DiD_THE_WORK](https://www.mikegiant.com/) and they are amazing! Perhaps you can [find fonts for your project](https://www.handselecta.com/store-1/digital-goods)
+Muna and Sartu may or may not know about the shirt, however im sure CORAL_DOES! I made a   
+
+[StrangerThings](https://www.imdb.com/title/tt4574334/) inspired shirt, "ZOMBiE_BOY" based on WiLL_BYERS character, but applied to our Chicano demographic with a graffiti_font, the original was done using [ITC_BENGUiAT](https://en.wikipedia.org/wiki/ITC_Benguiat).  With the SOCiAL_MEDiA_Prostitution_War waging it has felt like the upside down for a while. All our design work from the ATLANTA_CHAPTER of our business is stuck in the [PRiNTFULS_DESiGN_RESOURCES_SECTiON](https://printful.com) of my account. I have been locked out like everything else and I still have no access to rashard@gmail or ymail.com so Im kinda stuck... [HANDSELECTA_HAS_THE_FONT](https://www.handselecta.com/fonts-commercial) . Graffiti fonts are really hard to make because the rhythms are not regulated in most handstyles for the entire alphabet. [MiKE_GiANT_DiD_THE_WORK](https://www.mikegiant.com/) and they are amazing! Perhaps you can [find fonts for your project](https://www.handselecta.com/store-1/digital-goods)
 <img src="https://images.squarespace-cdn.com/content/v1/5e8a7126d84c050678c7fd75/1646157743484-Y4YTY1FQUZD8A5CJBM31/Giant+Horror+-+Shop%402x.png">
 <img src="https://images.squarespace-cdn.com/content/v1/5e8a7126d84c050678c7fd75/1645998890554-55XT6J3LVGZ9SWFJ0TH6/Giant_Diamond_A.gif">
 <img src="https://cdn0.vox-cdn.com/uploads/chorus_asset/file/6630545/strangerthingsgif.0.gif">
 [ITC Benguiat is a decorative serif typeface designed by Ed Benguiat and released by the International Typeface Corporation (ITC) in 1977.](https://www.linotype.com/576/itc-benguiat-family.html) The face is loosely based upon typefaces of the Art Nouveau period but is not considered an academic revival. The face follows ITC's design formulary of an extremely high x-height, combined with multiple widths and weights. The original version of 1977 contained numerous nonstandard ligatures (such as AB, AE, AH, AK, AR, LA, SS, TT) and alternate shapes for some letters which were not carried into the digital version.<a hrefTAKEN_FRON_WiKiPEDiA</i>
 
 <h2>FLEXBOX FROGGY</h2>
+
 Dear_Sartu:LAUREN_asWELL, I found a game that helps you learn CSS [FLEXBOX](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) from a post on DEV_dOt_cOm.
 [TRY_FLEXBOX_FROGGY](http://flexboxfroggy.com/)
 [SEE_ORiGiNAL_POST::BY_](https://dev.to/santiagocodes/the-3gs-of-css-flexbox-edition-4b64)
@@ -671,14 +668,12 @@ Dear_Sartu:LAUREN_asWELL, I found a game that helps you learn CSS [FLEXBOX](http
 [Stevie Wonder - Songs In The Key Of Life (1976) Part 1 (Full Double Album + Bonus Single)](https://youtu.be/HrJB-MItdVY)
 [STEViE_WONDER::DiSCOGS_PROFiLE::DiSCOGRAPHY_iNFO](https://www.discogs.com/artist/18956-Stevie-Wonder)
 <div class="flex3BorderedPaddedROW">
-   
     <div class="item1">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/DEAR_SARTU_IM_READY_FOR_FALL_FEELINGS.gif" /></div>
     <div class="item2">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/DEAR_SARTU_IM_READY_FOR_FALL_FEELINGS.gif" /></div>
     <div class="item3">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/DEAR_SARTU_IM_READY_FOR_FALL_FEELINGS.gif" /></div>
 </div>
 
 <div class="flex3BorderedPaddedROW">
-   
     <div class="item1">                        <img src="https://i.pinimg.com/750x/30/13/5b/30135bf01bdfabbb1e3bbaa88c83d817.jpg" /></div>
     <div class="item2">                        <img src="https://i.pinimg.com/750x/46/4e/50/464e5070a0373aea50ef425e527aa612.jpg" /></div>
     <div class="item3">                        <img src="https://i.pinimg.com/750x/67/ac/78/67ac78499dfbe78dc9d80dcf67a99dcd.jpg" /></div>
@@ -797,6 +792,7 @@ Women in Afghanistan have faced an onslaught of violence and human rights abuses
   </div>
 </div>
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/KASHDOLL_SHADES.gif" >
+
 [SWV - Rain](https://youtu.be/e4C0r7UM4Cs)
 [DREEZY-BADBiTCH](https://youtu.be/iDz19sE7ehc)
 [DREEZY_Don't Know Me](https://youtu.be/lOX1hhRDT0g)
@@ -929,6 +925,7 @@ Statistics revealed the reported cases of sexual and gender-based violence nearl
     </div>
   </div>
 </div>
+
 [The Pursuit Of Happyness: Job interview](https://youtu.be/UUDKEbX5OQw)
 [Spirited Away - Official Trailer](https://youtu.be/ByXuk9QqQkk)
 [Top 10 Best Studio Ghibli Movies](https://youtu.be/xJWLxxD0Hp8)
@@ -947,6 +944,7 @@ Statistics revealed the reported cases of sexual and gender-based violence nearl
   </div>
 </div>
 <img src="https://forum.12ozprophet.com/uploads/monthly_2022_02/109.thumb.jpg.b5bc9bd2ba2874edb9407e0e6cb89434.jpg.138d77f5e64878492a8e875f33593a4f.jpg">
+
 [MUNI LONG - JUST BEGINNING | MAJORSTAGE LIVE STUDIO PERFORMANCE](https://www.youtube.com/watch?v=48ap9EdcdRw)
 [KASH DOLL BOB PONYTAIL!| SO FREAKIN EASY!| ROXY BENNETT](https://www.youtube.com/watch?v=QlRssdY5yCc)
 [Watch Me Slay this KASH DOLL PONYTAIL](https://www.youtube.com/watch?v=7vE59VvsUGc)
@@ -966,7 +964,6 @@ Statistics revealed the reported cases of sexual and gender-based violence nearl
 </div>
 
 <div class="panel4-container">
-   
     <div class="item1"><img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/SARTUZALAH_RESTORED_TO_NORMANi_ViA_SARTU_FORWARDS.gif"></div>
     <div class="item2"><img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/SARTUZALAH_RESTORED_TO_NORMANi_ViA_SARTU_REVERSE.gif"></div>
     <div class="item3"><img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/SARTUZALAH_RESTORED_TO_NORMANi_ViA_SARTU_REVERSE.gif"></div>
@@ -1006,6 +1003,7 @@ Statistics revealed the reported cases of sexual and gender-based violence nearl
     </div>
   </div>
 </div>
+
 [James Brown - Mind Power - 1973](https://www.youtube.com/watch?v=yeTP6qsu0Bo)
 It takes MiND_POWER to DEAL_WiT_STARVATiON - <a href="https://en.wikipedia.org/wiki/James_Brown">James Brown</a>
 
@@ -1074,7 +1072,9 @@ Thanks for the song, it left me in tears
 </div>
 <a href="https://soundcloud.com/nija-music/love-like-this?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><p>Love Like This - Nija</p></a>  
 
+
 <h2>Here is a SKATE_ViD4YAH</h2>
+
 [H-Street - Hokus Pokus](https://youtu.be/LyOeNcN_xwA) 
 [Plan B - Questionable](https://youtu.be/8sEXCfX0rdk)
 [Girl Skateboards – Mouse ](https://youtu.be/H72u318Tpuk)
@@ -1133,6 +1133,7 @@ Your audience you shared with Travis will love this flick. Its about a sentient 
 <a href="https://youtu.be/mOrZYz5LMJg">SUPERDiMENSiON MACROSS Macross Do You Remember Love? (1984) English Dub</a>
 <img src="https://static.wikia.nocookie.net/macross/images/b/b1/SDF-1-1_DYRL.png">
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/R.jpg">
+
 [Queen - Its Late iwannaSEE_MY_WiFE_and_TOUCH_HER](https://youtu.be/M2c6qblEwnQ)
 [THE_WHiTE_STRiPES 7NATiON_ARMY](https://youtu.be/RDuzszjrdcc)
 [Gnarls Barkley - Crazy](https://youtu.be/-N4jf6rtyuw)
@@ -1163,6 +1164,7 @@ Your audience you shared with Travis will love this flick. Its about a sentient 
 <iframe width="90%" height="315" src="https://www.youtube.com/embed/wvAnQqVJ3XQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ## SAATU##iM_DOM4NOW
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/CD-E-LDc384" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [Scooby Doo Where Are You! 2 4 Hassle In The Castle](https://youtu.be/o7iEu4T3KYY)
 [SPRAYDAY - Episode 09 - GESER USA](https://www.youtube.com/watch?v=rkPTbKjv_7k)
 [Product Review: Chrome Test::BOMBiNG_SCiENCE](https://www.youtube.com/watch?v=HXSANKFHrFM)
@@ -1172,6 +1174,7 @@ Your audience you shared with Travis will love this flick. Its about a sentient 
 [How To Graffiti Pieces: Everything You Need To Know!](https://youtu.be/ALvLLOHFfog)
 <img src="https://cdn.shopify.com/s/files/1/3005/5554/products/12ozprophet-ny-fat-cap-detail_900x.jpg?v=1518218677">
 <iframe width="80%" height="315" src="https://www.youtube.com/embed/aDGcKDk_in0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [Arise, Serpentor, Arise! | A Real American Hero | 40th Anniversary | G.I. Joe Official](https://www.youtube.com/watch?v=Te611XRUU8Q)
 [More Than Meets the Eye, Part 1 | Transformers: Generation 1 | Season 1 | E01 | Hasbro Pulse](https://youtu.be/Y1ujpoDlgRU)
 [DEAR_ERiTREA here are 3 Places Only Stupid People Buy Cars](https://www.youtube.com/watch?v=cjL7I0p8KBs)
@@ -1452,4 +1455,3 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
-
