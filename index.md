@@ -149,6 +149,42 @@
 
 </style>
 ## Hole To Another Universe
+
+<img src="https://cdn.worldvectorlogo.com/logos/crime-bite.svg" alt="MCGRUFF = ##TAKE_A_BITE_OUTTA_CRIME">
+
+
+[1981 McGruff The Crime Dog "Detroit" TV Commercial](https://www.youtube.com/watch?v=ta05yW8WWrs)
+[McGruff's Guide To Personal Safety (1988 VHS)](https://www.youtube.com/watch?v=p3hu_wvgd1Y)
+[McGruff Don't talk to Strangers PSA 1984](https://www.youtube.com/watch?v=rxLD1uq94sE)
+[Blue Ribbon Panel: McGruff on Dangerous Strangers](https://www.youtube.com/watch?v=EkAwcNkagjU)
+[McGruff on Self-Protection: Preventing Child Abuse and Neglect (1993 VHS)](https://www.youtube.com/watch?v=61u1HAbmMwg)
+[(1986) McGruff's SMART KIDS Album [Cassette Rip]](https://www.youtube.com/watch?v=y4P4plYXKFE)
+[Peppa Pig Jumps in Muddy Puddles and Goes to the Beach 🐷 | Peppa Pig Official Family Kids Cartoon](https://www.youtube.com/watch?v=092T6-AJELs)
+[Teen Assault](https://www.youtube.com/watch?v=Isw_ipGAQ24)
+[Vintage Television Advertisements from the 60's and 70's](https://www.youtube.com/watch?v=0yDccwZiuIA)
+## DEAR_SARTU 
+Here are some tracks you can prep Travis' disillusioned fans to... BurningMan_LA
+[The·Crystal·Method ▶ ·Vegas·(Full Album)](https://www.youtube.com/watch?v=6qh5iA9wnvs)
+[The Chemical Brothers - Dig Your Own Hole (Full Album)](https://www.youtube.com/watch?v=2UafeQIkj5c)
+[The Chemical Brothers 1995 Exit Planet Dust](https://www.youtube.com/watch?v=gdGAGDMxQTg)
+[Chemical Brothers - BBC Radio1 Essential Mix - April 13, 2019](https://www.youtube.com/watch?v=EvfhVKHf1pA)
+[The Chemical Brothers - Live @ Glastonbury 2007 [4k]](https://www.youtube.com/watch?v=rMn0t72BvBc)
+
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://ae01.alicdn.com/kf/HTB1r9XjIXXXXXc_XpXXq6xXFXXX3/AUG322-The-Chemical-Brothers-Logo-Laptop-Skins-Waterproof-PVC-Luggage-Sticker-Decal-Skin-Stickers-10-pcs.jpg_Q90.jpg_.webp" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT">
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://ae01.alicdn.com/kf/HTB1r9XjIXXXXXc_XpXXq6xXFXXX3/AUG322-The-Chemical-Brothers-Logo-Laptop-Skins-Waterproof-PVC-Luggage-Sticker-Decal-Skin-Stickers-10-pcs.jpg_Q90.jpg_.webp" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT"> 
+      </div>
+    </div>
+  </div>
+</div>
 [The Tibetan Book of Living and Dying. Malditasweet](https://www.youtube.com/watch?v=pPKbxpT7Z0c)
 [RiRi::YOU_KNOE_PEEBs_IN_DIS_ViDEOh_Prepare Your Heart For The Trials Ahead - 2013 Drama JW](https://www.youtube.com/watch?v=0wtqiK30O4k)
 [Old School Church Songs That's Going To Take You Back!](https://www.youtube.com/watch?v=hOOMTjiO5tk)
