@@ -149,7 +149,7 @@
 
 </style>
 ## Hole To Another Universe
-
+[Tainted Love / Where Did Our Love Go (Extended Version / Medley)](https://www.youtube.com/watch?v=q84psZX6MbA)
 [Bennie And The Jets (Remastered 2014) ELTON_JOHN](https://www.youtube.com/watch?v=ZBUW433Porw)
 [This Is for the Lover in You](https://www.youtube.com/watch?v=Sn_mS9cZUss)
 [Forever My Lady](https://www.youtube.com/watch?v=OVNPFylUzJQ)
