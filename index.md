@@ -149,7 +149,39 @@
 
 </style>
 ## Hole To Another Universe
+## Disabled Public Libray computers
+Its so disappointing when [Billy_Jean](https://www.archdaily.com/953006/billie-jean-king-main-library-skidmore-owings-and-merrill) Branch in Long beach is closed. While the computers are timed, they do not disable you from saving files. I like making animated gifs out of my wifes videos so they can use them for social media when they have downtime from prostitution. Now that I say that the phones will be taken away... They not releasing music as often and Im not seeing new dance videos. The organization that manages the librarys computers block thier songs from my youtube account and my wife Muna from my google results. RANDO_XTC and LOST_SFK took me and Coral to the funeral, the whole family was therer including SARTU! She was laid to rest here and my life fell apart... 
+[Next thing I know she is performing on Jimmy_Kimmel and appearing at the source awards](https://www.youtube.com/watch?v=da-h2Kdunbg)
+[We Could Watch Muni Long Perform For Hrs & Hrs | BET Awards '22](https://www.youtube.com/watch?v=da-h2Kdunbg)
+<img src="https://i.ytimg.com/vi/ddNppeY520o/maxresdefault.jpg">
+```
+My heart is cold like Russia/
+Got Jerked at the SOURCE_AWARDS/
+NEXT_YEAR,200_NiGGAS comin' wit swords
+- iRON_MAN_TONY_STARKS ##THE_GHOSTFACE_KiLLER 
+from POiSONOUS_DARTS
+```
 
+[Ghostface Killah - Poisonous Darts (Official Audio)](https://www.youtube.com/watch?v=oo26-NdzqbE)
+[Ghostface Killah · Box In Hand](https://www.youtube.com/watch?v=oiG-DJ37wXQ)
+<img src="https://cdn.f1connect.net/compress/photo/location/8fb167dad21040dbadabd1bc8ce0d9a6/c3a51d6c-4551-4b80-bd77-22b519c6d928.png">
+[SARTU_WEARiNG_MY_BROTHER MEMORiAL_STYLE](https://www.pinterest.com/pin/476114991866603327)
+[SARTU_iN_AFRO_WiG The ##HUMAN_TRAFFiCKeRs MADE_HER_CUT_HER_MANE_OFF](https://www.pinterest.com/pin/476114991867389020)
+[Y2K baddie Outfit inspo | Look is in my bio ❤️](https://www.pinterest.com/pin/476114991868686622/?mt=login)
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://longbeach.gov/globalassets/city-news/media-library/images/libraryconstruction_12-17-18_012.jpg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT">
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://longbeach.gov/globalassets/city-news/media-library/images/libraryconstruction_12-17-18_012.jpg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT"> 
+      </div>
+    </div>
+  </div>
+</div>
 <img src="https://cdn.worldvectorlogo.com/logos/crime-bite.svg" alt="MCGRUFF = ##TAKE_A_BITE_OUTTA_CRIME">
 
 
@@ -169,22 +201,8 @@ Here are some tracks you can prep Travis' disillusioned fans to... BurningMan_LA
 [The Chemical Brothers 1995 Exit Planet Dust](https://www.youtube.com/watch?v=gdGAGDMxQTg)
 [Chemical Brothers - BBC Radio1 Essential Mix - April 13, 2019](https://www.youtube.com/watch?v=EvfhVKHf1pA)
 [The Chemical Brothers - Live @ Glastonbury 2007 [4k]](https://www.youtube.com/watch?v=rMn0t72BvBc)
+<img src="https://www.seekpng.com/png/detail/373-3730168_the-chemical-brothers-brotherhood-chemical-brothers-png.png">
 
-
-<div class='twoPanelSpread'>
-  <div class='row'>
-    <div class='panelColumn'>
-      <div class='leftColumn'>
-        <img src="https://ae01.alicdn.com/kf/HTB1r9XjIXXXXXc_XpXXq6xXFXXX3/AUG322-The-Chemical-Brothers-Logo-Laptop-Skins-Waterproof-PVC-Luggage-Sticker-Decal-Skin-Stickers-10-pcs.jpg_Q90.jpg_.webp" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT">
-      </div>
-    </div>
-    <div class='panelColumn'>
-      <div class='rightColumn'>
-        <img src="https://ae01.alicdn.com/kf/HTB1r9XjIXXXXXc_XpXXq6xXFXXX3/AUG322-The-Chemical-Brothers-Logo-Laptop-Skins-Waterproof-PVC-Luggage-Sticker-Decal-Skin-Stickers-10-pcs.jpg_Q90.jpg_.webp" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT"> 
-      </div>
-    </div>
-  </div>
-</div>
 [The Tibetan Book of Living and Dying. Malditasweet](https://www.youtube.com/watch?v=pPKbxpT7Z0c)
 [RiRi::YOU_KNOE_PEEBs_IN_DIS_ViDEOh_Prepare Your Heart For The Trials Ahead - 2013 Drama JW](https://www.youtube.com/watch?v=0wtqiK30O4k)
 [Old School Church Songs That's Going To Take You Back!](https://www.youtube.com/watch?v=hOOMTjiO5tk)
