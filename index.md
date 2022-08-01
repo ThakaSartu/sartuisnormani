@@ -149,6 +149,12 @@
 
 </style>
 ## Hole To Another Universe
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="xdooWa" data-user="amdsouza92" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/amdsouza92/pen/xdooWa">
+  JavaScript Drum Kit</a> by Arun Michael Dsouza (<a href="https://codepen.io/amdsouza92">@amdsouza92</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 <img src="https://installmd.com/upload/images/20210703/16253198381381.jpg">
 [How to use the curl command in Linux command line tool and library for transferring data with URLs](https://installmd.com/i/cli/curl)
 [Baltimora - Tarzan Boy (extended original)](https://www.youtube.com/watch?v=gSQ_iJ7aXKQ)
