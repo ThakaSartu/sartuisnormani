@@ -1,4 +1,4 @@
-<script type="text/javascript" src="https://raw.githubusercontent.com/ThakaRashard/film1/master/scriptSartumediaWidget.jshttps://raw.githubusercontent.com/ThakaRashard/film1/master/scriptSartumediaWidget.js">
+<script src="https://raw.githubusercontent.com/ThakaRashard/film1/master/scriptSartumediaWidget.jshttps://raw.githubusercontent.com/ThakaRashard/film1/master/scriptSartumediaWidget.js"> 
     function createTrackItem(index,name,duration){
     var trackItem = document.createElement('div');
     trackItem.setAttribute("class", "playlist-track-ctn");
@@ -502,7 +502,8 @@ padding-top: 20px;
 
 </style>
 ## Hole To Another Universe 
-
+[52nd Street - Tell Me](https://www.youtube.com/watch?v=3Ck25PGjlLc)
+[The S.O.S. Band ‎– No One's Gonna Love You 1984](https://www.youtube.com/watch?v=3DDeZVnK2E0)
 [S.O.S. Band- Even When You Sleep](https://www.youtube.com/watch?v=aX0wGKIgSZU)
 [WEEKEND GIRL (Original Full-Length Album Version) - SOS Band](https://www.youtube.com/watch?v=8BvuSzxcE5o)
 [The S.O.S. Band - Tell Me If You Still Care](https://www.youtube.com/watch?v=GSsTyAVP5j0)
