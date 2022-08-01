@@ -501,7 +501,8 @@ padding-top: 20px;
 }
 
 </style>
-## Hole To Another Universe 
+## Hole To Another Universe
+[The Jones Girls - Nights Over Egypt](https://www.youtube.com/watch?v=pzxwZ6wjDAM)
 [52nd Street - Tell Me](https://www.youtube.com/watch?v=3Ck25PGjlLc)
 [The S.O.S. Band ‎– No One's Gonna Love You 1984](https://www.youtube.com/watch?v=3DDeZVnK2E0)
 [S.O.S. Band- Even When You Sleep](https://www.youtube.com/watch?v=aX0wGKIgSZU)
