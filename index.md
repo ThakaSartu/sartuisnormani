@@ -149,7 +149,7 @@
 
 </style>
 ## Hole To Another Universe
-
+[Lookout Weekend - DEBBiE_DEB](https://www.youtube.com/watch?v=5TXvP76l-V4)
 ## DEAR_MUNA
 You know I rag you guys about being lame all the time but this is serious prostitution allegations or not... The condition Justin has is called [Bell's palsy](https://www.mayoclinic.org/diseases-conditions/bells-palsy/symptoms-causes/syc-20370028). And he connected with mad prostituted women. Those pimps and ##PSYCHO_JONS have nerve gas. You can ask Erika, Sartu, Coral or Quxube, Matt_Field_GNK_NPR_REM and possibly SEVER_MSK but I have to be right if I accuse [SEVER##AWR_MSK](https://www.graffiti.org/sever/index.html). I cant be wrong with that guy. He dont realize that when we were early teens we looked up to him. So him stealing Muna is like yo look at those little boys at the basketball court. That skinny flat chested [DoubleDucher](https://www.youtube.com/watch?v=Kh1rgPIkWKA) is gonna be mine and he will never share a meal with her again once my plan is complete. Ill dissolve any family he builds. ##PiMP_SHiT_MAH_NiGGAH -SiGNED ATLANTAS_MOST_AGGY_NYMPHO_HUMANTRAFFiKiNG_PiMP_THiNG...
 #### BACK_TO_JUSTiN
