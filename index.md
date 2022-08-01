@@ -1,3 +1,386 @@
+<script type="text/javascript">
+   /*
+    * MediaPlayer
+    */
+   var MediaPlayer = function(el) {
+
+     var self = this,
+       media_player = el,
+       video = el.querySelector('video'),
+       controls_bar,
+       play_button,
+       progress_bar,
+       progress_text,
+       sound_button,
+       sound_bar,
+       loading,
+       full_screen_button,
+       progressDrag = false,
+       soundDrag = false,
+       isClicking = false,
+       isInFullscreen = false,
+       click_timer,
+       show_controls_timer,
+       hide_controls_timer;
+
+     function createControls() {
+
+       var html = '<div class="media-player-controls"><button class="play-button"><i class="material-icons">play_arrow</i></button><progress class="progress-bar" min="0" max="100" value="0"></progress><span class="progress-text"></span><button class="sound-button"><i class="material-icons">volume_up</i></button><progress class="sound-bar" min="0" max="100" value="0"></progress><button class="fullscreen-button"><i class="material-icons">fullscreen</i></button></div>';
+
+       media_player.insertAdjacentHTML('beforeend', html);
+     }
+
+     function createLoader() {
+
+       var html = '<div class="media-player-loading"><div class="loader"><div class="circle"></div><div class="circle"></div><div class="circle"></div></div></div>';
+
+       media_player.insertAdjacentHTML('beforeend', html);
+     }
+
+     function showLoader() {
+       loading.style.display = 'block';
+     }
+
+     function hideLoader() {
+       loading.style.display = 'none';
+     }
+
+     function showControls() {
+
+       if (isClicking || controls_bar.style.opacity == 1) return false;
+
+       var opacity = 0,
+         current_time = 0,
+         duration = 300;
+
+       clearInterval(show_controls_timer);
+       show_controls_timer = setInterval(function() {
+         controls_bar.style.opacity = opacity;
+
+         opacity += .05;
+         current_time += 16;
+         if (opacity >= 1 && current_time >= duration) {
+           controls_bar.style.opacity = 1;
+           clearInterval(show_controls_timer);
+           return false;
+         }
+       }, 16);
+     }
+
+     function hideControls() {
+
+       if (isClicking || controls_bar.style.opacity == 0 || video.currentTime == video.duration || (video.currentTime == 0 && video.paused)) return false;
+
+       var opacity = 1,
+         current_time = 0,
+         duration = 300;
+
+       clearInterval(hide_controls_timer);
+       hide_controls_timer = setInterval(function() {
+         controls_bar.style.opacity = opacity;
+
+         opacity -= .05;
+         current_time += 16;
+         if (opacity <= 0 && current_time >= duration) {
+           controls_bar.style.opacity = 0;
+           clearInterval(hide_controls_timer);
+           return false;
+         }
+       }, 16);
+     }
+
+     function togglePlayPause() {
+
+       launch_click_timer();
+
+       if (video.paused || video.ended) {
+         play_button.innerHTML = '<i class="material-icons">pause</i>';
+         video.play();
+       } else {
+         play_button.innerHTML = '<i class="material-icons">play_arrow</i>';
+         video.pause();
+       }
+     }
+
+     function launch_click_timer() {
+       isClicking = true;
+       clearTimeout(click_timer);
+       click_timer = setTimeout(function() {
+         isClicking = false;
+       }, 500);
+     }
+
+     function stop() {
+       video.pause();
+       video.currentTime = 0;
+       play_button.innerHTML = '<i class="material-icons">play_arrow</i>';
+       showControls(false);
+     }
+
+     function updateProgress() {
+       var percentage = Math.floor((100 / video.duration) * video.currentTime);
+       progress_bar.value = percentage;
+       // progress_text.innerHTML = percentage + '%';
+       progress_text.innerHTML = formatTime(video.currentTime);
+     }
+
+     function setProgress(e) {
+       var offsetLeft = progress_bar.getBoundingClientRect().left;
+       var position = e.pageX - offsetLeft;
+       var percentage = 100 * position / progress_bar.clientWidth;
+
+       if (percentage > 100) {
+         percentage = 100;
+       }
+       if (percentage < 0) {
+         percentage = 0;
+       }
+
+       video.currentTime = video.duration * percentage / 100;
+     }
+
+     function goTo(time) {
+
+       if (time > video.duration) {
+         time = video.duration;
+       }
+
+       video.currentTime = time;
+     }
+
+     function toggleMute(e) {
+
+       launch_click_timer();
+
+       if (video.muted) {
+         video.muted = false;
+         updateVolume_controls(video.volume);
+       } else {
+         video.muted = true;
+         updateVolume_controls(0);
+       }
+     }
+
+     function updateVolume(e) {
+       var offsetLeft = sound_bar.getBoundingClientRect().left;
+       var position = e.pageX - offsetLeft;
+       var volume = position / sound_bar.clientWidth;
+
+       setVolume(volume);
+     }
+
+     function setVolume(volume) {
+
+       console.log(typeof e);
+
+       if (volume < .01) {
+         volume = 0;
+       }
+       if (video.muted) {
+         video.muted = false;
+       }
+
+       video.volume = volume;
+       updateVolume_controls(volume);
+     }
+
+     function formatTime(time) { // 360.121313 secs
+
+       // 1 heure = 3600 sec
+       var hours = Math.floor(time / 3600);
+       // 1 min = 60 sec
+       var minutes = Math.floor((time - (hours * 3600)) / 60);
+       var seconds = Math.floor(time - (hours * 3600) - (minutes * 60));
+
+       var result = hours < 10 ? '0' + hours : hours;
+       result += ':';
+       result += minutes < 10 ? '0' + minutes : minutes;
+       result += ':';
+       result += seconds < 10 ? '0' + seconds : seconds;
+       return result;
+     };
+
+     function updateVolume_controls(volume) {
+
+       if (volume == 0) {
+         sound_button.innerHTML = '<i class="material-icons">volume_off</i>';
+       } else if (volume < .5) {
+         sound_button.innerHTML = '<i class="material-icons">volume_down</i>';
+       } else {
+         sound_button.innerHTML = '<i class="material-icons">volume_up</i>';
+       }
+
+       sound_bar.value = volume * 100;
+     }
+
+     function init() {
+
+       createControls();
+       createLoader();
+
+       controls_bar = document.querySelector('.media-player-controls');
+       play_button = document.querySelector('.play-button');
+       stop_button = document.querySelector('.stop-button');
+       progress_bar = document.querySelector('.progress-bar');
+       progress_text = document.querySelector('.progress-text');
+       sound_button = document.querySelector('.sound-button');
+       sound_bar = document.querySelector('.sound-bar');
+       loading = document.querySelector('.media-player-loading');
+       full_screen_button = document.querySelector('.fullscreen-button');
+
+       // options
+       video.controls = false;
+       video.volume = .7;
+       sound_bar.value = 70;
+       progress_text.innerHTML = "00:00:00";
+
+       // Loader
+       video.addEventListener('waiting', showLoader);
+       video.addEventListener('canplay', hideLoader);
+       video.addEventListener('seeked', hideLoader);
+
+       // Show / Hide controls
+       video.addEventListener('loadedmetadata', showControls);
+       media_player.addEventListener('mouseenter', showControls);
+       media_player.addEventListener('mouseleave', hideControls);
+
+       // user Play / Pause
+       video.addEventListener('click', togglePlayPause);
+       play_button.addEventListener('click', togglePlayPause);
+
+       // progress
+       video.addEventListener('timeupdate', updateProgress);
+       // user change progress (drag, click)
+       progress_bar.addEventListener('mousedown', function(e) {
+         progressDrag = true;
+       });
+       document.addEventListener('mouseup', function(e) {
+         if (progressDrag) {
+           setProgress(e);
+           progressDrag = false;
+         }
+         if (soundDrag) {
+           soundDrag = false;
+           updateVolume(e);
+         }
+       });
+       document.addEventListener('mousemove', function(e) {
+         if (progressDrag) {
+           setProgress(e);
+         }
+         if (soundDrag) {
+           updateVolume(e);
+         }
+       });
+       progress_bar.addEventListener('click', updateProgress);
+
+       // video ended
+       video.addEventListener('ended', function() {
+         // replay ?                       
+         play_button.innerHTML = '<i class="material-icons">play_arrow</i>';
+         showControls();
+       });
+
+       // Mute
+       sound_button.addEventListener('click', toggleMute);
+       // Volume change
+       sound_bar.addEventListener('mousedown', function(e) {
+         soundDrag = true;
+       });
+       sound_bar.addEventListener('click', updateVolume);
+
+       // full screen
+       full_screen_button.addEventListener('click', function() {
+
+         if (video.webkitEnterFullscreen) {
+           video.webkitEnterFullscreen();
+         } else if (video.mozEnterFullscreen) {
+           video.mozEnterFullscreen();
+         } else {
+           // no support
+         }
+
+       });
+       video.addEventListener("mozfullscreenchange", function() {
+         isInFullscreen = document.mozFullScreen;
+       }, false);
+
+       video.addEventListener("webkitfullscreenchange", function() {
+         isInFullscreen = document.webkitIsFullScreen;
+       }, false);
+
+       // gestion du son en fullscreen
+       video.addEventListener('volumechange', function() {
+         if (isInFullscreen) {
+
+           var volume = video.muted ? 0 : video.volume;
+           sound_bar.value = volume * 100;
+
+           if (volume == 0) {
+             sound_button.innerHTML = '<i class="material-icons">volume_off</i>';
+           } else if (volume < .5) {
+             sound_button.innerHTML = '<i class="material-icons">volume_down</i>';
+           } else {
+             sound_button.innerHTML = '<i class="material-icons">volume_up</i>';
+           }
+         }
+       });
+     }
+
+     init();
+
+     return {
+       goTo: goTo,
+       hideControls: hideControls,
+       setVolume: setVolume,
+       showControls: showControls,
+       stop: stop,
+       toggleMute: toggleMute,
+       togglePlayPause: togglePlayPause,
+       version: '0.1.0'
+     }
+   }
+
+   /*
+    * Code
+    */
+   function initialize() {
+
+     var el = document.querySelector('.media-player'),
+       mediaPlayer = new MediaPlayer(el);
+
+     var play_test_button = document.querySelector('.play'),
+       goto_test_button = document.querySelector('.goto'),
+       stop_test_button = document.querySelector('.stop'),
+       mute_test_button = document.querySelector('.mute'),
+       volume_test_button = document.querySelector('.volume');
+
+     play_test_button.addEventListener('click', function() {
+       mediaPlayer.togglePlayPause();
+     });
+
+     goto_test_button.addEventListener('click', function() {
+       mediaPlayer.goTo(30);
+     });
+
+     stop_test_button.addEventListener('click', function() {
+       mediaPlayer.stop();
+     });
+
+     mute_test_button.addEventListener('click', function() {
+       mediaPlayer.toggleMute();
+     });
+
+     volume_test_button.addEventListener('click', function() {
+       mediaPlayer.setVolume(1);
+     });
+   }
+
+   document.addEventListener('DOMContentLoaded', initialize);	
+	
+	
+	
+</script>	
 
 <style>
   
@@ -150,11 +533,437 @@
 </style>
 ## Hole To Another Universe
 
+<h2> Normani_my_WiFE featuring my wife_Cardi_B::WiLDSiDE </h2>
+<div class="container">
+
+  <!-- 
+Il suffit d'ajouter une div avec la classe "media-player" + la video
+puis créer une instance le MediaPlayer en passant la div.
+Les controls sont ajoutés dynamiquement.
+-->
+  <div class="media-player">
+    <video class="made-player-video" poster="https://www.pinkvilla.com/files/styles/amp_metadata_content_image/public/cardi_b_normani_slam_trolls_for_suggesting_wild_side_shouldve_been_a_solo.jpg">
+     <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/NormaniWildSideOfficialVideoftCardiB.mp4" type="video/mp4">
+    
+     <p>Your user agent does not support the HTML5 Video element.</p>
+   </video>
+  </div>
+  <!-- .media-player -->
+
+  <!-- 
+On peut un peu contrôler le player de manière externe (play, pause, son,...)
+-->
+  <div>
+    <h2>Media player functions tests</h2>
+    <button class="play">Play | Pause</button>
+    <button class="goto">Go to 30s</button>
+    <button class="stop">Stop</button>
+    <button class="mute">Mute</button>
+    <button class="volume">Volume max</button>
+  </div>
+
+</div>
+<!-- .container -->
+<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/WiLDSiDE_BEHiND_THE_SCENES.PNG" > 
+<a href="https://www.youtube.com/watch?v=FOm8LqH5lz8&t=205s" alt="WHY_THE_SEAMSTRESS_FEELiNG_ON_MY_WIFE_BREAST">Cardi B x Megan Thee Stallion - Inside the WAP (BTS) [Part 1] </a>
+<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/DEAR_KASH_DOLL_MAYBE_WE_SHOULD_LET_OLD_PEOPLE_WITHOUT_GENITAL_CONTACT_DJ.PNG" >
+<a href="https://youtu.be/DAc1MXEOLgY" alt="WHY_THE_SEAMSTRESS_FEELiNG_ON_MY_WIFE_BREAST">DEAR_KASH_DOLL_MAYBE_WE_SHOULD_LET_OLD_PEOPLE_WITHOUT_GENITAL_CONTACT_DJ,HOUR_WEDDiNG </a>
+<a href="https://youtu.be/DAc1MXEOLgY" alt="WHY_THE_SEAMSTRESS_FEELiNG_ON_MY_WIFE_BREAST">SarTu, like Kool DJ Red Alert check him out on<span class="neonText"> 98.7 Kiss-FM </span> (12-4-88) </a>
+
+
+<a href="https://www.thejacobsonfirmpc.com/" alt="WHY_THE_SEAMSTRESS_FEELiNG_ON_MY_WIFE_BREAST"><span class="neonText"> Dear Jacobson Firm </span> </a>
+<p>My wife Sartu was kidnapped from Alpharetta Georgia January of 2021 and was prostituted across country by a child molestation ring/regime led by Matt Field of the prostitution crews GNK/REM_aka_GRAB_NEW_KNiCKERS&amp;RED_EYE_MOB_aka_RABBiT_EYE_MOVEMENT. Sever of MSK is also involved and from my understanding Swiss beats. Whom by the way I saw Alicia Keys in prostitution in Hollywood on the walk of fame... they have a flamboyant characature look that the people from Atlanta know from <a href="https://www.imdb.com/title/tt0118663/?ref_=nm_flmg_act_43" alt="WHY_THE_SEAMSTRESS_FEELiNG_ON_MY_WIFE_BREAST"><span class="neonText">Halle_Berry's B*A*P*S</span> </a>
+You know prostitution clans often send the sex slaves out with themes like maids, police etc... Villiage People type shit. You are in the recording industry, she was a fellow instructor at Dance411 on moreland ave. You got a lot of LaFace records on your wall I know you know someone that can get me to my family. Muna was supposed to be dead but she Erika, and my 10 year old Coral are in prostitution. You may have heard about the RnB_Molestors of yester year calling her LaRoc. I just know you know something that can reunite us, because Muna singing as Muni Long on Jimmy Kimmel and her friends who sold her into prostitution took me to a staged funeral where they had duped the whole family into attending, That was my last free conversation with Sartu, now shes some hairy bastards prostitute and I have had to defend myself from Organ Harvesting, particularly the penis choppers. Riad and Travis Scott would menace me about Organ harvesting both of us in front of our clan, children and all AM57, that what we call ourselves. You guys never skate or paint graffiti so you dont get that we are the continuation of a legendary Atlanta Art Collective AM7 and we need protection to create art and now we are into Web Development. I am a polygamist, ask Ella Mai, verify me and help us stop their sex trafficking... HUMAN_TRAFFiCKiNG_iS_HiGHLY_iLLEGAL
+</p>
+<img src="https://www.thejacobsonfirmpc.com/wp-content/uploads/2016/12/kash-logo-reg.jpg">
+[WHOSAMPLED::MiSSYs_SAMPLES_FOR_MY_STRUGGLES](https://www.whosampled.com/Missy-Elliott/My-Struggles/)	
+[DEAR_CORAL_MEYU_JABDU_NiNE_CYNTHiA_WONDERFUL_YODA ya aunt gonna have a baby in some time and I want you guys to practice being alert to each others needs and reporting to your mothers](https://www.msn.com/en-us/lifestyle/family/big-brother-warns-mom-about-baby/vi-AAZZKKQ?ocid=msedgntp&cvid=65ab8bc11ab0406f856d2ccf79bede7b&category=foryou)
+
+[The Original HTAU_BLOG](https://thakarashard.github.io/holetoanotheruniverse/)
+[News about Akihabara Mass Murderer Execution](https://www.bing.com/search?q=Akihabara+mass+murderer+execution&efirst=0&ecount=50&filters=tnTID%3a%226D9DC016-9522-461b-A44D-BA47553D22AB%22+tnVersion%3a%224680267%22+Segment%3a%22popularnow.carousel%22+tnCol%3a%221%22+tnOrder%3a%229fd365cb-dcf8-4241-8eab-ca8d94400258%22&form=HPNN01)
+[THE_CROWN_PROSECUTION_SERVICE](https://www.cps.gov.uk/)	
+[THE LAND OF NO MEN: Kenya's Women-Only Village](https://www.youtube.com/watch?v=-QY8FALExGA)
+<span class="neonText">አዳምም አለ። ይህች አጥንት ከአጥንቴ ናት፥ ሥጋም ከሥጋዬ ናት፤ እርስዋ ከወንድ ተገኝታለችና ሴት ትባል።</span>
+<p> Dear Sartu, since California has a climate very similar to ##ETHiOPiA_as_WE_KNOWiT. Coffee might be a good crop in addition to cannabis. Tobacco maybe? I spent time with our family in 
+[REiDsViLLE](https://en.wikipedia.org/wiki/Reidsville,_Georgia)
+where my family friend Coalas and Fred jr grew at an eary pre-Watchtower point Tobacco, and later to sqaush, melons, and leafygreens. I did not know that tobacco bit, however Vickye used to always spout off details about the family members of their Georgia settlement as it was described to me. So anyway after getting aquainted with "Brother" Benny Willams I always looked forward to a trip to hear on of his sermons. After the Kingdom hall there was a dinner at a local familys house to give the speaker of the "talk" as we called them some <span class="neonText">HOSPiTALiTY</span>. One one occasion they took Vickye and I to pick some squash from their still attatched to the vine squash farm lushilusly grown on thier small southern family commercial farm near Claxton where Colas worked. There wwas a cake factory that made mostly holiday fruitcake year around for the winter christian holiday Christmas. Them things dont tast that good but they last a long ass time. In this time of need Muna will not even bring me fruitcake... Just another Erika... But, since technology has ousted me at the money earning level from child molestation allegations, I think pursuing farming is an option I want to explore for my slice of caring for this family's needs
+	</p>
+[SEEDS OF GOLD: A faster way to grow coffee and earn from it](https://www.youtube.com/watch?v=PfGXrOuOeMU)
+[African Village Life, Visiting Cows On A Farm, Drinking Raw Milk.](https://www.youtube.com/watch?v=VjXpM3A-lhY)
+[FARM CLINIC: The 19th edition of Seeds of Gold](https://www.youtube.com/watch?v=y1anIIH2eUU)
+[DEAR_MUWAH_HERE_iS_MY_AGRiCULTURE_AUNTiE_TALK_TO_IMAN for DETAiL](https://www.youtube.com/watch?v=caNk4U6rO70)	
+[DEAR_MUNi__aaaaHem_MUNA if i could find your make up vids id like to make some gifs... I made some for Sartu](https://codepen.io/thakarashard/pen/JjLJOzZ)
+[Most practical method for a secret demographic to get its news?](https://worldbuilding.stackexchange.com/questions/233206/most-practical-method-for-a-secret-demographic-to-get-its-news) 
+[Census 2021 Prosecutions22 July 2021|Legal Guidance](https://www.cps.gov.uk/legal-guidance/census-2021-prosecutions)
+[THE UK's CROWN_PROSECUTION_SERVICE SEXUAL_OFFENSE GUiDE](https://www.cps.gov.uk/crime-info/sexual-offences)
+[DEAR_LOS_ANGELES_HOW_DO_WE_PROSECUTE CYBER_BULLYiNG?!?!?](https://www.cps.gov.uk/crime-info/cyber-online-crime)
+
+ <video width="100%" controls>
+  <source src="https://videos.ctfassets.net/8cd2csgvqd3m/2lJPxUH5XqdTxFjyQi5peI/c9c2125c9aa081cd5ac7be7e4d5ec03e/Sound_And_Vision_For_Your_Home_Beolab_28___Beovision_Harmony_0003_Loop.mp4" type="video/mp4">
+  
+  Your browser does not support HTML video.
+</video>
+
+<h2>I need to get my daughter out of a molesters hands (・о・) </h2>
+<h2 class="neonText"> Its been 757 days since I have seen our daughter ##CORAL_IRIS_KELLY. </h2> 
+Her mother mother Erika Renee Kelly was kidnapped on Feb 2,2020. A local Atlanta Matt Field bragged about it on Facebook stating "I_SOLD_HER. I found her near Venice beach California and my tattooist Kennie_Davis of ##Jolly_Roger_Tattoo in _Stockbridge#Georgia was not too far from the scene. Erika and I were not estranged when she disappeared as 
+[ESSENCE_MAGAZiNE_STATED](https://www.essence.com/news/erika-kelly-missing-atlanta-georgia/) we were coparenting. I was laid off from my IT job at [Ionic Security](https://www.linkedin.com/company/ionic-security) after my work was repeatedly sabotaged by my manager. I opened a case with ##Fulton_County_Family_Services two months before our eviction from our ##East_Atlanta_Home_at_631_Moreland_Ave_in_Atlanta_Georgia they failed to process us after repeated visits and calls. I took odd jobs and even scored a mural gig with 
+[Mercedes_BenZ_Stadium](https://mercedesbenzstadium.com/) for the 
+[Atlanta_Falcons](https://www.atlantafalcons.com/). They paid me $1500 for a 40ft graffiti mural on red canvas for former athlete ##Deion_Sanders. I was severely underpaid but it covered the rent for one more month. I moved in with Constancia and her daughter ##Akeeva, got Coral in school at 
+[Chapel Hill Elementary](https://www.chapelhilles.dekalb.k12.ga.us/) and worked hard to get a new 9-5. Constancia did not like me or Coral living with her and Akeeva so they undercut me with accusations of erratic behavior and started thier own dfacs case accusing me of schizophrenia. I had no income and was repeatedly denied foodstamps and welfare by a woman named ##DANIELLE_MASHONGA_and_her_colleage##MANESSA_WARNER... ##Coral would ask
+<h2> Where_is_mommy?!?</h2>
+I told her that Matt stole and raped her and she needs our help, so we have to keep looking. Constancia and Akeeva constantly defended Matt. He is a known pedophile and child and adult rapist in the Atlanta art community. I did not know this. We shopped at the same record store and he often offered me work. I loath rapist. I loath pedophilia. Once I learned of his ways I distanced myself. So ##Erikas_mother_and_sisters_DEFENDING_HIM, struck me as bizarre. "##Its_just_a_white_boy_joke##He_didnt_sell_her". 
+[DFACS](https://dfcs.georgia.gov/) stalked me on Facebook and indirectly accused me of ##CHILD_MOLESTATION for a video where we were playing with a wand style muscle massager, it was innocent. They 
+[forcibly removed Coral](https://www.youtube.com/watch?v=AmYdIZhahrQ) saying that I was saying 
+["inappropriate things"](https://www.youtube.com/watch?v=9sCE3HhjSbY) and violating her by saying that her mom had been raped and kidnapped. I learned that telling Coral the ugly truth was the best way to keep a solid trust filled relationship with her. In the DFACS meeting, puzzled I told Mashonga the truth, I cant find work, my reputation was being sabotaged and I could not even get a job at ##Kroger the local grocery store. I told Mashonga I needed money for food, Constancia would not feed niether me or Coral. I asked Mashonga in 
+[This_Family_Meeting](https://www.youtube.com/watch?v=Q8NXhT6_Tx8) if she cared about me dying on the street and she shook her head, no. I was never interviewed with Coral at all, I never got a psych eval until I got to a ##UCLA_Recoup_Center_in_PalmDale_California. In early October I saw Coral, in Pasadena, ##California, with a grown man wearing fishnet stockings... Shes 9. I was shot with a poison dart one day later, my skateboard stolen and my foot began to swell larger that a shoe could fit... I was rushed to the emergency room and ##UCLA ##Cut_my_foot_to_the_bone_to_drain_the_infection... I cant run as well any more and am now handicapped 
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Q8NXhT6_Tx8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/9sCE3HhjSbY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/AmYdIZhahrQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h2>Her_Former_Life_With_Me</h2>
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/-oZuyrU764s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/CsM4jNSAm4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/ydGxlS8l7Y0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<span class="neonText"> Dear Danielle_MAshonga, DFACS, DPSS
+	WHERE_IS_CORAL?!?!?</span>	
+<p>
+<img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/img-0281-1513267146.jpeg?crop=1xw:1xh;center,top&resize=768:*">	
+<code>THANK_YOU_COSMOPOLiTAN for this article that highlights this device as one used in sports medicine</code>
+Sex educator and artist Betty Dodson had been teaching her famous Bodysex workshops in New York City since the late 60s. These women-only workshops focused on teaching women how to masturbate. Dodson was a pioneer and advocate for the use of vibrators, ever since her lover in the late 1960s introduced her to an electric vibrator originally used for scalp massages. While Dodson <a href="http://www.dodsonandross.com/blogs/betty-dodson/2010/06/having-sex-machines-return-electric-vibrator" href="http://www.dodsonandross.com/blogs/betty-dodson/2010/06/having-sex-machines-return-electric-vibrator" target="_blank" data-vars-ga-outbound-link="http://www.dodsonandross.com/blogs/betty-dodson/2010/06/having-sex-machines-return-electric-vibrator">originally</a> While Dodson is widely credited with popularizing the Magic Wand, she received no compensation for her endorsement of the toy. Dodson added, "it's really shitty of [Hitachi] to not acknowledge my efforts and give me a percentage." || WRiTTEN_BY :: CARiNA_HSiEH 
+	<a href="https://twitter.com/carinahsieh"> Carina's TWiTTER</a>
+	<a href="https://www.linkedin.com/in/carina-hsieh-a8802458"> CARiNA_HSiEH's LiNKEDiN</a>
+	<h3>THAKAS_THOUGHTS</h3>
+	<a href="https://www.linkedin.com/in/danielle-mushonga-msw-26262132">DANiELLE_MUSHONGA's LiNKEDiN_PROFiLE (KiDNAPPiNG_SPECiALiST) </a>
+	
+	</p>
+<p align="center"><iframe width="500" height="315" src="https://www.youtube.com/embed/UmGMZLs5NCw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+	
+![NELLY_FOLKLORE](http://1.bp.blogspot.com/_UXXtJmb1kNs/Swsc7CGXUDI/AAAAAAAAEfw/e8t3BTnTl_M/s1600/FolkloreCassetteIndonesia2003.jpg)
+<span class="neonText">
+<a href="https://www.youtube.com/watch?v=Hj2mA1ZNPFA">Luther Vandross, Gregory Hines - There's Nothing Better Than Love</a> <a href="https://www.youtube.com/watch?v=m3-hY-hlhBg">Whitney Houston - How Will I Know (Official Video)</a> 
+<a href="https://www.youtube.com/watch?v=hmHWiUv4wyM">Yolanda Adams - I'm Gonna Be Ready
+</a> 
+<a href="https://www.youtube.com/watch?v=Ptiz0KtR16E">Monica - Before You Walk Out Of My Life (Official HD Video)</a> 
+<a href="https://www.youtube.com/watch?v=wa3tfVjGCQ8">Whitney Houston - Where Do Broken Hearts Go (Official Video)</a> 
+<a href="https://www.youtube.com/watch?v=5ixh1csw2Mk">Count On Me (from "Waiting to Exhale" - Original Soundtrack)</a> 
+<a href="https://www.youtube.com/watch?v=RSP-9SebVpY"> Tamia - Stranger in My House</a> 
+<a href="https://www.youtube.com/watch?v=Xkj1An6Wnec"> Brandy - Have You Ever (Official Video) </a> 
+<a href="https://www.youtube.com/watch?v=lSd1ll37xQU">Missing You - Brandy, Tamia, Gladys Knight and Chaka Khan [Set It Off Soundtrack] (Official Video)</a> 
+<a href="https://www.youtube.com/watch?v=H947PtHmh0Y">Deborah Cox - Nobody's Supposed To Be Here (Official Video)</a> 
+<a href="https://www.youtube.com/watch?v=Y36aBTuRr1o">Gladys Knight & The Pips - Save the Overtime (For Me)</a> 
+<a href="https://www.youtube.com/watch?v=XYclWyC4qQo">Tom Browne - Funkin' for Jamaica</a> 
+<a href="https://www.youtube.com/watch?v=pNj9bXKGOiI">Luther Vandross - Never Too Much (Official HD Video)</a> 
+<a href="https://www.youtube.com/watch?v=XYclWyC4qQo">Tom Browne - Funkin' for Jamaica</a>
+<a href="https://www.youtube.com/watch?v=Hj2mA1ZNPFA">Luther Vandross, Gregory Hines - There's Nothing Better Than Love</a>
+አዳምም አለ። ይህች አጥንት ከአጥንቴ ናት፥ ሥጋም ከሥጋዬ ናት፤ እርስዋ ከወንድ ተገኝታለችና ሴት ትባል።</span>
+<img src="https://images.squarespace-cdn.com/content/v1/58c35a0e579fb3281396b7f0/1536723653240-5XGYW66WX97I4YODRJPE/silver+embrace+FB_FB2048.jpg?format=750w">
+<p><a href="https://www.brightfunds.org/funds/diversity-in-tech"> Dear Diversity in Tech</a> I am currently serving as a federal volunteer to get my family out of sex trafficking and I am robbed of opportunities to use the internet. The library system in Los Angeles has been very unsupportive, hovever Long Beach has givin me tools to maintain my webpresence here on ##GiTHUB but I am restricted to time limits and hand out computers with custom excluded search results. The social media companies locked me out so the could help the prostitution community molest my family. The prostitution community of Los Angeles is verified telepathic, and if you are a family member of a kidnapped sex slave used on <a href="https://exoduscry.com/watch/#traffickinghub-video"> ThePornoWeb</a> the mob steals your electronics and bans you from the library in little ways, like I got put out for "body odor" by a guy who purchased my wife at a brothel in ##LiTTLE_TOKYO... They call it blackballing, its highly illegal</p>
+
+<a href="https://www.w3.org/Style/LieBos3e/em.en.html"> How To Style Text Elements with Font, Size, and Color in CSS </a>
+<a href="https://www.w3.org/Style/LieBos3e/em.en.html">The amazing em unit and other best practices </a>
+<a href="https://clagnut.com/blog/348/"> How to size text using ems </a>
+<span class="neonText">አዳምም አለ። ይህች አጥንት ከአጥንቴ ናት፥ ሥጋም ከሥጋዬ ናት፤ እርስዋ ከወንድ ተገኝታለችና ሴት ትባል።</span>	
+[THiS_iS_NOT_HOW_HEALTHY_AFRiCA##OPERATES](https://www.youtube.com/watch?v=EPoXBbigVeo) 
+[Sexuality: A Graphic Guide | Launch Event](https://youtu.be/jOIbOMWBHHM) 
+[The Freeze Response and Sexual Assault: PTSD and Trauma Recovery](https://www.youtube.com/watch?v=pes7H4ECTdw) 
+[6 Hidden Signs of Complex PTSD cPTSD](https://www.youtube.com/watch?v=44hqDT7NNHU) 
+[What It’s Like to Break Up with a Narcissist](https://www.youtube.com/watch?v=CtllLbN1IAo) 
+[Intimacy After Trauma | Kat Smith | TEDxMountainViewCollege](https://youtu.be/VB9-4kELT2k) 
+[Relationships After Rape | Shelby St. Pierre | TEDxHamlineUniversity](https://www.youtube.com/watch?v=UC05PVN621k) 
+[Men Need To Talk About Their Sexual Abuse | Seth Shelley | TEDxUNBC](https://www.youtube.com/watch?v=r4CIop1zlVM) 
+[Men Can Be Sexually Assaulted, Too | CJ Krainock | TEDxRexburg](https://www.youtube.com/watch?v=PnoRVCqeM6U)
+	
+<video style="max-width: 100%;" poster="/wordpress/wp-content/uploads/2022/01/unparalleled-extensibility-anim-opening2.jpg" autoplay="autoplay" loop="loop" muted="muted" width="1280" height="100%"><source src="https://ultimatehackingkeyboard.com/wordpress/wp-content/uploads/2022/01/unparalleled_extensibility-v3-60FPS-compressed-v2.mp4" type="video/mp4"></video>
+
+<img src="https://cdn.shopify.com/s/files/1/0105/4542/products/wildstyle-downbythe-7inch-1_1000x1000.jpg?v=1651068862">
+<a href="https://www.kickstarter.com/projects/1400947701/drumpants-an-entire-band-in-your-pocket/description">DrumPants: An Entire Band in your Pocket :: KiCKSTARTER </a>
+<video width="80%" controls>
+  <source src="https://v2.kickstarter.com/1658743300-%2B92NQeoHk4ENUm6ih6yt%2BjOoDifb6I%2BJax2SUZOGei8%3D/projects/765297/video-320064-h264_high.mp4" type="video/mp4">
+  
+  Your browser does not support HTML video.
+</video>
+
+<p>
+Video courtesy of 
+<a href="https://www.bigbuckbunny.org/" target="_blank">Big Buck Bunny</a>.
+</p>
+[Compiz-like effects in Enlightenment 17](https://www.youtube.com/watch?v=TQPsCDJUti0) 
+I want a Macintosh for a lot of SHIT!! BUT I think we will do better as 
+[PODCASTERS_USiNG_LiNUX](https://rss.com/podcasts/bubblegumpop/)
+. Download [UBUNTU_STUDiO](https://ubuntustudio.org/)
+ if you have [access_to_a_computer](https://www.openglobalrights.org/covid-19-exposes-why-access-to-internet-is-human-right/)
+ and
+ [INSTALL_TO_USB_SO_YOU_CAN_KEEP_YOUR_DATA_AND_THE_BUSiNESS_PORTABLE](https://help.ubuntu.com/community/Ubuntu%20Studio%20Installation)  I_PRAY_YOUR_PiMP_DOES_NOT_CHECK your orfices for [USB_STiCKS](https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/v2/78cc6b05-96fb-5cb0-b97c-1517ec410e89/ShortForm-Generic-480p-16-9-1409173089793-rpcbe5.mp4). When I can save up enough change Im gonna get a thinkpad replacement and run [ENLiGHTENMENT](https://www.elivecd.org/). I cant make a clear argument here but I want you to keep your head productive [,WATCH_THiS there are not many videos on this platform](https://www.youtube.com/watch?v=aCH18F4OtXQ). Those pimps are not smart and I pray they dont kill you. The rapes are bade enough. Remember the Chair rapes in VENiCE, and those sidewalk rapes. THIS_PLACE... We going to be ok, I will wait for you forever ok. You are not alone. I am still your husband, and only my penis can heal you. I miss our old webseries on iNSTAGRAM that moved to Facebook, then LiNKEDiN, then Facebook... They all hid your prostitution fueled [gangrapes](https://www.hindustantimes.com/videos/world-news/us-influencer-gangraped-in-pakistan-by-3-men-netizens-condemn-shameful-act-101658467051066.html) since their employees were buying you from sex traffickers. Its happening in a lot of places, I remember the johns of Venice laughed at you not remembering that they hit it as they menaced me on the boardwalk [U.O.E.N.O TYPESHiT](https://www.youtube.com/watch?v=cMJrfSTI0Xg).
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+     <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://pbs.twimg.com/media/FN_BTKZXsAQRoHj?format=jpg&name=large" alt=""> </a>
+        
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+           <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://pbs.twimg.com/media/FN_BTKZXsAQRoHj?format=jpg&name=large" alt=""> </a>
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+[DEAR_ERiKA__LOOK_WHAT_I_CAN_DO_WITH_YOUR_OLD_SHITTY_ACER_RODRiCK_BROKE](https://www.youtube.com/watch?v=cH9WLrcsrx8) 
+[KOOL & THE GANG - SUMMER MADNESS Relaxing Jazz Music Sunset Views](https://www.youtube.com/watch?v=xk8Vn0fjFdg)
+[::COMPiZ_FUSiON_ON_UBuNTu_LiNUX:: DEAR_MAMA_IMAN__THiS_iS_HOW_MY_DESKTOP_LOOK_12years_AGO_ASK_HEATHER](https://www.youtube.com/watch?v=USedxVrU2Ko) [3D Rotating and Wobbly Window Effects in Kali | How to Install Compiz Fusion in Kali 2020.4 | Ethica](https://youtu.be/IwcwIAsqEgU)
+
+<h1>TWiTTER_LiKE_PiNTEREST_AND_FACEBOOK & LiNKEDiN
+ ##SUPRESSED_SARTU's
+##MiSSiNG_PERSONS_CASE </h1>
+
+<div class="flex-container">
+   
+  <div class="item1">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/DEAR_SARTU_IM_READY_FOR_FALL_FEELINGS.gif" /></div>
+    <div class="item2">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/DEAR_SARTU_IM_READY_FOR_FALL_FEELINGS.gif" /></div>
+    <div class="item3">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/DEAR_SARTU_IM_READY_FOR_FALL_FEELINGS.gif" /></div>
+</div>
+## ELLA_MAI_IS_MY_WIFE_AS_WELL
+<img src="https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fwp-content%2Fblogs.dir%2F6%2Ffiles%2F2022%2F07%2Flacoste-ella-mai-brand-ambassador-announcement-0.jpg">
+<div class="flex-container">
+   
+<div class="item1">                        <img src="https://i.guim.co.uk/img/media/ac62baf92b4e03d8da532a8ab4f4456fe344d053/396_137_982_589/master/982.png?width=1200&height=1200&quality=85&auto=format&fit=crop&s=debf6306a52ddf48a1da432565f26ac1" /></div>
+    <div class="item2">                        <img src="https://i.guim.co.uk/img/media/ac62baf92b4e03d8da532a8ab4f4456fe344d053/396_137_982_589/master/982.png?width=1200&height=1200&quality=85&auto=format&fit=crop&s=debf6306a52ddf48a1da432565f26ac1" /></div>
+    <div class="item3">                        <img src="https://i.guim.co.uk/img/media/ac62baf92b4e03d8da532a8ab4f4456fe344d053/396_137_982_589/master/982.png?width=1200&height=1200&quality=85&auto=format&fit=crop&s=debf6306a52ddf48a1da432565f26ac1" /></div>
+</div>
+	
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://i.discogs.com/RvprrEaPbYRm6r2n_P031TfFk3iJ1rl0aCz3zlGAOCI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTE2/MC0xMzE0NzAzOTcy/LmpwZWc.jpeg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://i.discogs.com/RvprrEaPbYRm6r2n_P031TfFk3iJ1rl0aCz3zlGAOCI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTE2/MC0xMzE0NzAzOTcy/LmpwZWc.jpeg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+<img src="https://i.discogs.com/D5HjBnlC5j9bc12MywjKsVr7tm_UCz_UT7iqZo0XYLM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTE2/MC0xMzE0NzAzOTky/LmpwZWc.jpeg" >
+<h2>Here’s How Polyamory, Polygamy, and Polyandry Differ — and What to Expect</h2>
+<a href="https://www.healthline.com/health/relationships/polyamory-vs-polygamy"> Many people confuse polyamory, polygamy, polygyny, and polyandry... ReadMore </a>
+<img src="https://post.healthline.com/wp-content/uploads/2021/01/Group_Partnership_1296x728-header-1296x729.jpg">	
+<h2>Is it legal to marry multiple partners?</h2>
+<p>Polygamy is illegal and criminalized in every country in North and South America, including all 50 U.S. states. However, in February 2020, the Utah House and Senate reduced the punishment for consensual polygamy, which had previously been classified as a felony, to roughly equivalent to a traffic ticket.</p>
+<a href="https://www.moshtaellaw.com/blog/2020/january/the-legal-consequences-of-polygamy/#:~:text=Under%20California%20law%2C%20the%20act,married%20or%20enters%20into%20a">ReadMore </a>
+<h2>Bigamy</h2>
+<p>
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+For other uses, see Bigamy (disambiguation).
+
+In cultures where monogamy is mandated, bigamy is the act of entering into a marriage with one person while still legally married to another.[1] A legal or de facto separation of the couple does not alter their marital status as married persons. In the case of a person in the process of divorcing their spouse, that person is taken to be legally married until such time as the divorce becomes final or absolute under the law of the relevant jurisdiction. Bigamy laws do not apply to couples in a de facto or cohabitation relationship, or that enter such relationships when one is legally married. If the prior marriage is for any reason void, the couple is not married, and hence each party is free to marry another without falling foul of the bigamy laws.
+
+Bigamy is a crime in most countries that recognise only monogamous marriages. When it occurs in this context often neither the first nor second spouse is aware of the other. In countries that have bigamy laws, with a few exceptions (such as Egypt and Iran), consent from a prior spouse makes no difference to the legality of the second marriage, which is usually considered void.
+</p>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://i.discogs.com/NWQU2cXVNXqwZPpCYN5mW5YFuUmucGfWobGpajjf33k/rs:fit/g:sm/q:90/h:539/w:440/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NjEw/MjYtMTM5OTIyNDUw/Mi0xNzcyLmpwZWc.jpeg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY##THANKS_PUFFY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://i.discogs.com/NWQU2cXVNXqwZPpCYN5mW5YFuUmucGfWobGpajjf33k/rs:fit/g:sm/q:90/h:539/w:440/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NjEw/MjYtMTM5OTIyNDUw/Mi0xNzcyLmpwZWc.jpeg" alt="##THANKS_PUFFY" >
+      </div>
+    </div>
+  </div>
+</div>	
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://www.2600.com/sites/default/files/covers/37-1_Cover.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://www.2600.com/sites/default/files/covers/37-1_Cover.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>	
+<img src="https://pbs.twimg.com/media/DkDUjOeUYAEbikR.jpg" alt="thanks_MASE">
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://i.discogs.com/Y1pzcWA-kPrMw9NLQV6R4-dYsnZVQPGi2j_fBfCgQPk/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyODQ0/Ni0xNTU5OTgwNDc2/LTYwODUuanBlZw.jpeg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://i.discogs.com/T-L2xTARIsrx8rzvUEDDrYD098FtRE0NE7ht7eKJMdc/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyODQ0/Ni0xNTU5OTgwNDY5/LTkzMDYuanBlZw.jpeg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://i.discogs.com/OVr4kl4u3jj0AT9f37sr9mVWYYQ_wgjFWZT5evQKKfI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzY0/NC0xNDc2MjUzNjI5/LTk1NzEuanBlZw.jpeg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://i.discogs.com/5n7JtROk8V3nX0naL4kKY2ZFKAyPJrp7NIAJGiOI5jA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzY0/NC0xNDc2MjUzNjI5/LTIxMDAuanBlZw.jpeg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="flex-container-rounded">
+   
+   <div class="item1">                        <img src="https://lastfm.freetls.fastly.net/i/u/770x0/5e5870bb74a869c07600542752b1b2ad.jpg#5e5870bb74a869c07600542752b1b2ad" /></div>
+    <div class="item2">                        <img src="https://lastfm.freetls.fastly.net/i/u/770x0/ebdd35113f4be57737d6946c0593a343.jpg#ebdd35113f4be57737d6946c0593a343" /></div>
+    <div class="item3">                        <img src="https://lastfm.freetls.fastly.net/i/u/770x0/ac7851d7e2670c57465e115936512a06.jpg#ac7851d7e2670c57465e115936512a06" /></div>
+</div>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My friend got married and i was a brides maid! <a href="https://t.co/vWMQ8OGNBK">pic.twitter.com/vWMQ8OGNBK</a></p>&mdash; 3:14 (@kashdoll) <a href="https://twitter.com/kashdoll/status/1547989813575331840?ref_src=twsrc%5Etfw">July 15, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/1NrDkE6sLZ">https://t.co/1NrDkE6sLZ</a> <a href="https://t.co/M6n5LV1kdq">pic.twitter.com/M6n5LV1kdq</a></p>&mdash; 3:14 (@kashdoll) <a href="https://twitter.com/kashdoll/status/1463400922684571653?ref_src=twsrc%5Etfw">November 24, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<img src="https://www.visitkingsland.com/index_htm_files/119934@2x.png" >	
+<h2>BOOMBOX_VOL1</h2>
+<div class="flex-container">
+    <div class="item1">                        <img src="https://i.discogs.com/Dsk24e8GIPuc5dwhLmy_QMG4fJfUr1RGEdjZFJ8oxos/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NTkw/ODItMTQ2NDAyNTYy/Ni0yMzY3LmpwZWc.jpeg" /></div>
+    <div class="item2">                        <img src="https://media2.giphy.com/media/3o6Zt8esE7mxFelmdG/giphy.gif?cid=ecf05e477pe98kmyaoxqb9029v0zhfgs0u5ix5c59xe07ux9&rid=giphy.gif&ct=g" /></div>
+    <div class="item3">                        <img src="https://i.discogs.com/Of600keNLtQPGnRCgnw3EitVFxy0k3oqlUJqfEa8x_Y/rs:fit/g:sm/q:90/h:528/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NTkw/ODItMTQ3MjMyNDI5/MS0xMjA2LmpwZWc.jpeg" /></div>
+</div>
+
+```
+Boombox 1 (Early Independent Hip Hop, Electro And Disco Rap 1979-82)
+Label:	Soul Jazz Records – SJR CD334
+Series:	Boombox (4) – 1
+Format:	
+2 x CD, Compilation
+Country:	UK
+Released:	May 20, 2016
+Genre:	Hip Hop, Funk / Soul
+Style:	Disco
+```
+<h2>Since i couldn’t remove all my tattoos I’m getting them covered</h2>
+[https://twitter.com/kashdoll/status/1129563640259121153/photo/1](https://twitter.com/kashdoll/status/1129563640259121153/photo/1)
+<div class="sixpanel">
+  <div class="item1"> <img src="https://pbs.twimg.com/media/D60EAyRU8AA6HPZ?format=jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+  <div class="item2"> <img src="https://pbs.twimg.com/media/D60EAyRU8AA6HPZ?format=jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+  <div class="item3"> <img src="https://pbs.twimg.com/media/D60EAyRU8AA6HPZ?format=jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+</div>
+
+<h2>TRYiNG_SOME_BOX_POST_LAYOUTS_OWT</h2>
+
+<div class="flex-container">
+
+  <div class="item1">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/DEAR_SARTU_IM_READY_FOR_FALL_FEELINGS.gif" /></div>
+    <div class="item2">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/DEAR_SARTU_IM_READY_FOR_FALL_FEELINGS.gif" /></div>
+    <div class="item3">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/DEAR_SARTU_IM_READY_FOR_FALL_FEELINGS.gif" /></div>
+</div>
+
+<div class="flex-container">
+
+  <div class="item1">                        <img src="https://pbs.twimg.com/media/FOZKA0UWQAEe0GL?format=jpg&name=small" /></div>
+    <div class="item2">                        <img src="https://pbs.twimg.com/media/FOZKA0UWQAEe0GL?format=jpg&name=small" /></div>
+    <div class="item3">                        <img src="https://pbs.twimg.com/media/FOZKA0UWQAEe0GL?format=jpg&name=small" /></div>
+</div>
+
+
+<div class="panel4-container">
+ 
+  <div class="item1"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/ezgif.com-gif-maker%20(2).gif"></div>
+    <div class="item2"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/ezgif.com-gif-maker%20(2).gif"></div>
+    <div class="item3"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/ezgif.com-gif-maker%20(2).gif"></div>
+    <div class="item4"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/ezgif.com-gif-maker%20(2).gif"></div>
+
+</div>
+
+
+<center><iframe width="80%" height="315" src="https://www.youtube.com/embed/I1aoRQhqM1k" title="Elive Linux 3.0 Stable Designs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	</center>
+<img src="https://lastfm.freetls.fastly.net/i/u/770x0/18db0c622371cacc1d60a57e90f642da.jpg#18db0c622371cacc1d60a57e90f642da">
+
+[Top 5 Best Lightweight Linux distros for Speed and Performance](https://www.youtube.com/watch?v=CnFPCTi5h5c)
+
+[::RESEARCH_PAPER::Audience's behavior and attitudes towards lifestyle video blogs on Youtube Ellina Mironova](https://www.diva-portal.org/smash/get/diva2:1481546/FULLTEXT01.pdf)	
+[::RESEARCH_PAPER::Information superhighways Research Paper 94/133 22 December 1994](https://ntouk.files.wordpress.com/2015/06/1994-information-superhighway.pdf)
+<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/Screenshot%202022-07-24%208.23.07%20PM.png" >
+
+<h2>
+## UK_PARLiMENT
+## Responds to Home Affairs Committee report
+## on the investigation and prosecution of RAPE 
+</h2>
+<p> 
+<h1>Government responds to Home Affairs Committee report on investigation and prosecution of rape</h1>
+    <h3>25 July 2022</h3>
+    
+        <img aria-hidden="true"
+                 alt="Image representing news article"
+                 class="width-70 with-reflection-effect"
+                 src="https://www.parliament.uk/contentassets/1d8be4299eb24cb593f59647b14ad8fb/pc-pch-committee-room-1-standard-1.jpg" />
+        <h2>The Home Affairs Committee publishes the Government&rsquo;s response to its report into the investigation and prosecution of RAPE</h2>
+                 
+<a href="https://publications.parliament.uk/pa/cm5803/cmselect/cmhaff/507/report.html">Read the full report (HTML)</a></li>
+<a href="https://committees.parliament.uk/publications/23242/documents/169628/default/">Read the full report (PDF)</a></li>
+<a href="https://committees.parliament.uk/work/1160/investigation-and-prosecution-of-rape/publications/">Find all publications related to this inquiry, including oral and written evidence</a>
+
+<p>The report found that the collapse in prosecutions for rape and sexual offences over the last five years could not be reversed without strong reforms to the criminal justice system. While it welcomed efforts to initiate change in the CPS, policing and the court system, it warned that such reforms were localised or in development and would require significant funding and effective leadership to make an impact at national level. It also warned that the current target of returning the volumes of rape cases being dealt with to 2016 levels lacked ambition, given that, even in 2016, criminal justice outcomes for rape were viewed as poor. The Committee expressed concern that confidence in the system&rsquo;s ability to even reach 2016 levels in the timeframe the Government has set out is low.
+<p>The report called for a focus on the experience of victims attempting to navigate the justice system. Lengthy delays in cases reaching court, difficulties in accessing support services and seemingly unnecessary and excessive requests for victims&rsquo; personal data from the police and the CPS needed to be addressed. It also found that dedicated rape teams and specialist training for officers made a real impact but such teams were yet to be set up in many forces.</p>
+<p>The Government has now responded to these recommendations
+<h2>Further information</h2>
+<a href="https://committees.parliament.uk/work/1160/investigation-and-prosecution-of-rape/">Inquiry:: Investigation and prosecution of rape</a>
+<a href="https://committees.parliament.uk/committee/83/home-affairs-committee/">Home Affairs Committee</a>
+<a href="https://www.parliament.uk/about/how/committees/select/">About Parliament: Select committees</a>
+<a href="https://www.parliament.uk/visiting/visiting-and-tours/watch-committees-and-debates/committees/">Visiting Parliament: Watch committees</a><
+<em>Image: Parliamentary copyright</em>
+</p>
+	
+<h2> DEAR_SARTU::///////_I_AM_READY_FOR_MY_VOWS</h2>
+<div class="sixpanel">
+<div class="item1"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/9d6d3b16944b6ee2bab5f04b20c445a8.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+  <div class="item2"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/9d6d3b16944b6ee2bab5f04b20c445a8.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+  <div class="item3"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/9d6d3b16944b6ee2bab5f04b20c445a8.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+</div>
+	
+<div class="sixpanel">
+ <div class="item1"> <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+  <div class="item2"> <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+  <div class="item3"> <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+</div>
+
+<div class="sixpanel">
+  <div class="item1"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/574e8d8380f296deb01bf129fe3052fd.jpg#574e8d8380f296deb01bf129fe3052fd" /></div>
+  <div class="item2"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/574e8d8380f296deb01bf129fe3052fd.jpg#574e8d8380f296deb01bf129fe3052fd" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+  <div class="item3"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/574e8d8380f296deb01bf129fe3052fd.jpg#574e8d8380f296deb01bf129fe3052fd" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+</div>
+
+<img src="https://assets.catawiki.nl/assets/2018/12/3/9/a/2/9a263ccf-3c79-49e7-a7fb-cf9bb0fb350e.jpg" >
+<img src="https://i0.wp.com/wemissmusic.com/wp-content/uploads/2018/07/dexdlmwxuaawpod1.jpg?fit=864%2C393&ssl=1">	
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+     <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0202/users/e133493dd0fc97a3600891981d79de9cf9682a48/i-img1200x1200-1613830878fefzjp81351.jpg" alt=""> </a>
 #### HTAU_THEME_MUSiC_RN
 [Ridge Racer - Rare Hero](https://www.youtube.com/watch?v=l3bhNLtXvHA) &#128293;&#128293;&#128293;
 &#128293;&#128293;&#128293;&#128293;&#128293;
 ## Dear_NiNE_JABDU_and_CoraL
-Here, this was my release day purchase after working hard to buy my Playstation1 cash. Its RAVE_RACER_iN_JAPAN and Ridge_Racer in tha states [PlayStation history: From console neophyte to all-conquering veteran](https://www.androidauthority.com/playstation-history-1220628/)
+Here, this was my release day purchase after working hard to buy my Playstation1 cash. Its RAVE_RACER_iN_JAPAN and Ridge_Racer in tha states 
+
+[PlayStation history: From console neophyte to all-conquering veteran](https://www.androidauthority.com/playstation-history-1220628/)
 <iframe width="80%" height="315" src="https://www.youtube.com/embed/m8nsUcAwkj8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Jam On It](https://www.youtube.com/watch?v=apnh_MpXlTE)
