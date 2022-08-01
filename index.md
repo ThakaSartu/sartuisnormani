@@ -149,6 +149,10 @@
 
 </style>
 ## Hole To Another Universe
+
+[Bennie And The Jets (Remastered 2014) ELTON_JOHN](https://www.youtube.com/watch?v=ZBUW433Porw)
+[This Is for the Lover in You](https://www.youtube.com/watch?v=Sn_mS9cZUss)
+[Forever My Lady](https://www.youtube.com/watch?v=OVNPFylUzJQ)
 [Come & Talk To Me](https://www.youtube.com/watch?v=8adNpJoiUA4)
 <div class='twoPanelSpread'>
   <div class='row'>
