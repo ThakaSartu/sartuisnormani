@@ -148,6 +148,7 @@
 
 </style>
 ## Hole To Another Universe
+<img src="https://th.bing.com/th/id/R.af44e470253784a97bcae1b97c571954?rik=80u2ZRCYDhk18Q&riu=http%3a%2f%2fwww.xhtmljunction.com%2fblog%2fwp-content%2fuploads%2f2018%2f02%2fhtml5-css3.png&ehk=k3fb7DfpkTK6ND8lS2w9AB3sdPc8Bp655RBs%2bK1EmC4%3d&risl=&pid=ImgRaw&r=0" >
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/439224009&color=%234c044c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/voyage_music" title="Voyage" target="_blank" style="color: #cccccc; text-decoration: none;">Voyage</a> · <a href="https://soundcloud.com/voyage_music/dynamic" title="Dynamic" target="_blank" style="color: #cccccc; text-decoration: none;">Dynamic</a></div>
 
 ["Burnin' for You" Blue Öyster Cult 1981 HQ](https://www.youtube.com/watch?v=KQSkjl6oOF0)
