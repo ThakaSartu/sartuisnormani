@@ -12,9 +12,12 @@
 
 /* ##TWO_PANEL_LAYOUT_ADDED_7_28_2022_FOR_SPLiT_SCREEN_POSTS */  
 /* ##TWO_PANEL_LAYOUT_ADDED_7_28_2022_FOR_SPLiT_SCREEN_POSTS */
-  .twoPanelSpread {
-  background-color: #00db46; /* For browsers that do not support gradients */
-  background-image: linear-gradient(to right, #e66250, #ff80cc);
+	
+.twoPanelSpread {
+  margin: 0px;
+  padding: 0px;
+  background: url( https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/810MATRiX.webp )
+    center repeat;
 }
 
 .row {
@@ -65,25 +68,8 @@
   max-height: 100%;
 }
 
- /* ##COLOR_FOR_LiNK_HOVER_ViSiTED_ETC */
- a:hover {
-  color: #c9ff23;
-}
 
-/* 4PANEL_SPREAD_CREATED_FOR_SARTUS_MODELiNG_ENERGY, many uses tho to feature things ##ASK_DiDO */
-  .panel4-container {
-
-    display: flex;
-    justify-content: space-evenly;         
-    width:100%;
-    height:100%;
-    object-fit: cover;
-    overflow: hidden;
-    height: 100%;
-    padding: 0px;
-    gap: 5px;
-
-  }   
+  
   
 /* 3PANEL_SPREAD_WORKS_WELL_WITH_SQUARE_AND_VERTiCAL_iMAGES */  
 
@@ -121,6 +107,63 @@
     padding: 8px;
   }
  
+/* FLEX_BOX_FOR_3_IMAGES */
+.flex-container {
+
+    display: flex;
+     align-items: stretch; 
+     flex-flow: row nowrap;  
+    flex-direction: row; 
+    flex-wrap: nowrap; 
+    justify-content: center;
+    align-content: stretch;
+    height: 100%;
+    padding: 15px;
+    gap: 5px;
+
+  }
+
+  .flex-container > div{
+   
+    border: 1px solid #c9ff23;
+    border-radius: 1px;
+    padding: 8px;
+  }
+
+/* 4PANEL_SPREAD_CREATED_FOR_SARTUS_MODELiNG_ENERGY, many uses tho to feature things ##ASK_DiDO */
+  .panel4-container {
+
+    display: flex;
+    justify-content: space-evenly;         
+    width:100%;
+    height:100%;
+    object-fit: cover;
+    overflow: hidden;
+    height: 100%;
+    padding: 0px;
+    gap: 5px;
+
+  } 
+
+/* GiTHUB_LOGO##TEAM_SPiRiT!!! */
+/* 4-6images
+	/* IMAN_FRUM_SOMALiA_MY_MOMMA */
+.pinupGallery {
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+   object-fit: contain;
+}
+.pinupImage {
+  width: 100px;
+  flex: 1 0 auto;
+}
+.featured-pinupImage {
+  flex: 0 0 100%;
+}	
+	
 /* ##6panel4collages use equallateral images */
   .sixpanel {
   align-items: stretch;
@@ -148,6 +191,56 @@
 
 </style>
 ## Hole To Another Universe
+## ANiMAL_FARM##ANiMATED##1954 
+[Animal Farm 1954](https://www.youtube.com/watch?v=XXkicQRl6vg)
+
+<div class="pinupGallery">
+  <img class="pinupImage" src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f8002d816354b31ae000001/vsco5f8002dae92b2.jpg" alt="">
+  <img class="pinupImage" src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f8002d816354b31ae000001/vsco5f8002dae92b2.jpg" alt="">
+  <img class="pinupImage" src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f8002d816354b31ae000001/vsco5f8002dae92b2.jpg" alt="">
+  <img class="pinupImage" src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f8002d816354b31ae000001/vsco5f8002dae92b2.jpg" alt="">
+   <img class="pinupImage featured-pinupImage " src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f8002d816354b31ae000001/vsco5f8002dae92b2.jpg" alt="">
+</div>
+
+[DEAR_SARTU_JUST_KNOW...](https://www.youtube.com/watch?v=vC0URxrUy48)
+
+<div class="pinupGallery">
+  <img class="pinupImage featured-pinupImage" src="https://i.pinimg.com/750x/9d/fd/e1/9dfde147d7a2b0f01c64d691c3d62e2f.jpg" alt="">
+  <img class="pinupImage" src="https://i.pinimg.com/750x/9d/fd/e1/9dfde147d7a2b0f01c64d691c3d62e2f.jpg" alt="">
+  <img class="pinupImage" src="https://i.pinimg.com/750x/9d/fd/e1/9dfde147d7a2b0f01c64d691c3d62e2f.jpg" alt="">
+  <img class="pinupImage" src="https://i.pinimg.com/750x/9d/fd/e1/9dfde147d7a2b0f01c64d691c3d62e2f.jpg" alt="">
+</div>
+
+[Mahmoud Ahmed With Roha Band (1986)](https://www.youtube.com/watch?v=1o-kDk-O1H8)
+
+## DEAR_SARTU ::PLEASE_LiSTEN_iLOVEYOU
+## EVERYTHiNG_REMAiNS_RAW
+## DEAR_CYNTHiA WORKABLE_LIST_FOR_FATHER_DAUGHTER_BONDiNG
+## DEAR_CORAL ##JUS_LiSTN
+
+[Beastie Boys - Alive](https://youtu.be/JkeE2O15RFs) [Beastie Boys - Root Down](https://youtu.be/Xf1YF_MH1xc) [Beastie Boys - Shake Your Rump](https://youtu.be/BptQHAW2T5M) [Busta Rhymes ‎- Woo-Hah!! Got You All In Check from the album "The Coming" (1996) ](https://youtu.be/EQzvQO2LcA4)
+[Beastie Boys - Body Movin::HELLO_NASTY::](https://www.youtube.com/watch?v=4ItdKOXH3qA) [Beastie Boys - So What'Cha Want](https://youtu.be/ru3gH27Fn6E) [DEAR_JABDU - ENJOY_THiS_TRACK_WiTH_CORAL Björk::Enjoy::Post](https://www.youtube.com/watch?v=RYmyfksGA74)
+[Tears For Fears - Sowing The Seeds Of Love](https://www.youtube.com/watch?v=VAtGOESO7W8) [Mr. Mister - Broken Wings](https://www.youtube.com/watch?v=nKhN1t_7PEY)[Nija - Not One Of Them](https://www.youtube.com/watch?v=1Xc4ZAWj06g) [Men At Work - Who Can It Be Now?](https://www.youtube.com/watch?v=SECVGN4Bsgg) [Artifacts - Wrong Side Of Da Tracks](https://www.youtube.com/watch?v=GM92f-BUoow) [M.I.A. - Go Off](https://www.youtube.com/watch?v=kGDhHxgY6uo) [Lorde - Team](https://www.youtube.com/watch?v=f2JuxM-snGc) [Grimes - World Princess Part II](https://www.youtube.com/watch?v=EOwhuTlxE54) [Lorde - Tennis Court](https://www.youtube.com/watch?v=D8Ymd-OCucs) [Lorde - Royals](https://www.youtube.com/watch?v=nlcIKh6sBtc) [a-ha - Take On Me](https://www.youtube.com/watch?v=djV11Xbc914) [Michael Jackson - Smooth Criminal](https://www.youtube.com/watch?v=h_D3VFfhvs4) [Janet Jackson - Empty / Full](https://www.youtube.com/watch?v=q37CHEMiXi4) &#128293; [M.I.A. - Matahdatah Scroll 01 "Broader Than A Border"](https://www.youtube.com/watch?v=SJuFdkMOP20) &#128293; [Disclosure - Magnets ft. Lorde](https://www.youtube.com/watch?v=b_KfnGBtVeA) [GRiMES - Realiti](https://www.youtube.com/watch?v=BOxFvfjlnno) 
+[The Jones Girls - Nights Over Egypt ](https://www.youtube.com/watch?v=pzxwZ6wjDAM) [Remind Me · Patrice Rushen ·Straight From The Heart](https://www.youtube.com/watch?v=SOPp6EgpDrg)
+[Yearning For Your Love::By::THE_GAP_BAND](https://www.youtube.com/watch?v=afqzUbvi7D8) [The Jones Girls::Who Can I Run To?::1979](https://www.youtube.com/watch?v=JRpKQb9J-nU) [Keke Wyatt::NOTHiNG_iN_THiS_WORLD](https://www.youtube.com/watch?v=diEV1qC34Og) [Stephanie Mills-Two Hearts Featuring Teddy Pendergrass](https://www.youtube.com/watch?v=uJ7HN1nNdbc)
+[NEW_EDiTiON::Cool It Now (Official Video)](https://www.youtube.com/watch?v=RZUq6N7Gx1c) [NEW_EDiTiON::Mr. Telephone Man](https://www.youtube.com/watch?v=GsWrlzjxbPY) [BOBBY_BROWN::Every Little Step](https://www.youtube.com/watch?v=muDCggSpqpE) &#128293; [A1 Warm It Up (LP Version)
+Producer – Jermaine Dupri](https://www.youtube.com/watch?v=fwXfhQaBRZI) &#128293; [TLC - What About Your Friends (Official Video)](https://www.youtube.com/watch?v=92gHq1s6G-c) [Another Bad Creation - Iesha (Official Music Video)](https://www.youtube.com/watch?v=ZDPIK7Fz_g4) [SWV – You're The One
+Genre:	Funk / Soul
+Style:	RnB/Swing, Hip Hop
+Year:	1996](https://www.youtube.com/watch?v=Ua4fg2FQ6w8) [BRANDY::Sittin' Up In My Room from Waiting to Exhale - Original SoundtracK](https://www.youtube.com/watch?v=DGgANpSjoas) [702 - Steelo feat. Missy Elliott::1996](https://www.youtube.com/watch?v=LdvRwHhla6Q) [DELiRiUM:BY::##ELLiE_GOULDING## ##FAV_TRACK## ## ](https://youtu.be/cLWv0f2Tt8E) 
+[DiSCOGS:##ENTRY](https://www.discogs.com/release/8118343-Ellie-Goulding-Delirium)
+[Björk::Human Behaviour](https://youtu.be/p0mRIhK9seg) [Björk : ARMY_OF_ME::video](https://www.youtube.com/watch?v=jPeheoBa2_Y) [Björk::Jóga](https://youtu.be/loB0kmz_0MM) [Dido - Thank You |Official Video|](https://youtu.be/1TO48Cnl66w) [Beastie Boys - Three MC's And One DJ](https://youtu.be/XflfiylNNXY) [Lorde - White Teeth Teens](https://www.youtube.com/watch?v=kNUWreGGxcc&list=PLvm6B0LWgqu-rHo4GAqYy5mC1O7pUxntS&index=9) [Dido – My Lover's Gone
+Genre:	Pop
+Style:	
+Year:	2002](https://www.youtube.com/watch?v=Libbd7BCBHE) [Beastie_Boys - Sure_Shot::iLL_COMMUNiCATiON](https://youtu.be/JhqyZeUlE8U) [Dido - Honestly Ok](https://youtu.be/mCcNGt_eliM) [Dido - I'm No Angel ](https://youtu.be/i5JyWpyYVx4) [Eminem - Stan ft. Dido](https://youtu.be/gOMhN-hfMtY)  [WHOSAMPLED::EXPLORE_THE_STAN_SAMPLES](https://www.whosampled.com/Eminem/Stan/)
+[EVERYTHiNG_REMAiNS_RAW](https://youtu.be/fd_HkV9zz84) [BUSTA_RHYMES_RAMPAGE_FREESTYLE](https://www.youtube.com/watch?v=5CivybE0slA) [Notorious B.I.G. - Brooklyn Freestyle at the age of 17 (1989)](https://youtu.be/zSx03q1-1KA) [Wang Dang Doodle::Koko Taylor w Little Walter 1967](https://youtu.be/qyUHkY0K8HE) [Fugees murder the Apollo live 1996 ](https://youtu.be/LpA8qvLWF1Q) [Nas & Large Pro - Live at the Barbeque ](https://youtu.be/ta3srWr4sJQ) [MiNNiE_RiPERTON::Inside My Love](https://www.youtube.com/watch?v=jlgp-jjHzC0) [HiFi_SHiT = ROY_AYERS::Everybody Loves The Sunshine](https://www.youtube.com/watch?v=SSBWiFGzsyU) 
+[Björk : Isobel::HD_ViDEO](https://www.youtube.com/watch?v=VGPYO0mzmBQ) 
+["I Miss You" - Björk](https://www.youtube.com/watch?v=8A7TqgbHT3k)
+[Björk::Possibly_Maybe](https://youtu.be/iyqKy5P1Y0Q)
+[Mo Money Mo Problems by The Notorious B.I.G. feat. Puff Daddy, Mase and Faith_Evans](https://www.whosampled.com/The-Notorious-B.I.G./Mo-Money-Mo-Problems/)
+[Crush on You by Lil' Kim feat. Lil' Cease and The Notorious B.I.G.](https://www.whosampled.com/Lil%27-Kim/Crush-on-You/)	
+[Gettin' Money::The Get Money Remix](https://www.whosampled.com/Junior-M.A.F.I.A./Gettin%27-Money-(The-Get-Money-Remix)/)	
+[Jay-Z feat. Foxy Brown and Babyface(Always Be My) Sunshine](https://www.whosampled.com/sample/2209/Jay-Z-Foxy-Brown-Babyface-(Always-Be-My)-Sunshine-The-Fearless-Four-Rockin%27-It/)	
 [Sunny Day](https://www.youtube.com/watch?v=Nn1DQAmCQ4A)
 
 <div class='twoPanelSpread'>
