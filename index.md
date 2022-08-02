@@ -1,103 +1,205 @@
 <script type="text/javascript">
+/*
+	AUTHOR: Osvaldas Valutis, www.osvaldas.info
+*/
+(function($, window, document, undefined) {
+    var isTouch = 'ontouchstart' in window,
+        eStart = isTouch ? 'touchstart' : 'mousedown',
+        eMove = isTouch ? 'touchmove' : 'mousemove',
+        eEnd = isTouch ? 'touchend' : 'mouseup',
+        eCancel = isTouch ? 'touchcancel' : 'mouseup',
+        secondsToTime = function(secs) {
+            var hours = Math.floor(secs / 3600),
+                minutes = Math.floor(secs % 3600 / 60),
+                seconds = Math.ceil(secs % 3600 % 60);
+            return (hours == 0 ? '' : hours > 0 && hours.toString().length < 2 ? '0' + hours + ':' : hours + ':') + (minutes.toString().length < 2 ? '0' + minutes : minutes) + ':' + (seconds.toString().length < 2 ? '0' + seconds : seconds);
+        },
+        canPlayType = function(file) {
+            var audioElement = document.createElement('audio');
+            return !!(audioElement.canPlayType && audioElement.canPlayType('audio/' + file.split('.').pop().toLowerCase() + ';').replace(/no/, ''));
+        };
 
-// Possible improvements:
-// - Change timeline and volume slider into input sliders, reskinned
-// - Change into Vue or React component
-// - Be able to grab a custom title instead of "Music Song"
-// - Hover over sliders to see preview of timestamp/volume change
+    $.fn.audioPlayer = function(params) {
+        var params = $.extend({
+                classPrefix: 'audioplayer',
+                strPlay: '',
+                strPause: '',
+                strVolume: ''
+            }, params),
+            cssClass = {},
+            cssClassSub = {
+                playPause: 'playpause',
+                playing: 'playing',
+                time: 'time',
+                timeCurrent: 'time-current',
+                timeDuration: 'time-duration',
+                bar: 'bar',
+                barLoaded: 'bar-loaded',
+                barPlayed: 'bar-played',
+                volume: 'volume',
+                volumeButton: 'volume-button',
+                volumeAdjust: 'volume-adjust',
+                noVolume: 'novolume',
+                mute: 'mute',
+                mini: 'mini'
+            };
 
-const audioPlayer = document.querySelector(".audio-player");
-const audio = new Audio(
-  "https://ia800905.us.archive.org/19/items/FREE_background_music_dhalius/backsound.mp3"
-);
-//credit for song: Adrian kreativaweb@gmail.com
+        for (var subName in cssClassSub)
+            cssClass[subName] = params.classPrefix + '-' + cssClassSub[subName];
 
-console.dir(audio);
+        this.each(function() {
+            if ($(this).prop('tagName').toLowerCase() != 'audio')
+                return false;
 
-audio.addEventListener(
-  "loadeddata",
-  () => {
-    audioPlayer.querySelector(".time .length").textContent = getTimeCodeFromNum(
-      audio.duration
-    );
-    audio.volume = .75;
-  },
-  false
-);
+            var $this = $(this),
+                audioFile = $this.attr('src'),
+                isAutoPlay = $this.get(0).getAttribute('autoplay'),
+                isAutoPlay = isAutoPlay === '' || isAutoPlay === 'autoplay' ? true : false,
+                isLoop = $this.get(0).getAttribute('loop'),
+                isLoop = isLoop === '' || isLoop === 'loop' ? true : false,
+                isSupport = false;
 
-//click on timeline to skip around
-const timeline = audioPlayer.querySelector(".timeline");
-timeline.addEventListener("click", e => {
-  const timelineWidth = window.getComputedStyle(timeline).width;
-  const timeToSeek = e.offsetX / parseInt(timelineWidth) * audio.duration;
-  audio.currentTime = timeToSeek;
-}, false);
+            if (typeof audioFile === 'undefined') {
+                $this.find('source').each(function() {
+                    audioFile = $(this).attr('src');
+                    if (typeof audioFile !== 'undefined' && canPlayType(audioFile)) {
+                        isSupport = true;
+                        return false;
+                    }
+                });
+            } else if (canPlayType(audioFile)) isSupport = true;
 
-//click volume slider to change volume
-const volumeSlider = audioPlayer.querySelector(".controls .volume-slider");
-volumeSlider.addEventListener('click', e => {
-  const sliderWidth = window.getComputedStyle(volumeSlider).width;
-  const newVolume = e.offsetX / parseInt(sliderWidth);
-  audio.volume = newVolume;
-  audioPlayer.querySelector(".controls .volume-percentage").style.width = newVolume * 100 + '%';
-}, false)
+            var thePlayer = $('<div class="' + params.classPrefix + '">' + (isSupport ? $('<div>').append($this.eq(0).clone()).html() : '<embed src="' + audioFile + '" width="0" height="0" volume="100" autostart="' + isAutoPlay.toString() + '" loop="' + isLoop.toString() + '" />') + '<div class="' + cssClass.playPause + '" title="' + params.strPlay + '"><a href="#">' + params.strPlay + '</a></div></div>'),
+                theAudio = isSupport ? thePlayer.find('audio') : thePlayer.find('embed'),
+                theAudio = theAudio.get(0);
 
-//check audio percentage and update time accordingly
-setInterval(() => {
-  const progressBar = audioPlayer.querySelector(".progress");
-  progressBar.style.width = audio.currentTime / audio.duration * 100 + "%";
-  audioPlayer.querySelector(".time .current").textContent = getTimeCodeFromNum(
-    audio.currentTime
-  );
-}, 500);
+            if (isSupport) {
+                thePlayer.find('audio').css({
+                    'width': 0,
+                    'height': 0,
+                    'visibility': 'hidden'
+                });
+                thePlayer.append('<div class="' + cssClass.time + ' ' + cssClass.timeCurrent + '"></div><div class="' + cssClass.bar + '"><div class="' + cssClass.barLoaded + '"></div><div class="' + cssClass.barPlayed + '"></div></div><div class="' + cssClass.time + ' ' + cssClass.timeDuration + '"></div><div class="' + cssClass.volume + '"><div class="' + cssClass.volumeButton + '" title="' + params.strVolume + '"><a href="#">' + params.strVolume + '</a></div><div class="' + cssClass.volumeAdjust + '"><div><div></div></div></div></div>');
 
-//toggle between playing and pausing on button click
-const playBtn = audioPlayer.querySelector(".controls .toggle-play");
-playBtn.addEventListener(
-  "click",
-  () => {
-    if (audio.paused) {
-      playBtn.classList.remove("play");
-      playBtn.classList.add("pause");
-      audio.play();
-    } else {
-      playBtn.classList.remove("pause");
-      playBtn.classList.add("play");
-      audio.pause();
-    }
-  },
-  false
-);
+                var theBar = thePlayer.find('.' + cssClass.bar),
+                    barPlayed = thePlayer.find('.' + cssClass.barPlayed),
+                    barLoaded = thePlayer.find('.' + cssClass.barLoaded),
+                    timeCurrent = thePlayer.find('.' + cssClass.timeCurrent),
+                    timeDuration = thePlayer.find('.' + cssClass.timeDuration),
+                    volumeButton = thePlayer.find('.' + cssClass.volumeButton),
+                    volumeAdjuster = thePlayer.find('.' + cssClass.volumeAdjust + ' > div'),
+                    volumeDefault = 0,
+                    adjustCurrentTime = function(e) {
+                        theRealEvent = isTouch ? e.originalEvent.touches[0] : e;
+                        theAudio.currentTime = Math.round((theAudio.duration * (theRealEvent.pageX - theBar.offset().left)) / theBar.width());
+                    },
+                    adjustVolume = function(e) {
+                        theRealEvent = isTouch ? e.originalEvent.touches[0] : e;
+                        theAudio.volume = Math.abs((theRealEvent.pageX - volumeAdjuster.offset().left) / volumeAdjuster.width());
+                    },
+                    updateLoadBar = setInterval(function() {
+                      if (theAudio.buffered.length > 0) {
+                        barLoaded.width((theAudio.buffered.end(0) / theAudio.duration) * 100 + '%');
+                        if (theAudio.buffered.end(0) >= theAudio.duration)
+                            clearInterval(updateLoadBar);
+                      }
+                    }, 100);
 
-audioPlayer.querySelector(".volume-button").addEventListener("click", () => {
-  const volumeEl = audioPlayer.querySelector(".volume-container .volume");
-  audio.muted = !audio.muted;
-  if (audio.muted) {
-    volumeEl.classList.remove("icono-volumeMedium");
-    volumeEl.classList.add("icono-volumeMute");
-  } else {
-    volumeEl.classList.add("icono-volumeMedium");
-    volumeEl.classList.remove("icono-volumeMute");
-  }
+                var volumeTestDefault = theAudio.volume,
+                    volumeTestValue = theAudio.volume = 0.111;
+                if (Math.round(theAudio.volume * 1000) / 1000 == volumeTestValue) theAudio.volume = volumeTestDefault;
+                else thePlayer.addClass(cssClass.noVolume);
+
+                timeDuration.html('&hellip;');
+                timeCurrent.text(secondsToTime(0));
+
+                theAudio.addEventListener('loadeddata', function() {
+                    timeDuration.text(secondsToTime(theAudio.duration));
+                    volumeAdjuster.find('div').width(theAudio.volume * 100 + '%');
+                    volumeDefault = theAudio.volume;
+                });
+
+                theAudio.addEventListener('timeupdate', function() {
+                    timeCurrent.text(secondsToTime(theAudio.currentTime));
+                    barPlayed.width((theAudio.currentTime / theAudio.duration) * 100 + '%');
+                });
+
+                theAudio.addEventListener('volumechange', function() {
+                    volumeAdjuster.find('div').width(theAudio.volume * 100 + '%');
+                    if (theAudio.volume > 0 && thePlayer.hasClass(cssClass.mute)) thePlayer.removeClass(cssClass.mute);
+                    if (theAudio.volume <= 0 && !thePlayer.hasClass(cssClass.mute)) thePlayer.addClass(cssClass.mute);
+                });
+
+                theAudio.addEventListener('ended', function() {
+                    thePlayer.removeClass(cssClass.playing);
+                });
+
+                theBar.on(eStart, function(e) {
+                        adjustCurrentTime(e);
+                        theBar.on(eMove, function(e) {
+                            adjustCurrentTime(e);
+                        });
+                    })
+                    .on(eCancel, function() {
+                        theBar.unbind(eMove);
+                    });
+
+                volumeButton.on('click', function() {
+                    if (thePlayer.hasClass(cssClass.mute)) {
+                        thePlayer.removeClass(cssClass.mute);
+                        theAudio.volume = volumeDefault;
+                    } else {
+                        thePlayer.addClass(cssClass.mute);
+                        volumeDefault = theAudio.volume;
+                        theAudio.volume = 0;
+                    }
+                    return false;
+                });
+
+                volumeAdjuster.on(eStart, function(e) {
+                        adjustVolume(e);
+                        volumeAdjuster.on(eMove, function(e) {
+                            adjustVolume(e);
+                        });
+                    })
+                    .on(eCancel, function() {
+                        volumeAdjuster.unbind(eMove);
+                    });
+            } else thePlayer.addClass(cssClass.mini);
+
+            if (isAutoPlay) thePlayer.addClass(cssClass.playing);
+
+            thePlayer.find('.' + cssClass.playPause).on('click', function() {
+                if (thePlayer.hasClass(cssClass.playing)) {
+                    $(this).attr('title', params.strPlay).find('a').html(params.strPlay);
+                    thePlayer.removeClass(cssClass.playing);
+                    isSupport ? theAudio.pause() : theAudio.Stop();
+                } else {
+                    $(this).attr('title', params.strPause).find('a').html(params.strPause);
+                    thePlayer.addClass(cssClass.playing);
+                    isSupport ? theAudio.play() : theAudio.Play();
+                }
+                return false;
+            });
+
+            $this.replaceWith(thePlayer);
+        });
+        return this;
+    };
+})(jQuery, window, document);
+
+
+
+
+
+
+
+
+$(function() {
+      $('audio').audioPlayer();
 });
 
-//turn 128 seconds into 2:08
-function getTimeCodeFromNum(num) {
-  let seconds = parseInt(num);
-  let minutes = parseInt(seconds / 60);
-  seconds -= minutes * 60;
-  const hours = parseInt(minutes / 60);
-  minutes -= hours * 60;
-
-  if (hours === 0) return `${minutes}:${String(seconds % 60).padStart(2, 0)}`;
-  return `${String(hours).padStart(2, 0)}:${minutes}:${String(
-    seconds % 60
-  ).padStart(2, 0)}`;
-}
-
-
 </script>
-
 <script type="text/javascript">
    /*
     * MediaPlayer
@@ -497,129 +599,240 @@ function getTimeCodeFromNum(num) {
 /* ##YELLOW_OSLO_AUDiO_PLAYER_MODDED_FROM_CODEPENN_POSTS */  
 
 
+/* RemixDesign | woaichidapi@163.com | Redesigned by JimmyCheung */
 
-.audio-player {
-  height: 50px;
-  width: 350px;
-  background: #444;
-  box-shadow: 0 0 20px 0 #000a;
-
-  font-family: arial;
-  color: white;
-  font-size: 0.75em;
-  overflow: hidden;
-
-  display: grid;
-  grid-template-rows: 6px auto;
-  .timeline {
-    background: white;
+.audioplayer {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+    margin: 1em 0;
+    padding: 0 24px;
     width: 100%;
-    position: relative;
+    height: 96px;
+    align-items: center;
+    border: 1px solid #DDE2E6;
+    border-radius: 4px;
+    background: #fff;
+}
+
+.audioplayer-playpause {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
     cursor: pointer;
-    box-shadow: 0 2px 10px 0 #0008;
-    .progress {
-      background: coral;
-      width: 0%;
-      height: 100%;
-      transition: 0.25s;
-    }
-  }
-  .controls {
+    transition: all .2s ease-in-out;
+}
+
+.audioplayer:not(.audioplayer-playing) .audioplayer-playpause {
+    background: rgba(91, 130, 255, 0);
+    border: 1px solid #5B82FF;
+}
+
+.audioplayer:not(.audioplayer-playing) .audioplayer-playpause:hover {
+    background: rgba(91, 130, 255, 0.1);
+}
+
+.audioplayer-playing .audioplayer-playpause {
+    background: rgba(253, 79, 26, 0);
+    border: 1px solid #FD4F1A;
+}
+
+.audioplayer-playing .audioplayer-playpause:hover {
+    background: rgba(235, 79, 26, 0.1);
+}
+
+.audioplayer:not(.audioplayer-playing) .audioplayer-playpause a {
+    content: '';
+    justify-content: center;
+    width: 0;
+    height: 0;
+    margin-left: 2px;
+    border-top: 7px solid transparent;
+    border-right: none;
+    border-bottom: 7px solid transparent;
+    border-left: 12px solid #0059FF;
+}
+
+.audioplayer-playing .audioplayer-playpause a {
+    content: '';
     display: flex;
     justify-content: space-between;
-    align-items: stretch;
-    padding: 0 20px;
-
-    > * {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-    }
-    .toggle-play {
-      &.play {
-        cursor: pointer;
-        position: relative;
-        left: 0;
-        height: 0;
-        width: 0;
-        border: 7px solid #0000;
-        border-left: 13px solid white;
-        &:hover {
-          transform: scale(1.1);
-        }
-      }
-      &.pause {
-        height: 15px;
-        width: 20px;
-        cursor: pointer;
-        position: relative;
-        &:before {
-          position: absolute;
-          top: 0;
-          left: 0px;
-          background: white;
-          content: "";
-          height: 15px;
-          width: 3px;
-        }
-        &:after {
-          position: absolute;
-          top: 0;
-          right: 8px;
-          background: white;
-          content: "";
-          height: 15px;
-          width: 3px;
-        }
-        &:hover {
-          transform: scale(1.1);
-        }
-      }
-    }
-    .time {
-      display: flex;
-
-      > * {
-        padding: 2px;
-      }
-    }
-    .volume-container {
-      cursor: pointer;
-      .volume-button {
-        height: 26px;
-        display: flex;
-        align-items: center;
-        .volume {
-          transform: scale(0.7);
-        }
-      }
-      
-      position: relative;
-      z-index: 2;
-      .volume-slider {
-        position: absolute;
-        left: -3px; top: 15px;
-        z-index: -1;
-        width: 0;
-        height: 15px;
-        background: white;
-        box-shadow: 0 0 20px #000a;
-        transition: .25s;
-        .volume-percentage {
-          background: coral;
-          height: 100%;
-          width: 75%;
-        }
-      }
-      &:hover {
-        .volume-slider {
-          left: -123px;
-          width: 120px;
-        }
-      }
-    }
-  }
+    width: 12px;
+    height: 14px;
 }
+
+.audioplayer-playing .audioplayer-playpause a::before, .audioplayer-playing .audioplayer-playpause a::after {
+    content: '';
+    width: 4px;
+    height: 14px;
+    background-color: #FD4F1A;
+}
+
+.audioplayer-time {
+    display: flex;
+    width: 40px;
+    justify-content:center;
+    font-size: 12px;
+    color: rgba(51, 51 ,51, .6)
+}
+
+.audioplayer-time-current {
+    margin-left: 24px;
+}
+
+.audioplayer-time-duration {
+    margin-right: 24px;
+}
+
+.audioplayer-bar {
+    position: relative;
+    display: flex;
+    margin: 0 12px;
+    height: 12px;
+    flex-basis: 0;
+    flex-grow: 1;
+    cursor: pointer;
+}
+
+.audioplayer-bar::before {
+    content: '';
+    position: absolute;
+    top: 5px;
+    width: 100%;
+    height: 2px;
+    background-color: #DDE2E6;
+}
+
+.audioplayer-bar > div {
+    position: absolute;
+    left: 0;
+    top: 5px;
+}
+.audioplayer-bar-loaded {
+    z-index: 1;
+    height: 2px;
+    background: #BEC8D2;
+}
+
+.audioplayer-bar-played {
+    flex-direction: row-reverse;
+    z-index: 2;
+    height: 2px;
+    background: -webkit-linear-gradient(left,#0059FF,#09B1FA);
+}
+
+.audioplayer-bar-played::after {
+    display: flex;
+    position: absolute;
+    content: '';
+    box-sizing: border-box;
+    top: -5px;
+    right: -1px;
+    margin-right: -5px;
+    width: 12px;
+    height: 12px;
+    background-color: #fff;
+    border-radius: 6px;
+}
+
+.audioplayer:not(.audioplayer-playing) .audioplayer-bar-played::after {
+    border: 2px solid #BEC8D2;
+}
+
+.audioplayer-playing .audioplayer-bar-played::after {
+    border: 2px solid #0059FF;
+
+}
+
+.audioplayer-volume {
+    display: flex;
+    align-items: center;
+}
+
+.audioplayer-volume-button {
+    display: flex;
+    align-items: center;
+    width: 24px;
+    height: 24px;
+    cursor: pointer;
+}
+
+.audioplayer-volume-button a {
+    display: flex;
+    width: 6px;
+    height: 8px;
+    background-color: #9A9FB0;
+    position: relative;
+}
+
+.audioplayer-volume-button a:before, .audioplayer-volume-button a:after {
+    content: '';
+    position: absolute;
+}
+
+.audioplayer-volume-button a:before {
+    width: 0;
+    height: 0;
+    border-top: 8px solid transparent;
+    border-right: 9px solid #9A9FB0;
+    border-bottom: 8px solid transparent;
+    border-left: none;
+    top: -4px;
+}
+
+.audioplayer:not(.audioplayer-mute) .audioplayer-volume-button a:after {
+    left: 10px;
+    top: -2px;
+    width: 6px;
+    height: 6px;
+    border: 6px double #9A9FB0;
+    border-width: 6px 6px 0 0;
+    border-radius: 0 12px 0 0;
+    transform: rotate(45deg);
+}
+
+.audioplayer-mute .audioplayer-volume-button a {
+    background-color: #FD4F1A;
+}
+
+.audioplayer-mute .audioplayer-volume-button a:before {
+    border-right: 9px solid #FD4F1A;
+}
+
+.audioplayer-volume-adjust {
+    display: flex;
+    align-items: center;
+    margin-left: 8px;
+}
+
+.audioplayer-volume-adjust > div {
+    position: relative;
+    display: flex;
+    width: 60px;
+    height: 2px;
+    cursor: pointer;
+    background-color: #BEC8D2;
+}
+
+.audioplayer-volume-adjust div div {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 2px;
+    background-color: #0059FF;
+}
+
+/* responsive | you can change the max-width value to match your theme */
+
+@media screen and (max-width: 679px) {
+    .audioplayer-volume-adjust {
+        display: none;
+    }
+}
+
 
 /* ##TWO_PANEL_LAYOUT_ADDED_7_28_2022_FOR_SPLiT_SCREEN_POSTS */  
 /* ##TWO_PANEL_LAYOUT_ADDED_7_28_2022_FOR_SPLiT_SCREEN_POSTS */
@@ -759,37 +972,15 @@ function getTimeCodeFromNum(num) {
 
 </style>
 ## Hole To Another Universe 
-<audio controls>
-  <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/Time%20MachineTheWayThingsAre.mp3"  type="audio/mp3">
-</audio> 
-<div style="width: 50px; height: 50px;"></div>
-<div class="audio-player">
-  <div class="timeline">
-    <div class="progress"></div>
-  </div>
-  <div class="controls">
-    <div class="play-container">
-      <div class="toggle-play play">
-    </div>
-    </div>
-    <div class="time">
-      <div class="current">0:00</div>
-      <div class="divider">/</div>
-      <div class="length"></div>
-    </div>
-    <div class="name">Music Song</div>
-<!--     credit for icon to https://saeedalipoor.github.io/icono/ -->
-    <div class="volume-container">
-      <div class="volume-button">
-        <div class="volume icono-volumeMedium"></div>
-      </div>
-      
-      <div class="volume-slider">
-        <div class="volume-percentage"></div>
-      </div>
-    </div>
-  </div>
-</div>
+
+<audio preload="metadata">
+        <source src="https://images.metmuseum.org/CRDImages/cl/audio/CLO-17-ENG-472181-1.mp3" type="audio/mp3">
+    </audio>
+
+<audio preload="metadata">
+        <source src="https://images.metmuseum.org/CRDImages/cl/audio/CLO-113-ENG-472181-2.mp3" type="audio/mp3">
+    </audio>
+
 
 [HEALTHY_PROGRAMMiNG_MUSiC NIGHT DRIVE - [synthwave - chillwave - retrowave mix]](https://www.youtube.com/watch?v=QAhvvQQurw4) 
 
