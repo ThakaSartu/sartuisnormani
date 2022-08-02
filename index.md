@@ -273,7 +273,7 @@ a:hover {
 
 </style>
 ## Hole To Another Universe
-
+[The Smashing Pumpkins - Bullet with Butterfly Wings (Official Music Video)](https://www.youtube.com/watch?v=8-r-V0uK4u0)
 [Smashing Pumpkins - 1979](https://www.youtube.com/watch?v=Lr58WHo2ndM)
 
 <div class="panel4-container">
