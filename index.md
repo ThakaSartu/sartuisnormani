@@ -12,6 +12,42 @@ iframe {
   border: none;
 }
 
+
+/* AUDiO+PLAYER+CSS */
+.broken-width {
+  width: 100%;
+}
+
+.right-width {
+   min-width: 100%;
+}
+
+audio
+{
+-webkit-transition:all 0.5s linear;
+-moz-transition:all 0.5s linear;
+-o-transition:all 0.5s linear;
+transition:all 0.5s linear;
+-moz-box-shadow: 2px 2px 4px 0px #006773;
+-webkit-box-shadow:  2px 2px 4px 0px #006773;
+box-shadow: 2px 2px 4px 0px #006773;
+-moz-border-radius:7px 7px 7px 7px ;
+-webkit-border-radius:7px 7px 7px 7px ;
+border-radius:7px 7px 7px 7px ;
+}
+
+audio:hover, audio:focus, audio:active
+{
+-webkit-box-shadow: 15px 15px 20px rgba(0,0, 0, 0.4);
+-moz-box-shadow: 15px 15px 20px rgba(0,0, 0, 0.4);
+box-shadow: 15px 15px 20px rgba(0,0, 0, 0.4);
+-webkit-transform: scale(1.05);
+-moz-transform: scale(1.05);
+transform: scale(1.05);
+}
+
+/* TEXT_EFFECTS */
+
 h1 {
   font-size: 2.6em;
   margin: 2em 0 0.6em;
@@ -237,6 +273,41 @@ a:hover {
 
 </style>
 ## Hole To Another Universe
+
+<a href="https://etc.usf.edu/lit2go/35/aesops-fables/388/the-father-and-his-sons"> <h2>The Father And His Son <em> ::</em> Aesop's Fables</h2</a> 
+<audio controls class="broken-width">
+  <source src="https://etc.usf.edu/lit2go/audio/mp3/aesops-fables-010-the-boy-who-cried-wolf.375.mp3" type="audio/mp3" />
+
+  Your browser does not support the <code>audio</code> element.
+</audio>
+
+
+
+
+
+<!-- https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio#Basic_usage -->
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://upload.wikimedia.org/wikipedia/en/4/42/Mulatto_%22Bitch_from_Da_Souf%22.png" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://images.genius.com/e340ddf6971616a68049fecc163ec30c.1000x1000x1.png" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+  </div>
+ </div>
+<img style="float:right; width:100%; height:100%;" alt="Girl in a jacket" src="https://upload.wikimedia.org/wikipedia/commons/0/03/Emoji_u1f4af.svg">
+  <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/NORMANiFAiRBG.gif">
+<h2> Normani_my_WiFE featuring my wife_Cardi_B::WiLDSiDE </h2>
+
+  <video controls width="100%" >
+     <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/NormaniWildSideOfficialVideoftCardiB.mp4" type="video/mp4">
+
+   </video>
 
 [Fixed gradient background with css](https://stackoverflow.com/questions/18094134/fixed-gradient-background-with-css)
 
