@@ -149,6 +149,11 @@
 </style>
 ## Hole To Another Universe
 [More Than a Feeling · Boston](https://www.youtube.com/watch?v=ufQUxoidxkM)
+"Keep On Loving You" is a soft rock power ballad written by Kevin Cronin and performed by American rock band REO Speedwagon. It features the lead guitar work of the late Gary Richrath. The song first appeared on REO Speedwagon's 1980 album Hi Infidelity. 
+
+The song was the first REO Speedwagon single to break the top 50 on the U.S. Billboard Hot 100, reaching the #1 spot for one week in March 1981. The single was certified Platinum for U.S. sales of over one million copies. It peaked at #7 on the UK Singles Chart.
+
+In 1981, the music video of the song was the 17th played on the first day of broadcast of MTV, on August 1. - Clay_CuLver
 [REO Speedwagon - Keep on Loving You (1980) HQ](https://www.youtube.com/watch?v=IkdLpSllRuw)
 [Steely Dan ~ Deacon Blues ~ Aja (Remastered) HQ Audio](https://www.youtube.com/watch?v=-hNeWDcf7so)
 [Rhiannon · Fleetwood Mac](https://www.youtube.com/watch?v=0xGPi-Al3zQ)
