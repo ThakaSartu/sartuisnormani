@@ -148,6 +148,24 @@
 
 </style>
 ## Hole To Another Universe
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://nervousnyc.com/wp-content/uploads/2022/05/bigho.jpg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT">
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://nervousnyc.com/wp-content/uploads/2022/05/bighob.jpg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT"> 
+      </div>
+    </div>
+  </div>
+</div>
+<img src="https://nervousnyc.com/wp-content/uploads/2021/10/tote.jpg">
+
+[Nervous_Records classic mix](https://www.youtube.com/watch?v=h_MnOwMfDEQ)  
+[Nervous_Records_NYC](https nervousnyc.com)
 
 <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/Screenshot%202022-08-02%2011.45.22%20AM.png">
 
