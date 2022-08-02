@@ -170,8 +170,8 @@ Il suffit d'ajouter une div avec la classe "media-player" + la video
 puis créer une instance le MediaPlayer en passant la div.
 Les controls sont ajoutés dynamiquement.
 -->
-  <div class="media-player">
-    <video controls width="100%"  poster="https://lh3.googleusercontent.com/proxy/_7D9Z93Yeaa-oxF-y4rBsmzmvvmj9QgM9rd25euJ_JcnIs8_4d-kFnQ0eg8XeZSXmErB-X4ucGqPFeuprm0m9W3bvfY=w1200-h630-n-k-no-nu" preload="metadata">
+  <div >
+    <video controls width="100%" >
      <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/NormaniWildSideOfficialVideoftCardiB.mp4" type="video/mp4">
     
      <p>Your user agent does not support the HTML5 Video element.</p>
