@@ -155,6 +155,214 @@
 ### DANCE411_HOW_diD_WE_GET_HERE?
 <img src="https://www.monkeyuser.com/assets/images/2022/248-unit-tests.png" >
 
+### SUBURBAN_WIFEY_NiGHTMARE
+[KASHDOLL ROBBED IN LA!!!](https://www.youtube.com/watch?v=6s4slL3_jtI)
+# Dear_HAYAT
+## Sartu_got_robbed
+<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/sort/Screenshot%202022-08-01%202.30.18%20AM.png">
+
+[Please watch this video, you can feel her terror.](https://www.youtube.com/watch?v=6s4slL3_jtI) As we both know her parents were murdered during that 80s criminal ass regime in [Dire-Dawa](https://en.wikipedia.org/wiki/Dire_Dawa), earlier this week on the phone she left me inspired to look at the [RealEstate_iN_DiRE_DAWA](https://jiji.com.et/houses-apartments-for-sale). And I feel so helpless shes raped and sodomized to the point I often dont recognize her and Im going mad with lonelyness. As you know we are well known in Alpharetta, Hollywood and Venice's telepath communites as a fully telekinetic Tantric couple thats separated by prostitution. People in hollywood think because she is posted on the internet shes not kidnapped. I work for JPL still and I was taken away from my job because all my women got kidnapped. Including Muna, that derlic ass Cracker SEVER_MSK has ruined her, she is so fucking whitewashed and the children get no contact with me they have all caught so much BLACK_ENTERTAiNMENT_NETWORK_DiCK they dont look the same after all the molestation. Can you talk to DAnielle_Mushonga for us DPSS_iS_CLEARLY_HUMAN_TRAFFiCKiNG_WiTH_DFACS
+[Please watch this video, you can feel her terror.](https://www.youtube.com/watch?v=6s4slL3_jtI) 
+<img src="https://d1dllhfo4523g0.cloudfront.net/87758_20201011-092933_1500x675.jpg" >
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://i.discogs.com/q7JEPdpNa6MhgtRZVF2Lm7q8iXPiiw0SlVp0EoVN8Gc/rs:fit/g:sm/q:90/h:501/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NTcy/MjMtMTQ4NzQ2OTU1/My0zNDk3LmpwZWc.jpeg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT">
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://i.discogs.com/q7JEPdpNa6MhgtRZVF2Lm7q8iXPiiw0SlVp0EoVN8Gc/rs:fit/g:sm/q:90/h:501/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NTcy/MjMtMTQ4NzQ2OTU1/My0zNDk3LmpwZWc.jpeg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT"> 
+      </div>
+    </div>
+  </div>
+</div>
+
+[Heart - Barracuda](https://www.youtube.com/watch?v=VdOkQ6THDVw)
+[Bruce Springsteen - Dancing In the Dark](https://youtu.be/129kuDCQtHs)
+[Journey - Don't Stop Believin' (Official Audio)](https://youtu.be/1k8craCGpgs)
+[Starship - We Built This City](https://www.youtube.com/watch?v=IDI2WQJyE7I)
+[More Than a Feeling](https://www.youtube.com/watch?v=ufQUxoidxkM)
+[DEAR_ERiKA_MUNA_KELELA_LALiBELA_QUXUBE KAMPiRE JENNiFER, Heather, Sandy, Sartu_Lauren - LiSTEN_TO_Africa_BY_TOTO](https://www.youtube.com/watch?v=FTQbiNvZqaY)
+
+<h2>	(╯°□°)╯︵ ʞooqǝɔɐɟ </h2>
+
+
+#### HTAU_THEME_MUSiC_RN
+[Ridge Racer - Rare Hero](https://www.youtube.com/watch?v=l3bhNLtXvHA) &#128293;&#128293;&#128293;
+&#128293;&#128293;&#128293;&#128293;&#128293;
+## Dear_NiNE_JABDU_and_CoraL
+Here, this was my release day purchase after working hard to buy my Playstation1 cash. Its RAVE_RACER_iN_JAPAN and Ridge_Racer in tha states 
+
+[PlayStation history: From console neophyte to all-conquering veteran](https://www.androidauthority.com/playstation-history-1220628/)
+<iframe width="80%" height="315" src="https://www.youtube.com/embed/m8nsUcAwkj8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Jam On It](https://www.youtube.com/watch?v=apnh_MpXlTE)
+[When I Hear Music](https://www.youtube.com/watch?v=WRcLYanZrho)
+<img src="https://149455152.v2.pressablecdn.com/wp-content/uploads/2018/09/Goal-Zero-Sherpa-100AC.jpg">
+
+[GeekDad Review: Goal Zero Sherpa 100AC Portable Power Bank](https://geekdad.com/2018/09/geekdad-review-goal-zero-sherpa-100ac-portable-power-bank)
+
+If I had a healthy power bank and my search results were not filtered, Id rarely ever come to centtral... Why are there so many broken computers... Its really pathetic 
+
+[Lookout Weekend - DEBBiE_DEB](https://www.youtube.com/watch?v=5TXvP76l-V4)
+## DEAR_MUNA
+You know I rag you guys about being lame all the time but this is serious prostitution allegations or not... The condition Justin has is called [Bell's palsy](https://www.mayoclinic.org/diseases-conditions/bells-palsy/symptoms-causes/syc-20370028). And he connected with mad prostituted women. Those pimps and ##PSYCHO_JONS have nerve gas. You can ask Erika, Sartu, Coral or Quxube, Matt_Field_GNK_NPR_REM and possibly SEVER_MSK but I have to be right if I accuse [SEVER##AWR_MSK](https://www.graffiti.org/sever/index.html). I cant be wrong with that guy. He dont realize that when we were early teens we looked up to him. So him stealing Muna is like yo look at those little boys at the basketball court. That skinny flat chested [DoubleDucher](https://www.youtube.com/watch?v=Kh1rgPIkWKA) is gonna be mine and he will never share a meal with her again once my plan is complete. Ill dissolve any family he builds. ##PiMP_SHiT_MAH_NiGGAH -SiGNED ATLANTAS_MOST_AGGY_NYMPHO_HUMANTRAFFiKiNG_PiMP_THiNG...
+#### BACK_TO_JUSTiN
+I wish people would listen to the people outside about the chemical weapon problem in Los Angeles. I have been attacked alot and the poison make certain muscle groups contract violently to a freeze or you loose all control of the muscle group. Justin spend time outside... Yes I have been blackballed and being a roof dweller I dont have the disadvantage of closed in permanet housing, and that is uncirculated air. Drink lots of water comfortably and excercise moderately, break a sweat and that [keeps ya body clean, Ha.](https://www.youtube.com/watch?v=3yylD-wixT0) So despite my aversion to prostitution rap and its related fallout I do understand that alot of people are lonely for ##quarantine so the ##CORONA_BAE while it needs to be explained, we want you healthy... AGRESSiVELY_RESEARCH_NERVE_GAS they were using Sarin and Anthrax for a while [Nerve Gas Poisoning](https://www.drugs.com/cg/nerve-gas-poisoning.html) I just know because of the symptoms, like these super pusFilled blisters that I got from an attack on my ass at the central library while I was using the computer. I still have the scabs for samples if you know someone responsible in law enforcement that wants to takle it.  
+
+[JUSTIN BIEBER REVEALS SCARY DIAGNOSIS ...Has Caused Facial Paralysis](https://www.tmz.com/2022/06/10/justin-bieber-battling-virus-that-has-paralyzed-part-of-his-face/)
+[Cherrelle - Saturday Love - Lyrics](https://www.youtube.com/watch?v=efLcgUQmyT8) 
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://i926.photobucket.com/albums/ad105/ichiban619/various%20graffiti%20magazines/12OzProphetIssue61997-AEROHOLICS-26.jpg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT">
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://i926.photobucket.com/albums/ad105/ichiban619/various%20graffiti%20magazines/12OzProphetIssue61997-AEROHOLICS-28.jpg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT"> 
+      </div>
+    </div>
+  </div>
+</div>
+
+[IchiBan`s Street Scribers Yard](http://street-scribers-yard.blogspot.com/)
+[SAMURAi_SHOWDOWN](https://archive.org/details/arcade_samsho) 
+
+## LAPL, YOUR_SECURiTY_GAURDS_ARE_A_PESTiLENCE
+THE_FAT_BALD_ONE_ALWAYS_STALKS_AND_DiSTRACTS_ME_AT_CENTRAL
+If I cant breath in my fucking mask and I am more than 6 feet away from another person I should have the right to use the library with my mask off! Its so distracting!!! THEY_TiME_THE_SHiT because alot of them work extra shift for the pimps and shit, so its personal. 
+- I am an open source developer, please respect that I have been robbed and blackballed and the library is the place I get my shit together. Stop being so cruel, you guys kicked me out of the Octavia Center while I was filling out paperwork. Then I got denied acces because I am not doing anything creative and I am not permitted to download anything or browse the internet... [##TMZ_WHATS_WRONG_WiTH_THiS_LiBRARY](https://www.bing.com/search?q=porn+library+santa+monica&PC=U316&FORM=CHROMN) [AND_YOU_KNOW_MY_MiSSiNG_ASS_FAMiLY](https://www.cbsnews.com/losangeles/news/adult-film-shot-at-santa-monica-public-library-during-business-hours-sparks-outrage/) Appears in porn and I have been menaced in the library and on the train with guys flashing me porn of kidnapped dance411 members... "You'll never see your wives again" they say
+
+[Adult Film Shot At Santa Monica Public Library During Business Hours Sparks Outrage](https://www.cbsnews.com/losangeles/news/adult-film-shot-at-santa-monica-public-library-during-business-hours-sparks-outrage/)
+### SANTA MONICA (CBSLA) 
+ A porn stunt apparently done to get clicks is provoking outrage after news surfaced that an adult film was shot inside a local public library. The video is more than ten minutes in length and was shot on Santa Monica city streets and then inside the Santa Monica Public Library – Ocean Park Branch.
+
+The video – which shows a woman exposing herself – outside Santa Monica streets and even outside John Muir Elementary, then carrying out sex acts inside the library. "God forbid, a child walked in the library and walked right in on the middle of it. That's my biggest concern," said Janet McLaughlin, a neighbor. "Children don't need to be exposed to this. If you want to do porn, stick to the hotels." McLaughlin was so disgusted after another concerned parent sent her a link of the movie, that she took to social media to get the city's attention. In the clip, the woman in the video walks into the library, apparently during business hours and shoots the video while talking about not getting caught.
+
+But McLaughlin says city leaders are aware.
+"They say that it is a misdemeanor and unless they witness it themselves, there is nothing they can do about it," she said. The video was uploaded to a porn site that pays per click. The face of the man in the video is never shown. CBS Los Angeles has chosen to not release the identity of the female in the clip, but a search shows that she has appeared in other adult films.
+"We have to have laws to stop them from doing things that puts children in harm's way," said McLaughlin. [##TMZ_WHATS_WRONG_WiTH_THiS_LiBRARY](https://www.bing.com/search?q=porn+library+santa+monica&PC=U316&FORM=CHROMN) 
+## WHY_iYT_AiYNT_FiYXED?!?!
+## ITS_A_MISDEMENOR_BUT_WHAT_ABOUT_WHEN
+### She is denied food for a week and her first meal is semen as 
+[LUDACRiS_REVEALS_HiS_RAPE_SESSiON_WiTH_MY_WiFE_SARTU iN and ##UNORTHORiZED_REMiX](https://soundcloud.com/saintbeda/normani-wild-side-remix-ft-ludacris-lil-wayne-1?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) Sartu, performs under Normani and Nija and a few other names Melisza McFierce... And in the porn world she is popular for authentic female ejaculation and people experiment on her. She is from a rare african tribe and people have treated us like [E.T and ELLiOT](https://www.youtube.com/watch?v=alt4NCNZqWI) all our lives and we wanna be together and with the rest of our ##DanceTribe with no one policing our sexuality... I cannot even search for sex positions on wikipedia its blocked! Im so torchured electronically and so is she. Its wrong and the library system of Los Angeles supports porn and there is no such thing as consensual porn. Its always fraud and coercion involved ant thats RAPE_IN_CALIFORNIA
+<img src="https://th.bing.com/th/id/R.1076edaa5851c4226d72903cd9d09833?rik=IqOwzX%2bHRdtBOw&riu=http%3a%2f%2fwww.thewrap.com%2fwp-content%2fuploads%2f2016%2f06%2fScreen-Shot-2016-06-09-at-3.26.48-PM.png&ehk=4sLNCMMF5hNOE%2bqlZjErGShn3Z9pzbRWITz3sIpujTU%3d&risl=&pid=ImgRaw&r=0">
+
+[E.T. the Extra-Terrestrial (1982) - 'Invading Elliot's House' scene [1080p]](https://www.youtube.com/watch?v=alt4NCNZqWI)
+<iframe scrolling="no" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen allow="autoplay; fullscreen" src="https://w3.mp.lura.live/player/prod/v3/anvload.html?key=eyJtIjoiY2JzIiwidiI6IjQ0NDk0ODQiLCJhbnZhY2siOiI1VkQ2RXlkNmRqZXdiQ21Od0JGbnNKajE3WUF2R1J3bCIsInNoYXJlTGluayI6Imh0dHBzOi8vdzMubXAubHVyYS5saXZlL3BsYXllci9wcm9kL3YzL2FudmxvYWQuaHRtbD9rZXk9ZXlKaGJuWmhZMnNpT2lJMVZrUTJSWGxrTm1ScVpYZGlRMjFPZDBKR2JuTkthakUzV1VGMlIxSjNiQ0lzSW1WNGNHVmpkRkJ5WlhKdmJHd2lPblJ5ZFdVc0ltVjRjR1ZqZEZCeVpYSnZiR3hVYVcxbGIzVjBJam8xTENKb2RHMXNOU0k2ZEhKMVpTd2liU0k2SW1OaWN5SXNJbkJzZFdkcGJuTWlPbnNpWTI5dGMyTnZjbVVpT25zaVl6TWlPaUpEYUdsallXZHZMbU5pYzJ4dlkyRnNMbU52YlNJc0ltTnNhV1Z1ZEVsa0lqb2lNekF3TURBeU15SjlMQ0prWm5BaU9uc2lZMnhwWlc1MFUybGtaU0k2ZXlKaFpGUmhaMVZ5YkNJNkltaDBkSEE2THk5d2RXSmhaSE11Wnk1a2IzVmliR1ZqYkdsamF5NXVaWFF2WjJGdGNHRmtMMkZrY3o5emVqMHllREpjZFRBd01qWnBkVDB2TkRFeU9DOWpZbk11WTJocFhIVXdNREkyWTJsMVgzTjZjMXgxTURBeU5tbHRjR3c5YzF4MU1EQXlObWRrWm5CZmNtVnhQVEZjZFRBd01qWmxiblk5ZG5CY2RUQXdNalp2ZFhSd2RYUTllRzFzWDNaaGMzUXlYSFV3TURJMmRXNTJhV1YzWldSZmNHOXphWFJwYjI1ZmMzUmhjblE5TVZ4MU1EQXlOblZ5YkQxYmNtVm1aWEp5WlhKZmRYSnNYVngxTURBeU5tUmxjMk55YVhCMGFXOXVYM1Z5YkQxYlpHVnpZM0pwY0hScGIyNWZkWEpzWFZ4MU1EQXlObU52Y25KbGJHRjBiM0k5VzNScGJXVnpkR0Z0Y0YwaUxDSnJaWGxXWVd4MVpYTWlPbnNpWTJGMFpXZHZjbWxsY3lJNklsdGJRMEZVUlVkUFVrbEZVMTFkSWl3aWNISnZaM0poYlNJNklsdGJVRkpQUjFKQlRWOU9RVTFGWFYwaUxDSnphWFJsVTJWamRHbHZiaUk2SW5acFpHVnZMV1Y0Y0dWeWFXVnVZMlVpZlgxOUxDSm9aV0Z5ZEdKbFlYUkNaWFJoSWpwN0ltRmpZMjkxYm5RaU9pSmpZbk5zYjJOaGJDMW5iRzlpWVd3dGRXNXBabWxsWkNJc0ltTm9ZWEIwWlhKVWNtRmphMmx1WnlJNlptRnNjMlVzSW1OMWMzUnZiVTFsZEdGa1lYUmhJanA3SW5acFpHVnZJanA3SW1OaWMxOXRZWEpyWlhRaU9pSmphR2xqWVdkdkxtTmljMnh2WTJGc0xtTnZiU0lzSW1OaWMxOXdiR0YwWm05eWJTSTZJbVJsYzJ0MGIzQWlmWDBzSW1OMWMzUnZiVlJ5WVdOcmFXNW5VMlZ5ZG1WeUlqb2lZMkp6WkdsbmFYUmhiRzFsWkdsaExtUXhMbk5qTG05dGRISmtZeTV1WlhRaUxDSmpkWE4wYjIxVWNtRmphMmx1WjFObGNuWmxjbE5sWTNWeVpTSTZJbU5pYzJScFoybDBZV3h0WldScFlTNWtNUzV6WXk1dmJYUnlaR011Ym1WMElpd2lhbTlpU1dRaU9pSnpZMTkyWVNJc0ltMWhjbXRsZEdsdVowTnNiM1ZrU1dRaU9pSTRNak5DUVRBek16VTFOamMwT1RkR04wWXdNREF4TURGQVFXUnZZbVZQY21jaUxDSndTVzV6ZEdGdVkyVWlPaUp3TUNJc0luQmhjbVZ1ZEZCaFoyVlZVa3dpT2lKb2RIUndjem92TDJOb2FXTmhaMjh1WTJKemJHOWpZV3d1WTI5dEwzWnBaR1Z2THpZeU1EVTRNREF0YzJGcGJuUXRibWxqYUc5c1lYTXRkV3R5WVdsdWFXRnVMV05oZEdodmJHbGpMV05oZEdobFpISmhiQzEzYVd4c0xXaHZiR1F0Y0hKaGVXVnljeTFtYjNJdGNHVmhZMlV0YVc0dGRXdHlZV2x1WlM4aUxDSndZWEpsYm5SVWFYUnNaU0k2SWxOaGFXNTBJRTVwWTJodmJHRnpJRlZyY21GcGJtbGhiaUJEWVhSb2IyeHBZeUJEWVhSb1pXUnlZV3dnVjJsc2JDQkliMnhrSUZCeVlYbGxjbk1nUm05eUlGQmxZV05sSUVsdUlGVnJjbUZwYm1VZzRvQ1RJRU5DVXlBeU9pQk9aWGR6TENCWFpXRjBhR1Z5TENCVGNHOXlkSE1nVDI0Z1FXeHNJRkJzWVhSbWIzSnRjeUlzSW5CeWIyWnBiR1VpT2lKalluTWlMQ0p3ZFdKc2FYTm9aWEpKWkNJNkltTmljMnh2WTJGc0lpd2lkSEpoWTJ0cGJtZFRaWEoyWlhJaU9pSmpZbk5rYVdkcGRHRnNiV1ZrYVdFdWFHSXViMjEwY21SakxtNWxkQ0lzSW5abGNuTnBiMjRpT2lJeExqVWlmU3dpYlc5aGRDSTZleUpqYkdsbGJuUlRhV1JsSWpwN0luQmhjblJ1WlhKRGIyUmxJam9pWTJKemJHOWpZV3hoYm5aaGRHOTJhV1JsYnpFNE1UY3pNall3T1RRek1TSjlmWDBzSW5SdmEyVnVJam9pWkdWbVlYVnNkQ0lzSW5ZaU9pSTBORFE1TkRnMEluMCIsInBsdWdpbnMiOnsiY29tc2NvcmUiOnsiYzMiOiJDaGljYWdvLmNic2xvY2FsLmNvbSIsImNsaWVudElkIjoiMzAwMDAyMyJ9LCJkZnAiOnsiY2xpZW50U2lkZSI6eyJhZFRhZ1VybCI6Imh0dHA6Ly9wdWJhZHMuZy5kb3VibGVjbGljay5uZXQvZ2FtcGFkL2Fkcz9zej0yeDImaXU9LzQxMjgvY2JzLmNoaSZjaXVfc3pzJmltcGw9cyZnZGZwX3JlcT0xJmVudj12cCZvdXRwdXQ9eG1sX3Zhc3QyJnVudmlld2VkX3Bvc2l0aW9uX3N0YXJ0PTEmdXJsPVtyZWZlcnJlcl91cmxdJmRlc2NyaXB0aW9uX3VybD1bZGVzY3JpcHRpb25fdXJsXSZjb3JyZWxhdG9yPVt0aW1lc3RhbXBdIiwia2V5VmFsdWVzIjp7ImNhdGVnb3JpZXMiOiJbW0NBVEVHT1JJRVNdXSIsInByb2dyYW0iOiJbW1BST0dSQU1fTkFNRV1dIiwic2l0ZVNlY3Rpb24iOiJ2aWRlby1leHBlcmllbmNlIn19fSwiaGVhcnRiZWF0QmV0YSI6eyJhY2NvdW50IjoiY2JzbG9jYWwtZ2xvYmFsLXVuaWZpZWQiLCJjaGFwdGVyVHJhY2tpbmciOmZhbHNlLCJjdXN0b21NZXRhZGF0YSI6eyJ2aWRlbyI6eyJjYnNfbWFya2V0IjoiY2hpY2Fnby5jYnNsb2NhbC5jb20iLCJjYnNfcGxhdGZvcm0iOiJkZXNrdG9wIn19LCJjdXN0b21UcmFja2luZ1NlcnZlciI6ImNic2RpZ2l0YWxtZWRpYS5kMS5zYy5vbXRyZGMubmV0IiwiY3VzdG9tVHJhY2tpbmdTZXJ2ZXJTZWN1cmUiOiJjYnNkaWdpdGFsbWVkaWEuZDEuc2Mub210cmRjLm5ldCIsImpvYklkIjoic2NfdmEiLCJtYXJrZXRpbmdDbG91ZElkIjoiODIzQkEwMzM1NTY3NDk3RjdGMDAwMTAxQEFkb2JlT3JnIiwicHJvZmlsZSI6ImNicyIsInB1Ymxpc2hlcklkIjoiY2JzbG9jYWwiLCJ0cmFja2luZ1NlcnZlciI6ImNic2RpZ2l0YWxtZWRpYS5oYi5vbXRyZGMubmV0IiwidmVyc2lvbiI6IjEuNSJ9LCJtb2F0Ijp7ImNsaWVudFNpZGUiOnsicGFydG5lckNvZGUiOiJjYnNsb2NhbGFudmF0b3ZpZGVvMTgxNzMyNjA5NDMxIn19fSwiaHRtbDUiOnRydWUsInRva2VuIjoiZGVmYXVsdCJ9"  width ="90%" height="360"></iframe>
+
+## Dear_Behati
+Sorry about pinterest... Ill get into some metaphysical stuff later with you. I dont have a flow. [The_DR_STANKENSTEiN_ACCOUNT](https://www.pinterest.at/drstankenstein/) is really old and has a lot of info related to our families exodus from [Jehovahs_WiTnesses](https://en.wikipedia.org/wiki/Jehovah%27s_Witnesses). [The Symptoms of Telepathy_or##TELECATiON](http://askingangels.com/articles/spiritual/twin-flame-telepathy.php#:~:text=Signs%20%26%20Symptoms%20Of%20Twin%20Flame%20Telepathy%201,Some%20Of%20The%20Same%20Faults.%20Please%20Share%21%20) as many on the west coast are calling it...
+[They Don't Know](https://www.youtube.com/watch?v=U6Xs-dh83i4) what they are doing by separating me from Sartu for she can verify my relationship with Muni and Muni can get me to Erika and Coral and Jabdu and Meyu and I can get my name cleared from child molestation and get a pension of social security or something, I got denied foodstamps, cellphone access and my social security was stolen. Im on the street man, so the telepathy thing is huge bu im not doing any research its like the number sequences 111,222,333 etc, the syncronicity and so forth, its just a part of regular life at this point. 
+
+## Disabled Public Libray computers
+Its so disappointing when [Billy_Jean](https://www.archdaily.com/953006/billie-jean-king-main-library-skidmore-owings-and-merrill) Branch in Long beach is closed. While the computers are timed, they do not disable you from saving files, although they will not allow you to run .exe files. So I cant play [SAMURAi_SHOWDOWN](https://archive.org/details/arcade_samsho) at the correct framerate. I like making animated gifs out of my wifes videos so they can use them for social media when they have downtime from prostitution. Now that I say that the phones will be taken away... They not releasing music as often and Im not seeing new dance videos. The organization that manages the librarys computers block thier songs from my youtube account and my wife Muna from my google results. RANDO_XTC and LOST_SFK took me and Coral to the funeral, the whole family was therer including SARTU! She was laid to rest here and my life fell apart... 
+[Next thing I know she is performing on Jimmy_Kimmel and appearing at the source awards](https://www.youtube.com/watch?v=da-h2Kdunbg)
+[We Could Watch Muni Long Perform For Hrs & Hrs | BET Awards '22](https://www.youtube.com/watch?v=da-h2Kdunbg)
+<img src="https://i.ytimg.com/vi/ddNppeY520o/maxresdefault.jpg">
+```
+My heart is cold like Russia/
+Got Jerked at the SOURCE_AWARDS/
+NEXT_YEAR,200_NiGGAS comin' wit swords
+- iRON_MAN_TONY_STARKS ##THE_GHOSTFACE_KiLLER 
+from POiSONOUS_DARTS
+```
+
+[Ghostface Killah - Poisonous Darts (Official Audio)](https://www.youtube.com/watch?v=oo26-NdzqbE)
+[Ghostface Killah · Box In Hand](https://www.youtube.com/watch?v=oiG-DJ37wXQ)
+<img src="https://cdn.f1connect.net/compress/photo/location/8fb167dad21040dbadabd1bc8ce0d9a6/c3a51d6c-4551-4b80-bd77-22b519c6d928.png">
+
+[SARTU_WEARiNG_MY_BROTHER MEMORiAL_STYLE](https://www.pinterest.com/pin/476114991866603327)
+[SARTU_iN_AFRO_WiG The ##HUMAN_TRAFFiCKeRs MADE_HER_CUT_HER_MANE_OFF](https://www.pinterest.com/pin/476114991867389020)
+[Y2K baddie Outfit inspo | Look is in my bio ❤️](https://www.pinterest.com/pin/476114991868686622/?mt=login)
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://longbeach.gov/globalassets/city-news/media-library/images/libraryconstruction_12-17-18_012.jpg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT">
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://longbeach.gov/globalassets/city-news/media-library/images/libraryconstruction_12-17-18_012.jpg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT"> 
+      </div>
+    </div>
+  </div>
+</div>
+<img src="https://cdn.worldvectorlogo.com/logos/crime-bite.svg" alt="MCGRUFF = ##TAKE_A_BITE_OUTTA_CRIME">
+
+
+[1981 McGruff The Crime Dog "Detroit" TV Commercial](https://www.youtube.com/watch?v=ta05yW8WWrs)
+[McGruff's Guide To Personal Safety (1988 VHS)](https://www.youtube.com/watch?v=p3hu_wvgd1Y)
+[McGruff Don't talk to Strangers PSA 1984](https://www.youtube.com/watch?v=rxLD1uq94sE)
+[Blue Ribbon Panel: McGruff on Dangerous Strangers](https://www.youtube.com/watch?v=EkAwcNkagjU)
+[McGruff on Self-Protection: Preventing Child Abuse and Neglect (1993 VHS)](https://www.youtube.com/watch?v=61u1HAbmMwg)
+[(1986) McGruff's SMART KIDS Album [Cassette Rip]](https://www.youtube.com/watch?v=y4P4plYXKFE)
+[Peppa Pig Jumps in Muddy Puddles and Goes to the Beach 🐷 | Peppa Pig Official Family Kids Cartoon](https://www.youtube.com/watch?v=092T6-AJELs)
+[Teen Assault](https://www.youtube.com/watch?v=Isw_ipGAQ24)
+[Vintage Television Advertisements from the 60's and 70's](https://www.youtube.com/watch?v=0yDccwZiuIA)
+## DEAR_SARTU 
+Here are some tracks you can prep Travis' disillusioned fans to... BurningMan_LA
+[The·Crystal·Method ▶ ·Vegas·(Full Album)](https://www.youtube.com/watch?v=6qh5iA9wnvs)
+[The Chemical Brothers - Dig Your Own Hole (Full Album)](https://www.youtube.com/watch?v=2UafeQIkj5c)
+[The Chemical Brothers 1995 Exit Planet Dust](https://www.youtube.com/watch?v=gdGAGDMxQTg)
+[Chemical Brothers - BBC Radio1 Essential Mix - April 13, 2019](https://www.youtube.com/watch?v=EvfhVKHf1pA)
+[The Chemical Brothers - Live @ Glastonbury 2007 [4k]](https://www.youtube.com/watch?v=rMn0t72BvBc)
+<img src="https://www.seekpng.com/png/detail/373-3730168_the-chemical-brothers-brotherhood-chemical-brothers-png.png">
+
+[The Tibetan Book of Living and Dying. Malditasweet](https://www.youtube.com/watch?v=pPKbxpT7Z0c)
+[RiRi::YOU_KNOE_PEEBs_IN_DIS_ViDEOh_Prepare Your Heart For The Trials Ahead - 2013 Drama JW](https://www.youtube.com/watch?v=0wtqiK30O4k)
+[Old School Church Songs That's Going To Take You Back!](https://www.youtube.com/watch?v=hOOMTjiO5tk)
+[The Followers](https://www.youtube.com/watch?v=OvQ0G7I_HGE)
+[Pennsylvania, Northampton JW Assembly 1967](https://www.youtube.com/watch?v=4R8o4Hq7O9I)
+[Something About the Name Jesus](https://www.youtube.com/watch?v=AYm_NBsZ8P8)
+[The Best In Me](https://www.youtube.com/watch?v=CQt4xBGwaI4)
+[Never Would Have Made It](https://www.youtube.com/watch?v=nqPLhgy4yLc)
+[Man killed by same bullet he used to shoot woman in the neck::A Texas man was fatally injured by a ricocheting bullet he had fired into a woman.](https://www.msn.com/en-us/news/crime/man-killed-by-same-bullet-he-used-to-shoot-woman-in-the-neck/ar-AA10aNLr)
+[Kirk Franklin - I Smile (Official Video) ##DEAR_MUWAH_LUNA__THiS_LiGHTiNG_is_iN_YOUR_GRASP STAGE_STROBE_ON_LINEN_WITH_COLOR_GELS A_RING_LIGHT_UP_TOP_AND_IN_FRONT YOU_CAN_GET_VID_LIKE_THIS_ON_AN_iPHONE](https://www.youtube.com/watch?v=Z8SPwT3nQZ8)
+
+[Telling the Truth - Mary J. Blige](https://www.youtube.com/watch?v=Va3yc7okXQ4)
+
+<img src="https://installmd.com/upload/images/20210703/16253198381381.jpg">
+[How to use the curl command in Linux command line tool and library for transferring data with URLs](https://installmd.com/i/cli/curl)
+[Baltimora - Tarzan Boy (extended original)](https://www.youtube.com/watch?v=gSQ_iJ7aXKQ)
+<img src="https://ductam.info/wp-content/uploads/2018/10/good_curl_logo-2048x783.png">
+<img src="https://i.discogs.com/Gs984BCV01TFnS053AcmBpf7a1v3kkV8jFUTMjhuUVE/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDA0/MjMtMTQxNTkyOTk3/Ny0yMzYwLmpwZWc.jpeg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT">
+[Pink Floyd Another Brick in the Wall parts 1, 2 and 3 :: We don't need no education
+We don't need no thought control
+No dark sarcasm in the classroom
+Teacher, leave them kids alone
+Hey, teacher, leave them kids alone
+All in all it's just another brick in the wall
+All in all you're just another brick in the wall](https://www.youtube.com/watch?v=pRw0Y6SzOtI)
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://i.discogs.com/Gs984BCV01TFnS053AcmBpf7a1v3kkV8jFUTMjhuUVE/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDA0/MjMtMTQxNTkyOTk3/Ny0yMzYwLmpwZWc.jpeg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT">
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://i.discogs.com/Gs984BCV01TFnS053AcmBpf7a1v3kkV8jFUTMjhuUVE/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDA0/MjMtMTQxNTkyOTk3/Ny0yMzYwLmpwZWc.jpeg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT"> 
+      </div>
+    </div>
+  </div>
+</div>
+
+[Tainted Love / Where Did Our Love Go (Extended Version / Medley)](https://www.youtube.com/watch?v=q84psZX6MbA)
+[Bennie And The Jets (Remastered 2014) ELTON_JOHN](https://www.youtube.com/watch?v=ZBUW433Porw)
+[This Is for the Lover in You](https://www.youtube.com/watch?v=Sn_mS9cZUss)
+[Forever My Lady](https://www.youtube.com/watch?v=OVNPFylUzJQ)
+[Come & Talk To Me](https://www.youtube.com/watch?v=8adNpJoiUA4)
+
+
 ## devhumor_dOt_cOm being harrased as well
 <img src="https://i.ytimg.com/vi/2XqyvHMR8Ms/maxresdefault.jpg">
 <img src="https://www.monkeyuser.com/assets/images/2022/244-clutch-save.png">
@@ -710,183 +918,7 @@ Style:	Disco
 
 <img src="https://assets.catawiki.nl/assets/2018/12/3/9/a/2/9a263ccf-3c79-49e7-a7fb-cf9bb0fb350e.jpg" >
 <img src="https://i0.wp.com/wemissmusic.com/wp-content/uploads/2018/07/dexdlmwxuaawpod1.jpg?fit=864%2C393&ssl=1">	
-<div class='twoPanelSpread'>
-  <div class='row'>
-    <div class='panelColumn'>
-      <div class='leftColumn'>
-     <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0202/users/e133493dd0fc97a3600891981d79de9cf9682a48/i-img1200x1200-1613830878fefzjp81351.jpg" alt=""> </a>
-#### HTAU_THEME_MUSiC_RN
-[Ridge Racer - Rare Hero](https://www.youtube.com/watch?v=l3bhNLtXvHA) &#128293;&#128293;&#128293;
-&#128293;&#128293;&#128293;&#128293;&#128293;
-## Dear_NiNE_JABDU_and_CoraL
-Here, this was my release day purchase after working hard to buy my Playstation1 cash. Its RAVE_RACER_iN_JAPAN and Ridge_Racer in tha states 
 
-[PlayStation history: From console neophyte to all-conquering veteran](https://www.androidauthority.com/playstation-history-1220628/)
-<iframe width="80%" height="315" src="https://www.youtube.com/embed/m8nsUcAwkj8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-[Jam On It](https://www.youtube.com/watch?v=apnh_MpXlTE)
-[When I Hear Music](https://www.youtube.com/watch?v=WRcLYanZrho)
-<img src="https://149455152.v2.pressablecdn.com/wp-content/uploads/2018/09/Goal-Zero-Sherpa-100AC.jpg">
-
-[GeekDad Review: Goal Zero Sherpa 100AC Portable Power Bank](https://geekdad.com/2018/09/geekdad-review-goal-zero-sherpa-100ac-portable-power-bank)
-
-If I had a healthy power bank and my search results were not filtered, Id rarely ever come to centtral... Why are there so many broken computers... Its really pathetic 
-
-[Lookout Weekend - DEBBiE_DEB](https://www.youtube.com/watch?v=5TXvP76l-V4)
-## DEAR_MUNA
-You know I rag you guys about being lame all the time but this is serious prostitution allegations or not... The condition Justin has is called [Bell's palsy](https://www.mayoclinic.org/diseases-conditions/bells-palsy/symptoms-causes/syc-20370028). And he connected with mad prostituted women. Those pimps and ##PSYCHO_JONS have nerve gas. You can ask Erika, Sartu, Coral or Quxube, Matt_Field_GNK_NPR_REM and possibly SEVER_MSK but I have to be right if I accuse [SEVER##AWR_MSK](https://www.graffiti.org/sever/index.html). I cant be wrong with that guy. He dont realize that when we were early teens we looked up to him. So him stealing Muna is like yo look at those little boys at the basketball court. That skinny flat chested [DoubleDucher](https://www.youtube.com/watch?v=Kh1rgPIkWKA) is gonna be mine and he will never share a meal with her again once my plan is complete. Ill dissolve any family he builds. ##PiMP_SHiT_MAH_NiGGAH -SiGNED ATLANTAS_MOST_AGGY_NYMPHO_HUMANTRAFFiKiNG_PiMP_THiNG...
-#### BACK_TO_JUSTiN
-I wish people would listen to the people outside about the chemical weapon problem in Los Angeles. I have been attacked alot and the poison make certain muscle groups contract violently to a freeze or you loose all control of the muscle group. Justin spend time outside... Yes I have been blackballed and being a roof dweller I dont have the disadvantage of closed in permanet housing, and that is uncirculated air. Drink lots of water comfortably and excercise moderately, break a sweat and that [keeps ya body clean, Ha.](https://www.youtube.com/watch?v=3yylD-wixT0) So despite my aversion to prostitution rap and its related fallout I do understand that alot of people are lonely for ##quarantine so the ##CORONA_BAE while it needs to be explained, we want you healthy... AGRESSiVELY_RESEARCH_NERVE_GAS they were using Sarin and Anthrax for a while [Nerve Gas Poisoning](https://www.drugs.com/cg/nerve-gas-poisoning.html) I just know because of the symptoms, like these super pusFilled blisters that I got from an attack on my ass at the central library while I was using the computer. I still have the scabs for samples if you know someone responsible in law enforcement that wants to takle it.  
-
-[JUSTIN BIEBER REVEALS SCARY DIAGNOSIS ...Has Caused Facial Paralysis](https://www.tmz.com/2022/06/10/justin-bieber-battling-virus-that-has-paralyzed-part-of-his-face/)
-[Cherrelle - Saturday Love - Lyrics](https://www.youtube.com/watch?v=efLcgUQmyT8) 
-
-<div class='twoPanelSpread'>
-  <div class='row'>
-    <div class='panelColumn'>
-      <div class='leftColumn'>
-        <img src="https://i926.photobucket.com/albums/ad105/ichiban619/various%20graffiti%20magazines/12OzProphetIssue61997-AEROHOLICS-26.jpg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT">
-      </div>
-    </div>
-    <div class='panelColumn'>
-      <div class='rightColumn'>
-        <img src="https://i926.photobucket.com/albums/ad105/ichiban619/various%20graffiti%20magazines/12OzProphetIssue61997-AEROHOLICS-28.jpg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT"> 
-      </div>
-    </div>
-  </div>
-</div>
-
-[IchiBan`s Street Scribers Yard](http://street-scribers-yard.blogspot.com/)
-[SAMURAi_SHOWDOWN](https://archive.org/details/arcade_samsho) 
-
-## LAPL, YOUR_SECURiTY_GAURDS_ARE_A_PESTiLENCE
-THE_FAT_BALD_ONE_ALWAYS_STALKS_AND_DiSTRACTS_ME_AT_CENTRAL
-If I cant breath in my fucking mask and I am more than 6 feet away from another person I should have the right to use the library with my mask off! Its so distracting!!! THEY_TiME_THE_SHiT because alot of them work extra shift for the pimps and shit, so its personal. 
-- I am an open source developer, please respect that I have been robbed and blackballed and the library is the place I get my shit together. Stop being so cruel, you guys kicked me out of the Octavia Center while I was filling out paperwork. Then I got denied acces because I am not doing anything creative and I am not permitted to download anything or browse the internet... [##TMZ_WHATS_WRONG_WiTH_THiS_LiBRARY](https://www.bing.com/search?q=porn+library+santa+monica&PC=U316&FORM=CHROMN) [AND_YOU_KNOW_MY_MiSSiNG_ASS_FAMiLY](https://www.cbsnews.com/losangeles/news/adult-film-shot-at-santa-monica-public-library-during-business-hours-sparks-outrage/) Appears in porn and I have been menaced in the library and on the train with guys flashing me porn of kidnapped dance411 members... "You'll never see your wives again" they say
-
-[Adult Film Shot At Santa Monica Public Library During Business Hours Sparks Outrage](https://www.cbsnews.com/losangeles/news/adult-film-shot-at-santa-monica-public-library-during-business-hours-sparks-outrage/)
-### SANTA MONICA (CBSLA) 
- A porn stunt apparently done to get clicks is provoking outrage after news surfaced that an adult film was shot inside a local public library. The video is more than ten minutes in length and was shot on Santa Monica city streets and then inside the Santa Monica Public Library – Ocean Park Branch.
-
-The video – which shows a woman exposing herself – outside Santa Monica streets and even outside John Muir Elementary, then carrying out sex acts inside the library. "God forbid, a child walked in the library and walked right in on the middle of it. That's my biggest concern," said Janet McLaughlin, a neighbor. "Children don't need to be exposed to this. If you want to do porn, stick to the hotels." McLaughlin was so disgusted after another concerned parent sent her a link of the movie, that she took to social media to get the city's attention. In the clip, the woman in the video walks into the library, apparently during business hours and shoots the video while talking about not getting caught.
-
-But McLaughlin says city leaders are aware.
-"They say that it is a misdemeanor and unless they witness it themselves, there is nothing they can do about it," she said. The video was uploaded to a porn site that pays per click. The face of the man in the video is never shown. CBS Los Angeles has chosen to not release the identity of the female in the clip, but a search shows that she has appeared in other adult films.
-"We have to have laws to stop them from doing things that puts children in harm's way," said McLaughlin. [##TMZ_WHATS_WRONG_WiTH_THiS_LiBRARY](https://www.bing.com/search?q=porn+library+santa+monica&PC=U316&FORM=CHROMN) 
-## WHY_iYT_AiYNT_FiYXED?!?!
-## ITS_A_MISDEMENOR_BUT_WHAT_ABOUT_WHEN
-### She is denied food for a week and her first meal is semen as 
-[LUDACRiS_REVEALS_HiS_RAPE_SESSiON_WiTH_MY_WiFE_SARTU iN and ##UNORTHORiZED_REMiX](https://soundcloud.com/saintbeda/normani-wild-side-remix-ft-ludacris-lil-wayne-1?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) Sartu, performs under Normani and Nija and a few other names Melisza McFierce... And in the porn world she is popular for authentic female ejaculation and people experiment on her. She is from a rare african tribe and people have treated us like [E.T and ELLiOT](https://www.youtube.com/watch?v=alt4NCNZqWI) all our lives and we wanna be together and with the rest of our ##DanceTribe with no one policing our sexuality... I cannot even search for sex positions on wikipedia its blocked! Im so torchured electronically and so is she. Its wrong and the library system of Los Angeles supports porn and there is no such thing as consensual porn. Its always fraud and coercion involved ant thats RAPE_IN_CALIFORNIA
-<img src="https://th.bing.com/th/id/R.1076edaa5851c4226d72903cd9d09833?rik=IqOwzX%2bHRdtBOw&riu=http%3a%2f%2fwww.thewrap.com%2fwp-content%2fuploads%2f2016%2f06%2fScreen-Shot-2016-06-09-at-3.26.48-PM.png&ehk=4sLNCMMF5hNOE%2bqlZjErGShn3Z9pzbRWITz3sIpujTU%3d&risl=&pid=ImgRaw&r=0">
-
-[E.T. the Extra-Terrestrial (1982) - 'Invading Elliot's House' scene [1080p]](https://www.youtube.com/watch?v=alt4NCNZqWI)
-<iframe scrolling="no" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen allow="autoplay; fullscreen" src="https://w3.mp.lura.live/player/prod/v3/anvload.html?key=eyJtIjoiY2JzIiwidiI6IjQ0NDk0ODQiLCJhbnZhY2siOiI1VkQ2RXlkNmRqZXdiQ21Od0JGbnNKajE3WUF2R1J3bCIsInNoYXJlTGluayI6Imh0dHBzOi8vdzMubXAubHVyYS5saXZlL3BsYXllci9wcm9kL3YzL2FudmxvYWQuaHRtbD9rZXk9ZXlKaGJuWmhZMnNpT2lJMVZrUTJSWGxrTm1ScVpYZGlRMjFPZDBKR2JuTkthakUzV1VGMlIxSjNiQ0lzSW1WNGNHVmpkRkJ5WlhKdmJHd2lPblJ5ZFdVc0ltVjRjR1ZqZEZCeVpYSnZiR3hVYVcxbGIzVjBJam8xTENKb2RHMXNOU0k2ZEhKMVpTd2liU0k2SW1OaWN5SXNJbkJzZFdkcGJuTWlPbnNpWTI5dGMyTnZjbVVpT25zaVl6TWlPaUpEYUdsallXZHZMbU5pYzJ4dlkyRnNMbU52YlNJc0ltTnNhV1Z1ZEVsa0lqb2lNekF3TURBeU15SjlMQ0prWm5BaU9uc2lZMnhwWlc1MFUybGtaU0k2ZXlKaFpGUmhaMVZ5YkNJNkltaDBkSEE2THk5d2RXSmhaSE11Wnk1a2IzVmliR1ZqYkdsamF5NXVaWFF2WjJGdGNHRmtMMkZrY3o5emVqMHllREpjZFRBd01qWnBkVDB2TkRFeU9DOWpZbk11WTJocFhIVXdNREkyWTJsMVgzTjZjMXgxTURBeU5tbHRjR3c5YzF4MU1EQXlObWRrWm5CZmNtVnhQVEZjZFRBd01qWmxiblk5ZG5CY2RUQXdNalp2ZFhSd2RYUTllRzFzWDNaaGMzUXlYSFV3TURJMmRXNTJhV1YzWldSZmNHOXphWFJwYjI1ZmMzUmhjblE5TVZ4MU1EQXlOblZ5YkQxYmNtVm1aWEp5WlhKZmRYSnNYVngxTURBeU5tUmxjMk55YVhCMGFXOXVYM1Z5YkQxYlpHVnpZM0pwY0hScGIyNWZkWEpzWFZ4MU1EQXlObU52Y25KbGJHRjBiM0k5VzNScGJXVnpkR0Z0Y0YwaUxDSnJaWGxXWVd4MVpYTWlPbnNpWTJGMFpXZHZjbWxsY3lJNklsdGJRMEZVUlVkUFVrbEZVMTFkSWl3aWNISnZaM0poYlNJNklsdGJVRkpQUjFKQlRWOU9RVTFGWFYwaUxDSnphWFJsVTJWamRHbHZiaUk2SW5acFpHVnZMV1Y0Y0dWeWFXVnVZMlVpZlgxOUxDSm9aV0Z5ZEdKbFlYUkNaWFJoSWpwN0ltRmpZMjkxYm5RaU9pSmpZbk5zYjJOaGJDMW5iRzlpWVd3dGRXNXBabWxsWkNJc0ltTm9ZWEIwWlhKVWNtRmphMmx1WnlJNlptRnNjMlVzSW1OMWMzUnZiVTFsZEdGa1lYUmhJanA3SW5acFpHVnZJanA3SW1OaWMxOXRZWEpyWlhRaU9pSmphR2xqWVdkdkxtTmljMnh2WTJGc0xtTnZiU0lzSW1OaWMxOXdiR0YwWm05eWJTSTZJbVJsYzJ0MGIzQWlmWDBzSW1OMWMzUnZiVlJ5WVdOcmFXNW5VMlZ5ZG1WeUlqb2lZMkp6WkdsbmFYUmhiRzFsWkdsaExtUXhMbk5qTG05dGRISmtZeTV1WlhRaUxDSmpkWE4wYjIxVWNtRmphMmx1WjFObGNuWmxjbE5sWTNWeVpTSTZJbU5pYzJScFoybDBZV3h0WldScFlTNWtNUzV6WXk1dmJYUnlaR011Ym1WMElpd2lhbTlpU1dRaU9pSnpZMTkyWVNJc0ltMWhjbXRsZEdsdVowTnNiM1ZrU1dRaU9pSTRNak5DUVRBek16VTFOamMwT1RkR04wWXdNREF4TURGQVFXUnZZbVZQY21jaUxDSndTVzV6ZEdGdVkyVWlPaUp3TUNJc0luQmhjbVZ1ZEZCaFoyVlZVa3dpT2lKb2RIUndjem92TDJOb2FXTmhaMjh1WTJKemJHOWpZV3d1WTI5dEwzWnBaR1Z2THpZeU1EVTRNREF0YzJGcGJuUXRibWxqYUc5c1lYTXRkV3R5WVdsdWFXRnVMV05oZEdodmJHbGpMV05oZEdobFpISmhiQzEzYVd4c0xXaHZiR1F0Y0hKaGVXVnljeTFtYjNJdGNHVmhZMlV0YVc0dGRXdHlZV2x1WlM4aUxDSndZWEpsYm5SVWFYUnNaU0k2SWxOaGFXNTBJRTVwWTJodmJHRnpJRlZyY21GcGJtbGhiaUJEWVhSb2IyeHBZeUJEWVhSb1pXUnlZV3dnVjJsc2JDQkliMnhrSUZCeVlYbGxjbk1nUm05eUlGQmxZV05sSUVsdUlGVnJjbUZwYm1VZzRvQ1RJRU5DVXlBeU9pQk9aWGR6TENCWFpXRjBhR1Z5TENCVGNHOXlkSE1nVDI0Z1FXeHNJRkJzWVhSbWIzSnRjeUlzSW5CeWIyWnBiR1VpT2lKalluTWlMQ0p3ZFdKc2FYTm9aWEpKWkNJNkltTmljMnh2WTJGc0lpd2lkSEpoWTJ0cGJtZFRaWEoyWlhJaU9pSmpZbk5rYVdkcGRHRnNiV1ZrYVdFdWFHSXViMjEwY21SakxtNWxkQ0lzSW5abGNuTnBiMjRpT2lJeExqVWlmU3dpYlc5aGRDSTZleUpqYkdsbGJuUlRhV1JsSWpwN0luQmhjblJ1WlhKRGIyUmxJam9pWTJKemJHOWpZV3hoYm5aaGRHOTJhV1JsYnpFNE1UY3pNall3T1RRek1TSjlmWDBzSW5SdmEyVnVJam9pWkdWbVlYVnNkQ0lzSW5ZaU9pSTBORFE1TkRnMEluMCIsInBsdWdpbnMiOnsiY29tc2NvcmUiOnsiYzMiOiJDaGljYWdvLmNic2xvY2FsLmNvbSIsImNsaWVudElkIjoiMzAwMDAyMyJ9LCJkZnAiOnsiY2xpZW50U2lkZSI6eyJhZFRhZ1VybCI6Imh0dHA6Ly9wdWJhZHMuZy5kb3VibGVjbGljay5uZXQvZ2FtcGFkL2Fkcz9zej0yeDImaXU9LzQxMjgvY2JzLmNoaSZjaXVfc3pzJmltcGw9cyZnZGZwX3JlcT0xJmVudj12cCZvdXRwdXQ9eG1sX3Zhc3QyJnVudmlld2VkX3Bvc2l0aW9uX3N0YXJ0PTEmdXJsPVtyZWZlcnJlcl91cmxdJmRlc2NyaXB0aW9uX3VybD1bZGVzY3JpcHRpb25fdXJsXSZjb3JyZWxhdG9yPVt0aW1lc3RhbXBdIiwia2V5VmFsdWVzIjp7ImNhdGVnb3JpZXMiOiJbW0NBVEVHT1JJRVNdXSIsInByb2dyYW0iOiJbW1BST0dSQU1fTkFNRV1dIiwic2l0ZVNlY3Rpb24iOiJ2aWRlby1leHBlcmllbmNlIn19fSwiaGVhcnRiZWF0QmV0YSI6eyJhY2NvdW50IjoiY2JzbG9jYWwtZ2xvYmFsLXVuaWZpZWQiLCJjaGFwdGVyVHJhY2tpbmciOmZhbHNlLCJjdXN0b21NZXRhZGF0YSI6eyJ2aWRlbyI6eyJjYnNfbWFya2V0IjoiY2hpY2Fnby5jYnNsb2NhbC5jb20iLCJjYnNfcGxhdGZvcm0iOiJkZXNrdG9wIn19LCJjdXN0b21UcmFja2luZ1NlcnZlciI6ImNic2RpZ2l0YWxtZWRpYS5kMS5zYy5vbXRyZGMubmV0IiwiY3VzdG9tVHJhY2tpbmdTZXJ2ZXJTZWN1cmUiOiJjYnNkaWdpdGFsbWVkaWEuZDEuc2Mub210cmRjLm5ldCIsImpvYklkIjoic2NfdmEiLCJtYXJrZXRpbmdDbG91ZElkIjoiODIzQkEwMzM1NTY3NDk3RjdGMDAwMTAxQEFkb2JlT3JnIiwicHJvZmlsZSI6ImNicyIsInB1Ymxpc2hlcklkIjoiY2JzbG9jYWwiLCJ0cmFja2luZ1NlcnZlciI6ImNic2RpZ2l0YWxtZWRpYS5oYi5vbXRyZGMubmV0IiwidmVyc2lvbiI6IjEuNSJ9LCJtb2F0Ijp7ImNsaWVudFNpZGUiOnsicGFydG5lckNvZGUiOiJjYnNsb2NhbGFudmF0b3ZpZGVvMTgxNzMyNjA5NDMxIn19fSwiaHRtbDUiOnRydWUsInRva2VuIjoiZGVmYXVsdCJ9"  width ="90%" height="360"></iframe>
-
-## Dear_Behati
-Sorry about pinterest... Ill get into some metaphysical stuff later with you. I dont have a flow. [The_DR_STANKENSTEiN_ACCOUNT](https://www.pinterest.at/drstankenstein/) is really old and has a lot of info related to our families exodus from [Jehovahs_WiTnesses](https://en.wikipedia.org/wiki/Jehovah%27s_Witnesses). [The Symptoms of Telepathy_or##TELECATiON](http://askingangels.com/articles/spiritual/twin-flame-telepathy.php#:~:text=Signs%20%26%20Symptoms%20Of%20Twin%20Flame%20Telepathy%201,Some%20Of%20The%20Same%20Faults.%20Please%20Share%21%20) as many on the west coast are calling it...
-[They Don't Know](https://www.youtube.com/watch?v=U6Xs-dh83i4) what they are doing by separating me from Sartu for she can verify my relationship with Muni and Muni can get me to Erika and Coral and Jabdu and Meyu and I can get my name cleared from child molestation and get a pension of social security or something, I got denied foodstamps, cellphone access and my social security was stolen. Im on the street man, so the telepathy thing is huge bu im not doing any research its like the number sequences 111,222,333 etc, the syncronicity and so forth, its just a part of regular life at this point. 
-
-## Disabled Public Libray computers
-Its so disappointing when [Billy_Jean](https://www.archdaily.com/953006/billie-jean-king-main-library-skidmore-owings-and-merrill) Branch in Long beach is closed. While the computers are timed, they do not disable you from saving files, although they will not allow you to run .exe files. So I cant play [SAMURAi_SHOWDOWN](https://archive.org/details/arcade_samsho) at the correct framerate. I like making animated gifs out of my wifes videos so they can use them for social media when they have downtime from prostitution. Now that I say that the phones will be taken away... They not releasing music as often and Im not seeing new dance videos. The organization that manages the librarys computers block thier songs from my youtube account and my wife Muna from my google results. RANDO_XTC and LOST_SFK took me and Coral to the funeral, the whole family was therer including SARTU! She was laid to rest here and my life fell apart... 
-[Next thing I know she is performing on Jimmy_Kimmel and appearing at the source awards](https://www.youtube.com/watch?v=da-h2Kdunbg)
-[We Could Watch Muni Long Perform For Hrs & Hrs | BET Awards '22](https://www.youtube.com/watch?v=da-h2Kdunbg)
-<img src="https://i.ytimg.com/vi/ddNppeY520o/maxresdefault.jpg">
-```
-My heart is cold like Russia/
-Got Jerked at the SOURCE_AWARDS/
-NEXT_YEAR,200_NiGGAS comin' wit swords
-- iRON_MAN_TONY_STARKS ##THE_GHOSTFACE_KiLLER 
-from POiSONOUS_DARTS
-```
-
-[Ghostface Killah - Poisonous Darts (Official Audio)](https://www.youtube.com/watch?v=oo26-NdzqbE)
-[Ghostface Killah · Box In Hand](https://www.youtube.com/watch?v=oiG-DJ37wXQ)
-<img src="https://cdn.f1connect.net/compress/photo/location/8fb167dad21040dbadabd1bc8ce0d9a6/c3a51d6c-4551-4b80-bd77-22b519c6d928.png">
-
-[SARTU_WEARiNG_MY_BROTHER MEMORiAL_STYLE](https://www.pinterest.com/pin/476114991866603327)
-[SARTU_iN_AFRO_WiG The ##HUMAN_TRAFFiCKeRs MADE_HER_CUT_HER_MANE_OFF](https://www.pinterest.com/pin/476114991867389020)
-[Y2K baddie Outfit inspo | Look is in my bio ❤️](https://www.pinterest.com/pin/476114991868686622/?mt=login)
-
-<div class='twoPanelSpread'>
-  <div class='row'>
-    <div class='panelColumn'>
-      <div class='leftColumn'>
-        <img src="https://longbeach.gov/globalassets/city-news/media-library/images/libraryconstruction_12-17-18_012.jpg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT">
-      </div>
-    </div>
-    <div class='panelColumn'>
-      <div class='rightColumn'>
-        <img src="https://longbeach.gov/globalassets/city-news/media-library/images/libraryconstruction_12-17-18_012.jpg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT"> 
-      </div>
-    </div>
-  </div>
-</div>
-<img src="https://cdn.worldvectorlogo.com/logos/crime-bite.svg" alt="MCGRUFF = ##TAKE_A_BITE_OUTTA_CRIME">
-
-
-[1981 McGruff The Crime Dog "Detroit" TV Commercial](https://www.youtube.com/watch?v=ta05yW8WWrs)
-[McGruff's Guide To Personal Safety (1988 VHS)](https://www.youtube.com/watch?v=p3hu_wvgd1Y)
-[McGruff Don't talk to Strangers PSA 1984](https://www.youtube.com/watch?v=rxLD1uq94sE)
-[Blue Ribbon Panel: McGruff on Dangerous Strangers](https://www.youtube.com/watch?v=EkAwcNkagjU)
-[McGruff on Self-Protection: Preventing Child Abuse and Neglect (1993 VHS)](https://www.youtube.com/watch?v=61u1HAbmMwg)
-[(1986) McGruff's SMART KIDS Album [Cassette Rip]](https://www.youtube.com/watch?v=y4P4plYXKFE)
-[Peppa Pig Jumps in Muddy Puddles and Goes to the Beach 🐷 | Peppa Pig Official Family Kids Cartoon](https://www.youtube.com/watch?v=092T6-AJELs)
-[Teen Assault](https://www.youtube.com/watch?v=Isw_ipGAQ24)
-[Vintage Television Advertisements from the 60's and 70's](https://www.youtube.com/watch?v=0yDccwZiuIA)
-## DEAR_SARTU 
-Here are some tracks you can prep Travis' disillusioned fans to... BurningMan_LA
-[The·Crystal·Method ▶ ·Vegas·(Full Album)](https://www.youtube.com/watch?v=6qh5iA9wnvs)
-[The Chemical Brothers - Dig Your Own Hole (Full Album)](https://www.youtube.com/watch?v=2UafeQIkj5c)
-[The Chemical Brothers 1995 Exit Planet Dust](https://www.youtube.com/watch?v=gdGAGDMxQTg)
-[Chemical Brothers - BBC Radio1 Essential Mix - April 13, 2019](https://www.youtube.com/watch?v=EvfhVKHf1pA)
-[The Chemical Brothers - Live @ Glastonbury 2007 [4k]](https://www.youtube.com/watch?v=rMn0t72BvBc)
-<img src="https://www.seekpng.com/png/detail/373-3730168_the-chemical-brothers-brotherhood-chemical-brothers-png.png">
-
-[The Tibetan Book of Living and Dying. Malditasweet](https://www.youtube.com/watch?v=pPKbxpT7Z0c)
-[RiRi::YOU_KNOE_PEEBs_IN_DIS_ViDEOh_Prepare Your Heart For The Trials Ahead - 2013 Drama JW](https://www.youtube.com/watch?v=0wtqiK30O4k)
-[Old School Church Songs That's Going To Take You Back!](https://www.youtube.com/watch?v=hOOMTjiO5tk)
-[The Followers](https://www.youtube.com/watch?v=OvQ0G7I_HGE)
-[Pennsylvania, Northampton JW Assembly 1967](https://www.youtube.com/watch?v=4R8o4Hq7O9I)
-[Something About the Name Jesus](https://www.youtube.com/watch?v=AYm_NBsZ8P8)
-[The Best In Me](https://www.youtube.com/watch?v=CQt4xBGwaI4)
-[Never Would Have Made It](https://www.youtube.com/watch?v=nqPLhgy4yLc)
-[Man killed by same bullet he used to shoot woman in the neck::A Texas man was fatally injured by a ricocheting bullet he had fired into a woman.](https://www.msn.com/en-us/news/crime/man-killed-by-same-bullet-he-used-to-shoot-woman-in-the-neck/ar-AA10aNLr)
-[Kirk Franklin - I Smile (Official Video) ##DEAR_MUWAH_LUNA__THiS_LiGHTiNG_is_iN_YOUR_GRASP STAGE_STROBE_ON_LINEN_WITH_COLOR_GELS A_RING_LIGHT_UP_TOP_AND_IN_FRONT YOU_CAN_GET_VID_LIKE_THIS_ON_AN_iPHONE](https://www.youtube.com/watch?v=Z8SPwT3nQZ8)
-
-[Telling the Truth - Mary J. Blige](https://www.youtube.com/watch?v=Va3yc7okXQ4)
-
-<img src="https://installmd.com/upload/images/20210703/16253198381381.jpg">
-[How to use the curl command in Linux command line tool and library for transferring data with URLs](https://installmd.com/i/cli/curl)
-[Baltimora - Tarzan Boy (extended original)](https://www.youtube.com/watch?v=gSQ_iJ7aXKQ)
-<img src="https://ductam.info/wp-content/uploads/2018/10/good_curl_logo-2048x783.png">
-<img src="https://i.discogs.com/Gs984BCV01TFnS053AcmBpf7a1v3kkV8jFUTMjhuUVE/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDA0/MjMtMTQxNTkyOTk3/Ny0yMzYwLmpwZWc.jpeg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT">
-[Pink Floyd Another Brick in the Wall parts 1, 2 and 3 :: We don't need no education
-We don't need no thought control
-No dark sarcasm in the classroom
-Teacher, leave them kids alone
-Hey, teacher, leave them kids alone
-All in all it's just another brick in the wall
-All in all you're just another brick in the wall](https://www.youtube.com/watch?v=pRw0Y6SzOtI)
-<div class='twoPanelSpread'>
-  <div class='row'>
-    <div class='panelColumn'>
-      <div class='leftColumn'>
-        <img src="https://i.discogs.com/Gs984BCV01TFnS053AcmBpf7a1v3kkV8jFUTMjhuUVE/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDA0/MjMtMTQxNTkyOTk3/Ny0yMzYwLmpwZWc.jpeg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT">
-      </div>
-    </div>
-    <div class='panelColumn'>
-      <div class='rightColumn'>
-        <img src="https://i.discogs.com/Gs984BCV01TFnS053AcmBpf7a1v3kkV8jFUTMjhuUVE/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDA0/MjMtMTQxNTkyOTk3/Ny0yMzYwLmpwZWc.jpeg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT"> 
-      </div>
-    </div>
-  </div>
-</div>
-
-[Tainted Love / Where Did Our Love Go (Extended Version / Medley)](https://www.youtube.com/watch?v=q84psZX6MbA)
-[Bennie And The Jets (Remastered 2014) ELTON_JOHN](https://www.youtube.com/watch?v=ZBUW433Porw)
-[This Is for the Lover in You](https://www.youtube.com/watch?v=Sn_mS9cZUss)
-[Forever My Lady](https://www.youtube.com/watch?v=OVNPFylUzJQ)
-[Come & Talk To Me](https://www.youtube.com/watch?v=8adNpJoiUA4)
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
@@ -903,39 +935,6 @@ All in all you're just another brick in the wall](https://www.youtube.com/watch?
 </div>
 
 [Armageddon It · Def Leppard](https://www.youtube.com/watch?v=GgUnqQbNzoE)
-
-### SUBURBAN_WIFEY_NiGHTMARE
-[KASHDOLL ROBBED IN LA!!!](https://www.youtube.com/watch?v=6s4slL3_jtI)
-# Dear_HAYAT
-## Sartu_got_robbed
-<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/sort/Screenshot%202022-08-01%202.30.18%20AM.png">
-
-[Please watch this video, you can feel her terror.](https://www.youtube.com/watch?v=6s4slL3_jtI) As we both know her parents were murdered during that 80s criminal ass regime in [Dire-Dawa](https://en.wikipedia.org/wiki/Dire_Dawa), earlier this week on the phone she left me inspired to look at the [RealEstate_iN_DiRE_DAWA](https://jiji.com.et/houses-apartments-for-sale). And I feel so helpless shes raped and sodomized to the point I often dont recognize her and Im going mad with lonelyness. As you know we are well known in Alpharetta, Hollywood and Venice's telepath communites as a fully telekinetic Tantric couple thats separated by prostitution. People in hollywood think because she is posted on the internet shes not kidnapped. I work for JPL still and I was taken away from my job because all my women got kidnapped. Including Muna, that derlic ass Cracker SEVER_MSK has ruined her, she is so fucking whitewashed and the children get no contact with me they have all caught so much BLACK_ENTERTAiNMENT_NETWORK_DiCK they dont look the same after all the molestation. Can you talk to DAnielle_Mushonga for us DPSS_iS_CLEARLY_HUMAN_TRAFFiCKiNG_WiTH_DFACS
-[Please watch this video, you can feel her terror.](https://www.youtube.com/watch?v=6s4slL3_jtI) 
-<img src="https://d1dllhfo4523g0.cloudfront.net/87758_20201011-092933_1500x675.jpg" >
-<div class='twoPanelSpread'>
-  <div class='row'>
-    <div class='panelColumn'>
-      <div class='leftColumn'>
-        <img src="https://i.discogs.com/q7JEPdpNa6MhgtRZVF2Lm7q8iXPiiw0SlVp0EoVN8Gc/rs:fit/g:sm/q:90/h:501/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NTcy/MjMtMTQ4NzQ2OTU1/My0zNDk3LmpwZWc.jpeg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT">
-      </div>
-    </div>
-    <div class='panelColumn'>
-      <div class='rightColumn'>
-        <img src="https://i.discogs.com/q7JEPdpNa6MhgtRZVF2Lm7q8iXPiiw0SlVp0EoVN8Gc/rs:fit/g:sm/q:90/h:501/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NTcy/MjMtMTQ4NzQ2OTU1/My0zNDk3LmpwZWc.jpeg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT"> 
-      </div>
-    </div>
-  </div>
-</div>
-
-[Heart - Barracuda](https://www.youtube.com/watch?v=VdOkQ6THDVw)
-[Bruce Springsteen - Dancing In the Dark](https://youtu.be/129kuDCQtHs)
-[Journey - Don't Stop Believin' (Official Audio)](https://youtu.be/1k8craCGpgs)
-[Starship - We Built This City](https://www.youtube.com/watch?v=IDI2WQJyE7I)
-[More Than a Feeling](https://www.youtube.com/watch?v=ufQUxoidxkM)
-[DEAR_ERiKA_MUNA_KELELA_LALiBELA_QUXUBE KAMPiRE JENNiFER, Heather, Sandy, Sartu_Lauren - LiSTEN_TO_Africa_BY_TOTO](https://www.youtube.com/watch?v=FTQbiNvZqaY)
-
-<h2>	(╯°□°)╯︵ ʞooqǝɔɐɟ </h2>
 
 # SARTUs_PROPOSAL_PLAYER
 Dear_SARTU
