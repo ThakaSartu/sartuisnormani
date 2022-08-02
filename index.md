@@ -149,37 +149,22 @@
 </style>
 ## Hole To Another Universe 
 
-<audio preload="metadata">
-        <source src="https://images.metmuseum.org/CRDImages/cl/audio/CLO-17-ENG-472181-1.mp3" type="audio/mp3">
-    </audio>
 
-<audio preload="metadata">
-        <source src="https://images.metmuseum.org/CRDImages/cl/audio/CLO-113-ENG-472181-2.mp3" type="audio/mp3">
-    </audio>
-
+<a href="https://www.kickstarter.com/projects/1400947701/drumpants-an-entire-band-in-your-pocket/description">DrumPants: An Entire Band in your Pocket :: KiCKSTARTER </a>
 
 [HEALTHY_PROGRAMMiNG_MUSiC NIGHT DRIVE - [synthwave - chillwave - retrowave mix]](https://www.youtube.com/watch?v=QAhvvQQurw4) 
 
 [Animal Farm: The Graphic Novel by Odyr (Adaptor, Illustrator), George Orwell](https://www.goodreads.com/book/show/43261020-animal-farm)
 
 <h2> Normani_my_WiFE featuring my wife_Cardi_B::WiLDSiDE </h2>
-<div class="container">
 
-  <!-- 
-Il suffit d'ajouter une div avec la classe "media-player" + la video
-puis créer une instance le MediaPlayer en passant la div.
-Les controls sont ajoutés dynamiquement.
--->
-  <div >
-    <video controls width="100%" >
+  <video controls width="100%" >
      <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/NormaniWildSideOfficialVideoftCardiB.mp4" type="video/mp4">
-    
-     <p>Your user agent does not support the HTML5 Video element.</p>
+
    </video>
   </div>
 
-</div>
-<!-- .container -->
+
 <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/WiLDSiDE_BEHiND_THE_SCENES.PNG" > 
 <a href="https://www.youtube.com/watch?v=FOm8LqH5lz8&t=205s" alt="WHY_THE_SEAMSTRESS_FEELiNG_ON_MY_WIFE_BREAST">Cardi B x Megan Thee Stallion - Inside the WAP (BTS) [Part 1] </a>
 <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/DEAR_KASH_DOLL_MAYBE_WE_SHOULD_LET_OLD_PEOPLE_WITHOUT_GENITAL_CONTACT_DJ.PNG" >
@@ -304,16 +289,6 @@ Sex educator and artist Betty Dodson had been teaching her famous Bodysex worksh
 
 <img src="https://cdn.shopify.com/s/files/1/0105/4542/products/wildstyle-downbythe-7inch-1_1000x1000.jpg?v=1651068862">
 <a href="https://www.kickstarter.com/projects/1400947701/drumpants-an-entire-band-in-your-pocket/description">DrumPants: An Entire Band in your Pocket :: KiCKSTARTER </a>
-<video width="80%" controls>
-  <source src="https://v2.kickstarter.com/1658743300-%2B92NQeoHk4ENUm6ih6yt%2BjOoDifb6I%2BJax2SUZOGei8%3D/projects/765297/video-320064-h264_high.mp4" type="video/mp4">
-  
-  Your browser does not support HTML video.
-</video>
-
-<p>
-Video courtesy of 
-<a href="https://www.bigbuckbunny.org/" target="_blank">Big Buck Bunny</a>.
-</p>
 
 [Compiz-like effects in Enlightenment 17](https://www.youtube.com/watch?v=TQPsCDJUti0) 
 I want a Macintosh for a lot of SHIT!! BUT I think we will do better as 
