@@ -6,13 +6,6 @@ body {
 }
 
 
-h1,
-h2 {
-  font-family: "Open Sans", Helvetica, sans-serif;
-  text-transform: uppercase;
- 
-}
-
 h1 {
   font-size: 2.6em;
   margin: 2em 0 0.6em;
@@ -22,7 +15,7 @@ h1 {
 
 h2 {
   font-size: 1.5em;
-  break-after: avoid-column; // doesn't work as it should
+  
 }
 
 h2,
@@ -33,8 +26,7 @@ h3 {
     url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-gray.gif)
     center repeat;
   font-family: Monaco, "Helvetica Neue", "Bitstream Vera Sans Mono", sans-serif,
-    "Lucida Console", Terminal, monospace, BlinkMacSystemFont, "Segoe UI",
-    Roboto, Oxygen-Sans, Ubuntu, Cantarell;
+    "Lucida Console", Terminal;
   font-weight: 900;
   padding: 0px;
   margin: 0px;
@@ -238,7 +230,9 @@ a:hover {
 
 </style>
 ## Hole To Another Universe
-
+<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fmrconcept%2Fdj-rectangle-vinyl-combat-vol1%2F" frameborder="0" ></iframe>
+<img src="https://i.pinimg.com/originals/03/e4/89/03e489323702c40bc9dcb3fa2e0f6e10.gif" alt="Avatar" class="image">
+<iframe width="100%" height="400" src="https://www.mixcloud.com/widget/iframe/?feed=%2Fmrconcept%2Fthe-world-famous-beat-junkies-vol1-dj-babu-1997%2F" frameborder="0" ></iframe>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/8583021&color=%23b89c5c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
 <div class="panel4-container">
