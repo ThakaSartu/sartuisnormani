@@ -148,6 +148,7 @@
 
 </style>
 ## Hole To Another Universe 
+[Bon Jovi - You Give Love A Bad Name (Official Music Video)](https://www.youtube.com/watch?v=KrZHPOeOxQQ)
 [No More Distractions | Joel Osteen](https://www.youtube.com/watch?v=_QcuQ-ztfhY)
 [How to Write PowerFULL Petitions- They DO Work!!!](https://www.youtube.com/watch?v=s5WDnZeL5Os)
 [Powerfull Ruqyah Syariah | Against Black Magic, Sihir, Jinns, Evil& Sleeping Problem](https://www.youtube.com/watch?v=KZ2fI9zCGLE)
