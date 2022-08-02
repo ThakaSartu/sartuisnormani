@@ -47,7 +47,21 @@ transform: scale(1.05);
 }
 
 /* TEXT_EFFECTS */
+p {
+   padding: 5px;
+  display: block;
+color: white;
+  font-size: 1.5rem;
+background: rgb(0,0,0);
+background: linear-gradient(90deg, rgba(0,0,0,0.9979578267477204) 8%, rgba(153,153,153,0.5085961246200608) 46%);
+  letter-spacing: 1px;
+  word-spacing: 1.5px;
+  font-weight: 500;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
 
+}
 h1 {
   font-size: 2.6em;
   margin: 2em 0 0.6em;
@@ -56,7 +70,7 @@ h1 {
 }
 
 h2 {
-  font-size: 1.5em;
+  font-size: 2em;
   
 }
 
