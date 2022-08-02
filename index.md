@@ -149,6 +149,11 @@
 </style>
 ## Hole To Another Universe 
 
+[McGruff's Guide To Personal Safety (1988 VHS)](https://www.youtube.com/watch?v=p3hu_wvgd1Y)
+[McGruff Don't talk to Strangers PSA 1984](https://www.youtube.com/watch?v=rxLD1uq94sE)
+[Blue Ribbon Panel: McGruff on Dangerous Strangers](https://www.youtube.com/watch?v=EkAwcNkagjU)
+[McGruff on Self-Protection: Preventing Child Abuse and Neglect (1993 VHS)](https://www.youtube.com/watch?v=61u1HAbmMwg)
+[(1986) McGruff's SMART KIDS Album [Cassette Rip]](https://www.youtube.com/watch?v=y4P4plYXKFE)
 
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--NsJ312FL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://res.cloudinary.com/practicaldev/image/fetch/s---Xg28U2u--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000/https://dev-to-uploads.s3.amazonaws.com/i/q7uy4yxekcljpr70p2xk.png">
 
@@ -247,6 +252,7 @@ The video – which shows a woman exposing herself – outside Santa Monica stre
 But McLaughlin says city leaders are aware.
 "They say that it is a misdemeanor and unless they witness it themselves, there is nothing they can do about it," she said. The video was uploaded to a porn site that pays per click. The face of the man in the video is never shown. CBS Los Angeles has chosen to not release the identity of the female in the clip, but a search shows that she has appeared in other adult films.
 "We have to have laws to stop them from doing things that puts children in harm's way," said McLaughlin. [##TMZ_WHATS_WRONG_WiTH_THiS_LiBRARY](https://www.bing.com/search?q=porn+library+santa+monica&PC=U316&FORM=CHROMN) 
+
 ## WHY_iYT_AiYNT_FiYXED?!?!
 ## ITS_A_MISDEMENOR_BUT_WHAT_ABOUT_WHEN
 ### She is denied food for a week and her first meal is semen as 
