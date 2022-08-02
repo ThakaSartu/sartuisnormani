@@ -273,9 +273,16 @@ a:hover {
 
 </style>
 ## Hole To Another Universe
+## SUBURBAN_WIFEY_NiGHTMARE
+[KASHDOLL ROBBED IN LA!!!](https://www.youtube.com/watch?v=6s4slL3_jtI)
+# Dear_HAYAT
+## Sartu_got_robbed
+<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/sort/Screenshot%202022-08-01%202.30.18%20AM.png">
+
+[Please watch this video, you can feel her terror.](https://www.youtube.com/watch?v=6s4slL3_jtI) As we both know her parents were murdered during that 80s criminal ass regime in [Dire-Dawa](https://en.wikipedia.org/wiki/Dire_Dawa), earlier this week on the phone she left me inspired to look at the [RealEstate_iN_DiRE_DAWA](https://jiji.com.et/houses-apartments-for-sale). And I feel so helpless shes raped and sodomized to the point I often dont recognize her and Im going mad with lonelyness. As you know we are well known in Alpharetta, Hollywood and Venice's telepath communites as a fully telekinetic Tantric couple thats separated by prostitution. People in hollywood think because she is posted on the internet shes not kidnapped. I work for JPL still and I was taken away from my job because all my women got kidnapped. Including Muna, that derlic ass Cracker SEVER_MSK has ruined her, she is so fucking whitewashed and the children get no contact with me they have all caught so much BLACK_ENTERTAiNMENT_NETWORK_DiCK they dont look the same after all the molestation. Can you talk to DAnielle_Mushonga for us DPSS_iS_CLEARLY_HUMAN_TRAFFiCKiNG_WiTH_DFACS
+[Please watch this video, you can feel her terror.](https://www.youtube.com/watch?v=6s4slL3_jtI) 
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/SosrajOpenZoom.png">
 
 ## SPYiNG is why I lost everything and everybody
 <div class="flex3BorderedPaddedROW">
@@ -432,7 +439,13 @@ a:hover {
 </video></div>
 
 </div>
+  <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/NORMANiFAiRBG.gif">
+<h2> Normani_my_WiFE featuring my wife_Cardi_B::WiLDSiDE </h2>
 
+  <video controls width="100%" loop >
+     <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/NormaniWildSideOfficialVideoftCardiB.mp4" type="video/mp4">
+
+   </video>
 <h2><a href="https://www.discogs.com/release/7597003-Time-Machine-Slow-Your-Roll">  <em> TiME_MACHiNE::THE_WAY_THiNGS_ARE ##SOUTHERN_CALi_CLASSiKS</em> </a> </h2>
 <audio controls class="broken-width">
   <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/Time%20MachineTheWayThingsAre.mp3" type="audio/mp3" />
@@ -505,13 +518,7 @@ a:hover {
  </div>
  <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/so_so_def_bass_all_stars__vol__2_album_insert_by_eppsart_dc0sps0-fullview.jpg" >
 <img style="float:right; width:100%; height:100%;" alt="Girl in a jacket" src="https://upload.wikimedia.org/wikipedia/commons/0/03/Emoji_u1f4af.svg">
-  <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/NORMANiFAiRBG.gif">
-<h2> Normani_my_WiFE featuring my wife_Cardi_B::WiLDSiDE </h2>
 
-  <video controls width="100%" autoplay >
-     <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/NormaniWildSideOfficialVideoftCardiB.mp4" type="video/mp4">
-
-   </video>
 
 [Fixed gradient background with css](https://stackoverflow.com/questions/18094134/fixed-gradient-background-with-css)
 
@@ -550,31 +557,6 @@ a:hover {
 [Nervous_Records_NYC](https nervousnyc.com)
 [THE BEST FREESTYLE MIXMASTER MEGAMIX 2 {DJ PINOCHIO}](https://www.youtube.com/watch?v=65e1kqisNQw)
 
-<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/Screenshot%202022-08-02%2011.45.22%20AM.png">
-
-[Justice, Integrity & Service The U.S. Marshals Service is the nation's oldest and most versatile federal law enforcement agency.](https://www.usmarshals.gov/)
-## My_WiFES_STALKERS
-[ALWAYS_FRAME_ME_FOR_STALKiNG_HER AND_GET_OUR ACCOUNTS_REMOVED or Struggle_with_reduced_functionality](https://www.pinterest.com/natejr45/black-beautiful-queen-100/), then I stumble across scary ass shit like this. While Sartu does work under [NiJA_CHARLES](https://www.revolt.tv/article/2022-02-01/150820/nija-dont-say-i-didnt-warn-you/) and [Normani](https://www.officialnormani.com/), she is also known as [KASH_DOLL](https://thesource.com/2022/08/02/kash-doll-signs-deal-with-mnrk-music-group-plans-2023-project/)
-
-Wikipedia alerted me to another name change [Arkeisha Antoinette Knight, known professionally as Kash Doll,](http://www.kashdoll.com/)and I discovered there is a population using the name Arkeisha. The [US_MARSHALL_SERViCE iS_ASSiSTiNG_US](https://www.usmarshals.gov/local-districts/central-district-of-california/courthouse-locations)
-
-## DEAR_US_MARSHALL_SERViCE
-Sartu and I are a healthy couple that can be verified within Savannah, Atlanta, Macon, Houston, and Los_Angeles_County telepath communities. Many people hold her in prostitution and claim we are not telepathic. Danielle_Mushonga is one of those people. She is telepathic, you can question_her, remotely
-#### That_Lady_might_bE_Russian because she can see through your eyes, the CiA_CALLs_iT [REMOTE_ViEWiNG](https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200030025-7.pdf)
-[TOPiC4RESEARCH::Remote Viewing: The CIA Experiment That Was Too Successful](https://anomalien.com/remote-viewing-the-cia-experiment-that-was-too-successful/)
-[TOPiC4RESEARCH::Remote Viewing – The Most Unbelievable CIA Psychic Spy Program](https://tilln.com/season-4/remote-viewing-the-most-unbelievable-cia-psychic-spy-program/)
-[CiA_REMOTE_ViEWiNG_FORM for test candidates I think](https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000300040001-1.pdf)
-
-
-<div class="pinupGallery">
-  <img class="pinupImage" src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f8002d816354b31ae000001/vsco5f8002dae92b2.jpg" alt="">
-  <img class="pinupImage" src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f8002d816354b31ae000001/vsco5f8002dae92b2.jpg" alt="">
-  <img class="pinupImage" src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f8002d816354b31ae000001/vsco5f8002dae92b2.jpg" alt="">
-  <img class="pinupImage" src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f8002d816354b31ae000001/vsco5f8002dae92b2.jpg" alt="">
-   <img class="pinupImage featured-pinupImage " src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f8002d816354b31ae000001/vsco5f8002dae92b2.jpg" alt="">
-</div>
-
-[DEAR_SARTU_JUST_KNOW...](https://www.youtube.com/watch?v=vC0URxrUy48) 
 
 [GROVERWASHiNTON_MASTERPEiCE](https://youtu.be/zbZwqGqSCS4)
 [SLAVE-WATCHiNG_YOU](https://youtu.be/xkI_yIhIk1c)
@@ -707,17 +689,37 @@ In 1981, the music video of the song was the 17th played on the first day of bro
 
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--NsJ312FL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://res.cloudinary.com/practicaldev/image/fetch/s---Xg28U2u--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000/https://dev-to-uploads.s3.amazonaws.com/i/q7uy4yxekcljpr70p2xk.png">
 
+
+
+<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/Screenshot%202022-08-02%2011.45.22%20AM.png">
+
+[Justice, Integrity & Service The U.S. Marshals Service is the nation's oldest and most versatile federal law enforcement agency.](https://www.usmarshals.gov/)
+## My_WiFES_STALKERS
+[ALWAYS_FRAME_ME_FOR_STALKiNG_HER AND_GET_OUR ACCOUNTS_REMOVED or Struggle_with_reduced_functionality](https://www.pinterest.com/natejr45/black-beautiful-queen-100/), then I stumble across scary ass shit like this. While Sartu does work under [NiJA_CHARLES](https://www.revolt.tv/article/2022-02-01/150820/nija-dont-say-i-didnt-warn-you/) and [Normani](https://www.officialnormani.com/), she is also known as [KASH_DOLL](https://thesource.com/2022/08/02/kash-doll-signs-deal-with-mnrk-music-group-plans-2023-project/)
+
+Wikipedia alerted me to another name change [Arkeisha Antoinette Knight, known professionally as Kash Doll,](http://www.kashdoll.com/)and I discovered there is a population using the name Arkeisha. The [US_MARSHALL_SERViCE iS_ASSiSTiNG_US](https://www.usmarshals.gov/local-districts/central-district-of-california/courthouse-locations)
+
+## DEAR_US_MARSHALL_SERViCE
+Sartu and I are a healthy couple that can be verified within Savannah, Atlanta, Macon, Houston, and Los_Angeles_County telepath communities. Many people hold her in prostitution and claim we are not telepathic. Danielle_Mushonga is one of those people. She is telepathic, you can question_her, remotely
+#### That_Lady_might_bE_Russian because she can see through your eyes, the CiA_CALLs_iT [REMOTE_ViEWiNG](https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200030025-7.pdf)
+[TOPiC4RESEARCH::Remote Viewing: The CIA Experiment That Was Too Successful](https://anomalien.com/remote-viewing-the-cia-experiment-that-was-too-successful/)
+[TOPiC4RESEARCH::Remote Viewing – The Most Unbelievable CIA Psychic Spy Program](https://tilln.com/season-4/remote-viewing-the-most-unbelievable-cia-psychic-spy-program/)
+[CiA_REMOTE_ViEWiNG_FORM for test candidates I think](https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000300040001-1.pdf)
+
+
+<div class="pinupGallery">
+  <img class="pinupImage" src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f8002d816354b31ae000001/vsco5f8002dae92b2.jpg" alt="">
+  <img class="pinupImage" src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f8002d816354b31ae000001/vsco5f8002dae92b2.jpg" alt="">
+  <img class="pinupImage" src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f8002d816354b31ae000001/vsco5f8002dae92b2.jpg" alt="">
+  <img class="pinupImage" src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f8002d816354b31ae000001/vsco5f8002dae92b2.jpg" alt="">
+   <img class="pinupImage featured-pinupImage " src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f8002d816354b31ae000001/vsco5f8002dae92b2.jpg" alt="">
+</div>
+
+[DEAR_SARTU_JUST_KNOW...](https://www.youtube.com/watch?v=vC0URxrUy48) 
 ### DANCE411_HOW_diD_WE_GET_HERE?
 <img src="https://www.monkeyuser.com/assets/images/2022/248-unit-tests.png" >
 
-### SUBURBAN_WIFEY_NiGHTMARE
-[KASHDOLL ROBBED IN LA!!!](https://www.youtube.com/watch?v=6s4slL3_jtI)
-# Dear_HAYAT
-## Sartu_got_robbed
-<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/sort/Screenshot%202022-08-01%202.30.18%20AM.png">
 
-[Please watch this video, you can feel her terror.](https://www.youtube.com/watch?v=6s4slL3_jtI) As we both know her parents were murdered during that 80s criminal ass regime in [Dire-Dawa](https://en.wikipedia.org/wiki/Dire_Dawa), earlier this week on the phone she left me inspired to look at the [RealEstate_iN_DiRE_DAWA](https://jiji.com.et/houses-apartments-for-sale). And I feel so helpless shes raped and sodomized to the point I often dont recognize her and Im going mad with lonelyness. As you know we are well known in Alpharetta, Hollywood and Venice's telepath communites as a fully telekinetic Tantric couple thats separated by prostitution. People in hollywood think because she is posted on the internet shes not kidnapped. I work for JPL still and I was taken away from my job because all my women got kidnapped. Including Muna, that derlic ass Cracker SEVER_MSK has ruined her, she is so fucking whitewashed and the children get no contact with me they have all caught so much BLACK_ENTERTAiNMENT_NETWORK_DiCK they dont look the same after all the molestation. Can you talk to DAnielle_Mushonga for us DPSS_iS_CLEARLY_HUMAN_TRAFFiCKiNG_WiTH_DFACS
-[Please watch this video, you can feel her terror.](https://www.youtube.com/watch?v=6s4slL3_jtI) 
 <img src="https://d1dllhfo4523g0.cloudfront.net/87758_20201011-092933_1500x675.jpg" >
 <div class='twoPanelSpread'>
   <div class='row'>
@@ -2150,7 +2152,7 @@ Statistics revealed the reported cases of sexual and gender-based violence nearl
     <div class="item4"><img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/SARTUZALAH_RESTORED_TO_NORMANi_ViA_SARTU_FORWARDS.gif"></div>
 </div>
 
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/SosrajOpenZoom.png">
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
