@@ -149,7 +149,29 @@
 </style>
 ## Hole To Another Universe 
 
+[LiL_FERG::RANGE_ROVER::ALPHAREACiA_CLASSiCK](https://soundcloud.com/user-557982797/lil-ferg-range-rover?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+[SoundCloud Integrations](https://slashdot.org/software/p/SoundCloud/integrations)
+## Hi Sartu RE:ONLiNE_ViDEOS
+Well I got PiP picture in picture working just like youtube on [MiCROSOFT_EDGE](https://www.microsoft.com/en-us/edge/features). Just wait, at this point we are not going to be held back by youtube, and soundcloud is soundcloud, so lets do this. Its interesting to me the way your group uses soundcloud as like a versioning system like git where people are collaborating and leaving evidence, 
+- This is where i am in my life
+- This is who I am working with
+- This is where I know I am going to be
+A lot of affirmation style posting even among the guys. Im an early soundcloud adopter from my days at Georgia_Tech_Research_iNSTiTUTE. I liked scrobbling on [Last.fm](https://www.last.fm/) so that got most of my attention because I could influence my radio plays by what was in my library by simply using [RhythmBox on Linux](http://www.rhythmbox.org/) and hitting a like type button. It gave me a lot of music I cant imagine ever have gotten. Here on soundcloud Im just making playlists and flirting
 
+[Rhythmbox - A Complete Guide - LinuxForDevices](https://www.linuxfordevices.com/tutorials/linux/rhythmbox)
+```
+Rhythmbox is a great application, especially for beginners, you can link most if not all of your online music accounts, stream directly from your SoundCloud server, listen to podcasts, and well, local media playback is already there. Settings and menus are easy to use and understand. Hopefully, you will find this application useful.
+```
+
+<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/screenshots/Screenshot%202022-08-01%206.38.41%20PM.png">
+
+
+#### I wonder if this was connected to the prostitution takeover of Social_Media? Other than Muni's faked cancer death that left me victim to predator Danielle_Mushonga it was actually hard all of a sudden to get a job, and Sartu got kidnapped following Erika.
+[##SLASHDOT::2017::SoundCloud Lays Off Nearly Half Its Staff, Closes Two Offices](https://entertainment.slashdot.org/story/17/07/06/2222252/soundcloud-lays-off-nearly-half-its-staff-closes-two-offices)
+<img src="https://i.ytimg.com/vi/mmkdRG7MQm4/maxresdefault.jpg">
+
+[Ultimate WipEout Mix [All songs]](https://soundcloud.com/insightsaudioartgallery/ultimate-wipeout?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+[Wipeout 2097 - Original Soundtrack (1996)](https://youtu.be/mmkdRG7MQm4)
 <a href="https://www.kickstarter.com/projects/1400947701/drumpants-an-entire-band-in-your-pocket/description">DrumPants: An Entire Band in your Pocket :: KiCKSTARTER </a>
 
 [HEALTHY_PROGRAMMiNG_MUSiC NIGHT DRIVE - [synthwave - chillwave - retrowave mix]](https://www.youtube.com/watch?v=QAhvvQQurw4) 
