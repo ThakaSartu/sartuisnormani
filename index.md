@@ -5,7 +5,12 @@ body {
   background-attachment: fixed;
 	
 }
-
+iframe {
+  margin: 0px;
+  padding: 0px;
+  background-image: url("https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/bd_iFRAME_HOLDiN_iMAGE.jpg");
+  border: none;
+}
 
 h1 {
   font-size: 2.6em;
@@ -37,6 +42,7 @@ h3 {
   text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff,
     0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
 }
+
 
 a:hover {
   color: #c9ff23;
@@ -252,8 +258,7 @@ a:hover {
 <img src="https://typedifferent.com/fonts/bd_geminis/bd_geminis_example2.jpg" >
 <img src="https://typedifferent.com/fonts/bd_geminis/bd_geminis_example1.jpg" >
 
-https://typedifferent.com/fonts/bd_geminis/bd_geminis_example2.jpg
-https://typedifferent.com/fonts/bd_geminis/bd_geminis_example2.jpg
+
 ## ANiMAL_FARM##ANiMATED##1954 
 [Animal Farm 1954](https://www.youtube.com/watch?v=XXkicQRl6vg)
 
@@ -262,19 +267,12 @@ https://typedifferent.com/fonts/bd_geminis/bd_geminis_example2.jpg
 
 
 [Nervous_Records classic mix](https://www.youtube.com/watch?v=h_MnOwMfDEQ)  
-
 [Kerri Chandler - BBC Radio 1 Dance Presents Nervous Records 11 09 2021](https://www.youtube.com/watch?v=BqpRYEk1fpA)
-
 [90 S OLD SCHOOL DEEP HOUSE MIX NERVOUS RECORDS FREE DOWNLOAD](https://www.youtube.com/watch?v=KSh1PQQL2sQ)
-
 [DJ Vex Presents Nervous Records 90's N.Y. House Jam (Part 1)](https://www.youtube.com/watch?v=oIbhyQKqdmk)
-
 [DJ Vex - Masters At Work: Old School NYC House Jam [1989/1993]](https://www.youtube.com/watch?v=lugSeWt50wY)
-
 [Frankski V103 FM Baltimore, Maryland, July 1987 (Highlights)](https://www.youtube.com/watch?v=NX7zS_GRX14)
-
 [Nervous_Records_NYC](https nervousnyc.com)
-
 [THE BEST FREESTYLE MIXMASTER MEGAMIX 2 {DJ PINOCHIO}](https://www.youtube.com/watch?v=65e1kqisNQw)
 
 <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/Screenshot%202022-08-02%2011.45.22%20AM.png">
