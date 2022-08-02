@@ -149,6 +149,100 @@
 </style>
 ## Hole To Another Universe 
 
+## devhumor_dOt_cOm being harrased as well
+<img src="https://devhumor.com/content/uploads/images/October2021/first_day.png">
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://devhumor.com/content/uploads/images/February2022/developer_curse.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://devhumor.com/content/uploads/images/February2022/developer_curse.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://devhumor.com/content/uploads/images/February2022/projects.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://devhumor.com/content/uploads/images/February2022/projects.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://devhumor.com/content/uploads/images/March2022/repetitive_task.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://devhumor.com/content/uploads/images/March2022/repetitive_task.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://devhumor.com/content/uploads/images/March2022/tech_support.png" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://devhumor.com/content/uploads/images/March2022/tech_support.png" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://devhumor.com/content/uploads/images/March2022/junior_dev.png" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://devhumor.com/content/uploads/images/March2022/junior_dev.png" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://devhumor.com/content/uploads/images/June2022/learning_programming.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://devhumor.com/content/uploads/images/June2022/learning_programming.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
 <img src="https://th.bing.com/th/id/R.e59ea229277c9f11793bbced0b4abbfc?rik=FrD4RPXsa6jhTQ&pid=ImgRaw&r=0">
 <img src="https://devhumor.com/content/uploads/images/June2022/linkedin.jpg">
 
