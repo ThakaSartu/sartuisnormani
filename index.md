@@ -275,12 +275,30 @@ a:hover {
 ## Hole To Another Universe
 
 
+
+## SPYiNG is why I lost everything and everybody
+<div class="flex3BorderedPaddedROW">
+  <div class="item1">
+    <a href="https://youtu.be/UE6zfOuYfVI"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/%C3%89douard-Henri_Avril_%284%29.jpg" alt="MONiCA_KNOWS_MUNA_AND_##WE_ALL_NEED_FREEDM_FROM_PROSTiTUTION"> </a>
+  </div>
+  <div class="item2">
+    <a href="https://youtu.be/UE6zfOuYfVI"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/%C3%89douard-Henri_Avril_%284%29.jpg" alt="MONiCA_KNOWS_MUNA_AND_##WE_ALL_NEED_FREEDM_FROM_PROSTiTUTION"> </a>
+  </div>
+  <div class="item3">
+    <a href="https://youtu.be/UE6zfOuYfVI"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/%C3%89douard-Henri_Avril_%284%29.jpg" alt="MONiCA_KNOWS_MUNA_AND_##WE_ALL_NEED_FREEDM_FROM_PROSTiTUTION"> </a>
+  </div>
+</div>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Vrijend_paar_naast_kamerscherm-Rijksmuseum_RP-P-2006-272.jpeg">
 <h2><a href="https://www.youtube.com/watch?v=IiTE-Eyx18A">  <em> DJ_SHADOW::BUiLDiNG STEAM FROM A GRAiN_OF_SALT::ENTRODUCiNG ##BREAKBEAT_CLASSiKS</em> </a> </h2>
 <audio controls class="broken-width">
   <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/audio/DJ_JOSH_SHADOW_CAN_WE_USE_THIS_ON_OUR_DEMO_FASHiON_BLOG_COMMERCiAL.mp3" />
 
   Your browser does not support the <code>audio</code> element.
 </audio>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Michael_Zichy_-_Liebe.jpg">
+
+
 
 <div class="flex3BorderedPaddedROW">
   <div class="item1">
