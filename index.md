@@ -148,6 +148,7 @@
 
 </style>
 ## Hole To Another Universe
+["Burnin' for You" Blue Öyster Cult 1981 HQ](https://www.youtube.com/watch?v=KQSkjl6oOF0)
 [More Than a Feeling · Boston](https://www.youtube.com/watch?v=ufQUxoidxkM)
 "Keep On Loving You" is a soft rock power ballad written by Kevin Cronin and performed by American rock band REO Speedwagon. It features the lead guitar work of the late Gary Richrath. The song first appeared on REO Speedwagon's 1980 album Hi Infidelity. 
 
