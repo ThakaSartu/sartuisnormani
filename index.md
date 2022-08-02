@@ -1,4 +1,102 @@
-<
+<script type="text/javascript">
+
+// Possible improvements:
+// - Change timeline and volume slider into input sliders, reskinned
+// - Change into Vue or React component
+// - Be able to grab a custom title instead of "Music Song"
+// - Hover over sliders to see preview of timestamp/volume change
+
+const audioPlayer = document.querySelector(".audio-player");
+const audio = new Audio(
+  "https://ia800905.us.archive.org/19/items/FREE_background_music_dhalius/backsound.mp3"
+);
+//credit for song: Adrian kreativaweb@gmail.com
+
+console.dir(audio);
+
+audio.addEventListener(
+  "loadeddata",
+  () => {
+    audioPlayer.querySelector(".time .length").textContent = getTimeCodeFromNum(
+      audio.duration
+    );
+    audio.volume = .75;
+  },
+  false
+);
+
+//click on timeline to skip around
+const timeline = audioPlayer.querySelector(".timeline");
+timeline.addEventListener("click", e => {
+  const timelineWidth = window.getComputedStyle(timeline).width;
+  const timeToSeek = e.offsetX / parseInt(timelineWidth) * audio.duration;
+  audio.currentTime = timeToSeek;
+}, false);
+
+//click volume slider to change volume
+const volumeSlider = audioPlayer.querySelector(".controls .volume-slider");
+volumeSlider.addEventListener('click', e => {
+  const sliderWidth = window.getComputedStyle(volumeSlider).width;
+  const newVolume = e.offsetX / parseInt(sliderWidth);
+  audio.volume = newVolume;
+  audioPlayer.querySelector(".controls .volume-percentage").style.width = newVolume * 100 + '%';
+}, false)
+
+//check audio percentage and update time accordingly
+setInterval(() => {
+  const progressBar = audioPlayer.querySelector(".progress");
+  progressBar.style.width = audio.currentTime / audio.duration * 100 + "%";
+  audioPlayer.querySelector(".time .current").textContent = getTimeCodeFromNum(
+    audio.currentTime
+  );
+}, 500);
+
+//toggle between playing and pausing on button click
+const playBtn = audioPlayer.querySelector(".controls .toggle-play");
+playBtn.addEventListener(
+  "click",
+  () => {
+    if (audio.paused) {
+      playBtn.classList.remove("play");
+      playBtn.classList.add("pause");
+      audio.play();
+    } else {
+      playBtn.classList.remove("pause");
+      playBtn.classList.add("play");
+      audio.pause();
+    }
+  },
+  false
+);
+
+audioPlayer.querySelector(".volume-button").addEventListener("click", () => {
+  const volumeEl = audioPlayer.querySelector(".volume-container .volume");
+  audio.muted = !audio.muted;
+  if (audio.muted) {
+    volumeEl.classList.remove("icono-volumeMedium");
+    volumeEl.classList.add("icono-volumeMute");
+  } else {
+    volumeEl.classList.add("icono-volumeMedium");
+    volumeEl.classList.remove("icono-volumeMute");
+  }
+});
+
+//turn 128 seconds into 2:08
+function getTimeCodeFromNum(num) {
+  let seconds = parseInt(num);
+  let minutes = parseInt(seconds / 60);
+  seconds -= minutes * 60;
+  const hours = parseInt(minutes / 60);
+  minutes -= hours * 60;
+
+  if (hours === 0) return `${minutes}:${String(seconds % 60).padStart(2, 0)}`;
+  return `${String(hours).padStart(2, 0)}:${minutes}:${String(
+    seconds % 60
+  ).padStart(2, 0)}`;
+}
+
+
+</script>
 
 <script type="text/javascript">
    /*
@@ -385,6 +483,7 @@
 </script>	
 
 <style>
+
   
  img {
   padding: 0px;
@@ -399,59 +498,129 @@
 
 
 
-
 .audio-player {
-  background: white;
-  border: 1px solid lighten(#acacac, 20%);
-  width: 50vw;
-  text-align: center;
-  display: flex;
-  flex-flow: row;
-  margin: 4rem 0 4rem 0;
-  .album-image {
-    min-height: 100px;
-    width: 110px;
-    background-size: cover;
-  }
-  .player-controls {
-    align-items: center;
-    justify-content: center;
-    margin-top: 2.5rem;
-    flex: 3;
-    progress {
-      width: 90%;
-    }
-    progress[value] {
-      -webkit-appearance: none;
-      appearance: none;
-      background-color: white;
-      color: blue;
-      height: 5px;
-    }
-    progress[value]::-webkit-progress-bar {
-      background-color: white;
-      border-radius: 2px;
-      border: 1px solid lighten(#acacac, 20%);
-      color: blue;
-    }
-    progress::-webkit-progress-value {
-      background-color: blue;
-    }
-    p {
-      font-size: 1.6rem;
+  height: 50px;
+  width: 350px;
+  background: #444;
+  box-shadow: 0 0 20px 0 #000a;
+
+  font-family: arial;
+  color: white;
+  font-size: 0.75em;
+  overflow: hidden;
+
+  display: grid;
+  grid-template-rows: 6px auto;
+  .timeline {
+    background: white;
+    width: 100%;
+    position: relative;
+    cursor: pointer;
+    box-shadow: 0 2px 10px 0 #0008;
+    .progress {
+      background: coral;
+      width: 0%;
+      height: 100%;
+      transition: 0.25s;
     }
   }
-  #play-btn {
-    background-image: url('https://cdn.fastly.picmonkey.com/content4/previews/arrows_2/arrows_2_44_550.png');
-    background-size: cover;
-    width: 75px;
-    height: 75px;
-    margin: 2rem 0 2rem 2rem;
-    &.pause {
-      background-image: url('https://img.icons8.com/ios/452/circled-pause.png');
+  .controls {
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+    padding: 0 20px;
+
+    > * {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .toggle-play {
+      &.play {
+        cursor: pointer;
+        position: relative;
+        left: 0;
+        height: 0;
+        width: 0;
+        border: 7px solid #0000;
+        border-left: 13px solid white;
+        &:hover {
+          transform: scale(1.1);
+        }
+      }
+      &.pause {
+        height: 15px;
+        width: 20px;
+        cursor: pointer;
+        position: relative;
+        &:before {
+          position: absolute;
+          top: 0;
+          left: 0px;
+          background: white;
+          content: "";
+          height: 15px;
+          width: 3px;
+        }
+        &:after {
+          position: absolute;
+          top: 0;
+          right: 8px;
+          background: white;
+          content: "";
+          height: 15px;
+          width: 3px;
+        }
+        &:hover {
+          transform: scale(1.1);
+        }
+      }
+    }
+    .time {
+      display: flex;
+
+      > * {
+        padding: 2px;
+      }
+    }
+    .volume-container {
+      cursor: pointer;
+      .volume-button {
+        height: 26px;
+        display: flex;
+        align-items: center;
+        .volume {
+          transform: scale(0.7);
+        }
+      }
+      
+      position: relative;
+      z-index: 2;
+      .volume-slider {
+        position: absolute;
+        left: -3px; top: 15px;
+        z-index: -1;
+        width: 0;
+        height: 15px;
+        background: white;
+        box-shadow: 0 0 20px #000a;
+        transition: .25s;
+        .volume-percentage {
+          background: coral;
+          height: 100%;
+          width: 75%;
+        }
+      }
+      &:hover {
+        .volume-slider {
+          left: -123px;
+          width: 120px;
+        }
+      }
     }
   }
 }
+
 /* ##TWO_PANEL_LAYOUT_ADDED_7_28_2022_FOR_SPLiT_SCREEN_POSTS */  
 /* ##TWO_PANEL_LAYOUT_ADDED_7_28_2022_FOR_SPLiT_SCREEN_POSTS */
   .twoPanelSpread {
@@ -590,9 +759,39 @@
 
 </style>
 ## Hole To Another Universe 
+<audio controls>
+  <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/Time%20MachineTheWayThingsAre.mp3"  type="audio/mp3">
+</audio> 
+<div style="width: 50px; height: 50px;"></div>
+<div class="audio-player">
+  <div class="timeline">
+    <div class="progress"></div>
+  </div>
+  <div class="controls">
+    <div class="play-container">
+      <div class="toggle-play play">
+    </div>
+    </div>
+    <div class="time">
+      <div class="current">0:00</div>
+      <div class="divider">/</div>
+      <div class="length"></div>
+    </div>
+    <div class="name">Music Song</div>
+<!--     credit for icon to https://saeedalipoor.github.io/icono/ -->
+    <div class="volume-container">
+      <div class="volume-button">
+        <div class="volume icono-volumeMedium"></div>
+      </div>
+      
+      <div class="volume-slider">
+        <div class="volume-percentage"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
 [HEALTHY_PROGRAMMiNG_MUSiC NIGHT DRIVE - [synthwave - chillwave - retrowave mix]](https://www.youtube.com/watch?v=QAhvvQQurw4) 
-
-
 
 [Animal Farm: The Graphic Novel by Odyr (Adaptor, Illustrator), George Orwell](https://www.goodreads.com/book/show/43261020-animal-farm)
 
