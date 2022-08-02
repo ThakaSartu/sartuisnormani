@@ -240,7 +240,47 @@ Sartu and I are a healthy couple that can be verified within Savannah, Atlanta, 
    <img class="pinupImage featured-pinupImage " src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f8002d816354b31ae000001/vsco5f8002dae92b2.jpg" alt="">
 </div>
 
-[DEAR_SARTU_JUST_KNOW...](https://www.youtube.com/watch?v=vC0URxrUy48)
+[DEAR_SARTU_JUST_KNOW...](https://www.youtube.com/watch?v=vC0URxrUy48) 
+
+[GROVERWASHiNTON_MASTERPEiCE](https://youtu.be/zbZwqGqSCS4)
+[SLAVE-WATCHiNG_YOU](https://youtu.be/xkI_yIhIk1c)
+[SLAVE-JUSTA_A_TOUCH_OF_LOVE](https://youtu.be/F1czSmdfcTk)
+[Tom Browne - Funkin' for Jamaica](https://youtu.be/XYclWyC4qQo)
+[Gladys Knight & The Pips - Save the Overtime Four_Me](https://youtu.be/Y36aBTuRr1o)
+[Brothers Johnson - StrawberryLetter23 1977](https://youtu.be/f0bdLdTJdKI)
+[LOOSE_ENDS HANGiN_ON_A_STRiNG](https://youtu.be/nP9zoP3km7g)
+[I Can't Go for That ](https://youtu.be/Ry04tCx4Bqw)
+[KASiF - I Just Gotta Have You](https://youtu.be/2hNxvL4vjqo)
+[KASiF - STONE_LOVE](https://youtu.be/IQGEn2qernc)
+[THE_SPiNNERS Could It Be I'm Falling in Love](https://youtu.be/NaMmX7OCyCA)
+[RONNiE_LAWS - FRiENDS_and_STRANGERS](https://youtu.be/nRCun0fCr_U)
+[RONNiE_LAWS - LiFE_iN_PARADiSE](https://youtu.be/gm32Ev5muTU)
+[RONNiE_LAWS - ALWAYS_THERE](https://youtu.be/w7jjO5QuesU)
+[RONNiE_LAWS - ALL_FOR_YOU](https://youtu.be/by2u7frqoeA)
+[RONNiE_LAWS - FLAME](https://youtu.be/-1K8rFKk7zc)
+[Surface - Only you can Make me Happy](https://youtu.be/tlaAMMaTs58)
+[CAMEO - Attack Me With Your Love](https://youtu.be/U4fkI6Wg06I)
+[Love Come Down (12" Version) (Remastered) · Evelyn "Champagne" King](https://youtu.be/TJdM9dazxQo)
+[James Brown - Mind Power - 1973](https://www.youtube.com/watch?v=yeTP6qsu0Bo)
+It takes MiND_POWER to DEAL_WiT_STARVATiON - <a href="https://en.wikipedia.org/wiki/James_Brown">James Brown</a>
+
+## GOOD_QUARANTiNE_MOViE
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://th.bing.com/th/id/OIP.mpEivFuUyhn_yUGzVm0megHaLF?pid=ImgDet&rs=1" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAYMacross - Do You Remember Love ?" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://th.bing.com/th/id/OIP.mpEivFuUyhn_yUGzVm0megHaLF?pid=ImgDet&rs=1" alt="Macross - Do You Remember Love ?" > 
+      </div>
+    </div>
+  </div>
+</div>
+<a href="https://youtu.be/5HkBxcJJ2cE">Grave of the fireflies ENGLiSH_DUB find it with subtitles in Japanese at somepoint the emotions are more on point... Great english dub tho! </a>
+<a href="https://www.youtube.com/watch?v=SQNWBxNSJ4w">The Tragic Innocence of Grave of The Fireflies | BONUS_FEATURE </a>
 
 <div class="pinupGallery">
   <img class="pinupImage featured-pinupImage" src="https://i.pinimg.com/750x/9d/fd/e1/9dfde147d7a2b0f01c64d691c3d62e2f.jpg" alt="">
@@ -307,6 +347,7 @@ Year:	2002](https://www.youtube.com/watch?v=Libbd7BCBHE) [Beastie_Boys - Sure_Sh
 The song was the first REO Speedwagon single to break the top 50 on the U.S. Billboard Hot 100, reaching the #1 spot for one week in March 1981. The single was certified Platinum for U.S. sales of over one million copies. It peaked at #7 on the UK Singles Chart.
 
 In 1981, the music video of the song was the 17th played on the first day of broadcast of MTV, on August 1. - Clay_CuLver
+
 [REO Speedwagon - Keep on Loving You (1980) HQ](https://www.youtube.com/watch?v=IkdLpSllRuw)
 [Steely Dan ~ Deacon Blues ~ Aja (Remastered) HQ Audio](https://www.youtube.com/watch?v=-hNeWDcf7so)
 [Rhiannon · Fleetwood Mac](https://www.youtube.com/watch?v=0xGPi-Al3zQ)
@@ -1039,13 +1080,15 @@ Style:	Disco
 </div>
 
 
-<center><iframe width="80%" height="315" src="https://www.youtube.com/embed/I1aoRQhqM1k" title="Elive Linux 3.0 Stable Designs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	</center>
+<iframe width="80%" height="315" src="https://www.youtube.com/embed/I1aoRQhqM1k" title="Elive Linux 3.0 Stable Designs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	
 <img src="https://lastfm.freetls.fastly.net/i/u/770x0/18db0c622371cacc1d60a57e90f642da.jpg#18db0c622371cacc1d60a57e90f642da">
 
 [Top 5 Best Lightweight Linux distros for Speed and Performance](https://www.youtube.com/watch?v=CnFPCTi5h5c)
 
-[::RESEARCH_PAPER::Audience's behavior and attitudes towards lifestyle video blogs on Youtube Ellina Mironova](https://www.diva-portal.org/smash/get/diva2:1481546/FULLTEXT01.pdf)	
+[::RESEARCH_PAPER::Audience's behavior and attitudes towards lifestyle video blogs on Youtube Ellina Mironova](https://www.diva-portal.org/smash/get/diva2:1481546/FULLTEXT01.pdf)
+
 [::RESEARCH_PAPER::Information superhighways Research Paper 94/133 22 December 1994](https://ntouk.files.wordpress.com/2015/06/1994-information-superhighway.pdf)
+
 <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/Screenshot%202022-07-24%208.23.07%20PM.png" >
 
 <h2>
@@ -1117,6 +1160,7 @@ Style:	Disco
 
 [Armageddon It · Def Leppard](https://www.youtube.com/watch?v=GgUnqQbNzoE)
 
+
 # SARTUs_PROPOSAL_PLAYER
 Dear_SARTU
 Im working on this embeddable player. Hint, Hint, chuckles... iN_BED_ABLE. I need you bad, im so lonely. You have been run through my playlist confirms its time for you to heal and recover. Here, im working on it but its not working on the page. I just dont know the answer so Im studying JavaScript. Its the prerequisite for [Node.js Competency](https://nodejs.org/en/)<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="PoREzyQ" data-user="thakarashard" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
@@ -1154,7 +1198,9 @@ Im working on this embeddable player. Hint, Hint, chuckles... iN_BED_ABLE. I nee
 [WEEKEND GIRL (Original Full-Length Album Version) - SOS Band](https://www.youtube.com/watch?v=8BvuSzxcE5o)
 [The S.O.S. Band - Tell Me If You Still Care](https://www.youtube.com/watch?v=GSsTyAVP5j0)
 <img src="https://api.time.com/wp-content/uploads/2012/11/41-2012-11-28t080803z_49263854.jpg">
+
 [Driving Downtown - Los Angeles 4K - USA 4yearsAgo](https://www.youtube.com/watch?v=Cw0d-nqSNE8)
+
 Home to the world’s 3rd largest economic area, after Tokyo and New York ($866 Billion in 2015), Los Angeles is the second-most populous city in the United States after New York City. With 4 Million residents and almost 19 Million in the surrounding area, Los Angeles is the largest and most populous city in the state of California and the cultural, financial, and commercial center of Southern California.
 
 The economy of Los Angeles is driven by international trade, entertainment (television, motion pictures, video games, music recording, and production), aerospace, technology, petroleum, fashion, apparel, and tourism. Other significant industries include finance, telecommunications, law, healthcare, and transportation. In the 2017 Global Financial Centres Index, Los Angeles was ranked as having the 19th most competitive financial center in the world, and sixth most competitive in United States (after New York City, San Francisco, Chicago, Boston, and Washington, D.C.).
@@ -1168,6 +1214,7 @@ Historically home to the Chumash and Tongva, Los Angeles was claimed by Juan Rod
 Nicknamed the "City of Angels" partly because of its name's Spanish meaning, Los Angeles is known for its Mediterranean climate, ethnic diversity, and sprawling metropolis. The city is also one of the most substantial economic engines within the nation, with a diverse economy in a broad range of professional and cultural fields. Los Angeles is also famous as the home of Hollywood, a major center of the world entertainment industry. A global city, it has been ranked 6th in the Global Cities Index and 9th in the Global Economic Power Index. The Los Angeles combined statistical area also has a gross metropolitan product of $831 billion (as of 2008), making it the third-largest in the world, after the Greater Tokyo and New York metropolitan areas. Los Angeles hosted the 1932 and 1984 Summer Olympics and will host the event for a third time in 2028.
 
 <img src="https://static0.thetravelimages.com/wordpress/wp-content/uploads/2018/09/HawaiiVolcano.jpg">
+
 [The Very Best Of Soul - Teddy Pendergrass, The O'Jays, Isley Brothers, Luther Vandross, Marvin Gaye](https://www.youtube.com/watch?v=VzBvDChOvrU)
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/2.jpg">
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/1.jpg">
@@ -1200,6 +1247,7 @@ Nicknamed the "City of Angels" partly because of its name's Spanish meaning, Los
 ## Dear_Muna___MuwaH___MuNi
 ### whatever it is these days
 Please share this book with the kids, ERika Id like Coral and Nine to link together someday. Id love to read this to them at the #BiLLY_JEAN_LiBRARY, if I get approved for some work with kids shit by the community. [The Read Aloud Cloud: An Innocent's Guide to the Tech Inside](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119677635) Is a huge gift from the older dudes of our iNFORMATiON_TECHNOLOGY era. I wanna share it with the family family study style so we can all be hip to how to treat <i>THE_CLOUD</i> and stay safe from these kidnappers and treasonist human traffickers that have used social media to frame, blackball, and torture your husband. 
+
 #### EXCERPT_CHAPTER_SUMMARY
 ```
 Summary
@@ -1323,6 +1371,7 @@ His uncle, one of your brother in laws is in FXcrew... MSK_SEVER should not be t
 ## Beyonce::THeSe_SONGS_FOREVER_HEALiNG_ME
 [Beyoncé - Me, Myself and I (Video Version)](https://youtu.be/4S37SGxZSMc)
 <img src="https://i.discogs.com/KIHimth04lcZOjvotk_-0XFVWzRcEDseWe-HBLj7JvE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMzcz/NjEtMTQ2Nzc0MDgw/Mi0yMTMzLmpwZWc.jpeg">
+
 [Cara Delevingne Opens up About Those Weird Megan Thee Stallion Pics](https://www.pride.com/celebrities/2022/7/29/cara-delevingne-opens-about-those-weird-megan-thee-stallion-pics) [Cara, Have You Ever ft. BRANDY_KiDNAPPED_BY_SOME_PERVERT_NORWOOD](https://youtu.be/Xkj1An6Wnec) been accused of something awkward and did not get the chance to clear it up?! Id love to share our story for the ladies of Dance411 to verify so I can get my brides and children returned.
 
 [Destiny's Child - Emotion](https://youtu.be/xWKdMmH0B-E)
@@ -1348,9 +1397,13 @@ His uncle, one of your brother in laws is in FXcrew... MSK_SEVER should not be t
   <li>The act of leaving or deserting a person or property.</li>
 </ol>
 <h2>What is husband abandonment syndrome?</h2>
+
 Spousal Abandonment Syndrome is when one of the spouses leaves the marriage without any warning, and—usually–without having shown any signs of unhappiness with the relationship. With spousal abandonment, there is often no outward sign that one of the spouses is frustrated or considering leaving the marriage.
+
 <h2>Marital desertion (abandonment)</h2> 
-Refers to a situation in which one spouse severs ties with the family, forsaking his or her responsibilities and duties to the family. Simply moving out of the family home in an attempt to create a temporary or permanent separation is not considered abandonment. The difference is often seen in the person’s refusal to provide necessary support...[ReadMore](https://www.midlifedivorcerecovery.com/spousal-abandonment-syndrome/#:~:text=Spousal%20Abandonment%20Syndrome%20is%20when,or%20considering%20leaving%20the%20marriage.)
+
+Refers to a situation in which one spouse severs ties with the family, forsaking his or her responsibilities and duties to the family. Simply moving out of the family home in an attempt to create a temporary or permanent separation is not considered abandonment. The difference is often seen in the person’s refusal to provide necessary support... 
+[ReadMore](https://www.midlifedivorcerecovery.com/spousal-abandonment-syndrome/#:~:text=Spousal%20Abandonment%20Syndrome%20is%20when,or%20considering%20leaving%20the%20marriage.)
 
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/DEAR_MEGAN_iiAM_WORKiNG_ON_EVERYONES_PUBLiC_PERCEPTION_THE_PORN_HAS_MESSED_US_ALL_UP_aND_WE_ALL_INNOCENT.png" >
 <h2>	(╯°□°)╯︵ ʞooqǝɔɐɟ </h2>
@@ -1417,7 +1470,8 @@ Muna and Sartu may or may not know about the shirt, however im sure CORAL_DOES! 
 <img src="https://images.squarespace-cdn.com/content/v1/5e8a7126d84c050678c7fd75/1646157743484-Y4YTY1FQUZD8A5CJBM31/Giant+Horror+-+Shop%402x.png">
 <img src="https://images.squarespace-cdn.com/content/v1/5e8a7126d84c050678c7fd75/1645998890554-55XT6J3LVGZ9SWFJ0TH6/Giant_Diamond_A.gif">
 <img src="https://cdn0.vox-cdn.com/uploads/chorus_asset/file/6630545/strangerthingsgif.0.gif">
-[ITC Benguiat is a decorative serif typeface designed by Ed Benguiat and released by the International Typeface Corporation (ITC) in 1977.](https://www.linotype.com/576/itc-benguiat-family.html) The face is loosely based upon typefaces of the Art Nouveau period but is not considered an academic revival. The face follows ITC's design formulary of an extremely high x-height, combined with multiple widths and weights. The original version of 1977 contained numerous nonstandard ligatures (such as AB, AE, AH, AK, AR, LA, SS, TT) and alternate shapes for some letters which were not carried into the digital version.<a hrefTAKEN_FRON_WiKiPEDiA</i>
+[ITC Benguiat is a decorative serif typeface designed by Ed Benguiat and released by the International Typeface Corporation (ITC) in 1977.](https://www.linotype.com/576/itc-benguiat-family.html) The face is loosely based upon typefaces of the Art Nouveau period but is not considered an academic revival. The face follows ITC's design formulary of an extremely high x-height, combined with multiple widths and weights. The original version of 1977 contained numerous nonstandard ligatures (such as AB, AE, AH, AK, AR, LA, SS, TT) and alternate shapes for some letters which were not carried into the digital version. 
+- TAKEN_FRON_WiKiPEDiA
 
 <h2>FLEXBOX FROGGY</h2>
 
@@ -1452,10 +1506,13 @@ Dear_Sartu:LAUREN_asWELL, I found a game that helps you learn CSS [FLEXBOX](http
     </div>
   </div>
 </div>
+
 [Superwoman (Where Were You When I Needed You)](https://www.youtube.com/watch?v=oYpcCMxQXaE)
 <img src="https://i.discogs.com/YzhtLts7LkthVlFHqcaq5ZNZ59GEwslZA9KCw556CSc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTIz/My0xNDI2MTY2MTc0/LTkwODYuanBlZw.jpeg">
+
 [Stevie Wonder - Songs In The Key Of Life (1976) Part 1 (Full Double Album + Bonus Single)](https://youtu.be/HrJB-MItdVY)
 [STEViE_WONDER::DiSCOGS_PROFiLE::DiSCOGRAPHY_iNFO](https://www.discogs.com/artist/18956-Stevie-Wonder)
+
 <div class="flex3BorderedPaddedROW">
     <div class="item1">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/DEAR_SARTU_IM_READY_FOR_FALL_FEELINGS.gif" /></div>
     <div class="item2">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/DEAR_SARTU_IM_READY_FOR_FALL_FEELINGS.gif" /></div>
@@ -1759,25 +1816,7 @@ Statistics revealed the reported cases of sexual and gender-based violence nearl
     <div class="item4"><img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/SARTUZALAH_RESTORED_TO_NORMANi_ViA_SARTU_FORWARDS.gif"></div>
 </div>
 
-[GROVERWASHiNTON_MASTERPEiCE](https://youtu.be/zbZwqGqSCS4)
-[SLAVE-WATCHiNG_YOU](https://youtu.be/xkI_yIhIk1c)
-[SLAVE-JUSTA_A_TOUCH_OF_LOVE](https://youtu.be/F1czSmdfcTk)
-[Tom Browne - Funkin' for Jamaica](https://youtu.be/XYclWyC4qQo)
-[Gladys Knight & The Pips - Save the Overtime Four_Me](https://youtu.be/Y36aBTuRr1o)
-[Brothers Johnson - StrawberryLetter23 1977](https://youtu.be/f0bdLdTJdKI)
-[LOOSE_ENDS HANGiN_ON_A_STRiNG](https://youtu.be/nP9zoP3km7g)
-[I Can't Go for That ](https://youtu.be/Ry04tCx4Bqw)
-[KASiF - I Just Gotta Have You](https://youtu.be/2hNxvL4vjqo)
-[KASiF - STONE_LOVE](https://youtu.be/IQGEn2qernc)
-[THE_SPiNNERS Could It Be I'm Falling in Love](https://youtu.be/NaMmX7OCyCA)
-[RONNiE_LAWS - FRiENDS_and_STRANGERS](https://youtu.be/nRCun0fCr_U)
-[RONNiE_LAWS - LiFE_iN_PARADiSE](https://youtu.be/gm32Ev5muTU)
-[RONNiE_LAWS - ALWAYS_THERE](https://youtu.be/w7jjO5QuesU)
-[RONNiE_LAWS - ALL_FOR_YOU](https://youtu.be/by2u7frqoeA)
-[RONNiE_LAWS - FLAME](https://youtu.be/-1K8rFKk7zc)
-[Surface - Only you can Make me Happy](https://youtu.be/tlaAMMaTs58)
-[CAMEO - Attack Me With Your Love](https://youtu.be/U4fkI6Wg06I)
-[Love Come Down (12" Version) (Remastered) · Evelyn "Champagne" King](https://youtu.be/TJdM9dazxQo)
+
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
@@ -1793,26 +1832,6 @@ Statistics revealed the reported cases of sexual and gender-based violence nearl
   </div>
 </div>
 
-[James Brown - Mind Power - 1973](https://www.youtube.com/watch?v=yeTP6qsu0Bo)
-It takes MiND_POWER to DEAL_WiT_STARVATiON - <a href="https://en.wikipedia.org/wiki/James_Brown">James Brown</a>
-
-## GOOD_QUARANTiNE_MOViE
-<div class='twoPanelSpread'>
-  <div class='row'>
-    <div class='panelColumn'>
-      <div class='leftColumn'>
-        <img src="https://th.bing.com/th/id/OIP.mpEivFuUyhn_yUGzVm0megHaLF?pid=ImgDet&rs=1" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAYMacross - Do You Remember Love ?" >
-      </div>
-    </div>
-    <div class='panelColumn'>
-      <div class='rightColumn'>
-        <img src="https://th.bing.com/th/id/OIP.mpEivFuUyhn_yUGzVm0megHaLF?pid=ImgDet&rs=1" alt="Macross - Do You Remember Love ?" > 
-      </div>
-    </div>
-  </div>
-</div>
-<a href="https://youtu.be/5HkBxcJJ2cE">Grave of the fireflies ENGLiSH_DUB find it with subtitles in Japanese at somepoint the emotions are more on point... Great english dub tho! </a>
-<a href="https://www.youtube.com/watch?v=SQNWBxNSJ4w">The Tragic Innocence of Grave of The Fireflies | BONUS_FEATURE </a>
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
