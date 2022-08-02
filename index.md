@@ -2,9 +2,47 @@
 
 body {
 	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
-	background-size: 400% 400%;
-	animation: gradient 15s ease infinite;
 	height: 100vh;
+}
+
+
+h1,
+h2 {
+  font-family: "Open Sans", Helvetica, sans-serif;
+  text-transform: uppercase;
+ 
+}
+
+h1 {
+  font-size: 2.6em;
+  margin: 2em 0 0.6em;
+  -webkit-column-span: all;
+  column-span: all;
+}
+
+h2 {
+  font-size: 1.5em;
+  break-after: avoid-column; // doesn't work as it should
+}
+
+h2,
+h1,
+h3 {
+  color: white;
+  background: transparent
+    url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-gray.gif)
+    center repeat;
+  font-family: Monaco, "Helvetica Neue", "Bitstream Vera Sans Mono", sans-serif,
+    "Lucida Console", Terminal, monospace, BlinkMacSystemFont, "Segoe UI",
+    Roboto, Oxygen-Sans, Ubuntu, Cantarell;
+  font-weight: 900;
+  padding: 0px;
+  margin: 0px;
+  display: block;
+  text-align: left;
+  font-variant-caps: small-caps;
+  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff,
+    0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
 }
 
 a:hover {
