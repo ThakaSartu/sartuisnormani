@@ -148,6 +148,7 @@
 
 </style>
 ## Hole To Another Universe 
+[Guns N' Roses - Paradise City (Official Music Video)](https://www.youtube.com/watch?v=Rbm6GXllBiw)
 [Bon Jovi - Livin' On A Prayer](https://www.youtube.com/watch?v=lDK9QqIzhwk)
 [Bon Jovi - You Give Love A Bad Name (Official Music Video)](https://www.youtube.com/watch?v=KrZHPOeOxQQ)
 [No More Distractions | Joel Osteen](https://www.youtube.com/watch?v=_QcuQ-ztfhY)
