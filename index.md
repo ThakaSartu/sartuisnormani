@@ -48,15 +48,15 @@ transform: scale(1.05);
 
 /* TEXT_EFFECTS */
 p {
-   padding: 5px;
+  margin: 0px;
+   padding: 1px;
   display: block;
 color: white;
   font-size: 1.5rem;
-background: rgb(0,0,0);
-background: linear-gradient(90deg, rgba(0,0,0,0.9979578267477204) 8%, rgba(153,153,153,0.5085961246200608) 46%);
+background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,0.5220417633410672) 0%, rgba(0,212,255,0.17865429234338748) 100%);
   letter-spacing: 1px;
-  word-spacing: 1.5px;
-  font-weight: 500;
+   font-weight: 500;
   font-style: normal;
   font-variant: normal;
   text-transform: none;
@@ -298,7 +298,7 @@ a:hover {
 [Please watch this video, you can feel her terror.](https://www.youtube.com/watch?v=6s4slL3_jtI) As we both know her parents were murdered during that 80s criminal ass regime in [Dire-Dawa](https://en.wikipedia.org/wiki/Dire_Dawa), earlier this week on the phone she left me inspired to look at the [RealEstate_iN_DiRE_DAWA](https://jiji.com.et/houses-apartments-for-sale). And I feel so helpless shes raped and sodomized to the point I often dont recognize her and Im going mad with lonelyness. As you know we are well known in Alpharetta, Hollywood and Venice's telepath communites as a fully telekinetic Tantric couple thats separated by prostitution. People in hollywood think because she is posted on the internet shes not kidnapped. I work for JPL still and I was taken away from my job because all my women got kidnapped. Including Muna, that derlic ass Cracker SEVER_MSK has ruined her, she is so fucking whitewashed and the children get no contact with me they have all caught so much BLACK_ENTERTAiNMENT_NETWORK_DiCK they dont look the same after all the molestation. Can you talk to DAnielle_Mushonga for us DPSS_iS_CLEARLY_HUMAN_TRAFFiCKiNG_WiTH_DFACS
 [Please watch this video, you can feel her terror.](https://www.youtube.com/watch?v=6s4slL3_jtI) 
 <img src="https://images.genius.com/a41ee0150f3ce869e2b2546dc569e23c.1000x333x1.jpg">
-
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Libbd7BCBHE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## SPYiNG is why I lost everything and everybody
