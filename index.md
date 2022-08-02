@@ -150,6 +150,8 @@
 ## Hole To Another Universe 
 
 ## devhumor_dOt_cOm being harrased as well
+
+<img src="https://www.monkeyuser.com/assets/images/2022/244-clutch-save.png">
 <img src="https://devhumor.com/content/uploads/images/October2021/first_day.png">
 <div class='twoPanelSpread'>
   <div class='row'>
