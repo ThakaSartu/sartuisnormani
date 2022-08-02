@@ -148,6 +148,26 @@
 
 </style>
 ## Hole To Another Universe 
+
+
+<img src="https://devhumor.com/content/uploads/images/June2022/linkedin.jpg">
+
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://media.tenor.com/images/1d3ad62a94e3e2a1aebed86d18f1df76/tenor.gif" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://media.tenor.com/images/1d3ad62a94e3e2a1aebed86d18f1df76/tenor.gif" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+
 https://youtu.be/61u1HAbmMwg
 https://youtu.be/QD9aNjDU9Ho
 https://youtu.be/LaVM2XG4wvE
@@ -157,6 +177,7 @@ https://youtu.be/obzDfVZ2kmk
 https://youtu.be/6duZhHezK6A
 https://youtu.be/8ergwYfOiJI
 https://youtu.be/o8oghQgLJgY
+
 [LiL_FERG::RANGE_ROVER::ALPHAREACiA_CLASSiCK](https://soundcloud.com/user-557982797/lil-ferg-range-rover?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 [SoundCloud Integrations](https://slashdot.org/software/p/SoundCloud/integrations)
 ## Hi Sartu RE:ONLiNE_ViDEOS
@@ -247,6 +268,7 @@ Her mother mother Erika Renee Kelly was kidnapped on Feb 2,2020. A local Atlanta
 [Atlanta_Falcons](https://www.atlantafalcons.com/). They paid me $1500 for a 40ft graffiti mural on red canvas for former athlete ##Deion_Sanders. I was severely underpaid but it covered the rent for one more month. I moved in with Constancia and her daughter ##Akeeva, got Coral in school at 
 [Chapel Hill Elementary](https://www.chapelhilles.dekalb.k12.ga.us/) and worked hard to get a new 9-5. Constancia did not like me or Coral living with her and Akeeva so they undercut me with accusations of erratic behavior and started thier own dfacs case accusing me of schizophrenia. I had no income and was repeatedly denied foodstamps and welfare by a woman named ##DANIELLE_MASHONGA_and_her_colleage##MANESSA_WARNER... ##Coral would ask
 <h2> Where_is_mommy?!?</h2>
+
 I told her that Matt stole and raped her and she needs our help, so we have to keep looking. Constancia and Akeeva constantly defended Matt. He is a known pedophile and child and adult rapist in the Atlanta art community. I did not know this. We shopped at the same record store and he often offered me work. I loath rapist. I loath pedophilia. Once I learned of his ways I distanced myself. So ##Erikas_mother_and_sisters_DEFENDING_HIM, struck me as bizarre. "##Its_just_a_white_boy_joke##He_didnt_sell_her". 
 [DFACS](https://dfcs.georgia.gov/) stalked me on Facebook and indirectly accused me of ##CHILD_MOLESTATION for a video where we were playing with a wand style muscle massager, it was innocent. They 
 [forcibly removed Coral](https://www.youtube.com/watch?v=AmYdIZhahrQ) saying that I was saying 
@@ -277,7 +299,8 @@ Sex educator and artist Betty Dodson had been teaching her famous Bodysex worksh
 	<a href="https://www.linkedin.com/in/danielle-mushonga-msw-26262132">DANiELLE_MUSHONGA's LiNKEDiN_PROFiLE (KiDNAPPiNG_SPECiALiST) </a>
 	
 	</p>
-<p align="center"><iframe width="500" height="315" src="https://www.youtube.com/embed/UmGMZLs5NCw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+iframe width="500" height="315" src="https://www.youtube.com/embed/UmGMZLs5NCw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
 ![NELLY_FOLKLORE](http://1.bp.blogspot.com/_UXXtJmb1kNs/Swsc7CGXUDI/AAAAAAAAEfw/e8t3BTnTl_M/s1600/FolkloreCassetteIndonesia2003.jpg)
 <span class="neonText">
