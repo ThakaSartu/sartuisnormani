@@ -148,6 +148,7 @@
 
 </style>
 ## Hole To Another Universe
+[Phil Collins - Another Day In Paradise (Official Music Video)](https://www.youtube.com/watch?v=Qt2mbGP6vFI)
 [FLEETWOOD_MAC Dreams (2004 Remaster)](https://www.youtube.com/watch?v=swJOIjjW69U)
 [Bee Gees - How Deep Is Your Love (Official Video)](https://www.youtube.com/watch?v=XpqqjU7u5Yc)
 [Bee Gees - Stayin' Alive (Official Video)](https://www.youtube.com/watch?v=I_izvAbhExY)
