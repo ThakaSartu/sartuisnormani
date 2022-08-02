@@ -64,9 +64,10 @@ background: linear-gradient(90deg, rgba(2,0,36,0.5220417633410672) 0%, rgba(0,21
 }
 h1 {
   font-size: 2.6em;
-  margin: 2em 0 0.6em;
+  margin: 0em 0 0.6em;
   -webkit-column-span: all;
   column-span: all;
+  display: block;
 }
 
 h2 {
