@@ -274,11 +274,12 @@ a:hover {
 </style>
 ## Hole To Another Universe
 
+[Smashing Pumpkins - 1979](https://www.youtube.com/watch?v=Lr58WHo2ndM)
 
 <div class="panel4-container">
    
   <div class="item1">
-<video width="350"  autoplay loop muted>
+<video width="300"  autoplay loop muted>
   <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/SARTU_GREEN.mp4" type="video/mp4" />
  
   Your browser does not support the video tag.
@@ -290,7 +291,7 @@ a:hover {
   Your browser does not support the video tag.
 </video></div>
   <div class="item3">
-<video width="350"  autoplay loop muted>
+<video width="300"  autoplay loop muted>
   <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/SARTU_GREEN.mp4" type="video/mp4" />
  
   Your browser does not support the video tag.
