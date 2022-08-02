@@ -274,6 +274,65 @@ a:hover {
 </style>
 ## Hole To Another Universe
 
+
+<div class="panel4-container">
+   
+  <div class="item1">
+<video width="350"  autoplay loop muted>
+  <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/SARTU_GREEN.mp4" type="video/mp4" />
+ 
+  Your browser does not support the video tag.
+</video></div>
+  <div class="item2">
+<video width="350"  autoplay loop muted>
+  <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/SARTU_GREEN.mp4" type="video/mp4" />
+ 
+  Your browser does not support the video tag.
+</video></div>
+  <div class="item3">
+<video width="350"  autoplay loop muted>
+  <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/SARTU_GREEN.mp4" type="video/mp4" />
+ 
+  Your browser does not support the video tag.
+</video></div>
+  <div class="item4">
+<video width="350"  autoplay loop muted>
+  <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/SARTU_GREEN.mp4" type="video/mp4" />
+ 
+  Your browser does not support the video tag.
+</video></div>
+
+</div>
+
+<h2><a href="https://www.discogs.com/release/7597003-Time-Machine-Slow-Your-Roll">  <em> TiME_MACHiNE::THE_WAY_THiNGS_ARE ##SOUTHERN_CALi_CLASSiKS</em> </a> </h2>
+<audio controls class="broken-width">
+  <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/Time%20MachineTheWayThingsAre.mp3" type="audio/mp3" />
+
+  Your browser does not support the <code>audio</code> element.
+</audio>
+
+<h2><a href="https://www.discogs.com/release/650083-Krondon-The-Rules">  <em> Krondon: THE_RULES ##SOUTHERN_CALi_CLASSiKS</em> </a> </h2>
+<audio controls class="broken-width">
+  <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/Krondon_The%20Rules128kbpsMP3.mp3" type="audio/mp3" />
+
+  Your browser does not support the <code>audio</code> element.
+</audio>
+
+<h2> LiGHTSKiNKEiSHA_my_WiFE - FDH </h2>
+
+  <video controls width="100%" autoplay>
+     <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/FDH_LSK.mp4" type="video/mp4">
+
+   </video>
+
+<div class="panel4-container">
+   
+  <div class="item1"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/LiGHTSKiNKiESHA3.jpg"></div>
+  <div class="item2"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/LiGHTSKiNKiESHA3.jpg"></div>
+  <div class="item3"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/LiGHTSKiNKiESHA3.jpg"></div>
+  <div class="item4"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/LiGHTSKiNKiESHA3.jpg"></div>
+
+</div>
 <h2><a href="https://soundcloud.com/user-573853428">  <em> Mulatto Saweetie Trina - B-tch From Da Souf</em> </a> </h2>
 <audio controls class="broken-width">
   <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/audio/MulattoSaweetieTrinaBtchFromDaSouf.mp3" type="audio/mp3" />
@@ -286,14 +345,7 @@ a:hover {
 
 
 <!-- https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio#Basic_usage -->
-<div class="panel4-container">
-   
-  <div class="item1"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/LiGHTSKiNKiESHA3.jpg"></div>
-  <div class="item2"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/LiGHTSKiNKiESHA3.jpg"></div>
-  <div class="item3"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/LiGHTSKiNKiESHA3.jpg"></div>
-  <div class="item4"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/LiGHTSKiNKiESHA3.jpg"></div>
 
-</div>
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
