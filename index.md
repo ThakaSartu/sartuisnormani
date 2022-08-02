@@ -2,7 +2,8 @@
 
 body {
 	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
-	height: 100vh;
+  background-attachment: fixed;
+	
 }
 
 
@@ -230,6 +231,9 @@ a:hover {
 
 </style>
 ## Hole To Another Universe
+
+[Fixed gradient background with css](https://stackoverflow.com/questions/18094134/fixed-gradient-background-with-css)
+
 <iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fmrconcept%2Fdj-rectangle-vinyl-combat-vol1%2F" frameborder="0" ></iframe>
 <img src="https://i.pinimg.com/originals/03/e4/89/03e489323702c40bc9dcb3fa2e0f6e10.gif" alt="Avatar" class="image">
 <iframe width="100%" height="400" src="https://www.mixcloud.com/widget/iframe/?feed=%2Fmrconcept%2Fthe-world-famous-beat-junkies-vol1-dj-babu-1997%2F" frameborder="0" ></iframe>
