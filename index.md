@@ -287,6 +287,8 @@ a:hover {
 
 </style>
 ## Hole To Another Universe
+
+
 ## SUBURBAN_WIFEY_NiGHTMARE
 [KASHDOLL ROBBED IN LA!!!](https://www.youtube.com/watch?v=6s4slL3_jtI)
 # Dear_HAYAT
@@ -295,6 +297,7 @@ a:hover {
 
 [Please watch this video, you can feel her terror.](https://www.youtube.com/watch?v=6s4slL3_jtI) As we both know her parents were murdered during that 80s criminal ass regime in [Dire-Dawa](https://en.wikipedia.org/wiki/Dire_Dawa), earlier this week on the phone she left me inspired to look at the [RealEstate_iN_DiRE_DAWA](https://jiji.com.et/houses-apartments-for-sale). And I feel so helpless shes raped and sodomized to the point I often dont recognize her and Im going mad with lonelyness. As you know we are well known in Alpharetta, Hollywood and Venice's telepath communites as a fully telekinetic Tantric couple thats separated by prostitution. People in hollywood think because she is posted on the internet shes not kidnapped. I work for JPL still and I was taken away from my job because all my women got kidnapped. Including Muna, that derlic ass Cracker SEVER_MSK has ruined her, she is so fucking whitewashed and the children get no contact with me they have all caught so much BLACK_ENTERTAiNMENT_NETWORK_DiCK they dont look the same after all the molestation. Can you talk to DAnielle_Mushonga for us DPSS_iS_CLEARLY_HUMAN_TRAFFiCKiNG_WiTH_DFACS
 [Please watch this video, you can feel her terror.](https://www.youtube.com/watch?v=6s4slL3_jtI) 
+<img src="https://images.genius.com/a41ee0150f3ce869e2b2546dc569e23c.1000x333x1.jpg">
 
 
 
@@ -637,10 +640,10 @@ Genre:	Funk / Soul
 Style:	RnB/Swing, Hip Hop
 Year:	1996](https://www.youtube.com/watch?v=Ua4fg2FQ6w8) [BRANDY::Sittin' Up In My Room from Waiting to Exhale - Original SoundtracK](https://www.youtube.com/watch?v=DGgANpSjoas) [702 - Steelo feat. Missy Elliott::1996](https://www.youtube.com/watch?v=LdvRwHhla6Q) [DELiRiUM:BY::##ELLiE_GOULDING## ##FAV_TRACK## ## ](https://youtu.be/cLWv0f2Tt8E) 
 [DiSCOGS:##ENTRY](https://www.discogs.com/release/8118343-Ellie-Goulding-Delirium)
-[Björk::Human Behaviour](https://youtu.be/p0mRIhK9seg) [Björk : ARMY_OF_ME::video](https://www.youtube.com/watch?v=jPeheoBa2_Y) [Björk::Jóga](https://youtu.be/loB0kmz_0MM) [Dido - Thank You |Official Video|](https://youtu.be/1TO48Cnl66w) [Beastie Boys - Three MC's And One DJ](https://youtu.be/XflfiylNNXY) [Lorde - White Teeth Teens](https://www.youtube.com/watch?v=kNUWreGGxcc&list=PLvm6B0LWgqu-rHo4GAqYy5mC1O7pUxntS&index=9) [Dido – My Lover's Gone
-Genre:	Pop
-Style:	
-Year:	2002](https://www.youtube.com/watch?v=Libbd7BCBHE) [Beastie_Boys - Sure_Shot::iLL_COMMUNiCATiON](https://youtu.be/JhqyZeUlE8U) [Dido - Honestly Ok](https://youtu.be/mCcNGt_eliM) [Dido - I'm No Angel ](https://youtu.be/i5JyWpyYVx4) [Eminem - Stan ft. Dido](https://youtu.be/gOMhN-hfMtY)  [WHOSAMPLED::EXPLORE_THE_STAN_SAMPLES](https://www.whosampled.com/Eminem/Stan/)
+[Björk::Human Behaviour](https://youtu.be/p0mRIhK9seg) [Björk : ARMY_OF_ME::video](https://www.youtube.com/watch?v=jPeheoBa2_Y) [Björk::Jóga](https://youtu.be/loB0kmz_0MM) [Dido - Thank You |Official Video|](https://youtu.be/1TO48Cnl66w) [Beastie Boys - Three MC's And One DJ](https://youtu.be/XflfiylNNXY) [Lorde - White Teeth Teens](https://www.youtube.com/watch?v=kNUWreGGxcc&list=PLvm6B0LWgqu-rHo4GAqYy5mC1O7pUxntS&index=9) 
+[Dido – My Lover's Gone](https://www.youtube.com/watch?v=Libbd7BCBHE) 
+[Beastie_Boys - Sure_Shot::iLL_COMMUNiCATiON](https://youtu.be/JhqyZeUlE8U) 
+[Dido - Honestly Ok](https://youtu.be/mCcNGt_eliM) [Dido - I'm No Angel ](https://youtu.be/i5JyWpyYVx4) [Eminem - Stan ft. Dido](https://youtu.be/gOMhN-hfMtY)  [WHOSAMPLED::EXPLORE_THE_STAN_SAMPLES](https://www.whosampled.com/Eminem/Stan/)
 [EVERYTHiNG_REMAiNS_RAW](https://youtu.be/fd_HkV9zz84) [BUSTA_RHYMES_RAMPAGE_FREESTYLE](https://www.youtube.com/watch?v=5CivybE0slA) [Notorious B.I.G. - Brooklyn Freestyle at the age of 17 (1989)](https://youtu.be/zSx03q1-1KA) [Wang Dang Doodle::Koko Taylor w Little Walter 1967](https://youtu.be/qyUHkY0K8HE) [Fugees murder the Apollo live 1996 ](https://youtu.be/LpA8qvLWF1Q) [Nas & Large Pro - Live at the Barbeque ](https://youtu.be/ta3srWr4sJQ) [MiNNiE_RiPERTON::Inside My Love](https://www.youtube.com/watch?v=jlgp-jjHzC0) [HiFi_SHiT = ROY_AYERS::Everybody Loves The Sunshine](https://www.youtube.com/watch?v=SSBWiFGzsyU) 
 [Björk : Isobel::HD_ViDEO](https://www.youtube.com/watch?v=VGPYO0mzmBQ) 
 ["I Miss You" - Björk](https://www.youtube.com/watch?v=8A7TqgbHT3k)
@@ -650,7 +653,7 @@ Year:	2002](https://www.youtube.com/watch?v=Libbd7BCBHE) [Beastie_Boys - Sure_Sh
 [Gettin' Money::The Get Money Remix](https://www.whosampled.com/Junior-M.A.F.I.A./Gettin%27-Money-(The-Get-Money-Remix)/)	
 [Jay-Z feat. Foxy Brown and Babyface(Always Be My) Sunshine](https://www.whosampled.com/sample/2209/Jay-Z-Foxy-Brown-Babyface-(Always-Be-My)-Sunshine-The-Fearless-Four-Rockin%27-It/)	
 [Sunny Day](https://www.youtube.com/watch?v=Nn1DQAmCQ4A)
-
+[The Smashing Pumpkins - Today DEAR_LALiBAELAH check out this ShreddeR](https://www.youtube.com/watch?v=xmUZ6nCFNoU)
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
