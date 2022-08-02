@@ -274,9 +274,9 @@ a:hover {
 </style>
 ## Hole To Another Universe
 
-<a href="https://etc.usf.edu/lit2go/35/aesops-fables/388/the-father-and-his-sons"> <h2>The Father And His Son <em> ::</em> Aesop's Fables</h2</a> 
+<h2><a href="https://soundcloud.com/user-573853428">  <em> Mulatto Saweetie Trina - B-tch From Da Souf</em> </a> </h2>
 <audio controls class="broken-width">
-  <source src="https://etc.usf.edu/lit2go/audio/mp3/aesops-fables-010-the-boy-who-cried-wolf.375.mp3" type="audio/mp3" />
+  <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/audio/MulattoSaweetieTrinaBtchFromDaSouf.mp3" type="audio/mp3" />
 
   Your browser does not support the <code>audio</code> element.
 </audio>
@@ -286,6 +286,14 @@ a:hover {
 
 
 <!-- https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio#Basic_usage -->
+<div class="panel4-container">
+   
+  <div class="item1"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/LiGHTSKiNKiESHA3.jpg"></div>
+  <div class="item2"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/LiGHTSKiNKiESHA3.jpg"></div>
+  <div class="item3"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/LiGHTSKiNKiESHA3.jpg"></div>
+  <div class="item4"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/LiGHTSKiNKiESHA3.jpg"></div>
+
+</div>
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
@@ -300,6 +308,21 @@ a:hover {
     </div>
   </div>
  </div>
+ <div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/LiGHTSKiNKiESHA5.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/LiGHTSKiNKiESHA5.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+  </div>
+ </div>
+ <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/so_so_def_bass_all_stars__vol__2_album_insert_by_eppsart_dc0sps0-fullview.jpg" >
 <img style="float:right; width:100%; height:100%;" alt="Girl in a jacket" src="https://upload.wikimedia.org/wikipedia/commons/0/03/Emoji_u1f4af.svg">
   <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/NORMANiFAiRBG.gif">
 <h2> Normani_my_WiFE featuring my wife_Cardi_B::WiLDSiDE </h2>
