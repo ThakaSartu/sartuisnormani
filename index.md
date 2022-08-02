@@ -1,5 +1,12 @@
 <style>
 
+body {
+	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+	background-size: 400% 400%;
+	animation: gradient 15s ease infinite;
+	height: 100vh;
+}
+
 a:hover {
   color: #c9ff23;
 }  
@@ -193,6 +200,24 @@ a:hover {
 
 </style>
 ## Hole To Another Universe
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/8583021&color=%23b89c5c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+<div class="panel4-container">
+   
+  <div class="item1"><img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/SARTUZALAH_RESTORED_TO_NORMANi_ViA_SARTU_FORWARDS.gif"></div>
+  <div class="item2"><img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/SARTUZALAH_RESTORED_TO_NORMANi_ViA_SARTU_REVERSE.gif"></div>
+  <div class="item3"><img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/SARTUZALAH_RESTORED_TO_NORMANi_ViA_SARTU_REVERSE.gif"></div>
+  <div class="item4"><img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/SARTUZALAH_RESTORED_TO_NORMANi_ViA_SARTU_FORWARDS.gif"></div>
+
+</div>
+
+<img src="https://typedifferent.com/fonts/bd_geminis/bd_geminis_example3.jpg" >
+<img src="https://typedifferent.com/fonts/bd_geminis/bd_geminis_example2.jpg" >
+<img src="https://typedifferent.com/fonts/bd_geminis/bd_geminis_example1.jpg" >
+
+https://typedifferent.com/fonts/bd_geminis/bd_geminis_example2.jpg
+https://typedifferent.com/fonts/bd_geminis/bd_geminis_example2.jpg
 ## ANiMAL_FARM##ANiMATED##1954 
 [Animal Farm 1954](https://www.youtube.com/watch?v=XXkicQRl6vg)
 
