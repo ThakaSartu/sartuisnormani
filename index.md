@@ -275,6 +275,7 @@ a:hover {
 ## Hole To Another Universe
 
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/SosrajOpenZoom.png">
 
 ## SPYiNG is why I lost everything and everybody
 <div class="flex3BorderedPaddedROW">
@@ -298,7 +299,20 @@ a:hover {
 </audio>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Michael_Zichy_-_Liebe.jpg">
 
-
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Carracci_Achille_et_Briseis.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Carracci_Achille_et_Briseis.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+  </div>
+ </div>
 
 <div class="flex3BorderedPaddedROW">
   <div class="item1">
@@ -311,7 +325,7 @@ a:hover {
     <a href="https://youtu.be/UE6zfOuYfVI"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Carracci05.jpg" alt="MONiCA_KNOWS_MUNA_AND_##WE_ALL_NEED_FREEDM_FROM_PROSTiTUTION"> </a>
   </div>
 </div>
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Katsushika_Hokusai_-_Fukujuso.jpg">
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
@@ -343,6 +357,21 @@ a:hover {
     </div>
   </div>
  </div>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Paul_Avril_-_Les_Sonnetts_Luxurieux_%281892%29_de_Pietro_Aretino%2C_5.jpg" >
+
+<div class="flex3BorderedPaddedROW">
+  <div class="item1">
+    <a href="https://youtu.be/UE6zfOuYfVI"><img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Ovid_and_Corine.jpg" alt="MONiCA_KNOWS_MUNA_AND_##WE_ALL_NEED_FREEDM_FROM_PROSTiTUTION"> </a>
+  </div>
+  <div class="item2">
+    <a href="https://youtu.be/UE6zfOuYfVI"><img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Ovid_and_Corine.jpg" alt="MONiCA_KNOWS_MUNA_AND_##WE_ALL_NEED_FREEDM_FROM_PROSTiTUTION"> </a>
+  </div>
+  <div class="item3">
+    <a href="https://youtu.be/UE6zfOuYfVI"><img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Ovid_and_Corine.jpg" alt="MONiCA_KNOWS_MUNA_AND_##WE_ALL_NEED_FREEDM_FROM_PROSTiTUTION"> </a>
+  </div>
+</div>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Zichy_depucelage.jpg">
 
 [Soundgarden - Black Hole Sun](https://www.youtube.com/watch?v=3mbBbFH9fAg)
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Michael_Zichy-love1.jpg">
