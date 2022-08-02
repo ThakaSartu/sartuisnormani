@@ -715,7 +715,7 @@ puis créer une instance le MediaPlayer en passant la div.
 Les controls sont ajoutés dynamiquement.
 -->
   <div class="media-player">
-    <video class="made-player-video" poster="">
+    <video class="made-player-video" poster="" preload="auto">
      <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/NormaniWildSideOfficialVideoftCardiB.mp4" type="video/mp4">
     
      <p>Your user agent does not support the HTML5 Video element.</p>
