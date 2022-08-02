@@ -148,7 +148,9 @@
 
 </style>
 ## Hole To Another Universe 
+<img src="https://devhumor.com/content/uploads/images/September2014/programmermeme2.jpg">
 
+[Ridge Racer Revolution PS1 - Full Complete Soundtrack | OST](https://www.youtube.com/watch?v=HasppWQbXlQ)
 [McGruff's Guide To Personal Safety (1988 VHS)](https://www.youtube.com/watch?v=p3hu_wvgd1Y)
 [McGruff Don't talk to Strangers PSA 1984](https://www.youtube.com/watch?v=rxLD1uq94sE)
 [Blue Ribbon Panel: McGruff on Dangerous Strangers](https://www.youtube.com/watch?v=EkAwcNkagjU)
