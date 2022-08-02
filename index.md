@@ -1,3 +1,97 @@
+<script type="text/javascript>
+
+function calculateTotalValue(length) {
+  var minutes = Math.floor(length / 60),
+    seconds_int = length - minutes * 60,
+    seconds_str = seconds_int.toString(),
+    seconds = seconds_str.substr(0, 2),
+    time = minutes + ':' + seconds
+
+  return time;
+}
+
+function calculateCurrentValue(currentTime) {
+  var current_hour = parseInt(currentTime / 3600) % 24,
+    current_minute = parseInt(currentTime / 60) % 60,
+    current_seconds_long = currentTime % 60,
+    current_seconds = current_seconds_long.toFixed(),
+    current_time = (current_minute < 10 ? "0" + current_minute : current_minute) + ":" + (current_seconds < 10 ? "0" + current_seconds : current_seconds);
+
+  return current_time;
+}
+
+function initProgressBar() {
+  var player = document.getElementById('player');
+  var length = player.duration
+  var current_time = player.currentTime;
+
+  // calculate total length of value
+  var totalLength = calculateTotalValue(length)
+  jQuery(".end-time").html(totalLength);
+
+  // calculate current value time
+  var currentTime = calculateCurrentValue(current_time);
+  jQuery(".start-time").html(currentTime);
+
+  var progressbar = document.getElementById('seekObj');
+  progressbar.value = (player.currentTime / player.duration);
+  progressbar.addEventListener("click", seek);
+
+  if (player.currentTime == player.duration) {
+    $('#play-btn').removeClass('pause');
+  }
+
+  function seek(evt) {
+    var percent = evt.offsetX / this.offsetWidth;
+    player.currentTime = percent * player.duration;
+    progressbar.value = percent / 100;
+  }
+};
+
+function initPlayers(num) {
+  // pass num in if there are multiple audio players e.g 'player' + i
+
+  for (var i = 0; i < num; i++) {
+    (function() {
+
+      // Variables
+      // ----------------------------------------------------------
+      // audio embed object
+      var playerContainer = document.getElementById('player-container'),
+        player = document.getElementById('player'),
+        isPlaying = false,
+        playBtn = document.getElementById('play-btn');
+
+      // Controls Listeners
+      // ----------------------------------------------------------
+      if (playBtn != null) {
+        playBtn.addEventListener('click', function() {
+          togglePlay()
+        });
+      }
+
+      // Controls & Sounds Methods
+      // ----------------------------------------------------------
+      function togglePlay() {
+        if (player.paused === false) {
+          player.pause();
+          isPlaying = false;
+          $('#play-btn').removeClass('pause');
+
+        } else {
+          player.play();
+          $('#play-btn').addClass('pause');
+          isPlaying = true;
+        }
+      }
+    }());
+  }
+}
+
+initPlayers(jQuery('#player-container').length);
+
+</script>
+
 <script type="text/javascript">
    /*
     * MediaPlayer
@@ -393,7 +487,63 @@
   
   
 /* ##TWO_PANEL_LAYOUT_ADDED_7_28_2022_FOR_SPLiT_SCREEN_POSTS */  
-/* ##TWO_PANEL_LAYOUT_ADDED_7_28_2022_FOR_SPLiT_SCREEN_POSTS */  
+/* ##YELLOW_OSLO_AUDiO_PLAYER_MODDED_FROM_CODEPENN_POSTS */  
+
+
+
+
+.audio-player {
+  background: white;
+  border: 1px solid lighten(#acacac, 20%);
+  width: 50vw;
+  text-align: center;
+  display: flex;
+  flex-flow: row;
+  margin: 4rem 0 4rem 0;
+  .album-image {
+    min-height: 100px;
+    width: 110px;
+    background-size: cover;
+  }
+  .player-controls {
+    align-items: center;
+    justify-content: center;
+    margin-top: 2.5rem;
+    flex: 3;
+    progress {
+      width: 90%;
+    }
+    progress[value] {
+      -webkit-appearance: none;
+      appearance: none;
+      background-color: white;
+      color: blue;
+      height: 5px;
+    }
+    progress[value]::-webkit-progress-bar {
+      background-color: white;
+      border-radius: 2px;
+      border: 1px solid lighten(#acacac, 20%);
+      color: blue;
+    }
+    progress::-webkit-progress-value {
+      background-color: blue;
+    }
+    p {
+      font-size: 1.6rem;
+    }
+  }
+  #play-btn {
+    background-image: url('https://cdn.fastly.picmonkey.com/content4/previews/arrows_2/arrows_2_44_550.png');
+    background-size: cover;
+    width: 75px;
+    height: 75px;
+    margin: 2rem 0 2rem 2rem;
+    &.pause {
+      background-image: url('https://img.icons8.com/ios/452/circled-pause.png');
+    }
+  }
+}
 /* ##TWO_PANEL_LAYOUT_ADDED_7_28_2022_FOR_SPLiT_SCREEN_POSTS */  
 /* ##TWO_PANEL_LAYOUT_ADDED_7_28_2022_FOR_SPLiT_SCREEN_POSTS */
   .twoPanelSpread {
@@ -531,7 +681,29 @@
 }
 
 </style>
-## Hole To Another Universe
+## Hole To Another Universe 
+
+  <div class="audio-player">
+    <div id="play-btn"></div>
+    <div class="audio-wrapper" id="player-container" href="javascript:;">
+      <audio id="player" ontimeupdate="initProgressBar()">
+			  <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/Time%20MachineTheWayThingsAre.mp3" type="audio/mp3">
+			</audio>
+    </div>
+    <div class="player-controls scrubber">
+      <p>Oslo <small>by</small> Holy Esque</p>
+      <span id="seekObjContainer">
+			  <progress id="seekObj" value="0" max="1"></progress>
+			</span>
+      <br>
+      <small style="float: left; position: relative; left: 15px;" class="start-time"></small>
+      <small style="float: right; position: relative; right: 20px;" class="end-time"></small>
+
+    </div>
+    <div class="album-image" style="background-image: url('https://artwork-cdn.7static.com/static/img/sleeveart/00/051/614/0005161476_350.jpg')"></div>
+  </div>
+
+[Animal Farm: The Graphic Novel by Odyr (Adaptor, Illustrator), George Orwell](https://www.goodreads.com/book/show/43261020-animal-farm)
 
 <h2> Normani_my_WiFE featuring my wife_Cardi_B::WiLDSiDE </h2>
 <div class="container">
