@@ -379,7 +379,7 @@ a:hover {
   <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/NORMANiFAiRBG.gif">
 <h2> Normani_my_WiFE featuring my wife_Cardi_B::WiLDSiDE </h2>
 
-  <video controls width="100%" >
+  <video controls width="100%" autoplay >
      <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/NormaniWildSideOfficialVideoftCardiB.mp4" type="video/mp4">
 
    </video>
