@@ -636,7 +636,7 @@ echo "An international research team develops a way to say “hello” with your
 
 <h2> LiGHTSKiNKEiSHA_my_WiFE - FDH </h2>
 
-  <video controls width="100%" autoplay>
+  <video controls width="100%" >
      <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/FDH_LSK.mp4" type="video/mp4">
 
    </video>
