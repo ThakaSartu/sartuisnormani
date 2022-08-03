@@ -72,10 +72,11 @@ background: linear-gradient(90deg, rgba(2,0,36,0.5220417633410672) 0%, rgba(0,21
 
 }
 h1 {
-  font-size: 5rem;
+  font-size: 70px;
   margin: 0em 0 0.6em;
   -webkit-column-span: all;
   column-span: all;
+  font-weight: 900;
   display: block;
 }
 
@@ -92,12 +93,12 @@ h3 {
     url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-gray.gif)
     center repeat;
   
-  font-weight: 900;
+  
   padding: 0px;
   margin: 0px;
   display: block;
   text-align: left;
-  font-variant-caps: small-caps;
+
   text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff,
     0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
 }
@@ -297,7 +298,7 @@ a:hover {
 </style>
 <span class="neonText"> Everything should be done in love.
 <span class="neonText">   1 Corinthians 16:14</span>
-
+<h1> Hole To Another Universe </h1>
 # Hole To Another Universe
 ### ##JANET_HAS_STRUGGLED_SO_LONG##
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/q37CHEMiXi4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
