@@ -289,7 +289,67 @@ a:hover {
 }
 
 </style>
+<span class="neonText">
+Everything should be done in love.
+ - 1 Corinthians 16:14</span>
+
 # Hole To Another Universe
+### ##JANET_HAS_STRUGGLED_SO_LONG##
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/q37CHEMiXi4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<a href="https://www.youtube.com/watch?v=gGrjTYoPEw8" > <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/77274.jpg" alt="Normani_iS_iN_TEARS##THiS_iS_MY_WIFE_SARTU_ALi_SELASSiE_IN_HER_CAREER_NAME" width="100%" /></a>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://m.media-amazon.com/images/I/41IpJNU3zQL._SY580_.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://i.discogs.com/yquUk3jRRu5m8b0XMRtzAXQErWlYbcGmPOUwaW0yVJk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTA3/NTYtMTQ5Nzk4NDEy/NC00MDM2LmpwZWc.jpeg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+
+
+[Voyeurism##_OUT_IN_THe_OPEN_ON_YOUTUBE##MY_FAMILY_HAS_THIS_ISSUE With these kinds of criminals ](https://www.youtube.com/watch?v=oETVDKbThcE)
+[Scientists Prove That Telepathic Communication Is Within Reach](https://www.smithsonianmag.com/innovation/scientists-prove-that-telepathic-communication-is-within-reach-180952868/)
+```
+echo "An international research team develops a way to say “hello” with your mind"
+```
+[Spiderman Cartoon-1967 Season 1 Episode 19]([https://youtu.be/aBzotaBgoRo) [THiNKiNG_OF_YOU##SARTU##ZEE##UNDASTAND_DAH_ZEE_AND_YOU_WILL_INDEED_UNDASTANYND_HUH##](https://youtu.be/9iUE4F9UHok)
+ ## SAATUZEE_WILL_YOU_MARRY_ME?!
+[DELiRiUM:BY::##ELLiE_GOULDING## ##FAV_TRACK## ## ](https://youtu.be/cLWv0f2Tt8E)
+[DiSCOGS:##ENTRY](https://www.discogs.com/release/8118343-Ellie-Goulding-Delirium)
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://mirkoreisser.de/wp-admin/admin-ajax.php?action=kernel&p=image&src=WyJ3cC1jb250ZW50XC91cGxvYWRzXC8yMDE5XC8xMFwvTWlya28tUmVpc3Nlci1EQUlNX0ZpbmVBcnQtUHJpbnRzX21yZjMxNzU2LTY0OS5qcGciLFtbInR5cGUiLFsid2VicCIsIjg1Il1dXV0%3D&hash=41e376ca3b4a1a3be4163f0ca652ae78" alt="##DAiM_IS_HERE_TO_STAY_WiTH_BUBBLEGUMPOP" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://mirkoreisser.de/wp-admin/admin-ajax.php?action=kernel&p=image&src=WyJ3cC1jb250ZW50XC91cGxvYWRzXC8yMDE5XC8xMFwvTWlya28tUmVpc3Nlci1EQUlNX0ZpbmVBcnQtUHJpbnRzX21yZjMxNzU2LTY0OS5qcGciLFtbInR5cGUiLFsid2VicCIsIjg1Il1dXV0%3D&hash=41e376ca3b4a1a3be4163f0ca652ae78" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+<img src="https://burodestruct.net/sites/default/files/bd_edding_hiphop_arte_teaser2.gif">
+<img src="https://1.bp.blogspot.com/-7vzHG6y1_9E/XIkDNaThsVI/AAAAAAAAGk0/xF-7mExGIfQewadJinCVSfCDZnqN5wNxgCLcBGAs/s1600/VA%2B%25E2%2580%2593%2BErnesto%2BChahoud%2Bpresents%2BTAITU%2BSoul-fuelled%2BStompers%2Bfrom%2B1960s-1970s%2BEthiopia%2B%25282018%2529.jpg">
+
+[Ernesto Chahoud presents TAITU - Soul-fuelled Stompers from 1960s-1970s ##Ethiopia](http://ethio-pain-music.blogspot.com/2019/03/va-ernesto-chahoud-presents-taitu-soul.html)
+<div class="pinupGallery">
+  <img class="pinupImage featured-pinupImage" src="https://3.bp.blogspot.com/-bL5P29jUTk4/Tu8ilkhZOkI/AAAAAAAAAKo/L4yPmmTKEi8/s640/Ethiopian+Groove+Greatest+Hits.jpg" alt="">
+  <img class="pinupImage" src="https://3.bp.blogspot.com/-bL5P29jUTk4/Tu8ilkhZOkI/AAAAAAAAAKo/L4yPmmTKEi8/s640/Ethiopian+Groove+Greatest+Hits.jpg" alt="">
+  <img class="pinupImage" src="https://3.bp.blogspot.com/-bL5P29jUTk4/Tu8ilkhZOkI/AAAAAAAAAKo/L4yPmmTKEi8/s640/Ethiopian+Groove+Greatest+Hits.jpg" alt="">
+  <img class="pinupImage" src="https://3.bp.blogspot.com/-bL5P29jUTk4/Tu8ilkhZOkI/AAAAAAAAAKo/L4yPmmTKEi8/s640/Ethiopian+Groove+Greatest+Hits.jpg" alt="">
+</div>
+
+[... my passion for ethiopian music ...](http://ethio-pain-music.blogspot.com/)
 [Aikido_ Yo_ALiCia_KeYS_CHeCK_iT_OUT](https://www.youtube.com/watch?v=ZWiXV8DqlWQ)
 [ (   ° ᴗ°)~ð  (/❛o❛\) ##DEAR_SARTU Inmate Gets Married In Prison | Louisiana Lockdown E6 | Our Life (   ° ᴗ°)~ð  (/❛o❛\) ](https://www.youtube.com/watch?v=XnKOkIxOReI)
 [ ( • )( • ) ԅ(≖‿≖ԅ) ##DEAR_BOOSiE New Inmates Arrive At Louisiana State Prison | Louisiana Lockdown E5 | Our Life ( • )( • ) ԅ(≖‿≖ԅ) ](https://www.youtube.com/watch?v=lszowepKWtA)
@@ -327,6 +387,51 @@ a:hover {
 <img src="https://images.genius.com/a41ee0150f3ce869e2b2546dc569e23c.1000x333x1.jpg">
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Libbd7BCBHE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+ <div class='some-page-wrapper'>
+ <div class='row'>
+ <div class='column'>
+ <div class='blue-column'>
+ <a href="https://www.youtube.com/watch?v=7TRStCd7qYU"> <img src="https://github.com/ThakaRashard/holetoanotheruniverse/blob/gh-pages/img/vsco5cfd9f85d1d95.jpg?raw=true" alt="Girl in a jacket" > </a>
+ </div>
+ </div>
+ <div class='column'>
+ <div class='green-column'>
+ <a href="https://www.youtube.com/watch?v=rOGWygPcv78"> <img src="https://github.com/ThakaRashard/holetoanotheruniverse/blob/gh-pages/img/vsco5cfd9f85d1d95.jpg?raw=true" alt="Girl in a jacket" > </a>
+ </div>
+ </div>
+ </div>
+</div>
+ <img src="https://thesource.com/wp-content/uploads/2022/02/AB3A9173-700x400.jpg" >
+ 
+ <div class='some-page-wrapper'>
+ <div class='row'>
+ <div class='column'>
+ <div class='blue-column'>
+ <a href="https://www.youtube.com/watch?v=ARtRsMnTqQc"> <img src="https://raw.githubusercontent.com/ThakaRashard/holetoanotheruniverse/gh-pages/img/WEenNWEE.jpg" alt="Girl in a jacket" > </a>
+ </div>
+ </div>
+ <div class='column'>
+ <div class='green-column'>
+ <a href="https://youtu.be/ZmPfxMBNilg"> <img src="https://raw.githubusercontent.com/ThakaRashard/holetoanotheruniverse/gh-pages/img/WEenNWEE.jpg" alt="Girl in a jacket" > </a>
+ </div>
+ </div>
+ </div>
+</div>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://www.graffiti.org/sfb/refa2002oakland04.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://i.pinimg.com/originals/3d/d1/9f/3dd19f9c5c7f126af27ba530d94ab168.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>	
+<img src="https://www.adbranch.com/wp-content/uploads/chrysler_dodge_charger_1970-610x307.jpg">
 
 ## SPYiNG is why I lost everything and everybody
 <div class="flex3BorderedPaddedROW">
@@ -450,6 +555,20 @@ a:hover {
 
 </div>
 
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://i.pinimg.com/564x/cc/72/61/cc7261bf1160fe8cdfb95aaf88d4c8c1.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://i.pinimg.com/564x/cc/72/61/cc7261bf1160fe8cdfb95aaf88d4c8c1.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
 [The Smashing Pumpkins - Bullet with Butterfly Wings (Official Music Video)](https://www.youtube.com/watch?v=8-r-V0uK4u0)
 [Smashing Pumpkins - 1979](https://www.youtube.com/watch?v=Lr58WHo2ndM)
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/3rd_or_4th_century_CE_Kamasutra%2C_Vatsyayana%2C_13th-century_Jayamangala_commentary_of_Yashodhara%2C_Bendall_purchase_1885CE_in_Nepal%2C_Sanskrit%2C_Devanagari%2C_verso_side_9th_folio.jpg/1024px-thumbnail.jpg">
@@ -1663,6 +1782,9 @@ I want Heather, Lauren, Kelela, all the ladies you dont speak to and visit [LALi
   </div>
 </div>
 <h2>	(╯°□°)╯︵ ʞooqǝɔɐɟ </h2>
+<p>  <span class="firstcharacter">PiNTEREST LocksOutFATHERS"</span> 
+It has been over two weeks since I have logged in. I found Sartu, my kidnapped wife from Ethiopia via ##ALPHARETTA. The previous time I found her she exclaimed "That's My Husband!!", and the captors refused to let her go. Im at a point in my life where I have gathered my life partners. The truth is that is too much power. I went to ##DANCE411 in Atlanta for sometime between parenting, working as a ##DevOps_ENGiNEER, and ##JiUJiTSU. A group of women that are blowing up the RnB Chitlin_Circuit of today chose me as thier dance husband... My from my understanding 4th cousin Muna and 8th cousin Sartu from ##ETHiO_SOMOLiA and about 10 other women decided we would start a business to support our artistic endevors and care for our children. They were all kidnapped with our children and sold into a ##PROSTiTUTION_MARKET_in_SOUTHERN_CALiFORNiA... We have relationships outdoors, but the pimps rape them systematically for use in a global ##SEX_TOURiSM_TRADE. The Human traffickers stole and steal everything I reaccquire to get on the internet. And when I travel to use computers at local librays in #LOS_ANGELES_COUNTY, I am severely stalked, attacked, poisoned with chemical weapons and randomly aharrassed. I was using pinterest to serve up internet content for our large families spiritual needs. Those of us from Africa are Muslims, and we had a semi-healthy stint with Jehovahs Witnesses. So we are a very spiritually minded family. However many of the pimps are anti god that we are dealing with... People on the late night show and everything are involved. Long story short.. Pinterest was our watering hole. I could post content bulletin board #style, and interact with my wives and children in passing as we wait for my old job JPL to step in   the CIA/FBi/US_MARSHALLS and other services in law enforcement has helped us contact since Erikas dissapearance was taken in by the ##DEKALB_COUNTY_SHRIFFs office and they told me to post constantly to stay visible... People dissapear when the dont post in this era of ##ECONOMIC_ASSASINATION_of_FATHERS_FOR_THE_PURPOSE_OF_PROSTITUTITUING_HEALTHY_FAMiLiES
+</p>
 <img src="https://www.graffiti.org/fresno/sleepwall7.jpg">
 
 [Billy Ocean - Get Outta My Dreams, Get Into My Car (Official Video)](https://www.youtube.com/watch?v=zNgcYGgtf8M)
@@ -2260,6 +2382,286 @@ Thanks for the song, it left me in tears
 </div>
 <a href="https://soundcloud.com/nija-music/love-like-this?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><p>Love Like This - Nija</p></a>  
 
+<span class="firstcharacter">
+	## GANG RAPE IN CONCERT LAW – PENAL CODE 264.1 PC</span>
+
+<p>California Penal Code 264.1 PC makes it a crime to act in concert with another person in the commission of a rape, commonly known as “gang rape.”
+
+This rape in concert statute applies when two or more people work together to engage in non-consensual sexual intercourse with a victim. PC 264.1 gang rape is a crime in itself, not a sentencing enhancement for other offenses.
+
+Gang Rape in Concert Law in California – Penal Code 264.1 PC
+PC 264.1 describes gang rape gang rape as two or more people working together to commit a rape.
+Rape is a crime in every state, but California has a specific law making it a crime for two or more people to cooperate (or act in concert) in committing an act of rape.
+
+PC 264.1 legally defines rape in concert as “when the defendant, voluntarily acting in concert with another person, by force or violence against the victim's will to commit a sex crime, either personally or by aiding and abetting the other person, that fact shall be charged in the indictment….”
+
+Simply put, rape in concert with another is charged under Penal Code 264.1 PC when forcible rape occurs while acting in concert with another or aiding and abetting the commission of a rape.
+
+The prosecution must prove that the alleged victim was forcibly raped to convict someone under this statute. Next, it must be proven that you were criminally liable for committing the rape or aided and abetted the rape.
+
+Rape, defined under Penal Code 261 PC, is a serious felony sex offense that carries significant legal penalties if you are convicted. In addition to the lengthy state prison sentence, you could be ordered by the judge to register as a sex offender and have a violent strike on your record for life.
+
+In this article by our Los Angeles criminal defense attorneys, we will examine this topic in more detail below.
+
+OVERVIEW OF CALIFORNIA'S “GANG RAPE” LAW
+Penal Code 264.1 makes it a felony offense for any two or more people to act in concert to commit an act of non-consensual sex against someone else. You violate this law if you:
+
+Commit an act of rape with someone else's assistance; OR
+Assist someone in committing an act of rape (i.e., aiding and abetting).
+This law does not differentiate between the person committing the rape and those assisting. All are charged with the same crime and are subject to the same penalties as though they all raped the victim, no matter what role they played in the act itself.
+
+Under California law, the person who “aids and abets” someone in the act of rape is also charged with an in-concert act of rape. “Aiding and abetting” a crime means the following:
+
+You knew of the perpetrator's intentions beforehand;
+You intended to help them commit the crime; and
+You assisted or facilitated the crime by words or deeds.
+One important note: You technically do not have to be physically present to aid and abet a crime. You simply have to have done something material that contributed to its commission.
+
+This means that under certain circumstances, you could be charged under California's gang rape law without being physically present when the alleged rape occurred if prosecutors can show that you had a hand in the planning, for example.
+
+This statute only applies to serious felony sexual-related crimes such as Penal Code 261 rape, Penal Code 262 spousal rape (repealed), and Penal Code 289 PC forcible sexual penetration with a foreign object.
+
+WHAT ARE SOME EXAMPLES OF RAPE IN CONCERT?
+Two or more people break into a home to burglarize it and find a couple occupying the home. One holds the husband at gunpoint while the other rapes the wife;
+A frat party gets out of hand, and a group of men takes turns raping a woman while the others hold her down;
+An angry ex-boyfriend brings an accomplice to the ex-girlfriend's house “just to talk.” Several friends are present. The accomplice distracts the friends with conversation in one room while the ex-boyfriend rapes the girl in the bedroom.
+WHAT ARE THE PENALTIES FOR PENAL CODE 264.1 PC?
+The penalties for gang rape are pretty straightforward. The crime is always charged as a felony offense, and the maximum penalties are based on the age of the victim:
+
+If the victim is an adult 18 or older…up to 9 years in prison;
+If the victim is a minor over the age of 14…up to 11 years in prison;
+If the victim is under age 14…up to 14 years in prison.
+These legal penalties above are in addition to the sentence for the underlying rape conviction.
+
+WHAT ARE THE SEXUAL-RELATED OFFENSES?
+Penal Code 264.1 PC gang rape is often charged in tandem with other crimes due to its violent and forceful nature. These may include but are not limited to the following below.
+
+Penal Code 261 PC rape - in certain instances, the person who raped the victim may also be charged with the separate crime of rape.
+
+Charges Related to Gang Rape
+Prosecutors could also file other related crimes to rape in concert, such as oral copulation by force or fear.
+Penal Code 240 PC assault - attempting to use force on someone else, commonly during gang rape events. Penal Code 242 PC battery - using force on someone else (e.g., hitting the victim while the rape occurs).
+
+Penal Code 220 PC assault with intent to commit a felony -a separate felony often charged with sex crimes such as rape or gang rape.
+
+Penal Code 287 PC oral copulation by force or fear is non-consensual contact between someone's mouth and another person's genitals.
+
+Penal Code 243.4 PC sexual battery – this is the crime of touching the intimate parts of someone's body for sexual gratification.
+
+Penal Code 288 PC lewd acts with a minor – this is the severe crime of lewd and lascivious acts with a minor child under 14 years old.
+
+Penal Code 261.5 PC statutory rape is the crime of having sexual intercourse with someone under 18, even if there was consent.
+
+Penal Code 286 PC sodomy – this is the crime of contact between the penis and anus of another person by use of force, fear, or threats,
+
+WHAT ARE THE COMMON DEFENSES?
+Suppose you're charged with gang rape, and you are the person accused of actually committing the act of rape. In that case, your defenses are relatively limited, except for establishing an alibi, mistaken identity, or false accusation, for example.
+
+If you are accused in the role of aiding and abetting a gang rape, however, your attorney may employ several types of defenses to have you acquitted or to have the charges dropped or reduced. These include, but are not limited to:
+
+You didn't intend to aid or abet. Perhaps you were unaware of the rapist's intentions, for example, in an adjoining room, unaware the rape was occurring;
+You withdrew your intention to aid or abet. In other words, you may have initially intended to participate in the crime, but you had a change of heart. This defense works best if you can provide evidence or witness testimony that you made your intentions clear to the other defendants and actively tried to prevent the crime.
+Other defenses to rape in concert charges include arguing that the alleged victim gave consent. Perhaps we can prove through direct or circumstantial evidence that the victim permitted the sexual activity.
+
+Perhaps we can show that the allegations are false and you were wrongfully arrested after the alleged victim had regrets about consenting to have sexual intercourse. Maybe the accuser had a motivation to lie.
+
+Common Defenses for Gang Rape Charges
+There are several common defense to challenge allegations that you committed PC 264.1 gang rape.
+Perhaps we could argue that you did not know that you had no idea that rape was about to occur even though you were present. Maybe you are the victim of misidentification by the alleged victim.
+
+Perhaps there was misconduct by the police, such as an illegal search or a coerced confession.  If we can show law enforcement acted unlawfully, then the prosecution may be forced to drop the case. Prosecutors have the burden to prove guilt beyond any reasonable doubt. The criminal charge should be dropped if they can't meet this high burden.
+
+Further, depending on the case, we might be able to negotiate with the prosecutor for reduced charges or get a case dismissal. Also, prefiling negotiation with law enforcement and the District Attorney's Office, it might be possible to persuade them from filing formal criminal charges in the first place, called a “DA reject.”
+
+Eisner Gorin LLP is based in Los Angeles County, and we serve people across the state of California. You can reach us for an initial case review by calling (877) 781-1570 or filling out the contact form.	
+</div>	
+</div>
+<img src="https://images.squarespace-cdn.com/content/v1/62447dd4d881f678fe92e43a/ccffd19b-ea72-4639-a916-0df64dac9d59/3356412.jpg?format=750w">
+<img src="https://images.squarespace-cdn.com/content/v1/62447dd4d881f678fe92e43a/5195141b-4ea9-488a-b4f6-af819a8cbbc2/duro+cia+graffiti+sketch+26.jpg?format=750w">
+<img src="https://images.squarespace-cdn.com/content/v1/62447dd4d881f678fe92e43a/a3f800d8-f1ba-417e-8d90-0fea43fe2099/0492+Large2.jpg?format=1500w">
+<img src="https://images.squarespace-cdn.com/content/v1/62447dd4d881f678fe92e43a/da30794c-b30a-4b6e-8e7f-cb7f5fdb7798/duro+cia+graffiti+%2314.jpg">
+<img src="https://www.graffiti.org/trains/jek-train02.jpg">
+<img src="https://m.media-amazon.com/images/I/91b3+jqIK4L._SS500_.jpg">
+
+<div>
+## Talking with Children About War
+www.medicinenet.com
+
+In addition to the children whose lives have been directly impacted by the terrorist attacks and war, most children have seen terrifying images of destruction on television and the Internet. They are reading newspapers and they have heard stories on the radio that speak of grave losses of life. They will also take emotional cues from the adults in their lives who have been watching these events closely.
+
+As adults turn to address the needs of the children in their lives in the aftermath of the tragic and traumatic events, the following are some points to keep in mind:
+
+Adults need to consider the impact of their reactions upon their children. By creating a calm and relaxed environment in their homes through their own demeanor, they can help their children to feel safe. That may not be possible for all families, particularly those that have been directly impacted. If they have been visibly anxious or upset, adults need to take the time to explain to the children in their lives what they are feeling and why.
+
+Taking the time to listen and talk to children is very important. Many children will have seen images on television that will prompt questions. They will continue to hear about these events in the coming days as well and will be reminded by images through media and in their everyday lives, so it is important to keep those lines of communication open.
+In talking to children, adults can and should try to reinforce that they are doing everything in their power to make sure their children are safe, and explain that the events that took place, or that are taking place, occurred in buildings that are symbols to the outside world or that are part of our national defense system. Assure them that adults are working to make sure homes and schools are safe.
+
+Helping children to separate fact from fiction is also important. Adults should try to discuss known facts with children, and help avoid speculation or exaggeration.
+
+Incidents have occurred since the 9/11 tragedy where children of Middle Eastern descent have been threatened or taunted. This is an excellent opportunity to help children understand that most individuals who are from other countries are fine and good people who live in and love the United States as much as they do, and that one should make judgments on an individual basis.
+
+Adults can also talk with children about the senselessness of violence, hate and terrorism. They can explain that our country is committed to protecting the freedom, opportunity and safety of people throughout the world.
+
+Although you hear it suggested often, if you are home with a child, you should take extra efforts to limit their television, radio and Internet activity in order to avoid excessive exposure to imagery of the damage and destruction. Consider activities that you can do with your child instead. Confine your own viewing to times when children are less likely to be present.
+Adults need to make it a priority to watch the children in their lives, and understand their behavior. Children may manifest some behavioral and emotional changes, including misbehavior, sleeplessness, nightmares and general anxiety. These are signs to parents that reassurance and care are needed.
+
+If a family has strong faith, this is a time to talk about that faith with children and to help them relate what has taken place to those lessons and beliefs. It is also a time to pray for all of those families who have been touched by the destruction and loss of life.
+
+Children and adolescents may also be struggling to understand the immorality of the terrorist attacks or war. This is an opportunity for adults to help children understand the presence of good and evil in the world and discuss children's concerns about a moral and safe future.
+
+Children will have a range of reactions and will display a variety of emotions. Adults need to be tolerant of that behavior and need to explain to children that it is okay to be upset or disturbed.
+
+If your child wants to be unusually close to you, like sleeping in your bed or running all errands with you, it is okay to make changes to your normal routine and contact, but at the very beginning you should create a clear understanding that this is unusual and negotiate a quick return to your normal pattern.
+
+Adults need to consider how the events may have had some relevance to their daily activities. For example, if you travel often by plane, work in a tall building or in an area that is highly populated, you may find that your child does not want to be separated from you. It is important to take the time to talk about and help your children to feel secure about separations and understand your activities and routine.
+
+It may take some time for children to show signs of stress or anxiety, so the adults in their lives need to stay especially attuned for changes in behavior. Children within a single family may display very different reactions from one another. Adolescents in particular may display reckless behavior in the aftermath of the events.
+
+Finally, it may help to engage your children in activities where they can offer constructive assistance to the victims of the violence. With young children, you may want to send drawings and cards. If your child is a teenager, he or she may want to donate blood or volunteer with a community organization that is offering help to the victims of the terrorist attacks or war.
+If you think you need professional assistance in meeting the needs of a child in your life, there are resources available to you. There are excellent state and county mental health organizations around the country. Schools, community based organizations and religious institutions that are located in your community can help with guidance and counseling or direct you to the right services.
+
+For additional information, please visit the Posttraumatic Stress Center.
+
+This information has been provided with the kind permission of the US Department of Education (www.ed.gov).
+Last Editorial Review: 4/2/2003
+
+http://www.medicinenet.com/script/main/art.asp?articlekey=22905
+
+
+</div>
+<div>
+	<span class="firstcharacter">
+	
+	Perspectives on Acquaintance Rape
+David G. Curtis, Ph.D., B.C.E.T.S.
+Clinical Associate, Long Island Psychological Associates, P.C.
+	
+	</span>
+
+
+
+
+<h1 class="neonText">I. What is Acquaintance Rape?</h1>
+
+Acquaintance rape, which is also referred to as "date rape" and "hidden rape," has been increasingly recognized as a real and relatively common problem within society. Much of the attention that has been focused on this issue has emerged as part of the growing willingness to acknowledge and address issues associated with domestic violence and the rights of women in general in the past three decades. Although the early and mid 1970's saw the emergence of education and mobilization to combat rape, it was not until the early 1980's that acquaintance rape began to assume a more distinct form in the public consciousness. The scholarly research done by psychologist Mary Koss and her colleagues is widely recognized as the primary impetus for raising awareness to a new level.
+
+The publication of Koss' findings in the popular Ms. magazine in 1985 informed millions of the scope and severity of the problem. By debunking the belief that unwanted sexual advances and intercourse were not rape if they occurred with an acquaintance or while on a date, Koss compelled women to reexamine their own experiences. Many women were thus able to reframe what had happened to them as acquaintance rape and became better able to legitimize their perceptions that they were indeed victims of a crime. The results of Koss' research were the basis of the book by Robin Warshaw, first published in 1988, entitled I Never Called it Rape.
+
+For current purposes, the term acquaintance rape will be defined as being subjected to unwanted sexual intercourse, oral sex, anal sex, or other sexual contact through the use of force or threat of force. Unsuccessful attempts are also subsumed within the term "rape." Sexual coercion is defined as unwanted sexual intercourse, or any other sexual contact subsequent to the use of menacing verbal pressure or misuse of authority (Koss, 1988).
+
+<h3 class="neonText">II. Legal Perspectives on Acquaintance Rape</h3>
+
+The electronic media have developed an infatuation with trial coverage in recent years. Among the trials which have received the most coverage have been those involving acquaintance rape. The Mike Tyson/Desiree Washington and William Kennedy Smith/Patricia Bowman trials garnered wide scale television coverage and delivered the issue of acquaintance rape into living rooms across America. Another recent trial which received national attention involved a group of teenaged boys in New Jersey who sodomized and sexually assaulted a mildly retarded 17-year old female classmate. While the circumstances in this instance differed from the Tyson and Smith cases, the legal definition of consent was again the central issue of the trial. Although the Senate Judiciary Committee hearings on the Supreme Court nomination of Judge Clarence Thomas were obviously not a rape trial, the focal point of sexual harassment during the hearings expanded national consciousness regarding the demarcations of sexual transgression. The sexual assault which took place at the Tailhook Association of Navy Pilots annual convention in 1991 was well documented. At the time of this writing, events involving sexual harassment, sexual coercion, and acquaintance rape of female Army recruits at the Aberdeen Proving Grounds and other military training facilities are being investigated.
+
+As these well publicized events indicate, an increased awareness of sexual coercion and acquaintance rape has been accompanied by important legal decisions and changes in legal definitions of rape. Until recently, clear physical resistance was a requirement for a rape conviction in California. A 1990 amendment now defines rape as sexual intercourse "where it is accomplished against a person's will by means of force, violence, duress, menace, or fear of immediate and unlawful bodily injury." The important additions are "menace" and "duress," as they include consideration of verbal threats and implied threat of force (Harris, in Francis, 1996). The definition of "consent" has been expanded to mean "positive cooperation in act or attitude pursuant to an exercise of free will. A person must act freely and voluntarily and have knowledge of the nature of the act or transaction involved." In addition, a prior or current relationship between the victim and the accused is not sufficient to imply consent. Most states also have provisions which prohibit the use of drugs and/or alcohol to incapacitate a victim, rendering the victim unable to deny consent.
+
+Acquaintance rape remains a controversial topic because of lack of agreement upon the definition of consent. In an attempt to clarify this definition, in 1994, Antioch College in Ohio adopted what has become an infamous policy delineating consensual sexual behavior. The primary reason this policy has stirred such an uproar is that the definition of consent is based on continuous verbal communication during intimacy. The person initiating the contact must take responsibility for obtaining the other participant's verbal consent as the level of sexual intimacy increases. This must occur with each new level. The rules also state that "If you have had a particular level of sexual intimacy before with someone, you must still ask each and every time." (The Antioch College Sexual Offense Policy, in Francis, 1996).
+
+This attempt to remove ambiguity from the interpretation of consent was hailed by some as the closest thing yet to an ideal of "communicative sexuality." As is often the case with ground breaking social experimentation, it was ridiculed and lampooned by the majority of those who responded to it. Most criticism centered on reducing the spontaneity of sexual intimacy to what seemed like an artificial contractual agreement.
+
+III. Social Perspectives on Acquaintance Rape
+
+Feminists have traditionally devoted much attention to issues such as pornography, sexual harassment, sexual coercion, and acquaintance rape. The sociological dynamics which influence the politics of sexual equality tend to be complicated. There is no single position taken by feminists on any of the aforementioned issues; there are differing and often conflicting opinions. Views on pornography, for example, are divided between two opposing camps. Libertarian feminists, on one hand, distinguish between erotica (with themes of healthy consensual sexuality) and pornography (material that combines the "graphic sexually explicit" with depictions which are "actively subordinating, treating unequally, as less than human, on the basis of sex." (MacKinnon, in Stan, 1995). Socalled "protectionist" feminists tend not to make such a distinction and view virtually all sexually-oriented material as exploitative and pornographic.
+
+Views on acquaintance rape also appear quite capable of creating opposing camps. Despite the violent nature of acquaintance rape, the belief that many victims are actually willing, consenting participants is held by both men and women alike. "Blaming the victim" seems to be an all too prevalent reaction to acquaintance rape. Prominent authors have espoused this idea in editorial pages, Sunday Magazine sections, and popular journal articles. Some of these authors are women (a few identify themselves as feminists) who appear to justify their ideas by drawing conclusions based on their own personal experiences and anecdotal evidence, not wide-scale, systematic research. They may announce that they too have probably been raped while on a date to illustrate their own inevitable entanglement in the manipulation and exploitation which are part of interpersonal relations. It has also been implied that a natural state of aggression between men and women is normal, and that any woman who would go back to a man's apartment after a date is "an idiot." While there may be a certain degree of cautionary wisdom in the latter part of this statement, such views have been criticized for being overly simplistic and for simply submitting to the problem.
+
+There has been a recent flurry of these literary exchanges on acquaintance rape between women's rights advocates, who have been working to raise public awareness, and a relatively small group of revisionists who perceive that the feminist response to the problem has been alarmist. In 1993, The Morning After: Sex, Fear, and Feminism on Campus by Katie Roiphe was published. Roiphe alleged that acquaintance rape was largely a myth created by feminists and challenged the results of the Koss study. Those who had responded and mobilized to meet the problem of acquaintance rape were called "rape-crisis feminists." This book, including excerpted in many major women's magazines, argued that the magnitude of the acquaintance rape problem was actually very small. Myriad critics were quick to respond to Roiphe and the anecdotal evidence she gave to her claims.
+
+IV. Research Findings
+
+The research of Koss and her colleagues has served as the foundation of many of the investigations on the prevalence, circumstances, and aftermath of acquaintance rape within the past dozen or so years. The results of this research have served to create an identity and awareness of the problem. Equally as important has been the usefulness of this information in creating prevention models. Koss acknowledges that there are some limitations to the research. The most significant drawback is that her subjects were drawn exclusively from college campuses; thus, they were not representative of the population at large. The average age of the subjects was 21.4 years. By no means does this negate the usefulness of the findings, especially since the late teens and early twenties are the peak ages for the prevalence of acquaintance rape. The demographic profile of the 3,187 female and 2,972 male students in the study was similar to the makeup of the overall enrollment in higher education within the United States. Here are some of the most important statistics:
+
+Prevalence
+
+One in four women surveyed was victim of rape or attempted rape.
+An additional one in four women surveyed was touched sexually against her will or was victim of sexual coercion.
+84 percent of those raped knew their attacker.
+57 percent of those rapes happened while on dates.
+One in twelve male students surveyed had committed acts that met the legal definitions of rape or attempted rape.
+84 percent of those men who committed rape said that what they did was definitely not rape.
+Sixteen percent of the male students who committed rape and ten percent of those who attempted a rape took part in episodes involving more than one attacker.
+Responses of the Victim
+
+Only 27 percent of those women whose sexual assault met the legal definition of rape thought of themselves as rape victims.
+42 percent of the rape victims did not tell anyone about their assaults.
+Only five percent of the rape victims reported the crime to the police.
+Only five percent of the rape victims sought help at rape-crisis centers.
+Whether they had acknowledged their experience as a rape or not, thirty percent of the women identified as rape victims contemplated suicide after the incident.
+82 percent of the victims said that the experience had permanently changed them.
+V. Myths About Acquaintance Rape
+
+There are a set of beliefs and misunderstandings about acquaintance rape that are held by a large portion of the population. These faulty beliefs serve to shape the way acquaintance rape is dealt with on both personal and societal levels. This set of assumptions often presents serious obstacles for victims as they attempt to cope with their experience and recovery.
+
+<h2>Myth vs Reality</h2>
+
+A woman who gets raped usually deserves it, especially if she has agreed to go to a man's house or park with him.	No one deserves to be raped. Being in a man's house or car does not mean that a woman has agreed to have sex with him.
+If a woman agrees to allow a man to pay for dinner, drinks, etc., then it means she owes him sex.	Sex is not an implied payback for dinner or other expense no matter how much money has been spent.
+Acquaintance rape is committed by men who are easy to identify as rapists.	Women are often raped by "normal" acquaintances who resemble "regular guys."
+Women who don't fight back haven't been raped.	Rape occurs when one is forced to have sex against their will, whether they have decided to fight back or not.
+Intimate kissing or certain kinds of touching mean that intercourse is inevitable.	Everyone's right to say "no" should be honored, regardless of the activity which preceded it.
+Once a man reaches a certain point of arousal, sex is inevitable and they can't help forcing themselves upon a woman.	Men are capable of exercising restraint in acting upon sexual urges.
+Most women lie about acquaintance rape because they have regrets after consensual sex.	Acquaintance rape really happens - to people you know, by people you know.
+Women who say "No" really mean "Yes."	This notion is based on rigid and outdated sexual stereotypes.
+Certain behaviors such as drinking or dressing in a sexually appealing way make rape a woman's responsibility.	Drinking or dressing in a sexually appealing way are not invitations for sex.
+VI. Who are the Victims?
+
+Although it is not possible to make accurate predictions about who will be subjected to acquaintance rape and who won't, there is some evidence that certain beliefs and behaviors may increase the risk of becoming a victim. Women who subscribe to "traditional" views of men occupying a position of dominance and authority relative to women (who are seen as passive and submissive) may be at increased risk. In a study where the justifiability of rape was rated based on fictional dating scenarios, women with traditional attitudes tended to view the rape as acceptable if the women had initiated the date (Muehlenhard, in Pirog-Good and Stets, 1989). Drinking alcohol or taking drugs appears to be associated with acquaintance rape. Koss (1988) found that at least 55 percent of the victims in her study had been drinking or taking drugs just before the attack. Women who are raped within dating relationships or by an acquaintance are seen as "safe" victims because they are unlikely to report the incident to authorities or even view it as rape. Not only did a mere five percent of the women who had been raped in the Koss study report the incident, but 42 percent of them had sex again with their assailants.
+
+The company one keeps may be a factor in predisposing women to an increased risk of sexual assault. An investigation of dating aggression and the features of college peer groups (Gwartney-Gibbs & Stockard, in Pirog-Good and Stets, 1989) supports this idea. The results indicate that those women who characterized the men in their mixed-sex social group as occasionally displaying forceful behavior towards women were significantly more likely themselves to be victims of sexual aggression. Being in familiar surroundings does not provide security. Most acquaintance rapes take place in either the victim's or the assailant's home, apartment, or dormitory.
+
+VII. Who Commits Acquaintance Rape?
+
+Just as with the victim, it is not possible to clearly identify individual men who will be participants in acquaintance rape. As a body of research begins to accumulate, however, there are certain characteristics which increase the risk factors. Acquaintance rape is not typically committed by psychopaths who are deviant from mainstream society. It is often expressed that direct and indirect messages given to boys and young men by our culture about what it means to male (dominant, aggressive, uncompromising) contribute to creating a mindset which is accepting of sexually aggressive behavior. Such messages are constantly sent via television and film when sex is portrayed as a commodity whose attainment is the ultimate male challenge. Notice how such beliefs are found within the vernacular of sex: "I'm going to make it with her," "Tonight's the night I'm going to score," "She's never had anything like this before," "What a piece of meat," "She's afraid to give it up."
+
+Nearly everyone is exposed to this sexually biased current by various media, yet this does not account for individual differences in sexual beliefs and behaviors. Buying into stereotypical attitudes regarding sex roles tends to be associated with justification of intercourse under any circumstances. Other characteristics of the individual seem to facilitate sexual aggression. Research designed to determine traits of sexually aggressive males (Malamuth, in Pirog-Good and Stets, 1989) indicated that high scores on scales measuring dominance as a sexual motive, hostile attitudes towards women, condoning the use of force in sexual relationships, and the amount of prior sexual experience were all significantly related to self-reports of sexually aggressive behavior. Furthermore, the interaction of several of these variables increased the chance that an individual had reported sexually aggressive behavior. The inability to appraise social interactions, as well as prior parental neglect or sexual or physical abuse early in life may also be linked with acquaintance rape (Hall & Hirschman, in Wiehe and Richards, 1995). Finally, taking drugs or alcohol is commonly associated with sexual aggression. Of the men who were identified as having committed acquaintance rape, 75 percent had taken drugs or alcohol just prior to the rape (Koss, 1988).
+
+<h2> VIII. The Effects of Acquaintance Rape </h2>
+
+The consequences of acquaintance rape are often far-reaching. Once the actual rape has occurred and has been identified as rape by the survivor, she is faced with the decision of whether to disclose to anyone what has happened. In a study of acquaintance rape survivors (Wiehe & Richards, 1995), 97 percent informed at least one close confidant. The percentage of women who informed the police was drastically lower, at 28 percent. A still smaller number (twenty percent) decided to prosecute. Koss (1988) reports that only two percent of acquaintance rape survivors report their experiences to the police. This compared with the 21 percent who reported rape by a stranger to the police. The percentage of survivors reporting the rape is so low for several reasons. Self-blame is a recurring response which prevents disclosure. Even if the act has been conceived as rape by the survivor, there is often an accompanying guilt about not seeing the sexual assault coming before it was too late. This is often directly or indirectly reinforced by the reactions of family or friends in the form of questioning the survivor's decisions to drink during a date or to invite the assailant back to their apartment, provocative behavior, or previous sexual relations. People normally relied upon for support by the survivor are not immune to subtly blaming the victim. Another factor which inhibits reporting is the anticipated response of the authorities. Fear that the victim will again be blamed adds to apprehension about interrogation. The duress of reexperiencing the attack and testifying at a trial, and a low conviction rate for acquaintance rapists, are considerations as well.
+
+The percentage of survivors who seek medical assistance after an attack is comparable to the percentage reporting to police (Wiehe & Richards, 1995). Serious physical consequences often emerge and are usually attended to before the emotional consequences. Seeking medical help can also be a traumatic experience, as many survivors feel like they are being violated all over again during the examination. More often than not, attentive and supportive medical staff can make a difference. Survivors may report being more at ease with a female physician. The presence of a rape-crisis counselor during the examination and the long periods of waiting that are often involved with it can be tremendously helpful. Internal and external injury, pregnancy, and abortion are some of the more common physical aftereffects of acquaintance rape.
+
+Research has indicated that the survivors of acquaintance rape report similar levels of depression, anxiety, complications in subsequent relationships, and difficulty attaining pre-rape levels of sexual satisfaction to what survivors of stranger rape report (Koss & Dinero, 1988). What may make coping more difficult for victims of acquaintance rape is a failure of others to recognize that the emotional impact is just as serious. The degree to which individuals experience these and other emotional consequences varies based on factors such as the amount of emotional support available, prior experiences, and personal coping style. The way that a survivor's emotional harm may translate into overt behavior also depends on individual factors. Some may become very withdrawn and uncommunicative, others may act out sexually and become promiscuous. Those survivors who tend to deal the most effectively with their experiences take an active role in acknowledging the rape, disclosing the incident to appropriate others, finding the right help, and educating themselves about acquaintance rape and prevention strategies.
+
+One of the most serious psychological disorders which can develop as the result of acquaintance rape is Posttraumatic Stress Disorder (PTSD). Rape is just one of many possible causes of PTSD, but it (along with other forms of sexual assault) is the most common cause of PTSD in American women (McFarlane & De Girolamo, in van der Kolk, McFarlane, & Weisaeth, 1996). PTSD as it relates to acquaintance rape is defined as in the Diagnostic and Statistical Manual of Mental Disorders-Fourth Edition as "the development of characteristic symptoms following exposure to an extreme traumatic stressor involving direct personal experience of an event that involves actual or threatened death or serious injury, or other threat to one's physical integrity" (DSM-IV, American Psychiatric Association, 1994). A person's immediate response to the event includes intense fear and helplessness. Symptoms which are part of the criteria for PTSD include persistent reexperiencing of the event, persistent avoidance of stimuli associated with the event, and persistent symptoms of increased arousal. This pattern of reexperiencing, avoidance, and arousal must be present for at least one month. There must also be an accompanying impairment in social, occupational, or other important realm of functioning (DSM-IV, APA, 1994).
+
+If one takes note of the causes and symptoms of PTSD and compares them to thoughts and emotions which might be evoked by acquaintance rape, it is not difficult to see a direct connection. Intense fear and helplessness are likely to be the core reactions to any sexual assault. Perhaps no other consequence is more devastating and cruel than the fear, mistrust, and doubt triggered by the simple encounters and communication with men which are a part of everyday living. Prior to the assault, the rapist had been indistinguishable from non rapists. After the rape, all men may be seen as potential rapists. For many victims, hypervigilance towards most men becomes permanent. For others, a long and difficult recovery process must be endured before a sense of normalcy returns.
+
+IX. Prevention
+
+The following section has been adapted from I Never Called It Rape, by Robin Warshaw. Prevention is not just the responsibility of the potential victims, that is, of women. Men may try to use acquaintance rape myths and false stereotypes about "what women really want" to rationalize or excuse sexually aggressive behavior. The most widely used defense is to blame the victim. Education and awareness programs, however, can have a positive effect in encouraging men to take increased responsibility for their behavior. Despite this optimistic statement, there will always be some individuals who won't get the message. Although it may be difficult, if not impossible, to detect someone who will commit acquaintance rape, there are some characteristics which can signal trouble. Emotional intimidation in the form of belittling comments, ignoring, sulking, and dictating friends or style of dress may indicate high levels of hostility. Projecting an overt air of superiority or acting as if one knows another much better than the one actually does may also be associated with coercive tendencies. Body posturing such as blocking a doorway or deriving pleasure from physically startling or scaring are forms of physical intimidation. Harboring negative attitudes toward women in general can be detected in the need to speak derisively of previous girlfriends. Extreme jealousy and an inability to handle sexual or emotional frustration without anger may reflect potentially dangerous volatility. Taking offense at not consenting to activities which could limit resistance, such as drinking or going to a private or isolated place, should serve as a warning.
+
+Many of these characteristics are similar to each other and contain themes of hostility and intimidation. Maintaining an awareness of such a profile may facilitate quicker, clearer, and more resolute decision-making in problematic situations. Practical guidelines which may be helpful in decreasing the risk of acquaintance rape are available. Expanded versions, as well as suggestions about what to do if rape occurs, may be found in Intimate Betrayal: Understanding and Responding to the Trauma of Acquaintance Rape (Wiehe & Richards, 1995) and I Never Called It Rape (Warshaw, 1994).
+
+References
+
+American Psychiatric Association, (1994). Diagnostic and statistical manual of mental disorders (4th ed.). Washington, DC: Author.
+
+Francis, L., Ed. (1996) Date rape: Feminism, philosophy, and the law. University Park, PA: Pennsylvania State University Press.
+
+Gwartney-Gibbs, P. & Stockard, J. (1989). Courtship aggression and mixed-sex peer groups In M.A. Pirog-Good & J.E. Stets (Eds.)., Violence in dating relationships: Emerging social issues (pp. 185-204). New York, NY: Praeger.
+
+Harris, A.P. (1996). Forcible rape, date rape, and communicative sexuality. In L. Francis (Ed.)., Date rape: Feminism, philosophy, and the law (pp. 51-61). University Park, PA: Pennsylvania State University Press.
+
+Koss, M.P. (1988). Hidden rape: Sexual aggression and victimization in the national sample of students in higher education. In M.A. Pirog-Good & J.E. Stets (Eds.)., Violence in dating relationships: Emerging social issues (pp. 145168). New York, NY: Praeger.
+
+Koss, M.P. & Dinero, T.E. (1988). A discriminant analysis of risk factors among a national sample of college women. Journal of Consulting and Clinical Psychology, 57, 133-147.
+
+Malamuth, N.M. (1989). Predictors of naturalistic sexual aggression. In M.A. Pirog-Good & J.E. Stets (Eds.)., Violence in dating relationships: Emerging social issues (pp. 219- 240). New York, NY: Praeger.
+
+McFarlane, A.C. & DeGirolamo, G. (1996). The nature of traumatic stressors and the epidemiology of posttraumatic reactions. In B.A. van der Kolk, A.C. McFarlane & L. Weisaeth (Eds.)., Traumatic stress: The effects of overwhelming experience on mind, body, and society (pp. 129-154). New York, NY: Guilford.
+
+Muehlenhard, C.L. (1989). Misinterpreted dating behaviors and the risk of date rape. In M.A. Pirog-Good & J.E. Stets (Eds.)., Violence in dating relationships: Emerging social issues (pp. 241-256). New York, NY: Praeger.
+
+Stan, A.M., Ed. (1995). Debating sexual correctness: Pornography, sexual harassment, date rape, and the politics of sexual equality. New York, NY: Delta.
+
+Warshaw, R. (1994). I never called it rape. New York, NY: HarperPerennial.
+
+Wiehe, V.R. & Richards, A.L. (1995). Intimate betrayal: Understanding and responding to the trauma of acquaintance rape. Thousand Oaks, CA: Sage.
+
+David G. Curtis, Ph.D., B.C.E.T.S., is a Clinical and School Psychologist. As a consulting psychologist with Long Island Psychological Associates, P.C. in New York he is involved with the evaluation and treatment of survivors of traumatic events. Dr. Curtis is also a school psychologist in the Merrick School District. He is the author and coordinator of the District's Crisis Response Plan. He is a Board Certified Expert in Traumatic Stress and Diplomate of the American Academy of Experts in Traumatic Stress, where he also serves on the Scientific Advisory Board. Dr. Curtis has held an Adjunct Professor position at Hofstra University. He has presented at various conferences on topics such as Attention Deficit Disorder and Psychological Inhibitors of Athletic Performance. He is a member of the American Psychological Association, the Association for the Advancement of Behavior Therapy, the Nassau County Psychological Association, and the Suffolk County Psychological Association.
+
+©1997 by The American Academy of Experts in Traumatic Stress, Inc.
 
 <h2>Here is a SKATE_ViD4YAH</h2>
 
