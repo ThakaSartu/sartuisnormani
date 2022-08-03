@@ -103,7 +103,7 @@ h3 {
 </video></div>
 
 </div>
-
+<img src="https://www.carbodydesign.com/media/2014/01/1967-Porsche-911-Targa-advertisement.jpg">
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
