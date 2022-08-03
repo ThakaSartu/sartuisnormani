@@ -1,25 +1,11 @@
 <style>
-
+/* TEST FONT_RESET */
 html {
 
 font-family: -apple-system, Ubuntu, "Ariel Black", Verdana;
 
 }
 
-body {
-	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
-  background-attachment: fixed;
-
-}
-
-
-
-iframe {
-  margin: 0px;
-  padding: 0px;
-  background-image: url("https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/bd_iFRAME_HOLDiN_iMAGE.jpg");
-  border: none;
-}
 
 
 /* AUDiO+PLAYER+CSS */
