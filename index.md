@@ -295,9 +295,8 @@ a:hover {
 }
 
 </style>
-<span class="neonText">
-Everything should be done in love.
- - 1 Corinthians 16:14</span>
+<span class="neonText"> Everything should be done in love.
+<span class="neonText">   1 Corinthians 16:14</span>
 
 # Hole To Another Universe
 ### ##JANET_HAS_STRUGGLED_SO_LONG##
