@@ -28,13 +28,16 @@ body {
 
 /* General & 'Reset' Stuff */
 img {
- 
+  display: block;
+  object-fit: contain;
+  max-width: 100%;
+  border: 0px solid #c9ff23;
 }
 .container {
   width: 90%;
   max-width: $container-max-width;
   margin: 0 auto;
-  border-left: #b5e853;
+  border-left: #c9ff23;
   /* ##ADDED##BOX_SHADOW */
   box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
 
@@ -263,7 +266,12 @@ a {
   color: #63c0f5;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
-
+a:hover {
+  color: #c9ff23;
+}  
+a:visited {
+  color: #FF0A97;
+}  
 /* Clearfix */
 
 .cf:before, .cf:after {

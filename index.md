@@ -52,9 +52,7 @@ h3 {
 }
 */
 
-a:hover {
-  color: #c9ff23;
-}  
+
 
  /* SARTUS_PROPOSAL_PLAYER */
   
@@ -67,6 +65,10 @@ a:hover {
 
 </style>
 <h1> Hole To Another Universe </h1>
+
+[The Sequence ‎– Funk You Up ℗ 1979](https://www.youtube.com/watch?v=r-08GnDOMWw)
+[Meeting Mexican Elvis | Gabriel Iglesias](https://www.youtube.com/watch?v=G3pdLtOoR5A)
+[Black Siri | Gabriel Iglesias](https://www.youtube.com/watch?v=CNgOqNNWLQ4)
 
 <h2>Aaliyah – One In A Million
 Label:	Atlantic</h2>
