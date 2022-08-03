@@ -3,8 +3,12 @@
 body {
 	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
   background-attachment: fixed;
+  font-family: Verdana,"Arial Black", Tahoma; 
 	
 }
+
+
+
 iframe {
   margin: 0px;
   padding: 0px;
@@ -82,8 +86,6 @@ h3 {
   background: transparent
     url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-gray.gif)
     center repeat;
-  font-family: Monaco, "Helvetica Neue", "Bitstream Vera Sans Mono", sans-serif,
-    "Lucida Console", Terminal;
   font-weight: 900;
   padding: 0px;
   margin: 0px;
@@ -288,6 +290,11 @@ a:hover {
 
 </style>
 # Hole To Another Universe
+[Aikido_ Yo_ALiCia_KeYS_CHeCK_iT_OUT](https://www.youtube.com/watch?v=ZWiXV8DqlWQ)
+[ (   ° ᴗ°)~ð  (/❛o❛\) ##DEAR_SARTU Inmate Gets Married In Prison | Louisiana Lockdown E6 | Our Life (   ° ᴗ°)~ð  (/❛o❛\) ](https://www.youtube.com/watch?v=XnKOkIxOReI)
+[ ( • )( • ) ԅ(≖‿≖ԅ) ##DEAR_BOOSiE New Inmates Arrive At Louisiana State Prison | Louisiana Lockdown E5 | Our Life ( • )( • ) ԅ(≖‿≖ԅ) ](https://www.youtube.com/watch?v=lszowepKWtA)
+[I Survived Sexual and Physical Abuse | Minutes With | @LADbible TV](https://www.youtube.com/watch?v=pqnSihfif50)
+[Dr. Phil S17E71 From Disney Star to Homeless and in Danger: Will Orlando Brown Accept Treatment?](https://www.youtube.com/watch?v=5EyzMdbyjGU)
 ## UNKLE – Psyence Fiction
 <img src="https://storage-01-mda.keyfram.es/p/63/59/renditions/NTk6cC82My81OS80YzI3ODg4ZTBiZWFhNTljMWE5N2ZiMmE4MjI4YmIxYS5qcGVnOjg2ODo=.jpg">
 <div class='twoPanelSpread'>
