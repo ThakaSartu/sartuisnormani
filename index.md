@@ -66,6 +66,22 @@ h3 {
 </style>
 <h1> Hole To Another Universe </h1>
 
+<img src="https://images.genius.com/e2983f1a77733b4b6cdc4e35baba371b.1000x264x1.png">
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://i.pinimg.com/564x/b7/df/22/b7df22449904dac66babdf945b225967.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY_AND_SO_IS_MY_WIFE_SEVYN_STREETER" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="##BUBBLEGUM_POP##IS_HERE_TO_STAY_AND_SO_IS_MY_WIFE_SEVYN_STREETER" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>	
+
 [ODESZA - The Last Goodbye (Full Album)](https://www.youtube.com/watch?v=nNSEumhSjos)
 <img src="https://media.pitchfork.com/photos/62d87339c5312d1bfdc9d2fc/1:1/w_600/Odesza%20-%20The%20Last%20Goodbye.jpeg" >
 
