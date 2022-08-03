@@ -30,13 +30,17 @@ body {
 img {
   display: block;
   object-fit: contain;
+  padding:0px;
+  margin: 0px;
   max-width: 100%;
   border: 0px solid #c9ff23;
 }
+
 .container {
   width: 90%;
   max-width: $container-max-width;
   margin: 0 auto;
+  padding: 0px ;
   border-left: #c9ff23;
   /* ##ADDED##BOX_SHADOW */
   box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
@@ -122,7 +126,9 @@ header h2 {
   -webkit-font-smoothing: antialiased;
 }
 section img {
-  max-width: 100%
+  max-width: 100%;
+  padding: 0px;
+  margin:auto;
 }
 
 h1, h2, h3, h4, h5, h6 {

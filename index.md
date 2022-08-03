@@ -151,7 +151,7 @@ Label:	Atlantic</h2>
 </div>
 
 
-[Voyeurism##_OUT_IN_THe_OPEN_ON_YOUTUBE##MY_FAMILY_HAS THIS_ISSUE With these kinds of criminals ](https://www.youtube.com/watch?v=oETVDKbThcE)
+[Voyeurism##_OUT_IN_THe_OPEN YOUTUBE MY_FAMILY_HAS THIS_ISSUE With these kinds of criminals ](https://www.youtube.com/watch?v=oETVDKbThcE)
 [Scientists Prove That Telepathic Communication Is Within Reach](https://www.smithsonianmag.com/innovation/scientists-prove-that-telepathic-communication-is-within-reach-180952868/)
 ```
 echo "An international research team develops a way to say “hello” with your mind"
