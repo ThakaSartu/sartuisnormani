@@ -119,6 +119,7 @@ h3 {
   </div>
 </div>
 
+<img src="https://i.pinimg.com/originals/76/74/db/7674dbeac73ff4dc4fd24905c5adceb7.png">
 
 [Singer Sevyn Streeter Says 76ers Stopped Her From Performing National Anthem Over ‘We Matter’ Shirt](https://time.com/4547448/sevyn-streeter-76ers-national-anthem-we-matter/)
 
