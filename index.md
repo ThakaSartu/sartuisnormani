@@ -72,7 +72,7 @@ background: linear-gradient(90deg, rgba(2,0,36,0.5220417633410672) 0%, rgba(0,21
 
 }
 h1 {
-  font-size: 70px;
+  font-size: 170px;
   margin: 0em 0 0.6em;
   -webkit-column-span: all;
   column-span: all;
