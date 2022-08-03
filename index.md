@@ -66,17 +66,31 @@ h3 {
 </style>
 <h1> Hole To Another Universe </h1>
 
-<img src="https://images.genius.com/e2983f1a77733b4b6cdc4e35baba371b.1000x264x1.png">
+<img src="http://www.classiccarstodayonline.com/wp-content/uploads/2012/07/1985-Ferrari-328-ad.jpg">
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
       <div class='leftColumn'>
-        <img src="https://i.pinimg.com/564x/b7/df/22/b7df22449904dac66babdf945b225967.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY_AND_SO_IS_MY_WIFE_SEVYN_STREETER" >
+        <img src="https://i.pinimg.com/564x/18/82/b1/1882b1b3aa1c8e5dccd11add596c282c.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
       </div>
     </div>
     <div class='panelColumn'>
       <div class='rightColumn'>
-        <img src="##BUBBLEGUM_POP##IS_HERE_TO_STAY_AND_SO_IS_MY_WIFE_SEVYN_STREETER" alt="Girl in a jacket" >
+        <img src="https://i.pinimg.com/564x/18/82/b1/1882b1b3aa1c8e5dccd11add596c282c.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>	
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://i.pinimg.com/564x/b7/df/22/b7df22449904dac66babdf945b225967.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://i.pinimg.com/564x/b7/df/22/b7df22449904dac66babdf945b225967.jpg" alt="Girl in a jacket" >
       </div>
     </div>
   </div>
