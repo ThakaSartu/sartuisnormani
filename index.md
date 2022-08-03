@@ -66,6 +66,69 @@ h3 {
 </style>
 <h1> Hole To Another Universe </h1>
 
+<div class="panel4-container">
+   
+  <div class="item1">
+<video width="300"  autoplay loop muted>
+  <source src="https://github.com/ThakaRashard/film1/raw/master/assets/video/SARTU_NORMANiE_NiJA_ARKEiSHA_SCARF_TiE_iMSOiNLOVEWiTCHU_THAKA%23%23THiS_SEVYN_and_SAA2.mp4" type="video/mp4" />
+ 
+  Your browser does not support the video tag.
+</video></div>
+
+  <div class="item2">
+<video width="300"  autoplay loop muted>
+  <source src="https://github.com/ThakaRashard/film1/raw/master/assets/video/SARTU_NORMANiE_NiJA_ARKEiSHA_SCARF_TiE_iMSOiNLOVEWiTCHU_THAKA%23%23THiS_SEVYN_and_SAA2.mp4" type="video/mp4" />
+ 
+  Your browser does not support the video tag.
+</video></div>
+
+  <div class="item3">
+<video width="300"  autoplay loop muted>
+  <source src="https://github.com/ThakaRashard/film1/raw/master/assets/video/SARTU_NORMANiE_NiJA_ARKEiSHA_SCARF_TiE_iMSOiNLOVEWiTCHU_THAKA%23%23THiS_SEVYN_and_SAA2.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video></div>
+
+  <div class="item4">
+<video width="300"  autoplay loop muted>
+  <source src="https://github.com/ThakaRashard/film1/raw/master/assets/video/SARTU_NORMANiE_NiJA_ARKEiSHA_SCARF_TiE_iMSOiNLOVEWiTCHU_THAKA%23%23THiS_SEVYN_and_SAA2.mp4" type="video/mp4" />
+ 
+  Your browser does not support the video tag.
+</video></div>
+
+</div>
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://s1.cdn.autoevolution.com/images/news/these-are-the-best-porsche-print-ads-ever-photo-gallery-81098_15.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://s1.cdn.autoevolution.com/images/news/these-are-the-best-porsche-print-ads-ever-photo-gallery-81098_15.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+
+
+[Singer Sevyn Streeter Says 76ers Stopped Her From Performing National Anthem Over ‘We Matter’ Shirt](https://time.com/4547448/sevyn-streeter-76ers-national-anthem-we-matter/)
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://gossiponthis.com/wp-content/uploads/2016/10/Sevyn-Streeter-We-Matter-76ers.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://gossiponthis.com/wp-content/uploads/2016/10/Sevyn-Streeter-We-Matter-76ers.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
 <img src="http://www.classiccarstodayonline.com/wp-content/uploads/2012/07/1985-Ferrari-328-ad.jpg">
 <div class='twoPanelSpread'>
   <div class='row'>
@@ -97,6 +160,7 @@ h3 {
 </div>	
 
 [ODESZA - The Last Goodbye (Full Album)](https://www.youtube.com/watch?v=nNSEumhSjos)
+
 <img src="https://media.pitchfork.com/photos/62d87339c5312d1bfdc9d2fc/1:1/w_600/Odesza%20-%20The%20Last%20Goodbye.jpeg" >
 
 <div class="sixpanel">
@@ -129,7 +193,7 @@ Label:	Atlantic</h2>
     </div>
   </div>
 </div>	
-<img src="https://www.rollingstone.com/wp-content/uploads/2021/08/AaliyahCreditMarcBaptiste-1.jpeg">
+<img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/video/Aaliyah_jonMarcBaptiste.webp">
 
 [KASHDOLL PONYTAIL | BRANDI B ✨](https://www.youtube.com/watch?v=cD2Jcgdi8-U)
 [Kash Doll Ponytail](https://www.youtube.com/watch?v=0FjsR4D1o-c)
