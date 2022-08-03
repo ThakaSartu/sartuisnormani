@@ -2,7 +2,7 @@
 
 html {
 
-font-family: Ubuntu, "Ariel Black", Verdana;
+font-family: -apple-system, Ubuntu, "Ariel Black", Verdana;
 
 }
 
