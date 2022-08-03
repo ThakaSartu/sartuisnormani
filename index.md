@@ -314,12 +314,12 @@ Everything should be done in love.
 </div>
 
 
-[Voyeurism##_OUT_IN_THe_OPEN_ON_YOUTUBE##MY_FAMILY_HAS_THIS_ISSUE With these kinds of criminals ](https://www.youtube.com/watch?v=oETVDKbThcE)
+[Voyeurism##_OUT_IN_THe_OPEN_ON_YOUTUBE##MY_FAMILY_HAS THIS_ISSUE With these kinds of criminals ](https://www.youtube.com/watch?v=oETVDKbThcE)
 [Scientists Prove That Telepathic Communication Is Within Reach](https://www.smithsonianmag.com/innovation/scientists-prove-that-telepathic-communication-is-within-reach-180952868/)
 ```
 echo "An international research team develops a way to say “hello” with your mind"
 ```
-[Spiderman Cartoon-1967 Season 1 Episode 19]([https://youtu.be/aBzotaBgoRo) [THiNKiNG_OF_YOU##SARTU##ZEE##UNDASTAND_DAH_ZEE_AND_YOU_WILL_INDEED_UNDASTANYND_HUH##](https://youtu.be/9iUE4F9UHok)
+[Spiderman Cartoon-1967 Season 1 Episode 19]([https://youtu.be/aBzotaBgoRo) [THiNKiNG_OF_YOU##SARTU##ZEE##UNDASTAND_DAH_ZEE &YOU_WILL_INDEED_UNDASTANYND_HUH##](https://youtu.be/9iUE4F9UHok)
  ## SAATUZEE_WILL_YOU_MARRY_ME?!
 [DELiRiUM:BY::##ELLiE_GOULDING## ##FAV_TRACK## ## ](https://youtu.be/cLWv0f2Tt8E)
 [DiSCOGS:##ENTRY](https://www.discogs.com/release/8118343-Ellie-Goulding-Delirium)
