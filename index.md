@@ -286,6 +286,25 @@ a:hover {
 </style>
 <h1> Hole To Another Universe </h1>
 
+<h2>Aaliyah – One In A Million
+Label:	Atlantic</h2>
+<img src="https://images.genius.com/e2983f1a77733b4b6cdc4e35baba371b.1000x264x1.png">
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://images.squarespace-cdn.com/content/v1/5f6df5bcd8a0286b9df5948b/1612184707584-OHZ553R3H94R4P1AJJSI/314-Aaliyah-One-In-A-Million.jpg?format=1000w" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://images.squarespace-cdn.com/content/v1/5f6df5bcd8a0286b9df5948b/1612184707584-OHZ553R3H94R4P1AJJSI/314-Aaliyah-One-In-A-Million.jpg?format=1000w" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>	
+<img src="https://www.rollingstone.com/wp-content/uploads/2021/08/AaliyahCreditMarcBaptiste-1.jpeg">
+
 [KASHDOLL PONYTAIL | BRANDI B ✨](https://www.youtube.com/watch?v=cD2Jcgdi8-U)
 [Kash Doll Ponytail](https://www.youtube.com/watch?v=0FjsR4D1o-c)
 [HOW TO: Blunt CUT Genie High Ponytail |KASH DOLL INSPIRED](https://www.youtube.com/watch?v=J20e9z-cW5Y)
