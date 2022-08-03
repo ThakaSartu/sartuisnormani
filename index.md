@@ -66,8 +66,10 @@ h3 {
 </style>
 <h1> Hole To Another Universe </h1>
 
-<div class="sixpanel">
+[ODESZA - The Last Goodbye (Full Album)](https://www.youtube.com/watch?v=nNSEumhSjos)
+<img src="https://media.pitchfork.com/photos/62d87339c5312d1bfdc9d2fc/1:1/w_600/Odesza%20-%20The%20Last%20Goodbye.jpeg" >
 
+<div class="sixpanel">
   <div class="item1"> <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
   <div class="item2"> <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
   <div class="item3"> <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
