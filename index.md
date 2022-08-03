@@ -9,12 +9,7 @@ font-family: -apple-system, Ubuntu, "Ariel Black", Verdana;
 body {
 	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
   background-attachment: fixed;
-<<<<<<< HEAD
-	font-family: Ubuntu, "Ariel Black", Verdana;
-=======
-  font-family: Verdana,"Arial Black", Tahoma; 
-	
->>>>>>> c7092e7ec7c6e08041e5fe505d1d0d33b7a4a9a2
+
 }
 
 
@@ -77,7 +72,7 @@ background: linear-gradient(90deg, rgba(2,0,36,0.5220417633410672) 0%, rgba(0,21
 
 }
 h1 {
-  font-size: 2.6em;
+  font-size: 5rem;
   margin: 0em 0 0.6em;
   -webkit-column-span: all;
   column-span: all;
@@ -85,7 +80,7 @@ h1 {
 }
 
 h2 {
-  font-size: 2em;
+  font-size: 3.5rem;
   
 }
 
