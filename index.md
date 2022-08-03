@@ -286,6 +286,10 @@ a:hover {
 </style>
 <h1> Hole To Another Universe </h1>
 
+[KASHDOLL PONYTAIL | BRANDI B ✨](https://www.youtube.com/watch?v=cD2Jcgdi8-U)
+[Kash Doll Ponytail](https://www.youtube.com/watch?v=0FjsR4D1o-c)
+[HOW TO: Blunt CUT Genie High Ponytail |KASH DOLL INSPIRED](https://www.youtube.com/watch?v=J20e9z-cW5Y)
+[EASY BLUNT CUT | KASH DOLL PONYTAIL INSPIRED LOOK](https://www.youtube.com/watch?v=pOWUBP6XbVM)
 [WEBDESiGN_INSPiRATiON = quentinhocde](https://quentinhocde.com/?ref=onepagelove)
 [WEBDESiGN_INSPiRATiON = DiRECTOR_KHOA_LE](https://lekhoa.com/)
 [WEBDESiGN_INSPiRATiON = BX_FiLMS](https://go.bxfilms.tv/?ref=onepagelove)
