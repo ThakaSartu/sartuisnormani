@@ -517,7 +517,10 @@ html {
   
   }
   
-  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
   
   /* AUDiO+PLAYER+CSS */
   .broken-width {
