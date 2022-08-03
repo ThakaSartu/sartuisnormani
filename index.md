@@ -296,6 +296,16 @@ a:hover {
 }
 
 </style>
+
+<div class="pinupGallery">
+  <img class="pinupImage featured-pinupImage" src="https://i.pinimg.com/750x/9d/fd/e1/9dfde147d7a2b0f01c64d691c3d62e2f.jpg" alt="">
+  <img class="pinupImage" src="https://i.pinimg.com/750x/9d/fd/e1/9dfde147d7a2b0f01c64d691c3d62e2f.jpg" alt="">
+  <img class="pinupImage" src="https://i.pinimg.com/750x/9d/fd/e1/9dfde147d7a2b0f01c64d691c3d62e2f.jpg" alt="">
+  <img class="pinupImage" src="https://i.pinimg.com/750x/9d/fd/e1/9dfde147d7a2b0f01c64d691c3d62e2f.jpg" alt="">
+</div>
+
+[Mahmoud Ahmed With Roha Band (1986)](https://www.youtube.com/watch?v=1o-kDk-O1H8)
+
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/Screenshot%202022-08-03%2011.09.31%20AM.png" >
 
 <iframe width="90%" height="315" src="https://www.youtube.com/embed/dFKcJIIR0yM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
