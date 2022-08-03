@@ -58,7 +58,7 @@ background: linear-gradient(90deg, rgba(2,0,36,0.5220417633410672) 0%, rgba(0,21
 
 }
 h1 {
-  font-size: 170px;
+  
   margin: 0em 0 0.6em;
   -webkit-column-span: all;
   column-span: all;
@@ -70,6 +70,8 @@ h2 {
   font-size: 3.5rem;
   
 }
+/* MiGRATE_TO_SCSS 
+
 
 h2,
 h1,
@@ -88,7 +90,7 @@ h3 {
   text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff,
     0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
 }
-
+*/
 
 a:hover {
   color: #c9ff23;
@@ -282,9 +284,14 @@ a:hover {
 }
 
 </style>
-
+[WEBDESiGN_INSPiRATiON = quentinhocde](https://quentinhocde.com/?ref=onepagelove)
+[WEBDESiGN_INSPiRATiON = DiRECTOR_KHOA_LE](https://lekhoa.com/)
+[WEBDESiGN_INSPiRATiON = BX_FiLMS](https://go.bxfilms.tv/?ref=onepagelove)
+[WEBDESiGN_iNSPiRATiON = BARCAMP_OMAHA](https://www.barcampomaha.org/?ref=onepagelove)
+[WEBDESiGN_iNSPiRATiON = SCOTTiSH_HiDAWAY](https://scottishhideaway.com/?ref=onepagelove)
 
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/Screenshot%202022-08-03%2011.09.31%20AM.png" >
+
 <div class="pinupGallery">
   <img class="pinupImage featured-pinupImage" src="https://i.pinimg.com/750x/9d/fd/e1/9dfde147d7a2b0f01c64d691c3d62e2f.jpg" alt="">
   <img class="pinupImage" src="https://i.pinimg.com/750x/9d/fd/e1/9dfde147d7a2b0f01c64d691c3d62e2f.jpg" alt="">
