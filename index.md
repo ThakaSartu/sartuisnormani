@@ -1,10 +1,20 @@
 <style>
 
+html {
+
+font-family: Ubuntu, "Ariel Black", Verdana;
+
+}
+
 body {
 	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
   background-attachment: fixed;
+<<<<<<< HEAD
+	font-family: Ubuntu, "Ariel Black", Verdana;
+=======
   font-family: Verdana,"Arial Black", Tahoma; 
 	
+>>>>>>> c7092e7ec7c6e08041e5fe505d1d0d33b7a4a9a2
 }
 
 
@@ -86,6 +96,7 @@ h3 {
   background: transparent
     url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-gray.gif)
     center repeat;
+  
   font-weight: 900;
   padding: 0px;
   margin: 0px;
