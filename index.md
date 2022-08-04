@@ -1,6 +1,14 @@
+[Missy Elliott - Lose Control (feat. Ciara & Fat Man Scoop) [Official Music Video]](https://www.youtube.com/watch?v=na7lIb09898)
+
+![##DEAR_SARTU_SEE_WHAT_I_CAN_DO_TO_MAKE_SOME_HEALTHY_MOVES_MATANGI_HAS_WIFE_AUTORITY_WITH_YOU_MUNA_MUNI_ERIKA_PLEASE_HELP##iMaM_SuM_WeAH](https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/screenshots/BORDERS234.PNG)
+![##DEAR_SARTU_SEE_WHAT_I_CAN_DO_TO_MAKE_SOME_HEALTHY_MOVES_MATANGI_HAS_WIFE_AUTORITY_WITH_YOU_MUNA_MUNI_ERIKA_PLEASE_HELP##iMaM_SuM_WeAH](https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/screenshots/BORDERS2.PNG)
+
+![##DEAR_SARTU_SEE_WHAT_I_CAN_DO_TO_MAKE_SOME_HEALTHY_MOVES_MATANGI_HAS_WIFE_AUTORITY_WITH_YOU_MUNA_MUNI_ERIKA_PLEASE_HELP##iMaM_SuM_WeAH](https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/screenshots/BORDERS.PNG)
+
+![##DEAR_SARTU_SEE_WHAT_I_CAN_DO_TO_MAKE_SOME_HEALTHY_MOVES_MATANGI_HAS_WIFE_AUTORITY_WITH_YOU_MUNA_MUNI_ERIKA_PLEASE_HELP##iMaM_SuM_WeAH](https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/screenshots/BORDERS23.PNG)
 
 
-
+[M.I.A. - Bring The Noize (Matangi Street Edition)](https://www.youtube.com/watch?v=RvUVxYndYuU)
 
 <div class='twoPanelSpread'>
   <div class='row'>
