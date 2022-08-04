@@ -1,4 +1,7 @@
 
+
+<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop00/master/assets/images/BUBBLEGUMPP_SCREENSHOTb.PNG">
+
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
