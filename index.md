@@ -16,7 +16,7 @@
     </div>
   </div>
 </div>
-<h2><a href="https://youtu.be/zekfQq8AI4A">  <em> NiJA::BUiLDiNG STEAM FROM A GRAiN_OF_SALT::ENTRODUCiNG ##_NEOSOUL2018_an_BEYOND Dance411</em> </a> </h2>
+<h2><a href="https://youtu.be/zekfQq8AI4A" target="_blank" alt="Dear_SARTU I love you, your baggage i mine so if imma be happy, you have to be happy">  <em> NiJA::BUiLDiNG STEAM FROM A GRAiN_OF_SALT::ENTRODUCiNG ##_NEOSOUL2018_an_BEYOND Dance411</em> </a> </h2>
 <audio controls class="broken-width">
   <source src="https://github.com/ThakaRashard/bubblegumpop00/raw/master/assets/audio/Nija_LoveLikeThisOfficial_Audio320k.mp3" />
 
