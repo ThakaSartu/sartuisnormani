@@ -20,7 +20,8 @@ Dear Sartu... AHEM Arkeisha. This shit dope, you can hear old LOS_ANGELES DOPE_a
 
 [Camel Bobsled Race - DJ Shadow & Q-Bert (Complete Mix)](https://www.youtube.com/watch?v=Dfmpeo85IMs)
 
-[De La Soul - 3 Feet High and Rising | Full Album HD [1989]](https://www.youtube.com/watch?v=IEZ8SzfRZBo)
+[De La Soul - 3 Feet High and Rising](https://www.youtube.com/watch?v=IEZ8SzfRZBo)
+
 
 <div class='twoPanelSpread'>
   <div class='row'>
