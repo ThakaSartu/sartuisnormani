@@ -69,9 +69,10 @@ h3 {
 </style>
 <h1> Hole To Another Universe </h1>
 
-
+<h2>Kash_Doll_is a </h3>[Rare Hero](https://www.youtube.com/watch?v=l3bhNLtXvHA)
 
 [Kash Doll Makes A Devasting Announcement: “I Lost My Baby”](https://fromthestage.net/kash-doll-makes-a-devasting-announcement-i-lost-my-baby/)
+
 Dear Sartu,
 I saw you were pregnant, in Detroit. Please dont think I hold what the human traffickers did against you. You are my twinFlame and biological counterpart from the Horn of Africa. The porn and pregnancies should not work against you ever because you got tricked. However you told me Jeezy and Travis ate the two children I impregnated you with and Dauud impregnated you and then aborted the child. That pitbull story sounds ridiculous
 
