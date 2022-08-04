@@ -68,6 +68,13 @@ h3 {
 
 </style>
 <h1> Hole To Another Universe </h1>
+<div class="expandingGallery">
+<img src="https://i.pinimg.com/750x/92/c2/ec/92c2ec3a120c8221b728a4269538336e.jpg" />
+<img src="https://i.pinimg.com/750x/b9/ef/70/b9ef70505e12d75ccc3b35b4286e3fea.jpg" />
+<img src="https://i.pinimg.com/750x/01/d4/ce/01d4cefce8c52e4b89488df97e0010ba.jpg" />
+<img src="https://i.pinimg.com/750x/af/29/c9/af29c908dc5809afd3a42391aaf830fb.jpg" />
+<img src="https://i.pinimg.com/750x/c4/f7/74/c4f7749e94baf3659116194c8d061249.jpg" />
+</div>
 
 [Paradise City - Guns N' Roses](https://www.youtube.com/watch?v=yGSsfsYzHGw)
 
@@ -90,12 +97,7 @@ h3 {
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/n8kiLtdLEHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <img src="https://images.genius.com/a1cb107c48d4cc842754b23e69ac9005.1000x617x1.jpg">
-<div class="expandingGallery">
-<img src="https://i.pinimg.com/750x/92/c2/ec/92c2ec3a120c8221b728a4269538336e.jpg" /><img src="https://i.pinimg.com/750x/b9/ef/70/b9ef70505e12d75ccc3b35b4286e3fea.jpg" />
-<img src="https://i.pinimg.com/750x/01/d4/ce/01d4cefce8c52e4b89488df97e0010ba.jpg" />
-<img src="https://i.pinimg.com/750x/af/29/c9/af29c908dc5809afd3a42391aaf830fb.jpg" />
-<img src="https://i.pinimg.com/750x/c4/f7/74/c4f7749e94baf3659116194c8d061249.jpg" />
-</div>
+
 
 <div class="panel4-container">
    
