@@ -1,4 +1,11 @@
+<h2>DEAR_SELASSiE_HOUSE, CHECK_OUT A.M. DRE</h2>
+<p>Maybe once the webpresence is solidified, we can make our move to radio in addition to you ladies promoting on  
 
+[SoWnDCLOWD](https://soundcloud.com)
+</p>
+[Dr Dre - KDAY 1580AM](https://www.youtube.com/watch?v=g9Zj_3rTNvA&list=PLcOYYl6J93Z0MWPKmYqXyCY_iEBFbFVCW&index=730)
+
+<h2>##GiTyerLiNks_AbouT_TELEPATHY
 <p><a href="https://slate.com/technology/2017/03/did-the-cia-really-astrally-project-to-mars-in-1984.html">##DID_THE_CIA##ASTRAL_PROJECT_TO_MARS</a>
 <a href="https://comicbook.com/irl/news/cia-documents-leak-extrasensory-perception-mind-telepathy-reveal/">##EXTRA_SENSORY_PERCEPTION##</a>
 <a href="https://www.vice.com/en/article/7k9qag/how-to-escape-the-confines-of-time-and-space-according-to-the-cia">##RAVEN_AT_VICE_KNOWS_PSYCHIC_SHIT##</a>
