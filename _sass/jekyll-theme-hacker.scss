@@ -233,7 +233,8 @@ blockquote {
   padding-left: 10px;
   border-left: 1px dotted $blockquote-border;
   box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
-
+  font-size: 1.3rem;
+  font-style: italic;
 }
 
 pre {
@@ -367,12 +368,13 @@ a:visited {
   justify-content: center;
   align-content: stretch;
   height: 100%;
-  min-width: fit-content;
-  max-width: max-content;
+ /* min-width: fit-content; */
+ /* max-width: max-content; */
+  width: 100%;
   display: grid;
   box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
-
   grid-template-columns: auto auto auto;
+  object-fit: contain;
 }
 
 .sixpanel>div {
