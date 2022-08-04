@@ -1,6 +1,22 @@
 
 
-<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop00/master/assets/images/BUBBLEGUMPP_SCREENSHOTb.PNG">
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/52546803&color=%234c4494&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/bizz-3new" title="bizz-3" target="_blank" style="color: #cccccc; text-decoration: none;">bizz-3</a> · <a href="https://soundcloud.com/bizz-3new/street-fighter-3rd-strike-ost" title="Street Fighter 3rd Strike OST -  Character Select Theme" target="_blank" style="color: #cccccc; text-decoration: none;">Street Fighter 3rd Strike OST -  Character Select Theme</a></div>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+<img src="https://i.pinimg.com/564x/93/2d/5d/932d5d1ab4ccb0a9af75360ed976f575.jpg" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+<img src="https://i.pinimg.com/564x/93/2d/5d/932d5d1ab4ccb0a9af75360ed976f575.jpg" >
+      </div>
+    </div>
+  </div>
+</div>
+
+![SCREENSHOT](https://raw.githubusercontent.com/ThakaRashard/bubblegumpop00/master/assets/images/BUBBLEGUMPP_SCREENSHOTb.PNG)
 
 <div class='twoPanelSpread'>
   <div class='row'>
