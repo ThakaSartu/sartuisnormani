@@ -66,6 +66,9 @@ h3 {
 </style>
 <h1> Hole To Another Universe </h1>
 
+<img src="https://typedifferent.com/fonts/bd_globus/bd_globus_example1.jpg">
+<img src="https://typedifferent.com/fonts/bd_roylac/bd_roylac_example5.jpg">
+<img src="https://typedifferent.com/fonts/bd_roylac/bd_roylac_example1.jpg">
 <img src="https://typedifferent.com/fonts/bd_fluke/bd_fluke_example1.jpg">
 
 [Love Connection | WGN | 1995 | Partial](https://www.youtube.com/watch?v=uawoP7Rq6cg)
