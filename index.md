@@ -66,6 +66,7 @@ h3 {
 </style>
 <h1> Hole To Another Universe </h1>
 
+[Love Connection | WGN | 1995 | Partial](https://www.youtube.com/watch?v=uawoP7Rq6cg)
 [Buy Me That! A Kids' Survival Guide to TV Advertising (VHS 1989)](https://www.youtube.com/watch?v=LaVM2XG4wvE) 
 [COCO_CHANEL TEEN_SUMMiT featuring Master P 1997 Heaven For a Gangsta](https://www.youtube.com/watch?v=NNOYC__fKWE)
 [Hot new CSS rules to try now](https://www.creativebloq.com/features/hot-new-css-rules-to-try-now/2)
