@@ -1,11 +1,11 @@
 
 ![SCREENSHOT](https://raw.githubusercontent.com/ThakaRashard/bubblegumpop00/master/assets/images/BUBBLEGUMPP_SCREENSHOT.PNG)
 
-<h2>DEAR_SELASSiE_HOUSE, CHECK_OUT A.M. DRE</h2>
+<h2>DEAR_SELASSiE_HOUSE, CHECK_OUT A.M.RADiOH DRE</h2>
 <p>Maybe once the webpresence is solidified, we can make our move to radio in addition to you ladies promoting on  
-
-[SoWnDCLOWD](https://soundcloud.com)
+<a href="https://soundcloud.com">##SoWnDCLOWD</a>
 </p>
+
 
 [Dr Dre - KDAY 1580AM](https://www.youtube.com/watch?v=g9Zj_3rTNvA&list=PLcOYYl6J93Z0MWPKmYqXyCY_iEBFbFVCW&index=730)
 
