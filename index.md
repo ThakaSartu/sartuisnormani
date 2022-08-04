@@ -5,34 +5,8 @@ html {
 }
 
 /* TEXT_EFFECTS */
-p {
-  margin: 0px;
-   padding: 10px;
-  display: block;
-color: white;
-  font-size: 1.5rem;
-background: rgb(2,0,36);
-background: linear-gradient(90deg, rgba(2,0,36,0.5220417633410672) 0%, rgba(0,212,255,0.17865429234338748) 100%);
-  letter-spacing: 1px;
-   font-weight: 500;
-  font-style: normal;
-  font-variant: normal;
-  text-transform: none;
 
-}
-h1 {
-  
-  margin: 0em 0 0.6em;
-  -webkit-column-span: all;
-  column-span: all;
-  font-weight: 900;
-  display: block;
-}
 
-h2 {
-  font-size: 3.5rem;
-  
-}
 /* MiGRATE_TO_SCSS 
 
 
@@ -67,6 +41,27 @@ h3 {
  
 
 </style>
+
+[Patti Austin & James Ingram - Baby, Come To Me, From EveryhomeShould_Have_ONE](https://www.youtube.com/watch?v=mHyxPIh3c5w)
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://i.discogs.com/sCPw86Syyznf-wFHSkQLB80NTKqI4naccWLlN6fY_Mg/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Nzc5/OS0xMjQwMDQxMDIy/LmpwZWc.jpeg" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://i.discogs.com/yehIhZp1RI9_5zad43Tq2rbgIyiD-ydjYlDirQYL14E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Nzc5/OS0xMjQwMDQxMDMz/LmpwZWc.jpeg" > 
+      </div>
+    </div>
+  </div>
+</div>
+
+<img src="https://i.discogs.com/GH1fGR4gknrkJKHStzzlzSkGjd9VgXm0wHOq4nuZufM/rs:fit/g:sm/q:90/h:470/w:492/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDMx/NjgtMTMzMzAxMTcw/OC5qcGVn.jpeg">
+
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/TYqdvNni7Kk" title="Baby Come To Me - Patti Austin & James Ingram" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [U.O.E.N.O. (Feat. Future, Rick Ross, A$AP Rocky & Wiz Khalifa)](https://www.youtube.com/watch?v=6I6eGVyBhGU)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/272934915&color=%23c9ff23&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/dreezydreezy" title="Dreezy" target="_blank" style="color: #cccccc; text-decoration: none;">Dreezy</a> · <a href="https://soundcloud.com/dreezydreezy/invincible" title="Invincible" target="_blank" style="color: #cccccc; text-decoration: none;">Invincible</a></div>
