@@ -420,36 +420,43 @@ echo "An international research team develops a way to say “hello” with your
 <img src="https://images.genius.com/a41ee0150f3ce869e2b2546dc569e23c.1000x333x1.jpg">
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Libbd7BCBHE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
- <div class='some-page-wrapper'>
- <div class='row'>
- <div class='column'>
- <div class='blue-column'>
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
  <a href="https://www.youtube.com/watch?v=7TRStCd7qYU"> <img src="https://github.com/ThakaRashard/holetoanotheruniverse/blob/gh-pages/img/vsco5cfd9f85d1d95.jpg?raw=true" alt="Girl in a jacket" > </a>
- </div>
- </div>
- <div class='column'>
- <div class='green-column'>
- <a href="https://www.youtube.com/watch?v=rOGWygPcv78"> <img src="https://github.com/ThakaRashard/holetoanotheruniverse/blob/gh-pages/img/vsco5cfd9f85d1d95.jpg?raw=true" alt="Girl in a jacket" > </a>
- </div>
- </div>
- </div>
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+ <a href="https://www.youtube.com/watch?v=7TRStCd7qYU"> <img src="https://github.com/ThakaRashard/holetoanotheruniverse/blob/gh-pages/img/vsco5cfd9f85d1d95.jpg?raw=true" alt="Girl in a jacket" > </a>
+      </div>
+    </div>
+  </div>
 </div>
+
+
  <img src="https://thesource.com/wp-content/uploads/2022/02/AB3A9173-700x400.jpg" >
  
- <div class='some-page-wrapper'>
- <div class='row'>
- <div class='column'>
- <div class='blue-column'>
- <a href="https://www.youtube.com/watch?v=ARtRsMnTqQc"> <img src="https://raw.githubusercontent.com/ThakaRashard/holetoanotheruniverse/gh-pages/img/WEenNWEE.jpg" alt="Girl in a jacket" > </a>
- </div>
- </div>
- <div class='column'>
- <div class='green-column'>
- <a href="https://youtu.be/ZmPfxMBNilg"> <img src="https://raw.githubusercontent.com/ThakaRashard/holetoanotheruniverse/gh-pages/img/WEenNWEE.jpg" alt="Girl in a jacket" > </a>
- </div>
- </div>
- </div>
-</div>
+
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+         <a href="https://youtu.be/ZmPfxMBNilg"> <img src="https://raw.githubusercontent.com/ThakaRashard/holetoanotheruniverse/gh-pages/img/WEenNWEE.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+         <a href="https://youtu.be/ZmPfxMBNilg"> <img src="https://raw.githubusercontent.com/ThakaRashard/holetoanotheruniverse/gh-pages/img/WEenNWEE.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>	
+
+
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
