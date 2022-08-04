@@ -1,4 +1,19 @@
 
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+<img src="https://i.discogs.com/Tvyoj-QJEd38oLKk7561fG-dxQRZtuOOZ9srunM9kCs/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4Mzk5/MTItMTQxOTQyMTg1/NC00NTg4LmpwZWc.jpeg">
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+<img src="https://i.discogs.com/Tvyoj-QJEd38oLKk7561fG-dxQRZtuOOZ9srunM9kCs/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4Mzk5/MTItMTQxOTQyMTg1/NC00NTg4LmpwZWc.jpeg">
+      </div>
+    </div>
+  </div>
+</div>
+
 ## Early GangstaRap MixTape
 Dear Sartu... AHEM Arkeisha. This shit dope, you can hear old LOS_ANGELES DOPE_and_PROSTiTUTiON ##CULTURE SHARE_WIT_YOR_PEEBS
 
