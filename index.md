@@ -71,6 +71,8 @@ h3 {
 
 <h2>Kash_Doll_is a </h3> 
 
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/HnS9CstXhXY" title="Gaadii Hiree|Full Afaan Oromoo Movie 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[https://youtube.com/shorts/GG99p9d1188?feature=share](https://youtube.com/shorts/GG99p9d1188?feature=share)
 [Feeling Over](https://www.youtube.com/watch?v=Gb_Whn3vGr0)
 [Rare Hero](https://www.youtube.com/watch?v=l3bhNLtXvHA)
 
