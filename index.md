@@ -1,48 +1,44 @@
-<style>
-html {
-	scrollbar-width: auto;
-	scrollbar-color: #15171d #0d0f13;
-}
-
-/* TEXT_EFFECTS */
-
-
-/* MiGRATE_TO_SCSS 
-
-
-h2,
-h1,
-h3 {
-  color: white;
-  background: transparent
-    url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-gray.gif)
-    center repeat;
-  
-  
-  padding: 0px;
-  margin: 0px;
-  display: block;
-  text-align: left;
-
-  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff,
-    0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
-}
-*/
 
 
 
- /* SARTUS_PROPOSAL_PLAYER */
-  
-  
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+<h1>This is heading 1</h1>
+<h2>This is heading 2</h2>
+<h3>This is heading 3</h3>
+<h4>This is heading 4</h4>
+<h5>This is heading 5</h5>
+<h6>This is heading 6</h6>
+
+<p><b>Tip:</b> Use h1 to h6 elements only for headings. Do not use them just to make text bold or big. Use other tags for that. this is also common paragraph text or the p tag</p>
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+<h1>This is heading 1</h1>
+<h2>This is heading 2</h2>
+<h3>This is heading 3</h3>
+<h4>This is heading 4</h4>
+<h5>This is heading 5</h5>
+<h6>This is heading 6</h6>
+
+<p><b>Tip:</b> Use h1 to h6 elements only for headings. Do not use them just to make text bold or big. Use other tags for that. this is also common paragraph text or the p tag</p> 
+      </div>
+    </div>
+  </div>
+</div>
 
 
+<img src="https://i.discogs.com/TLe5sDlGb4fUd3BgzrYBrxeCQacQm2TqZylPsQB9myc/rs:fit/g:sm/q:90/h:318/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTg3/Mi0xMjIxNzIwMzAz/LmpwZWc.jpeg" >
 
-  
- 
-
-</style>
+[THE CUTCAST: DJ QBERT ISSUE 1 - Demolition Pumpkin Squeeze Musik](https://www.youtube.com/watch?v=Vnqsiufbku8)
 
 [Patti Austin & James Ingram - Baby, Come To Me, From EveryhomeShould_Have_ONE](https://www.youtube.com/watch?v=mHyxPIh3c5w)
+
+<img src="https://i.discogs.com/GH1fGR4gknrkJKHStzzlzSkGjd9VgXm0wHOq4nuZufM/rs:fit/g:sm/q:90/h:470/w:492/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDMx/NjgtMTMzMzAxMTcw/OC5qcGVn.jpeg">
+
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
@@ -58,7 +54,7 @@ h3 {
   </div>
 </div>
 
-<img src="https://i.discogs.com/GH1fGR4gknrkJKHStzzlzSkGjd9VgXm0wHOq4nuZufM/rs:fit/g:sm/q:90/h:470/w:492/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDMx/NjgtMTMzMzAxMTcw/OC5qcGVn.jpeg">
+
 
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/TYqdvNni7Kk" title="Baby Come To Me - Patti Austin & James Ingram" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
