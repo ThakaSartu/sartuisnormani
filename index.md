@@ -1,5 +1,8 @@
 
-## ##DiGGiNG_iN_THE_DiRS 
+
+
+
+## DiGGiNG_iN_THE_DiRS 
 
 ## Early GangstaRap MixTape
 Dear Sartu... AHEM Arkeisha. This shit dope, you can hear old LOS_ANGELES DOPE_and_PROSTiTUTiON ##CULTURE SHARE_WIT_YOR_PEEBS
@@ -16,6 +19,8 @@ Dear Sartu... AHEM Arkeisha. This shit dope, you can hear old LOS_ANGELES DOPE_a
 [Dr Dre - KDAY 1580AM](https://www.youtube.com/watch?v=g9Zj_3rTNvA&list=PLcOYYl6J93Z0MWPKmYqXyCY_iEBFbFVCW&index=730)
 
 [Camel Bobsled Race - DJ Shadow & Q-Bert (Complete Mix)](https://www.youtube.com/watch?v=Dfmpeo85IMs)
+
+[De La Soul - 3 Feet High and Rising | Full Album HD [1989]](https://www.youtube.com/watch?v=IEZ8SzfRZBo)
 
 <div class='twoPanelSpread'>
   <div class='row'>
