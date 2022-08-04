@@ -1,5 +1,18 @@
 
-
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop00/master/assets/images/BEAUTiFUL_JAMS_MAH_NIGGAH__ISSA_LADY_NAYMED_JADAHS_DAUGHTER%23%23WILLOW.jpg" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop00/master/assets/images/BEAUTiFUL_JAMS_MAH_NIGGAH__ISSA_LADY_NAYMED_JADAHS_DAUGHTER%23%23WILLOW.jpg" >
+      </div>
+    </div>
+  </div>
+</div>
 
 
 ## DiGGiNG_iN_THE_DiRS 
