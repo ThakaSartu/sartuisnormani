@@ -499,7 +499,8 @@ a:visited {
   --grayscale: 1;
   transition: flex var(--transition), filter var(--transition);
   height: 100%;
-  filter: grayscale(var(--grayscale)) brightness(var(--brightness));
+  /* filter: grayscale(var(--grayscale)) brightness(var(--brightness)); */
+  filter: grayscale(100%);
   object-fit: cover;
   overflow: hidden;
   flex: 1;
