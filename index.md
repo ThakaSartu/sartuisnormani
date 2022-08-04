@@ -1,3 +1,34 @@
+<div class="panel4-container">
+   
+  <div class="item1">
+<video width="300"  autoplay loop muted>
+  <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/SARTU_GREEN.mp4" type="video/mp4" />
+ 
+  Your browser does not support the video tag.
+</video></div>
+
+  <div class="item2">
+<video width="300"  autoplay loop muted>
+  <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/SARTU_GREEN.mp4" type="video/mp4" />
+ 
+  Your browser does not support the video tag.
+</video></div>
+
+  <div class="item3">
+<video width="300"  autoplay loop muted>
+  <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/SARTU_GREEN.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video></div>
+
+  <div class="item4">
+<video width="300"  autoplay loop muted>
+  <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/SARTU_GREEN.mp4" type="video/mp4" />
+ 
+  Your browser does not support the video tag.
+</video></div>
+
+</div>
+
 [Missy Elliott - Lose Control (feat. Ciara & Fat Man Scoop) [Official Music Video]](https://www.youtube.com/watch?v=na7lIb09898)
 
 ![##DEAR_SARTU_SEE_WHAT_I_CAN_DO_TO_MAKE_SOME_HEALTHY_MOVES_MATANGI_HAS_WIFE_AUTORITY_WITH_YOU_MUNA_MUNI_ERIKA_PLEASE_HELP##iMaM_SuM_WeAH](https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/screenshots/BORDERS234.PNG)
@@ -469,71 +500,6 @@ echo "An international research team develops a way to say “hello” with your
 <img src="https://burodestruct.net/sites/default/files/bd_edding_hiphop_arte_teaser2.gif">
 <img src="https://1.bp.blogspot.com/-7vzHG6y1_9E/XIkDNaThsVI/AAAAAAAAGk0/xF-7mExGIfQewadJinCVSfCDZnqN5wNxgCLcBGAs/s1600/VA%2B%25E2%2580%2593%2BErnesto%2BChahoud%2Bpresents%2BTAITU%2BSoul-fuelled%2BStompers%2Bfrom%2B1960s-1970s%2BEthiopia%2B%25282018%2529.jpg">
 
-[Ernesto Chahoud presents TAITU - Soul-fuelled Stompers from 1960s-1970s ##Ethiopia](http://ethio-pain-music.blogspot.com/2019/03/va-ernesto-chahoud-presents-taitu-soul.html)
-<div class="pinupGallery">
-  <img class="pinupImage featured-pinupImage" src="https://3.bp.blogspot.com/-bL5P29jUTk4/Tu8ilkhZOkI/AAAAAAAAAKo/L4yPmmTKEi8/s640/Ethiopian+Groove+Greatest+Hits.jpg" alt="">
-  <img class="pinupImage" src="https://3.bp.blogspot.com/-bL5P29jUTk4/Tu8ilkhZOkI/AAAAAAAAAKo/L4yPmmTKEi8/s640/Ethiopian+Groove+Greatest+Hits.jpg" alt="">
-  <img class="pinupImage" src="https://3.bp.blogspot.com/-bL5P29jUTk4/Tu8ilkhZOkI/AAAAAAAAAKo/L4yPmmTKEi8/s640/Ethiopian+Groove+Greatest+Hits.jpg" alt="">
-  <img class="pinupImage" src="https://3.bp.blogspot.com/-bL5P29jUTk4/Tu8ilkhZOkI/AAAAAAAAAKo/L4yPmmTKEi8/s640/Ethiopian+Groove+Greatest+Hits.jpg" alt="">
-</div>
-
-[... my passion for ethiopian music ...](http://ethio-pain-music.blogspot.com/)
-[Aikido_ Yo_ALiCia_KeYS_CHeCK_iT_OUT](https://www.youtube.com/watch?v=ZWiXV8DqlWQ)
-[ (   ° ᴗ°)~ð  (/❛o❛\) ##DEAR_SARTU Inmate Gets Married In Prison | Louisiana Lockdown E6 | Our Life (   ° ᴗ°)~ð  (/❛o❛\) ](https://www.youtube.com/watch?v=XnKOkIxOReI)
-[ ( • )( • ) ԅ(≖‿≖ԅ) ##DEAR_BOOSiE New Inmates Arrive At Louisiana State Prison | Louisiana Lockdown E5 | Our Life ( • )( • ) ԅ(≖‿≖ԅ) ](https://www.youtube.com/watch?v=lszowepKWtA)
-[I Survived Sexual and Physical Abuse | Minutes With | @LADbible TV](https://www.youtube.com/watch?v=pqnSihfif50)
-[Dr. Phil S17E71 From Disney Star to Homeless and in Danger: Will Orlando Brown Accept Treatment?](https://www.youtube.com/watch?v=5EyzMdbyjGU)
-## UNKLE – Psyence Fiction
-<img src="https://storage-01-mda.keyfram.es/p/63/59/renditions/NTk6cC82My81OS80YzI3ODg4ZTBiZWFhNTljMWE5N2ZiMmE4MjI4YmIxYS5qcGVnOjg2ODo=.jpg">
-<div class='twoPanelSpread'>
-  <div class='row'>
-    <div class='panelColumn'>
-      <div class='leftColumn'>
-        <img src="https://m.media-amazon.com/images/I/81sryEub31L._SY450_.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
-      </div>
-    </div>
-    <div class='panelColumn'>
-      <div class='rightColumn'>
-        <img src="https://m.media-amazon.com/images/I/81sryEub31L._SY450_.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
-      </div>
-    </div>
-  </div>
- </div>
-
-[UNKLE - Psyence Fiction (full album)](https://www.youtube.com/watch?v=ojYI5XUlMV0) [UNKLE - Psyence Fiction (full album)](https://www.youtube.com/watch?v=ojYI5XUlMV0)
-
-
-
-## SUBURBAN_WIFEY_NiGHTMARE
-[KASHDOLL ROBBED IN LA!!!](https://www.youtube.com/watch?v=6s4slL3_jtI)
-# Dear_HAYAT
-## Sartu_got_robbed
-<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/sort/Screenshot%202022-08-01%202.30.18%20AM.png">
-
-[Please watch this video, you can feel her terror.](https://www.youtube.com/watch?v=6s4slL3_jtI) As we both know her parents were murdered during that 80s criminal ass regime in [Dire-Dawa](https://en.wikipedia.org/wiki/Dire_Dawa), earlier this week on the phone she left me inspired to look at the [RealEstate_iN_DiRE_DAWA](https://jiji.com.et/houses-apartments-for-sale). And I feel so helpless shes raped and sodomized to the point I often dont recognize her and Im going mad with lonelyness. As you know we are well known in Alpharetta, Hollywood and Venice's telepath communites as a fully telekinetic Tantric couple thats separated by prostitution. People in hollywood think because she is posted on the internet shes not kidnapped. I work for JPL still and I was taken away from my job because all my women got kidnapped. Including Muna, that derlic ass Cracker SEVER_MSK has ruined her, she is so fucking whitewashed and the children get no contact with me they have all caught so much BLACK_ENTERTAiNMENT_NETWORK_DiCK they dont look the same after all the molestation. Can you talk to DAnielle_Mushonga for us DPSS_iS_CLEARLY_HUMAN_TRAFFiCKiNG_WiTH_DFACS
-[Please watch this video, you can feel her terror.](https://www.youtube.com/watch?v=6s4slL3_jtI) 
-<img src="https://images.genius.com/a41ee0150f3ce869e2b2546dc569e23c.1000x333x1.jpg">
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/Libbd7BCBHE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-<div class='twoPanelSpread'>
-  <div class='row'>
-    <div class='panelColumn'>
-      <div class='leftColumn'>
- <a href="https://www.youtube.com/watch?v=7TRStCd7qYU"> <img src="https://github.com/ThakaRashard/holetoanotheruniverse/blob/gh-pages/img/vsco5cfd9f85d1d95.jpg?raw=true" alt="Girl in a jacket" > </a>
-      </div>
-    </div>
-    <div class='panelColumn'>
-      <div class='rightColumn'>
- <a href="https://www.youtube.com/watch?v=7TRStCd7qYU"> <img src="https://github.com/ThakaRashard/holetoanotheruniverse/blob/gh-pages/img/vsco5cfd9f85d1d95.jpg?raw=true" alt="Girl in a jacket" > </a>
-      </div>
-    </div>
-  </div>
-</div>
-
-
- <img src="https://thesource.com/wp-content/uploads/2022/02/AB3A9173-700x400.jpg" >
- 
 
 
 <div class='twoPanelSpread'>
@@ -704,40 +670,79 @@ echo "An international research team develops a way to say “hello” with your
     </div>
   </div>
 </div>
+
 [The Smashing Pumpkins - Bullet with Butterfly Wings (Official Music Video)](https://www.youtube.com/watch?v=8-r-V0uK4u0)
 [Smashing Pumpkins - 1979](https://www.youtube.com/watch?v=Lr58WHo2ndM)
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/3rd_or_4th_century_CE_Kamasutra%2C_Vatsyayana%2C_13th-century_Jayamangala_commentary_of_Yashodhara%2C_Bendall_purchase_1885CE_in_Nepal%2C_Sanskrit%2C_Devanagari%2C_verso_side_9th_folio.jpg/1024px-thumbnail.jpg">
-<div class="panel4-container">
-   
-  <div class="item1">
-<video width="300"  autoplay loop muted>
-  <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/SARTU_GREEN.mp4" type="video/mp4" />
- 
-  Your browser does not support the video tag.
-</video></div>
 
-  <div class="item2">
-<video width="300"  autoplay loop muted>
-  <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/SARTU_GREEN.mp4" type="video/mp4" />
- 
-  Your browser does not support the video tag.
-</video></div>
-
-  <div class="item3">
-<video width="300"  autoplay loop muted>
-  <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/SARTU_GREEN.mp4" type="video/mp4" />
-  Your browser does not support the video tag.
-</video></div>
-
-  <div class="item4">
-<video width="300"  autoplay loop muted>
-  <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/SARTU_GREEN.mp4" type="video/mp4" />
- 
-  Your browser does not support the video tag.
-</video></div>
-
-</div>
   <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/NORMANiFAiRBG.gif">
+
+[Ernesto Chahoud presents TAITU - Soul-fuelled Stompers from 1960s-1970s ##Ethiopia](http://ethio-pain-music.blogspot.com/2019/03/va-ernesto-chahoud-presents-taitu-soul.html)
+<div class="pinupGallery">
+  <img class="pinupImage featured-pinupImage" src="https://3.bp.blogspot.com/-bL5P29jUTk4/Tu8ilkhZOkI/AAAAAAAAAKo/L4yPmmTKEi8/s640/Ethiopian+Groove+Greatest+Hits.jpg" alt="">
+  <img class="pinupImage" src="https://3.bp.blogspot.com/-bL5P29jUTk4/Tu8ilkhZOkI/AAAAAAAAAKo/L4yPmmTKEi8/s640/Ethiopian+Groove+Greatest+Hits.jpg" alt="">
+  <img class="pinupImage" src="https://3.bp.blogspot.com/-bL5P29jUTk4/Tu8ilkhZOkI/AAAAAAAAAKo/L4yPmmTKEi8/s640/Ethiopian+Groove+Greatest+Hits.jpg" alt="">
+  <img class="pinupImage" src="https://3.bp.blogspot.com/-bL5P29jUTk4/Tu8ilkhZOkI/AAAAAAAAAKo/L4yPmmTKEi8/s640/Ethiopian+Groove+Greatest+Hits.jpg" alt="">
+</div>
+
+[... my passion for ethiopian music ...](http://ethio-pain-music.blogspot.com/)
+[Aikido_ Yo_ALiCia_KeYS_CHeCK_iT_OUT](https://www.youtube.com/watch?v=ZWiXV8DqlWQ)
+[ (   ° ᴗ°)~ð  (/❛o❛\) ##DEAR_SARTU Inmate Gets Married In Prison | Louisiana Lockdown E6 | Our Life (   ° ᴗ°)~ð  (/❛o❛\) ](https://www.youtube.com/watch?v=XnKOkIxOReI)
+[ ( • )( • ) ԅ(≖‿≖ԅ) ##DEAR_BOOSiE New Inmates Arrive At Louisiana State Prison | Louisiana Lockdown E5 | Our Life ( • )( • ) ԅ(≖‿≖ԅ) ](https://www.youtube.com/watch?v=lszowepKWtA)
+[I Survived Sexual and Physical Abuse | Minutes With | @LADbible TV](https://www.youtube.com/watch?v=pqnSihfif50)
+[Dr. Phil S17E71 From Disney Star to Homeless and in Danger: Will Orlando Brown Accept Treatment?](https://www.youtube.com/watch?v=5EyzMdbyjGU)
+## UNKLE – Psyence Fiction
+<img src="https://storage-01-mda.keyfram.es/p/63/59/renditions/NTk6cC82My81OS80YzI3ODg4ZTBiZWFhNTljMWE5N2ZiMmE4MjI4YmIxYS5qcGVnOjg2ODo=.jpg">
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://m.media-amazon.com/images/I/81sryEub31L._SY450_.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://m.media-amazon.com/images/I/81sryEub31L._SY450_.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+  </div>
+ </div>
+
+[UNKLE - Psyence Fiction (full album)](https://www.youtube.com/watch?v=ojYI5XUlMV0) [UNKLE - Psyence Fiction (full album)](https://www.youtube.com/watch?v=ojYI5XUlMV0)
+
+
+
+## SUBURBAN_WIFEY_NiGHTMARE
+[KASHDOLL ROBBED IN LA!!!](https://www.youtube.com/watch?v=6s4slL3_jtI)
+# Dear_HAYAT
+## Sartu_got_robbed
+<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/sort/Screenshot%202022-08-01%202.30.18%20AM.png">
+
+[Please watch this video, you can feel her terror.](https://www.youtube.com/watch?v=6s4slL3_jtI) As we both know her parents were murdered during that 80s criminal ass regime in [Dire-Dawa](https://en.wikipedia.org/wiki/Dire_Dawa), earlier this week on the phone she left me inspired to look at the [RealEstate_iN_DiRE_DAWA](https://jiji.com.et/houses-apartments-for-sale). And I feel so helpless shes raped and sodomized to the point I often dont recognize her and Im going mad with lonelyness. As you know we are well known in Alpharetta, Hollywood and Venice's telepath communites as a fully telekinetic Tantric couple thats separated by prostitution. People in hollywood think because she is posted on the internet shes not kidnapped. I work for JPL still and I was taken away from my job because all my women got kidnapped. Including Muna, that derlic ass Cracker SEVER_MSK has ruined her, she is so fucking whitewashed and the children get no contact with me they have all caught so much BLACK_ENTERTAiNMENT_NETWORK_DiCK they dont look the same after all the molestation. Can you talk to DAnielle_Mushonga for us DPSS_iS_CLEARLY_HUMAN_TRAFFiCKiNG_WiTH_DFACS
+[Please watch this video, you can feel her terror.](https://www.youtube.com/watch?v=6s4slL3_jtI) 
+<img src="https://images.genius.com/a41ee0150f3ce869e2b2546dc569e23c.1000x333x1.jpg">
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Libbd7BCBHE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+ <a href="https://www.youtube.com/watch?v=7TRStCd7qYU"> <img src="https://github.com/ThakaRashard/holetoanotheruniverse/blob/gh-pages/img/vsco5cfd9f85d1d95.jpg?raw=true" alt="Girl in a jacket" > </a>
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+ <a href="https://www.youtube.com/watch?v=7TRStCd7qYU"> <img src="https://github.com/ThakaRashard/holetoanotheruniverse/blob/gh-pages/img/vsco5cfd9f85d1d95.jpg?raw=true" alt="Girl in a jacket" > </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+ <img src="https://thesource.com/wp-content/uploads/2022/02/AB3A9173-700x400.jpg" >
+ 
+
 <h2> Normani_my_WiFE featuring my wife_Cardi_B::WiLDSiDE </h2>
 
   <video controls width="100%" loop >
