@@ -1,4 +1,6 @@
 
+## Early GangstaRap MixTape
+Dear Sartu... AHEM Arkeisha. This shit dope, you can hear old LOS_ANGELES DOPE_and_PROSTiTUTiON ##CULTURE SHARE_WIT_YOR_PEEBS
 
 [Dr Dre - The Roadium Mix Tape - Criminal](https://www.youtube.com/watch?v=8oeff7LxaP4)
 
