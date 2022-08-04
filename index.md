@@ -94,8 +94,25 @@ Dear Sartu... AHEM Arkeisha. This shit dope, you can hear old LOS_ANGELES DOPE_a
 
 [Patti Austin & James Ingram - Baby, Come To Me, From EveryhomeShould_Have_ONE](https://www.youtube.com/watch?v=mHyxPIh3c5w)
 
-<img src="https://i.discogs.com/GH1fGR4gknrkJKHStzzlzSkGjd9VgXm0wHOq4nuZufM/rs:fit/g:sm/q:90/h:470/w:492/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDMx/NjgtMTMzMzAxMTcw/OC5qcGVn.jpeg">
 
+
+
+
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://i.discogs.com/0lIzGWWi-w6vVt1ekwv9dyfOO61SRjtNBrJloKrY8dI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Nzc5/OS0xMjQwMDQxMDIy/LmpwZWc.jpeg" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+<img src="https://i.discogs.com/GH1fGR4gknrkJKHStzzlzSkGjd9VgXm0wHOq4nuZufM/rs:fit/g:sm/q:90/h:470/w:492/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDMx/NjgtMTMzMzAxMTcw/OC5qcGVn.jpeg"> 
+      </div>
+    </div>
+  </div>
+</div>
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
