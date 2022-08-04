@@ -68,6 +68,31 @@ h3 {
 
 </style>
 <h1> Hole To Another Universe </h1>
+
+
+
+[Kash Doll Makes A Devasting Announcement: “I Lost My Baby”](https://fromthestage.net/kash-doll-makes-a-devasting-announcement-i-lost-my-baby/)
+Dear Sartu,
+I saw you were pregnant, in Detroit. Please dont think I hold what the human traffickers did against you. You are my twinFlame and biological counterpart from the Horn of Africa. The porn and pregnancies should not work against you ever because you got tricked. However you told me Jeezy and Travis ate the two children I impregnated you with and Dauud impregnated you and then aborted the child. That pitbull story sounds ridiculous
+
+```
+Today, Arkeisha Knight shared a touching photo of her buddy on Instagram and revealed the sad news with her followers. In addition, she described her feelings about this sad loss and remembered their last 5 years which had together.
+
+This Instagram post has reached more than 80k likes and a lot of followers of her have written many comments to support her due to the unexpected loss of her.
+
+Here’s what Arkeisha stated:
+
+“I lost my baby today 🐶 I love u peso I wish I was there to protect u! my heart is broken 💔💔 I’ve had him for 5 years and he got attacked on Easter by a pit bull next door to his dad’s house…
+
+What do u guys do for pain cause I keep falling asleep? R.I.P peso ❤️🐶.”
+
+A fan named Kia Janeen commented:
+
+“I’m so sorry. I hope they handled the pit.”
+
+```
+
+I hope they handled the pit... You have a dead child by this story, and she simply comments that I hope the dog was murdered. What kind of people are robbing you of your posessions and comfort?
 <img src="https://th.bing.com/th/id/OIP.f2C0BUR7MNnY5Ba4KxRTyQHaHU?pid=ImgDet&rs=1">
 <img src="https://4.bp.blogspot.com/-a5sjDHThiVw/Uhb1tDSOLoI/AAAAAAAAAbI/rn0jwoqMIMY/s640/xp_desktop.jpg" >
 
