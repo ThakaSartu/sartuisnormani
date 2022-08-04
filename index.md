@@ -1,18 +1,5 @@
 
-<div class='twoPanelSpread'>
-  <div class='row'>
-    <div class='panelColumn'>
-      <div class='leftColumn'>
-<img src="https://i.discogs.com/Tvyoj-QJEd38oLKk7561fG-dxQRZtuOOZ9srunM9kCs/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4Mzk5/MTItMTQxOTQyMTg1/NC00NTg4LmpwZWc.jpeg">
-      </div>
-    </div>
-    <div class='panelColumn'>
-      <div class='rightColumn'>
-<img src="https://i.discogs.com/Tvyoj-QJEd38oLKk7561fG-dxQRZtuOOZ9srunM9kCs/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4Mzk5/MTItMTQxOTQyMTg1/NC00NTg4LmpwZWc.jpeg">
-      </div>
-    </div>
-  </div>
-</div>
+## ##DiGGiNG_iN_THE_DiRS 
 
 ## Early GangstaRap MixTape
 Dear Sartu... AHEM Arkeisha. This shit dope, you can hear old LOS_ANGELES DOPE_and_PROSTiTUTiON ##CULTURE SHARE_WIT_YOR_PEEBS
@@ -29,6 +16,26 @@ Dear Sartu... AHEM Arkeisha. This shit dope, you can hear old LOS_ANGELES DOPE_a
 [Dr Dre - KDAY 1580AM](https://www.youtube.com/watch?v=g9Zj_3rTNvA&list=PLcOYYl6J93Z0MWPKmYqXyCY_iEBFbFVCW&index=730)
 
 [Camel Bobsled Race - DJ Shadow & Q-Bert (Complete Mix)](https://www.youtube.com/watch?v=Dfmpeo85IMs)
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+<img src="https://i.discogs.com/Tvyoj-QJEd38oLKk7561fG-dxQRZtuOOZ9srunM9kCs/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4Mzk5/MTItMTQxOTQyMTg1/NC00NTg4LmpwZWc.jpeg" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+<img src="https://i.discogs.com/Tvyoj-QJEd38oLKk7561fG-dxQRZtuOOZ9srunM9kCs/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4Mzk5/MTItMTQxOTQyMTg1/NC00NTg4LmpwZWc.jpeg" >
+      </div>
+    </div>
+  </div>
+</div>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/555176499&color=%23a87c58&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/caveman89" title="Caveman Music + Mixes" target="_blank" style="color: #cccccc; text-decoration: none;">Caveman Music + Mixes</a> · <a href="https://soundcloud.com/caveman89/vinroc-ed-swift-audio-animation-01_side_a" title="Vinroc &amp; Ed Swift Audio Animation 01_Side_A" target="_blank" style="color: #cccccc; text-decoration: none;">Vinroc &amp; Ed Swift Audio Animation 01_Side_A</a></div>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/558569274&color=%23c6a296&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/caveman89" title="Caveman Music + Mixes" target="_blank" style="color: #cccccc; text-decoration: none;">Caveman Music + Mixes</a> · <a href="https://soundcloud.com/caveman89/vinroc-ed-swift-audio-animation-02_side_b" title="Vinroc &amp; Ed Swift Audio Animation 02_Side_B" target="_blank" style="color: #cccccc; text-decoration: none;">Vinroc &amp; Ed Swift Audio Animation 02_Side_B</a></div>
+
+
 
 [OLD_CONTENT::Hole To Another Universe](https://thakarashard.github.io/bubblegumpop00/)
 
@@ -96,6 +103,7 @@ Dear Sartu... AHEM Arkeisha. This shit dope, you can hear old LOS_ANGELES DOPE_a
 <iframe width="100%" height="360" src="https://www.youtube.com/embed/4p37WA51K_U" title="Keeskoo _ Ethiopian Oromo New movie 2022 | Kesko _ Fiilmii Afaan Oromoo Haaraa 2022 | Hatameera" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <h3>Kash_Doll_is a </h3> 
 <iframe width="100%" height="360" src="https://www.youtube.com/embed/HnS9CstXhXY" title="Gaadii Hiree|Full Afaan Oromoo Movie 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [https://youtube.com/shorts/GG99p9d1188?feature=share](https://youtube.com/shorts/GG99p9d1188?feature=share)
 [Feeling Over](https://www.youtube.com/watch?v=Gb_Whn3vGr0)
 [Rare Hero](https://www.youtube.com/watch?v=l3bhNLtXvHA)
