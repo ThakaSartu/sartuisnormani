@@ -1,5 +1,8 @@
 <style>
-
+html {
+	scrollbar-width: auto;
+	scrollbar-color: #15171d #0d0f13;
+}
 
 /* TEXT_EFFECTS */
 p {
