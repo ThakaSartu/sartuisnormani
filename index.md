@@ -66,6 +66,8 @@ h3 {
 </style>
 <h1> Hole To Another Universe </h1>
 
+<img src="https://typedifferent.com/fonts/bd_fluke/bd_fluke_example1.jpg">
+
 [Love Connection | WGN | 1995 | Partial](https://www.youtube.com/watch?v=uawoP7Rq6cg)
 [Buy Me That! A Kids' Survival Guide to TV Advertising (VHS 1989)](https://www.youtube.com/watch?v=LaVM2XG4wvE) 
 [COCO_CHANEL TEEN_SUMMiT featuring Master P 1997 Heaven For a Gangsta](https://www.youtube.com/watch?v=NNOYC__fKWE)
