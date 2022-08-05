@@ -9,6 +9,44 @@
 
 [Norah Jones - Sunrise](https://www.youtube.com/watch?v=fd02pGJx0s0) [Don't Know Why](https://www.youtube.com/watch?v=GtOcxj3NDBI) [Come Away With Me](https://www.youtube.com/watch?v=mvLDrx3YQ4Q) [Q-Bert Skratch tip: CELL PHONES ARE DISTRACTIONS!](https://www.youtube.com/watch?v=or57N6pGYUM)
 
+
+<div class="panel4-container">
+
+  <div class="item1">
+    <video width="300" autoplay loop muted>
+      <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/SARTU_GREEN.mp4" type="video/mp4" />
+
+      Your browser does not support the video tag.
+    </video>
+  </div>
+
+  <div class="item2">
+    <video width="300" autoplay loop muted>
+      <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/SARTU_GREEN.mp4" type="video/mp4" />
+
+      Your browser does not support the video tag.
+    </video>
+  </div>
+
+  <div class="item3">
+    <video width="300" autoplay loop muted>
+      <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/SARTU_GREEN.mp4" type="video/mp4" />
+      Your browser does not support the video tag.
+    </video>
+  </div>
+
+  <div class="item4">
+    <video width="300" autoplay loop muted>
+      <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/SARTU_GREEN.mp4" type="video/mp4" />
+
+      Your browser does not support the video tag.
+    </video>
+  </div>
+
+</div>
+
+[Missy Elliott - Lose Control (feat. Ciara & Fat Man Scoop) [Official Music Video]](https://www.youtube.com/watch?v=na7lIb09898)
+
 [Extra Sci Fi (ALL EPISODES)](https://www.youtube.com/playlist?list=PLhyKYa0YJ_5AuEhpcGAo4ngmSDKuFgZZx)
 
 [Isaac Asimov, Visions For The Future (1992)](https://www.youtube.com/watch?v=V4Ux83nJC0U)
@@ -92,42 +130,6 @@
   </div>
 </div>
 
-<div class="panel4-container">
-
-  <div class="item1">
-    <video width="300" autoplay loop muted>
-      <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/SARTU_GREEN.mp4" type="video/mp4" />
-
-      Your browser does not support the video tag.
-    </video>
-  </div>
-
-  <div class="item2">
-    <video width="300" autoplay loop muted>
-      <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/SARTU_GREEN.mp4" type="video/mp4" />
-
-      Your browser does not support the video tag.
-    </video>
-  </div>
-
-  <div class="item3">
-    <video width="300" autoplay loop muted>
-      <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/SARTU_GREEN.mp4" type="video/mp4" />
-      Your browser does not support the video tag.
-    </video>
-  </div>
-
-  <div class="item4">
-    <video width="300" autoplay loop muted>
-      <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/SARTU_GREEN.mp4" type="video/mp4" />
-
-      Your browser does not support the video tag.
-    </video>
-  </div>
-
-</div>
-
-[Missy Elliott - Lose Control (feat. Ciara & Fat Man Scoop) [Official Music Video]](https://www.youtube.com/watch?v=na7lIb09898)
 
 ![##DEAR_SARTU_SEE_WHAT_I_CAN_DO_TO_MAKE_SOME_HEALTHY_MOVES_MATANGI_HAS_WIFE_AUTORITY_WITH_YOU_MUNA_MUNI_ERIKA_PLEASE_HELP##iMaM_SuM_WeAH](https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/screenshots/BORDERS234.PNG)
 ![##DEAR_SARTU_SEE_WHAT_I_CAN_DO_TO_MAKE_SOME_HEALTHY_MOVES_MATANGI_HAS_WIFE_AUTORITY_WITH_YOU_MUNA_MUNI_ERIKA_PLEASE_HELP##iMaM_SuM_WeAH](https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/screenshots/BORDERS2.PNG)
