@@ -1,3 +1,7 @@
+[Traktor KONTROL Z2 First Look](https://www.youtube.com/watch?v=vQR5Fjgggcg)
+
+[Zeke on the Traktor Kontrol Z2](https://www.youtube.com/watch?v=yOjQzfGsS3g)
+
 [Grand Wizard Rashiem Cutting Up Back In the Day....lost and found cassete tape.](https://www.youtube.com/watch?v=Xp5A4okSVUo)
 
 [GrandMaster Flowers - Brooklyn Park Jam](https://www.youtube.com/watch?v=G8A5fVA70QY)
