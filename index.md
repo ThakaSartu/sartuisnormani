@@ -1,22 +1,7 @@
-
-<div class='twoPanelSpread'>
-  <div class='row'>
-    <div class='panelColumn'>
-      <div class='leftColumn'>
-
-<img src="http://www.nuartfestival.no/getImage?ARTICLE_ID=&IMAGE_ID=4441&WIDTH=713">
-      </div>
-    </div>
-    <div class='panelColumn'>
-      <div class='rightColumn'>
-
-<img src="http://www.nuartfestival.no/getImage?ARTICLE_ID=&IMAGE_ID=4441&WIDTH=713">
-      </div>
-    </div>
-  </div>
-</div>
-
-
+<video playsinline="" autoplay="" loop="" muted="" poster="https://vossenwheels.com/wp-content/uploads/2020/01/EVO-1-3P956x764.mov" class="background" height="50vw">
+							<source src="https://vossenwheels.com/wp-content/uploads/2020/01/EVO-1-3P956x764.mov" type="video/mp4">
+						</video>
+			
 <img src="https://www.drips.fr/wp-content/uploads/2018/01/drips-punchline-1200-19.jpg" >
 
 ## SPYiNG is why I lost everything and everybody
