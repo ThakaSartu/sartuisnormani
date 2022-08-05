@@ -1,5 +1,7 @@
 [Isaac Asimov - Master of Science - Extra Sci Fi - #1](https://www.youtube.com/watch?v=RGdcmupG7aA)
 
+[😍MY GLAM ROOM💋 TOUR✨From Start to Finish(ImpressionsVanity AmazonMarshall’s $1Tree](https://www.youtube.com/watch?v=GzGwJ7xWasY)
+
 [ATLANTA SEX TRAFFICKING (SAFTY TIPS) MUST WATCH❗️ROSE POCAHONTAS](https://www.youtube.com/watch?v=bAh23XrvjEE) 
 
 [SEX TRAFFICKING IN ATLANTA GEORGIA❗️I ALMOST GOT KIDNAPPED❗️(story time😱🤬)ROSE POCAHONTAS](https://www.youtube.com/watch?v=UoZJYTRZgpc)
