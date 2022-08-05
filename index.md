@@ -1,4 +1,4 @@
-[Q-Bert VS. Craze /TTV vol.3/](https://www.youtube.com/watch?v=J1-V99dVZgk)
+[Dj Radar - Live at Thud Rumble: The Main Event (2000) 9,957 views  Nov 10, 2016  Mind Blowing Set!!!!!!!!!!!!!...](https://www.youtube.com/watch?v=vdAGrII0ups)
 
 [Traktor KONTROL Z2 First Look](https://www.youtube.com/watch?v=vQR5Fjgggcg)
 
