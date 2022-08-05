@@ -1,3 +1,17 @@
+
+## SPYiNG is why I lost everything and everybody
+<div class="flex3BorderedPaddedROW">
+  <div class="item1">
+    <a href="https://youtu.be/UE6zfOuYfVI"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/%C3%89douard-Henri_Avril_%284%29.jpg" alt="MONiCA_KNOWS_MUNA_AND_##WE_ALL_NEED_FREEDM_FROM_PROSTiTUTION"> </a>
+  </div>
+  <div class="item2">
+    <a href="https://youtu.be/UE6zfOuYfVI"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/%C3%89douard-Henri_Avril_%284%29.jpg" alt="MONiCA_KNOWS_MUNA_AND_##WE_ALL_NEED_FREEDM_FROM_PROSTiTUTION"> </a>
+  </div>
+  <div class="item3">
+    <a href="https://youtu.be/UE6zfOuYfVI"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/%C3%89douard-Henri_Avril_%284%29.jpg" alt="MONiCA_KNOWS_MUNA_AND_##WE_ALL_NEED_FREEDM_FROM_PROSTiTUTION"> </a>
+  </div>
+</div>
+
 <div class="panel4-container">
    
   <div class="item1">
@@ -104,6 +118,20 @@ Nija is back with the smooth and sultry summer single “Love Like This.” The 
   </div>
 </div>
 
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://www.graffiti.org/sfb/refa2002oakland04.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://i.pinimg.com/originals/3d/d1/9f/3dd19f9c5c7f126af27ba530d94ab168.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>	
 
 ## DiGGiNG_iN_THE_DiRS 
 
@@ -157,6 +185,69 @@ Dear Sartu... AHEM Arkeisha. This shit dope, you can hear old LOS_ANGELES DOPE_a
 
 
 [OLD_CONTENT::Hole To Another Universe](https://thakarashard.github.io/bubblegumpop00/)
+
+
+<div class="flex-container">
+   
+  <div class="item1">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/DEAR_SARTU_IM_READY_FOR_FALL_FEELINGS.gif" /></div>
+    <div class="item2">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/DEAR_SARTU_IM_READY_FOR_FALL_FEELINGS.gif" /></div>
+    <div class="item3">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/DEAR_SARTU_IM_READY_FOR_FALL_FEELINGS.gif" /></div>
+</div>
+## ELLA_MAI_IS_MY_WIFE_AS_WELL
+<img src="https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fwp-content%2Fblogs.dir%2F6%2Ffiles%2F2022%2F07%2Flacoste-ella-mai-brand-ambassador-announcement-0.jpg">
+<div class="flex-container">
+   
+<div class="item1">                        <img src="https://i.guim.co.uk/img/media/ac62baf92b4e03d8da532a8ab4f4456fe344d053/396_137_982_589/master/982.png?width=1200&height=1200&quality=85&auto=format&fit=crop&s=debf6306a52ddf48a1da432565f26ac1" /></div>
+    <div class="item2">                        <img src="https://i.guim.co.uk/img/media/ac62baf92b4e03d8da532a8ab4f4456fe344d053/396_137_982_589/master/982.png?width=1200&height=1200&quality=85&auto=format&fit=crop&s=debf6306a52ddf48a1da432565f26ac1" /></div>
+    <div class="item3">                        <img src="https://i.guim.co.uk/img/media/ac62baf92b4e03d8da532a8ab4f4456fe344d053/396_137_982_589/master/982.png?width=1200&height=1200&quality=85&auto=format&fit=crop&s=debf6306a52ddf48a1da432565f26ac1" /></div>
+</div>
+	
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://i.discogs.com/RvprrEaPbYRm6r2n_P031TfFk3iJ1rl0aCz3zlGAOCI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTE2/MC0xMzE0NzAzOTcy/LmpwZWc.jpeg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://i.discogs.com/RvprrEaPbYRm6r2n_P031TfFk3iJ1rl0aCz3zlGAOCI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTE2/MC0xMzE0NzAzOTcy/LmpwZWc.jpeg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+<img src="https://i.discogs.com/D5HjBnlC5j9bc12MywjKsVr7tm_UCz_UT7iqZo0XYLM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTE2/MC0xMzE0NzAzOTky/LmpwZWc.jpeg" >
+<h2>Here’s How Polyamory, Polygamy, and Polyandry Differ — and What to Expect</h2>
+<a href="https://www.healthline.com/health/relationships/polyamory-vs-polygamy"> Many people confuse polyamory, polygamy, polygyny, and polyandry... ReadMore </a>
+<img src="https://post.healthline.com/wp-content/uploads/2021/01/Group_Partnership_1296x728-header-1296x729.jpg">	
+<h2>Is it legal to marry multiple partners?</h2>
+<p>Polygamy is illegal and criminalized in every country in North and South America, including all 50 U.S. states. However, in February 2020, the Utah House and Senate reduced the punishment for consensual polygamy, which had previously been classified as a felony, to roughly equivalent to a traffic ticket.</p>
+<a href="https://www.moshtaellaw.com/blog/2020/january/the-legal-consequences-of-polygamy/#:~:text=Under%20California%20law%2C%20the%20act,married%20or%20enters%20into%20a">ReadMore </a>
+<h2>Bigamy</h2>
+<p>
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+For other uses, see Bigamy (disambiguation).
+
+In cultures where monogamy is mandated, bigamy is the act of entering into a marriage with one person while still legally married to another.[1] A legal or de facto separation of the couple does not alter their marital status as married persons. In the case of a person in the process of divorcing their spouse, that person is taken to be legally married until such time as the divorce becomes final or absolute under the law of the relevant jurisdiction. Bigamy laws do not apply to couples in a de facto or cohabitation relationship, or that enter such relationships when one is legally married. If the prior marriage is for any reason void, the couple is not married, and hence each party is free to marry another without falling foul of the bigamy laws.
+
+Bigamy is a crime in most countries that recognise only monogamous marriages. When it occurs in this context often neither the first nor second spouse is aware of the other. In countries that have bigamy laws, with a few exceptions (such as Egypt and Iran), consent from a prior spouse makes no difference to the legality of the second marriage, which is usually considered void.
+</p>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://i.discogs.com/NWQU2cXVNXqwZPpCYN5mW5YFuUmucGfWobGpajjf33k/rs:fit/g:sm/q:90/h:539/w:440/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NjEw/MjYtMTM5OTIyNDUw/Mi0xNzcyLmpwZWc.jpeg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY##THANKS_PUFFY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://i.discogs.com/NWQU2cXVNXqwZPpCYN5mW5YFuUmucGfWobGpajjf33k/rs:fit/g:sm/q:90/h:539/w:440/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NjEw/MjYtMTM5OTIyNDUw/Mi0xNzcyLmpwZWc.jpeg" alt="##THANKS_PUFFY" >
+      </div>
+    </div>
+  </div>
+</div>	
+
 
 <div class='twoPanelSpread'>
   <div class='row'>
@@ -562,42 +653,30 @@ echo "An international research team develops a way to say “hello” with your
   </div>
 </div>
 
-
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+         <a href="https://youtu.be/ZmPfxMBNilg"> <img src="https://raw.githubusercontent.com/ThakaRashard/holetoanotheruniverse/gh-pages/img/WEenNWEE.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+         <a href="https://youtu.be/ZmPfxMBNilg"> <img src="https://raw.githubusercontent.com/ThakaRashard/holetoanotheruniverse/gh-pages/img/WEenNWEE.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>	
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Dodge_charger_1970_ad.jpg">
  <img src="https://thesource.com/wp-content/uploads/2022/02/AB3A9173-700x400.jpg" >
  
 
 
-<div class='twoPanelSpread'>
-  <div class='row'>
-    <div class='panelColumn'>
-      <div class='leftColumn'>
-         <a href="https://youtu.be/ZmPfxMBNilg"> <img src="https://raw.githubusercontent.com/ThakaRashard/holetoanotheruniverse/gh-pages/img/WEenNWEE.jpg" alt="Girl in a jacket" >
-      </div>
-    </div>
-    <div class='panelColumn'>
-      <div class='rightColumn'>
-         <a href="https://youtu.be/ZmPfxMBNilg"> <img src="https://raw.githubusercontent.com/ThakaRashard/holetoanotheruniverse/gh-pages/img/WEenNWEE.jpg" alt="Girl in a jacket" >
-      </div>
-    </div>
-  </div>
-</div>	
 
 
-<div class='twoPanelSpread'>
-  <div class='row'>
-    <div class='panelColumn'>
-      <div class='leftColumn'>
-        <img src="https://www.graffiti.org/sfb/refa2002oakland04.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
-      </div>
-    </div>
-    <div class='panelColumn'>
-      <div class='rightColumn'>
-        <img src="https://i.pinimg.com/originals/3d/d1/9f/3dd19f9c5c7f126af27ba530d94ab168.jpg" alt="Girl in a jacket" >
-      </div>
-    </div>
-  </div>
-</div>	
-<img src="https://www.adbranch.com/wp-content/uploads/chrysler_dodge_charger_1970-610x307.jpg">
+
+
+
 
 ## SPYiNG is why I lost everything and everybody
 <div class="flex3BorderedPaddedROW">
@@ -1548,66 +1627,6 @@ I want a Macintosh for a lot of SHIT!! BUT I think we will do better as
 ##SUPRESSED_SARTU's
 ##MiSSiNG_PERSONS_CASE </h1>
 
-<div class="flex-container">
-   
-  <div class="item1">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/DEAR_SARTU_IM_READY_FOR_FALL_FEELINGS.gif" /></div>
-    <div class="item2">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/DEAR_SARTU_IM_READY_FOR_FALL_FEELINGS.gif" /></div>
-    <div class="item3">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/DEAR_SARTU_IM_READY_FOR_FALL_FEELINGS.gif" /></div>
-</div>
-## ELLA_MAI_IS_MY_WIFE_AS_WELL
-<img src="https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fwp-content%2Fblogs.dir%2F6%2Ffiles%2F2022%2F07%2Flacoste-ella-mai-brand-ambassador-announcement-0.jpg">
-<div class="flex-container">
-   
-<div class="item1">                        <img src="https://i.guim.co.uk/img/media/ac62baf92b4e03d8da532a8ab4f4456fe344d053/396_137_982_589/master/982.png?width=1200&height=1200&quality=85&auto=format&fit=crop&s=debf6306a52ddf48a1da432565f26ac1" /></div>
-    <div class="item2">                        <img src="https://i.guim.co.uk/img/media/ac62baf92b4e03d8da532a8ab4f4456fe344d053/396_137_982_589/master/982.png?width=1200&height=1200&quality=85&auto=format&fit=crop&s=debf6306a52ddf48a1da432565f26ac1" /></div>
-    <div class="item3">                        <img src="https://i.guim.co.uk/img/media/ac62baf92b4e03d8da532a8ab4f4456fe344d053/396_137_982_589/master/982.png?width=1200&height=1200&quality=85&auto=format&fit=crop&s=debf6306a52ddf48a1da432565f26ac1" /></div>
-</div>
-	
-<div class='twoPanelSpread'>
-  <div class='row'>
-    <div class='panelColumn'>
-      <div class='leftColumn'>
-        <img src="https://i.discogs.com/RvprrEaPbYRm6r2n_P031TfFk3iJ1rl0aCz3zlGAOCI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTE2/MC0xMzE0NzAzOTcy/LmpwZWc.jpeg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
-      </div>
-    </div>
-    <div class='panelColumn'>
-      <div class='rightColumn'>
-        <img src="https://i.discogs.com/RvprrEaPbYRm6r2n_P031TfFk3iJ1rl0aCz3zlGAOCI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTE2/MC0xMzE0NzAzOTcy/LmpwZWc.jpeg" alt="Girl in a jacket" >
-      </div>
-    </div>
-  </div>
-</div>
-<img src="https://i.discogs.com/D5HjBnlC5j9bc12MywjKsVr7tm_UCz_UT7iqZo0XYLM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTE2/MC0xMzE0NzAzOTky/LmpwZWc.jpeg" >
-<h2>Here’s How Polyamory, Polygamy, and Polyandry Differ — and What to Expect</h2>
-<a href="https://www.healthline.com/health/relationships/polyamory-vs-polygamy"> Many people confuse polyamory, polygamy, polygyny, and polyandry... ReadMore </a>
-<img src="https://post.healthline.com/wp-content/uploads/2021/01/Group_Partnership_1296x728-header-1296x729.jpg">	
-<h2>Is it legal to marry multiple partners?</h2>
-<p>Polygamy is illegal and criminalized in every country in North and South America, including all 50 U.S. states. However, in February 2020, the Utah House and Senate reduced the punishment for consensual polygamy, which had previously been classified as a felony, to roughly equivalent to a traffic ticket.</p>
-<a href="https://www.moshtaellaw.com/blog/2020/january/the-legal-consequences-of-polygamy/#:~:text=Under%20California%20law%2C%20the%20act,married%20or%20enters%20into%20a">ReadMore </a>
-<h2>Bigamy</h2>
-<p>
-From Wikipedia, the free encyclopedia
-Jump to navigationJump to search
-For other uses, see Bigamy (disambiguation).
-
-In cultures where monogamy is mandated, bigamy is the act of entering into a marriage with one person while still legally married to another.[1] A legal or de facto separation of the couple does not alter their marital status as married persons. In the case of a person in the process of divorcing their spouse, that person is taken to be legally married until such time as the divorce becomes final or absolute under the law of the relevant jurisdiction. Bigamy laws do not apply to couples in a de facto or cohabitation relationship, or that enter such relationships when one is legally married. If the prior marriage is for any reason void, the couple is not married, and hence each party is free to marry another without falling foul of the bigamy laws.
-
-Bigamy is a crime in most countries that recognise only monogamous marriages. When it occurs in this context often neither the first nor second spouse is aware of the other. In countries that have bigamy laws, with a few exceptions (such as Egypt and Iran), consent from a prior spouse makes no difference to the legality of the second marriage, which is usually considered void.
-</p>
-<div class='twoPanelSpread'>
-  <div class='row'>
-    <div class='panelColumn'>
-      <div class='leftColumn'>
-        <img src="https://i.discogs.com/NWQU2cXVNXqwZPpCYN5mW5YFuUmucGfWobGpajjf33k/rs:fit/g:sm/q:90/h:539/w:440/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NjEw/MjYtMTM5OTIyNDUw/Mi0xNzcyLmpwZWc.jpeg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY##THANKS_PUFFY" >
-      </div>
-    </div>
-    <div class='panelColumn'>
-      <div class='rightColumn'>
-        <img src="https://i.discogs.com/NWQU2cXVNXqwZPpCYN5mW5YFuUmucGfWobGpajjf33k/rs:fit/g:sm/q:90/h:539/w:440/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NjEw/MjYtMTM5OTIyNDUw/Mi0xNzcyLmpwZWc.jpeg" alt="##THANKS_PUFFY" >
-      </div>
-    </div>
-  </div>
-</div>	
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
