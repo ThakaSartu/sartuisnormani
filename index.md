@@ -1,3 +1,9 @@
+[Extra Sci Fi (ALL EPISODES)](https://www.youtube.com/playlist?list=PLhyKYa0YJ_5AuEhpcGAo4ngmSDKuFgZZx)
+
+[Isaac Asimov, Visions For The Future (1992)](https://www.youtube.com/watch?v=V4Ux83nJC0U)
+
+[Lord of the Rings - The Two Towers - Extra Sci Fi - #2](https://www.youtube.com/watch?v=itYfBiB3bmM)
+
 [Isaac Asimov - Master of Science - Extra Sci Fi - #1](https://www.youtube.com/watch?v=RGdcmupG7aA)
 
 [😍MY GLAM ROOM💋 TOUR✨From Start to Finish(ImpressionsVanity AmazonMarshall’s $1Tree](https://www.youtube.com/watch?v=GzGwJ7xWasY)
