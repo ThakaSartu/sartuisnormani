@@ -1,4 +1,24 @@
 
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+
+<img src="http://www.nuartfestival.no/getImage?ARTICLE_ID=&IMAGE_ID=4441&WIDTH=713">
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+
+<img src="http://www.nuartfestival.no/getImage?ARTICLE_ID=&IMAGE_ID=4441&WIDTH=713">
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<img src="https://www.drips.fr/wp-content/uploads/2018/01/drips-punchline-1200-19.jpg" >
+
 ## SPYiNG is why I lost everything and everybody
 <div class="flex3BorderedPaddedROW">
   <div class="item1">
