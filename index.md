@@ -7,7 +7,7 @@
   <img src="https://i.pinimg.com/750x/c4/f7/74/c4f7749e94baf3659116194c8d061249.jpg" />
 </div>
 
-[Norah Jones - Sunrise](https://www.youtube.com/watch?v=fd02pGJx0s0) [Don't Know Why](https://www.youtube.com/watch?v=GtOcxj3NDBI) [Come Away With Me](https://www.youtube.com/watch?v=mvLDrx3YQ4Q)
+[Norah Jones - Sunrise](https://www.youtube.com/watch?v=fd02pGJx0s0) [Don't Know Why](https://www.youtube.com/watch?v=GtOcxj3NDBI) [Come Away With Me](https://www.youtube.com/watch?v=mvLDrx3YQ4Q) [Q-Bert Skratch tip: CELL PHONES ARE DISTRACTIONS!](https://www.youtube.com/watch?v=or57N6pGYUM)
 
 [Extra Sci Fi (ALL EPISODES)](https://www.youtube.com/playlist?list=PLhyKYa0YJ_5AuEhpcGAo4ngmSDKuFgZZx)
 
