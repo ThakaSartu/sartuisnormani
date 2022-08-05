@@ -1,3 +1,5 @@
+[Q-Bert VS. Craze /TTV vol.3/](https://www.youtube.com/watch?v=J1-V99dVZgk)
+
 [Traktor KONTROL Z2 First Look](https://www.youtube.com/watch?v=vQR5Fjgggcg)
 
 [Zeke on the Traktor Kontrol Z2](https://www.youtube.com/watch?v=yOjQzfGsS3g)
