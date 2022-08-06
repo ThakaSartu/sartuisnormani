@@ -1,4 +1,4 @@
-[GOOGLE_WEBGONT_iNTRODUCTiON](https://developers.google.com/fonts/docs/getting_started)
+[GOOGLE_WEBFONT_iNTRODUCTiON](https://developers.google.com/fonts/docs/getting_started)
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/zoCR9Pk4tGk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <div class="expandingGallery">
@@ -95,13 +95,11 @@
 
 [sartu_remind_me_to_put_them_on our soundcloud Nicole Yung Performing Live @ Dance 411 Atlanta, Ga](https://www.youtube.com/watch?v=Ng6PYag0zV8)
 
-[Dance 411 Web Commercial 1](https://www.youtube.com/watch?v=-SSUP9MFzvY)
-
-[Dance 411 Kids Company | Behind The Movement](https://www.youtube.com/watch?v=pnXB8WUkpAk)
+[Dance 411 Web Commercial 1](https://www.youtube.com/watch?v=-SSUP9MFzvY) [Dance 411 Kids Company | Behind The Movement](https://www.youtube.com/watch?v=pnXB8WUkpAk) [Finna Get Loose - Diddy | Dance 411 Kids Company](https://www.youtube.com/watch?v=Hr67tavdW5M)
 
 [What Is Love- Dance 411](https://www.youtube.com/watch?v=hcmkRHIsckE)
 
-[0:10 / 3:47 Chris Brown Yeah 3X - Marcus Allan [Dance 411]](https://www.youtube.com/watch?v=jDePr7TJx30)
+[Chris Brown Yeah 3X - Marcus Allan [Dance 411]](https://www.youtube.com/watch?v=jDePr7TJx30)
 
 [Mark @ Dance 411 Killin it!](https://www.youtube.com/watch?v=JEiRXUWHmTI)
 
@@ -109,11 +107,9 @@
 
 [Dance 411's Petite Company Hip Hop Team - You're Lyin'](https://www.youtube.com/watch?v=oZukR16p9dc)
 
-[Finna Get Loose - Diddy | Dance 411 Kids Company](https://www.youtube.com/watch?v=Hr67tavdW5M)
-
 [All I Can Say](https://www.youtube.com/watch?v=Vkq5mOIUfSQ)
 
-<video playsinline="" autoplay="" loop="" muted="" poster="https://vossenwheels.com/wp-content/uploads/2020/01/EVO-1-3P956x764.mov" class="background">
+<video width="100%" playsinline="" autoplay="" loop="" muted="" poster="https://vossenwheels.com/wp-content/uploads/2020/01/EVO-1-3P956x764.mov" class="background">
   <source src="https://vossenwheels.com/wp-content/uploads/2020/01/EVO-1-3P956x764.mov" type="video/mp4">
 </video>
 
