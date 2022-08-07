@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap');
 @import "rouge-base16-dark";
 @import "default_colors";
 
@@ -23,8 +24,11 @@ body {
   line-height: 1.5;
   background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
   background-attachment: fixed;
-  font-family: -apple-system, Ubuntu, "Ariel Black", Verdana;
+  font-family: "Comfortaa", -apple-system, Ubuntu, "Ariel Black", Verdana;
 }
+
+
+
 
 /* General & 'Reset' Stuff */
 img {
@@ -64,16 +68,28 @@ section {
   margin: 0 0 20px 0;
 }
 
+
 h1,
 h2,
 h3,
 h4,
 h5,
 h6 {
-  margin: 0 0 0px;
+      color: #fff;
+      text-shadow:
+          0 0 7px #fff,
+          0 0 10px #fff,
+          0 0 21px #fff,
+          0 0 42px #0DCBFF,
+          0 0 82px #0DCBFF,
+          0 0 92px #0DCBFF,
+          0 0 102px #0DCBFF,
+          0 0 125px #0DCBFF;
+    
+  margin: 1.03em;
   box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
-
-  background: linear-gradient(135deg, #1f005c, #2c005d, #47005f, #680060, #8b0460, #ac265e, #c9475c, #df675c, #ef855e, #f89e63, #fdaf69, #ffb56b);
+  padding: 1.03em;
+  background: linear-gradient(135deg, #1f005c, #2c005d, #47005f, #680060, #8b0460, #ac265e, #c9475c, #df675c, #ef855e, #f89e63, #fdaf69, #ffb56b);  
 }
 
 li {
@@ -97,11 +113,11 @@ header {
 }
 
 header h1 {
-  font-size: 3rem;
+  font-size: 5rem;
   line-height: 1.5;
   margin: 0 0 0 -40px;
   font-weight: bold;
-  font-family: -apple-system, Ubuntu, "Ariel Black", Verdana;
+  font-family: "Comfortaa", -apple-system, Ubuntu, "Ariel Black", Verdana;
   color: $conifer; //$header;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
     0 0 5px rgba(181, 232, 83, 0.1),
