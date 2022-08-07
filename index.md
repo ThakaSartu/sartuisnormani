@@ -1,3 +1,10 @@
+
+
+## Designers, (Re)define Success First
+### by Lennart OverkampMay 12, 2022
+Published in Industry, User Experience, Workflow & Tools
+About two and a half years ago, I introduced the idea of daily ethical design. It was born out of my frustration with the many obstacles to achieving design that’s usable and equitable; protects people’s privacy, agency, and focus; benefits society; and restores nature. I argued that we need to overcome the inconveniences that prevent us from acting ethically and that we need to elevate design ethics to a more practical level by structurally integrating it into our daily work, processes, and tools...[ReadMore](https://alistapart.com/article/redefine-success-first/)
+
 [##DEAR_PiMPS_aka_Delinquent_JONS you cant live on borrowed love stop molesting my family The S.O.S. Band - Borrowed Love](https://www.youtube.com/watch?v=r05fZNXF68U)
 [DEAR_SARTU:: MY_LOVE iS_UNDERSTANDiNG S.O.S. Band - the finest (Solid Gold:1986) Remastered](https://www.youtube.com/watch?v=6I3S-7AGViI) [##AT_THE_VERY_LEAST_MUNA ~> "Just Be Good to Me" - S.O.S. Band [Digitally Remastered]](https://www.youtube.com/watch?v=KTN4sQRlPj0)
 
