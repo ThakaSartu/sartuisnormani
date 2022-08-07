@@ -1,3 +1,21 @@
+[Madonna - Dance Mix (1985 RSD Full EP)](https://www.youtube.com/watch?v=k7ToFH39jKY)
+[Whitney Houston - How Will I Know (Official Video)](https://www.youtube.com/watch?v=m3-hY-hlhBg)
+
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/134047465_1824448104383505_8670164328192079049_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=iozKoIQnN_oAX-KugqG&_nc_ht=scontent-lax3-1.xx&oh=00_AT8378CztgaNQKLMQfKSQtvlphONZJBk1hqqwrbJTAhoCQ&oe=63158A95">
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/134047465_1824448104383505_8670164328192079049_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=iozKoIQnN_oAX-KugqG&_nc_ht=scontent-lax3-1.xx&oh=00_AT8378CztgaNQKLMQfKSQtvlphONZJBk1hqqwrbJTAhoCQ&oe=63158A95">
+      </div>
+    </div>
+  </div>
+</div>
 
 
 ## Designers, (Re)define Success First
