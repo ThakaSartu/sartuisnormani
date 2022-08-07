@@ -1,7 +1,39 @@
+<div class='twoPanelSpread'>
+      <div class='row'>
+        <div class='panelColumn'>
+          <div class='leftColumn'>
+            <img src="https://media.karousell.com/media/photos/products/2022/5/21/alina_baraz__it_was_divine_tra_1653121184_14af191d">
+          </div>
+        </div>
+        <div class='panelColumn'>
+          <div class='rightColumn'>
+            <img src="https://media.karousell.com/media/photos/products/2022/5/21/alina_baraz__it_was_divine_tra_1653121184_14af191d">
+          </div>
+        </div>
+    </div>
+</div>
+<img src="https://cdn.shopify.com/s/files/1/0105/4542/products/alinabaraz-urbanflora-clear_2048x2048.jpg" > 
+
+[ALINA BARAZ & GALIMATIAS Urban Flora (Colored Vinyl) Vinyl LP](https://www.turntablelab.com/products/alina-baraz-galimatias-urban-flora-colored-vinyl-vinyl-lp)
+[Alina Baraz & Galimatias Urban Flora EP](https://www.youtube.com/watch?v=6-iZYUQA7JY)
 [Madonna - Dance Mix (1985 RSD Full EP)](https://www.youtube.com/watch?v=k7ToFH39jKY)
 [Whitney Houston - How Will I Know (Official Video)](https://www.youtube.com/watch?v=m3-hY-hlhBg)
 
 
+<div class='twoPanelSpread'>
+      <div class='row'>
+        <div class='panelColumn'>
+          <div class='leftColumn'>
+            <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/134047465_1824448104383505_8670164328192079049_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=iozKoIQnN_oAX-KugqG&_nc_ht=scontent-lax3-1.xx&oh=00_AT8378CztgaNQKLMQfKSQtvlphONZJBk1hqqwrbJTAhoCQ&oe=63158A95">
+          </div>
+        </div>
+        <div class='panelColumn'>
+          <div class='rightColumn'>
+            <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/134047465_1824448104383505_8670164328192079049_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=iozKoIQnN_oAX-KugqG&_nc_ht=scontent-lax3-1.xx&oh=00_AT8378CztgaNQKLMQfKSQtvlphONZJBk1hqqwrbJTAhoCQ&oe=63158A95">
+          </div>
+        </div>
+    </div>
+</div>
 
 
 ## Designers, (Re)define Success First
@@ -115,18 +147,14 @@ About two and a half years ago, I introduced the idea of daily ethical design. I
 
 [sartu_remind_me_to_put_them_on our soundcloud Nicole Yung Performing Live @ Dance 411 Atlanta, Ga](https://www.youtube.com/watch?v=Ng6PYag0zV8)
 
-[Dance 411 Web Commercial 1](https://www.youtube.com/watch?v=-SSUP9MFzvY) [Dance 411 Kids Company | Behind The Movement](https://www.youtube.com/watch?v=pnXB8WUkpAk) [Finna Get Loose - Diddy | Dance 411 Kids Company](https://www.youtube.com/watch?v=Hr67tavdW5M)
-
+[Dance 411 Web Commercial 1](https://www.youtube.com/watch?v=-SSUP9MFzvY)
+[Dance 411 Kids Company | Behind The Movement](https://www.youtube.com/watch?v=pnXB8WUkpAk)
+[Finna Get Loose - Diddy | Dance 411 Kids Company](https://www.youtube.com/watch?v=Hr67tavdW5M)
 [What Is Love- Dance 411](https://www.youtube.com/watch?v=hcmkRHIsckE)
-
 [Chris Brown Yeah 3X - Marcus Allan [Dance 411]](https://www.youtube.com/watch?v=jDePr7TJx30)
-
 [Mark @ Dance 411 Killin it!](https://www.youtube.com/watch?v=JEiRXUWHmTI)
-
 [Dance 411 Company Reel](https://www.youtube.com/watch?v=v5gBfbz-M24)
-
 [Dance 411's Petite Company Hip Hop Team - You're Lyin'](https://www.youtube.com/watch?v=oZukR16p9dc)
-
 [All I Can Say](https://www.youtube.com/watch?v=Vkq5mOIUfSQ)
 
 <video width="100%" playsinline="" autoplay="" loop="" muted="" poster="https://vossenwheels.com/wp-content/uploads/2020/01/EVO-1-3P956x764.mov" class="background">
