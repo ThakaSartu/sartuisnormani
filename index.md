@@ -2,12 +2,12 @@
       <div class='row'>
         <div class='panelColumn'>
           <div class='leftColumn'>
-            <img src="https://media.karousell.com/media/photos/products/2022/5/21/alina_baraz__it_was_divine_tra_1653121184_14af191d">
+            <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/134609675_1822781071216875_8550420826777419826_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=0ehDFJCkAVYAX_3dnVL&_nc_ht=scontent-lax3-1.xx&oh=00_AT9Ti7bjQE2AXil9AWmkkwBMh6L2seWhsGBJxUu03YS-Ew&oe=63172463">
           </div>
         </div>
         <div class='panelColumn'>
           <div class='rightColumn'>
-            <img src="https://media.karousell.com/media/photos/products/2022/5/21/alina_baraz__it_was_divine_tra_1653121184_14af191d">
+            <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/134609675_1822781071216875_8550420826777419826_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=0ehDFJCkAVYAX_3dnVL&_nc_ht=scontent-lax3-1.xx&oh=00_AT9Ti7bjQE2AXil9AWmkkwBMh6L2seWhsGBJxUu03YS-Ew&oe=63172463">
           </div>
         </div>
     </div>
