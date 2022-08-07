@@ -1,4 +1,6 @@
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2H2gGiWzKyIxzyhRfzZIve?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
 <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/133331021_1817761418385507_8331135643323844986_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=pL82hOsyIlYAX_wVv3q&_nc_ht=scontent-lax3-2.xx&oh=00_AT81zWbrx7OpUSA6ScVIDv9NzZcVD7ATlomjFgJimSQbPg&oe=63171D97" >
 
 <div class='twoPanelSpread'>
