@@ -1,3 +1,6 @@
+
+<img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/133331021_1817761418385507_8331135643323844986_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=pL82hOsyIlYAX_wVv3q&_nc_ht=scontent-lax3-2.xx&oh=00_AT81zWbrx7OpUSA6ScVIDv9NzZcVD7ATlomjFgJimSQbPg&oe=63171D97" >
+
 <div class='twoPanelSpread'>
       <div class='row'>
         <div class='panelColumn'>
@@ -14,6 +17,7 @@
 </div>
 <img src="https://cdn.shopify.com/s/files/1/0105/4542/products/alinabaraz-urbanflora-clear_2048x2048.jpg" > 
 
+[H.E.R. - H.E.R. (FULL Album)](https://www.youtube.com/watch?v=XgtRmb8Qaqo)
 [ALINA BARAZ & GALIMATIAS Urban Flora (Colored Vinyl) Vinyl LP](https://www.turntablelab.com/products/alina-baraz-galimatias-urban-flora-colored-vinyl-vinyl-lp)
 [Alina Baraz & Galimatias Urban Flora EP](https://www.youtube.com/watch?v=6-iZYUQA7JY)
 [Madonna - Dance Mix (1985 RSD Full EP)](https://www.youtube.com/watch?v=k7ToFH39jKY)
