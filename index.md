@@ -1,3 +1,12 @@
+<style>
+
+img {
+  background-size: cover;
+  background-position: center;
+
+}
+
+</style>
 [CSS-Only Full-Width Responsive Images 2 Ways](https://moderncss.dev/css-only-full-width-responsive-images-2-ways/)
 <img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc4a8c81d78312109000003/vsco5fc4a8cb61459.jpg">
 <img src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5fc43db0da3cae4a21873cda/vsco5fc43db230a4d.jpg">
