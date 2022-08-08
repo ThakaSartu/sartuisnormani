@@ -1,3 +1,4 @@
+[National Machete Association Speaks Out Against Machete-Control Legislation](https://www.theonion.com/national-machete-association-speaks-out-against-machete-1819565866)
 
 <div class='twoPanelSpread'>
       <div class='row'>
