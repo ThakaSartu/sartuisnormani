@@ -1,6 +1,19 @@
-## Tested_Verified, Askmy wives
-Dear_PiMPS_WHY_DO_YOU Deny_Us_Healthy_PHYSiCAL_SEX
+## Tested_Verified, 
+<div class='twoPanelSpread'>
+      <div class='row'>
+        <div class='panelColumn'>
+          <div class='leftColumn'>
+            <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/122433175_1763579957136987_7672979302250398619_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_ohc=X74KsFlLxAkAX_FjLB0&_nc_ht=scontent-lax3-1.xx&oh=00_AT9S5-fEcjJL6W4nYnanYl72W_dVk0bkQ9fbxTC2PMu0tw&oe=6314C7A3" >
+          </div>
+        </div>
+        <div class='panelColumn'>
+          <div class='rightColumn'>
 <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/131921298_1814377058723943_3668457143040954412_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_ohc=Zuw4zpI6iuYAX9Rg1To&_nc_ht=scontent-lax3-2.xx&oh=00_AT_gmFbEJvwjteaIf1xb0ZamBJQjDV2vOM9VZXrlFACY_Q&oe=631718D4" >
+          </div>
+        </div>
+    </div>
+</div>
+
 <div class='twoPanelSpread'>
       <div class='row'>
         <div class='panelColumn'>
