@@ -1,3 +1,13 @@
+
+## Christ Announces Hiring Of Associate Christ
+JERUSALEM—Overwhelmed by a constant deluge of prayers and appeals for salvation, Jesus Christ announced Monday the hiring of Tacoma, WA, customer-service supervisor Dean Smoler as Associate Christ.
+
+Jesus Christ, swamped by requests for guidance and divine forgiveness, hired 38-year-old Dean Smoler (left) as the first-ever Assistant Savior.
+Jesus Christ, swamped by requests for guidance and divine forgiveness, hired 38-year-old Dean Smoler (left) as the first-ever Assistant Savior.
+"I've been in need of an Assistant Savior for a long time now, and I'm thrilled to finally have one," Christ told reporters at a press conference aired on the Trinity Broadcasting Network...[ReadMore](https://www.theonion.com/christ-announces-hiring-of-associate-christ-1819564714)
+
+[Microsoft Patents Ones, Zeroes](https://www.theonion.com/microsoft-patents-ones-zeroes-1819564663)
+[Christ Returns to NBA](https://www.theonion.com/christ-returns-to-nba-1819563859)
 [National Machete Association Speaks Out Against Machete-Control Legislation](https://www.theonion.com/national-machete-association-speaks-out-against-machete-1819565866)
 
 <div class='twoPanelSpread'>
