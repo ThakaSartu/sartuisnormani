@@ -8,7 +8,7 @@
 
 <img src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5fc43db0da3cae4a21873cda/vsco5fc43db230a4d.jpg">
 
-<img src="im.vsco.co/aws-us-west-2/12f8b0/56497/5fc45af7e1ebb64f08283c2f/vsco5fc45af8ecbe2.jpg">
+<img src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5fc45af7e1ebb64f08283c2f/vsco5fc45af8ecbe2.jpg">
 
 ## Tested_Verified:: Sartu, Muna, Erika, Shaakira, Onika
 <div class='twoPanelSpread'>
@@ -238,8 +238,6 @@ The site also makes it easier for Facebook to differentiate between accounts tha
 
 
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/episode/4WVvVW1GZQ8055lMM0Lunt?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-
-<iframe style="border-radius:0px" src="https://open.spotify.com/embed/episode/3FvKcENNB2D2cMCJNO09k1?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 <iframe style="border-radius:6px" src="https://open.spotify.com/embed/episode/2H2gGiWzKyIxzyhRfzZIve?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
