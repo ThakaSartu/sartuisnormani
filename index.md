@@ -1,4 +1,9 @@
-## Tested_Verified, 
+[CSS-Only Full-Width Responsive Images 2 Ways](https://moderncss.dev/css-only-full-width-responsive-images-2-ways/)
+<img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc4a8c81d78312109000003/vsco5fc4a8cb61459.jpg">
+<img src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5fc43db0da3cae4a21873cda/vsco5fc43db230a4d.jpg">
+<img src="im.vsco.co/aws-us-west-2/12f8b0/56497/5fc45af7e1ebb64f08283c2f/vsco5fc45af8ecbe2.jpg">
+
+## Tested_Verified:: Sartu, Muna, Erika, Shaakira, Onika
 <div class='twoPanelSpread'>
       <div class='row'>
         <div class='panelColumn'>
@@ -8,27 +13,26 @@
         </div>
         <div class='panelColumn'>
           <div class='rightColumn'>
-<img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/131921298_1814377058723943_3668457143040954412_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_ohc=Zuw4zpI6iuYAX9Rg1To&_nc_ht=scontent-lax3-2.xx&oh=00_AT_gmFbEJvwjteaIf1xb0ZamBJQjDV2vOM9VZXrlFACY_Q&oe=631718D4" >
+            <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/131921298_1814377058723943_3668457143040954412_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_ohc=Zuw4zpI6iuYAX9Rg1To&_nc_ht=scontent-lax3-2.xx&oh=00_AT_gmFbEJvwjteaIf1xb0ZamBJQjDV2vOM9VZXrlFACY_Q&oe=631718D4" >
           </div>
         </div>
     </div>
 </div>
-
+<img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc45b08e1ebb64f08283c32/vsco5fc45b0a1ff46.jpg?w=493.78076171875&dpr=1">
 <div class='twoPanelSpread'>
       <div class='row'>
         <div class='panelColumn'>
           <div class='leftColumn'>
-            <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/131891651_1814441718717477_8531743786429444191_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=ldjo-9R-b1kAX_h_jtc&_nc_ht=scontent-lax3-1.xx&oh=00_AT_WhxcpdEM7VfBVhYv4xohYm3nNQOvcEIAHmt4rcARIKA&oe=631573E1" alt="Incubator" >
+            <img src="im.vsco.co/aws-us-west-2/12f8b0/56497/5fc4bb3e1d78313c1400000b/vsco5fc4bb3f86cf5.jpg" >
           </div>
         </div>
         <div class='panelColumn'>
           <div class='rightColumn'>
-            <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/131891651_1814441718717477_8531743786429444191_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=ldjo-9R-b1kAX_h_jtc&_nc_ht=scontent-lax3-1.xx&oh=00_AT_WhxcpdEM7VfBVhYv4xohYm3nNQOvcEIAHmt4rcARIKA&oe=631573E1" alt="Incubator">
+           <img src="im.vsco.co/aws-us-west-2/12f8b0/56497/5fc4bb3e1d78313c1400000b/vsco5fc4bb3f86cf5.jpg" >
           </div>
         </div>
     </div>
 </div>
-
 
 <div class='twoPanelSpread'>
       <div class='row'>
@@ -46,6 +50,22 @@
         </div>
     </div>
 </div>
+<div class='twoPanelSpread'>
+      <div class='row'>
+        <div class='panelColumn'>
+          <div class='leftColumn'>
+            <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/131891651_1814441718717477_8531743786429444191_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=ldjo-9R-b1kAX_h_jtc&_nc_ht=scontent-lax3-1.xx&oh=00_AT_WhxcpdEM7VfBVhYv4xohYm3nNQOvcEIAHmt4rcARIKA&oe=631573E1" alt="Incubator" >
+          </div>
+        </div>
+        <div class='panelColumn'>
+          <div class='rightColumn'>
+            <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/131891651_1814441718717477_8531743786429444191_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=ldjo-9R-b1kAX_h_jtc&_nc_ht=scontent-lax3-1.xx&oh=00_AT_WhxcpdEM7VfBVhYv4xohYm3nNQOvcEIAHmt4rcARIKA&oe=631573E1" alt="Incubator">
+          </div>
+        </div>
+    </div>
+</div>
+
+
 
 
 
