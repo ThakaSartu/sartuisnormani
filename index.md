@@ -1,4 +1,35 @@
 
+
+<div class='twoPanelSpread'>
+      <div class='row'>
+        <div class='panelColumn'>
+          <div class='leftColumn'>
+            <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/122062162_1760050144156635_8698051333127118077_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_ohc=XMl5O6pRwbcAX-r_hep&_nc_ht=scontent-lax3-2.xx&oh=00_AT_Y5e88yMeUcPf3bxAyv0TTAzIQrjINk2XOd-wOgOp80Q&oe=6318C9DF" alt="LOVER_OG_FRiEGHT">
+          </div>
+        </div>
+        <div class='panelColumn'>
+          <div class='rightColumn'>
+            <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/122062162_1760050144156635_8698051333127118077_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_ohc=XMl5O6pRwbcAX-r_hep&_nc_ht=scontent-lax3-2.xx&oh=00_AT_Y5e88yMeUcPf3bxAyv0TTAzIQrjINk2XOd-wOgOp80Q&oe=6318C9DF" >
+          </div>
+        </div>
+    </div>
+</div>
+
+<div class='twoPanelSpread'>
+      <div class='row'>
+        <div class='panelColumn'>
+          <div class='leftColumn'>
+            <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/122129280_1760054067489576_2833603559066423166_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=VmZnID5TMX8AX9O586L&tn=8fyA6EaSghqhMRXR&_nc_ht=scontent-lax3-1.xx&oh=00_AT8KfEYgfE0hywmMQx22Y6-lduZMAI8PS-2SERdlG7_xrA&oe=63175567" alt="LOVER_OG_FRiEGHT">
+          </div>
+        </div>
+        <div class='panelColumn'>
+          <div class='rightColumn'>
+            <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/122129280_1760054067489576_2833603559066423166_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=VmZnID5TMX8AX9O586L&tn=8fyA6EaSghqhMRXR&_nc_ht=scontent-lax3-1.xx&oh=00_AT8KfEYgfE0hywmMQx22Y6-lduZMAI8PS-2SERdlG7_xrA&oe=63175567" >
+          </div>
+        </div>
+    </div>
+</div>
+<img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/122431281_1760055794156070_7535250431056091890_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=XB8lmeZCcfMAX83ih3h&_nc_ht=scontent-lax3-2.xx&oh=00_AT8Jp5W8LiJE4rNtkG_VOkWfjE2C0CZUmEt0HzfvFdFW7A&oe=63166D39" alt="Me_and_Coral_on_Paint_date">
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/patriotgraff.jpg">
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/patriotGRAFFiTi.jpg">
 
