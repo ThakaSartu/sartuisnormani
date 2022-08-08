@@ -1,8 +1,7 @@
 <style>
 
 img {
-  background-size: cover;
-  background-position: center;
+ background-size: cover;
 
 }
 
