@@ -6,6 +6,7 @@ img {
 }
 
 </style>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FL_kdIZUGpI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4FhnuKdVt2oQbeGl3uDgok?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 [CSS-Only Full-Width Responsive Images 2 Ways](https://moderncss.dev/css-only-full-width-responsive-images-2-ways/)
