@@ -1,5 +1,7 @@
 
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/patriotgraff.jpg">
+<img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/patriotGRAFFiTi.jpg">
+
 <div class='twoPanelSpread'>
       <div class='row'>
         <div class='panelColumn'>
