@@ -1,4 +1,19 @@
 
+<div class='twoPanelSpread'>
+      <div class='row'>
+        <div class='panelColumn'>
+          <div class='leftColumn'>
+            <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/121559234_1751721688322814_5569115812983563721_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=L-D2MLY6BN8AX9-fDMs&_nc_ht=scontent-lax3-1.xx&oh=00_AT-M4njcnKhRcu7MyQICnmdelHgCVvbuPWM2FtAaYcTvCg&oe=6317EF9D" alt="Erika_mid2000s sharp flip phone selfie">
+          </div>
+        </div>
+        <div class='panelColumn'>
+          <div class='rightColumn'>
+            <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/121559234_1751721688322814_5569115812983563721_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=L-D2MLY6BN8AX9-fDMs&_nc_ht=scontent-lax3-1.xx&oh=00_AT-M4njcnKhRcu7MyQICnmdelHgCVvbuPWM2FtAaYcTvCg&oe=6317EF9D" alt="Erika_mid2000s sharp flip phone selfie">
+          </div>
+        </div>
+    </div>
+</div>
+<img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/121676774_1756858164475833_4924189502066966878_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=qmt6WrZCHA0AX_Mui5v&_nc_ht=scontent-lax3-1.xx&oh=00_AT_zz2umrBjfQ7r623TMdMZQ_N0webd9CPuUOQubGQvz0Q&oe=6317469B" alt="DRY_BONES_IN_THE_VALLEY_PINK">
 
 <div class='twoPanelSpread'>
       <div class='row'>
