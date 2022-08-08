@@ -1,3 +1,40 @@
+## Tested_Verified, Askmy wives
+Dear_PiMPS_WHY_DO_YOU Deny_Us_Healthy_PHYSiCAL_SEX
+<img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/131921298_1814377058723943_3668457143040954412_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_ohc=Zuw4zpI6iuYAX9Rg1To&_nc_ht=scontent-lax3-2.xx&oh=00_AT_gmFbEJvwjteaIf1xb0ZamBJQjDV2vOM9VZXrlFACY_Q&oe=631718D4" >
+<div class='twoPanelSpread'>
+      <div class='row'>
+        <div class='panelColumn'>
+          <div class='leftColumn'>
+            <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/131891651_1814441718717477_8531743786429444191_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=ldjo-9R-b1kAX_h_jtc&_nc_ht=scontent-lax3-1.xx&oh=00_AT_WhxcpdEM7VfBVhYv4xohYm3nNQOvcEIAHmt4rcARIKA&oe=631573E1" alt="Incubator" >
+          </div>
+        </div>
+        <div class='panelColumn'>
+          <div class='rightColumn'>
+            <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/131891651_1814441718717477_8531743786429444191_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=ldjo-9R-b1kAX_h_jtc&_nc_ht=scontent-lax3-1.xx&oh=00_AT_WhxcpdEM7VfBVhYv4xohYm3nNQOvcEIAHmt4rcARIKA&oe=631573E1" alt="Incubator">
+          </div>
+        </div>
+    </div>
+</div>
+
+
+<div class='twoPanelSpread'>
+      <div class='row'>
+        <div class='panelColumn'>
+          <div class='leftColumn'>
+            <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/132676188_1815786011916381_3041118378186401545_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_ohc=li3rWdKYvskAX_PBzOC&_nc_ht=scontent-lax3-1.xx&oh=00_AT--AA5eFjqaXkuv_RpgTNRRpQ6ISYDJQj3nlF6ckBhVjQ&oe=63179C04
+" alt="Incubator" >
+          </div>
+        </div>
+        <div class='panelColumn'>
+          <div class='rightColumn'>
+            <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/132676188_1815786011916381_3041118378186401545_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_ohc=li3rWdKYvskAX_PBzOC&_nc_ht=scontent-lax3-1.xx&oh=00_AT--AA5eFjqaXkuv_RpgTNRRpQ6ISYDJQj3nlF6ckBhVjQ&oe=63179C04
+" alt="Incubator">
+          </div>
+        </div>
+    </div>
+</div>
+
+
 
 ## SECURITY
 <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/122792076_1766712906823692_8641639482579105500_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=4wVfbqjoHf4AX9WvId4&_nc_ht=scontent-lax3-1.xx&oh=00_AT92lVVYpgTHVx0ScBSOGYH2jgvmmQI4rnKbJtb8k2qKGQ&oe=6316F349" >
