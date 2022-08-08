@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/NikoNN90s_FUJi_400PROh.jpg">
+<img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/LOVER_CORAL_WALL_HELLO_KiTTY_FOR_CORAL.jpg">
 
 
 <div class='twoPanelSpread'>
