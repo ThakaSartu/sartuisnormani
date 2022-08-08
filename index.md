@@ -1,4 +1,19 @@
 
+
+<div class='twoPanelSpread'>
+      <div class='row'>
+        <div class='panelColumn'>
+          <div class='leftColumn'>
+            <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/moona5.jpg" >
+          </div>
+        </div>
+        <div class='panelColumn'>
+          <div class='rightColumn'>
+            <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/moona5.jpg" >
+          </div>
+        </div>
+    </div>
+</div>
 <div class='twoPanelSpread'>
       <div class='row'>
         <div class='panelColumn'>
