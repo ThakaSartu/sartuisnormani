@@ -1,3 +1,8 @@
+
+[HENSE | A Local's Guide to Atlanta](https://www.youtube.com/watch?v=-1QN6zQ78zg)
+[Speaking with the Original MSK — Manhattan Subway Kings — in Inwood](https://streetartnyc.org/blog/2016/11/05/speaking-with-the-original-msk-manhattan-subway-kings-in-inwood/) [iNTERViEW_WiTH_WiLL](http://creativesenseblog.blogspot.com/2010/02/ok-interview-about-graffiti-artist-will.html)
+<img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/121578575_1751688248326158_2253012937171888033_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=XFNJul7hxcUAX-_c8fu&_nc_ht=scontent-lax3-1.xx&oh=00_AT_g5Vc2EzjN21DWptLQSpxVCzdRH2KEYdaXRXjgVV88PQ&oe=6318887B">
+
 <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/121628670_1751717181656598_7113568985737519489_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=Ln5aUV1WQwYAX876VeN&_nc_ht=scontent-lax3-2.xx&oh=00_AT9kxYquPd1DBj3dcy0HRRifnNf3t-y22E1TjlmiI0nrAA&oe=63173FDA" >
 
 ## Re: Ugly Girl Killed
