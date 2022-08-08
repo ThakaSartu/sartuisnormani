@@ -1,5 +1,5 @@
 
-
+<img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/patriotgraff.jpg">
 <div class='twoPanelSpread'>
       <div class='row'>
         <div class='panelColumn'>
@@ -29,6 +29,7 @@
     </div>
 </div>
 
+<img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/tuk.jpg">
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/filmSTOCK.jpg">
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/crossprossessed_e100.jpg">
 
