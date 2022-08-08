@@ -1,6 +1,6 @@
-## ANDY_GREENBERG SECURITYOCT 31, 2014 12:31 PM
+## SECURITY
 Why Facebook Just Launched Its Own 'Dark Web' Site
-Now the world's least anonymous website (Facebook) has just joined the Web's most anonymous network (Tor).
+Now the world's least anonymous website (Facebook) has just joined the Web's most anonymous network (Tor)... [##WiRED_MAGAZiNEOCT 31, 2014 12:31 PM](https://www.wired.com/2014/10/facebook-tor-dark-site/)
 
 [Why does Facebook have a .onion URL?](https://www.quora.com/Why-does-Facebook-have-a-onion-URL)
 [Top 19 .onion websites from the depths of the dark web](https://www.expressvpn.com/blog/best-onion-sites-on-dark-web/)
