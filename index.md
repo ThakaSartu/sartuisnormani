@@ -96,6 +96,23 @@ Jesus Christ, swamped by requests for guidance and divine forgiveness, hired 38-
         </div>
     </div>
 </div>
+
+
+<div class='twoPanelSpread'>
+      <div class='row'>
+        <div class='panelColumn'>
+          <div class='leftColumn'>
+            <img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc4bb251d78313c14000007/vsco5fc4bb27bbd2e.jpg">
+          </div>
+        </div>
+        <div class='panelColumn'>
+          <div class='rightColumn'>
+            <img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc4bb251d78313c14000007/vsco5fc4bb27bbd2e.jpg" >
+          </div>
+        </div>
+    </div>
+</div>
+
 <div class='twoPanelSpread'>
       <div class='row'>
         <div class='panelColumn'>
