@@ -1,10 +1,10 @@
-
+<img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/crossprossessed_e100.jpg">
 ## Centennial Olympic Park bombing
 The Centennial Olympic Park bombing was a domestic terrorist pipe bombing attack on Centennial Olympic Park in Atlanta, Georgia, on July 27, 1996, during the Summer Olympics. The blast directly killed one person and injured 111 others; another person later died of a heart attack. It was the first of four bombings committed by Eric Rudolph.[1] Security guard Richard Jewell discovered the bomb before detonation and began clearing spectators out of the park.
 
 After the bombing, Jewell was initially investigated as a suspect by the Federal Bureau of Investigation and news media aggressively focused on him as the presumed culprit when he was actually innocent. In October 1996, the FBI declared Jewell was no longer a person of interest. Following three more bombings in 1997 and 1998, Rudolph was identified by the FBI as the suspect. In 2003, Rudolph was arrested, and in 2005 he agreed to plead guilty to avoid a potential death sentence. Rudolph was sentenced to life imprisonment without parole for his crimes...[ReadMore](https://en.wikipedia.org/wiki/Centennial_Olympic_Park_bombing#Bombing)
 
-<img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/crossprossessed_e100.jpg">
+
 <img src="https://github.com/ThakaRashard/film1/blob/master/assets/images/scans/coral_exploring.jpg">
 <img src="https://github.com/ThakaRashard/film1/blob/master/assets/images/scans/beno.jpg">
 
