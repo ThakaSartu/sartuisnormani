@@ -4,6 +4,20 @@
       <div class='row'>
         <div class='panelColumn'>
           <div class='leftColumn'>
+            <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/121968483_1760035420824774_4215194528570912413_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_ohc=rT8MwRVqXeAAX_IScST&_nc_ht=scontent-lax3-2.xx&oh=00_AT84dVmYO4rws_LCTuhGVpdFvctDylttwXwIxoPQzlHqaw&oe=63184B31" alt="LOVER_GOD_GOTiT">
+          </div>
+        </div>
+        <div class='panelColumn'>
+          <div class='rightColumn'>
+            <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/121968483_1760035420824774_4215194528570912413_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_ohc=rT8MwRVqXeAAX_IScST&_nc_ht=scontent-lax3-2.xx&oh=00_AT84dVmYO4rws_LCTuhGVpdFvctDylttwXwIxoPQzlHqaw&oe=63184B31" >
+          </div>
+        </div>
+    </div>
+</div>
+<div class='twoPanelSpread'>
+      <div class='row'>
+        <div class='panelColumn'>
+          <div class='leftColumn'>
             <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/122062162_1760050144156635_8698051333127118077_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_ohc=XMl5O6pRwbcAX-r_hep&_nc_ht=scontent-lax3-2.xx&oh=00_AT_Y5e88yMeUcPf3bxAyv0TTAzIQrjINk2XOd-wOgOp80Q&oe=6318C9DF" alt="LOVER_OG_FRiEGHT">
           </div>
         </div>
@@ -73,8 +87,8 @@ The Centennial Olympic Park bombing was a domestic terrorist pipe bombing attack
 After the bombing, Jewell was initially investigated as a suspect by the Federal Bureau of Investigation and news media aggressively focused on him as the presumed culprit when he was actually innocent. In October 1996, the FBI declared Jewell was no longer a person of interest. Following three more bombings in 1997 and 1998, Rudolph was identified by the FBI as the suspect. In 2003, Rudolph was arrested, and in 2005 he agreed to plead guilty to avoid a potential death sentence. Rudolph was sentenced to life imprisonment without parole for his crimes...[ReadMore](https://en.wikipedia.org/wiki/Centennial_Olympic_Park_bombing#Bombing)
 
 
-<img src="https://github.com/ThakaRashard/film1/blob/master/assets/images/scans/coral_exploring.jpg">
-<img src="https://github.com/ThakaRashard/film1/blob/master/assets/images/scans/beno.jpg">
+<img src="https://raw.githubusercontent.com/ThakaRashard/film1/blob/master/assets/images/scans/coral_exploring.jpg">
+<img src="https://raw.githubusercontent.com/film1/blob/master/assets/images/scans/beno.jpg">
 
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/NikoNN90s_FUJi_400PROh.jpg">
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/LOVER_CORAL_WALL_HELLO_KiTTY_FOR_CORAL.jpg">
