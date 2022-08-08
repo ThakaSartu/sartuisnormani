@@ -1,3 +1,5 @@
+## Church Group Offers Homosexual New Life In Closet
+LAGUNA HILLS, CA—It is a typical Sunday in this conservative Orange County suburb, as the parishioners of Holy Christ Almighty Baptist Church gather for morning worship. Organ music descends from the rafters as the wholesome-looking congregation files quietly into the building. Seated in orderly rows, the assembled families stand for the minister's blessing and open their hymnals to sing...[ReadMore](https://www.theonion.com/church-group-offers-homosexual-new-life-in-closet-1819564858)
 
 ## Christ Announces Hiring Of Associate Christ
 JERUSALEM—Overwhelmed by a constant deluge of prayers and appeals for salvation, Jesus Christ announced Monday the hiring of Tacoma, WA, customer-service supervisor Dean Smoler as Associate Christ.
