@@ -1,3 +1,24 @@
+
+
+ANDY GREENBERGSECURITYOCT 31, 2014 12:31 PM
+Why Facebook Just Launched Its Own 'Dark Web' Site
+Now the world's least anonymous website (Facebook) has just joined the Web's most anonymous network (Tor).
+
+[Why does Facebook have a .onion URL?](https://www.quora.com/Why-does-Facebook-have-a-onion-URL)
+[Top 19 .onion websites from the depths of the dark web](https://www.expressvpn.com/blog/best-onion-sites-on-dark-web/)
+[“Dark Web” Version of Facebook Shows a New Way to Secure the Web A new way to access Facebook securely and anonymously via the “dark Web” could provide a model for other sites.](https://www.technologyreview.com/2014/11/03/170540/dark-web-version-of-facebook-shows-a-new-way-to-secure-the-web/)
+Facebook.com is one of the most frequently accessed URLs in the world, but on Friday the social network unveiled a new one: facebookcorewwwi.onion.
+
+That address serves up a version of Facebook’s service accessible only via the Tor anonymity software. Tor users include dissidents trying to avoid censorship, criminals, and U.S. government workers who need to escape scrutiny from foreign security services...[ReadMore](https://www.technologyreview.com/2014/11/03/170540/dark-web-version-of-facebook-shows-a-new-way-to-secure-the-web/)
+[facebookcorewwwi](https://www.facebook.com/facebookcorewwwi/)
+The onion service, facebookcorewwwi.onion, is temporarily unavailable while we await renewal of our TLS certificate. In the meantime, Facebook is still accessible via facebook.com using Tor Browser. We expect facebookcorewwwi.onion to be available again in one to two weeks. Thanks for your patience.
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ffacebookcorewwwi%2Fposts%2Fpfbid02th2dsX1GYXmZJCf87Q6fxJ9CTJNRwySiroMZNL5BNf9PCDViF8CJxRvuSzyrEzKsl&show_text=true&width=500" width="100%" height="252" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+[Facebook onion address](https://en.wikipedia.org/wiki/Facebook_onion_address)
+Prior to the release of an official .onion domain, accessing Facebook through Tor would sometimes lead to error messages and inability to access the website.[3] ProPublica explicitly referenced the existence of Facebook's .onion site when they started their own onion service.[5]
+
+The site also makes it easier for Facebook to differentiate between accounts that have been caught up in a botnet and those that legitimately access Facebook through Tor.[6] As of its 2014 release, the site was still in early stages, with much work remaining to polish the code for Tor access. It has been speculated that other companies will follow suit and release their own Tor-accessible sites.[6]...[ReadMore](https://en.wikipedia.org/wiki/Facebook_onion_address#History)
+
 <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/122765686_1766776503483999_3612249073092240687_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_ohc=SNquUfgIL7EAX-xBOaY&_nc_ht=scontent-lax3-1.xx&oh=00_AT8p8QtWXXXpT3YC56GYtSdmn8EW3Fm3gJs14VgWJ35xgQ&oe=6317C84A">
 
 <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/130241000_1801926029969046_7792052677691158166_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_ohc=PjZfI2lT8BIAX8qXyz3&_nc_ht=scontent-lax3-2.xx&oh=00_AT8i4S4s95sNRoUmTWA1vndbZrnGG8ZNi9bkfGa8ZmDE9w&oe=6315E358" >
