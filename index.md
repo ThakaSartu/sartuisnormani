@@ -1,6 +1,42 @@
+
+
+
+
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/NikoNN90s_FUJi_400PROh.jpg">
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/LOVER_CORAL_WALL_HELLO_KiTTY_FOR_CORAL.jpg">
+<img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc4a8c81d78312109000003/vsco5fc4a8cb61459.jpg">
+<img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/131182446_1809503375877978_7577996265633068042_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=wSttzh5iMWMAX-YHQA7&_nc_oc=AQn2NcXr6p4XMA3ifAgfpmJk23LUKE7ai0_FADC_9Pd6rlWv31Pq9h_GIKGW3IV4C7nW64lOgoSE-n0Ms5GGsaKY&_nc_ht=scontent-lax3-2.xx&oh=00_AT9OdqCLaWj6-HqqDdxsNkHc6g72ss_ThO7M3d5RYDHuCg&oe=631764B7">
 
+<div class='twoPanelSpread'>
+      <div class='row'>
+        <div class='panelColumn'>
+          <div class='leftColumn'>
+            <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/MarthaCooper_and_muna.jpg" >
+          </div>
+        </div>
+        <div class='panelColumn'>
+          <div class='rightColumn'>
+            <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/MarthaCooper_and_muna.jpg" >
+          </div>
+        </div>
+    </div>
+</div>
+
+<div class='twoPanelSpread'>
+      <div class='row'>
+        <div class='panelColumn'>
+          <div class='leftColumn'>
+            <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/134114270_1825043737657275_3704950020073822431_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=nY17I8llX7QAX9CiRfu&_nc_ht=scontent-lax3-1.xx&oh=00_AT-KI1P5lSnxu4MSAcDvOrXrcO1GkPiC66lbAABlnUdHDQ&oe=6315A69F" >
+          </div>
+        </div>
+        <div class='panelColumn'>
+          <div class='rightColumn'>
+            <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/134114270_1825043737657275_3704950020073822431_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=nY17I8llX7QAX9CiRfu&_nc_ht=scontent-lax3-1.xx&oh=00_AT-KI1P5lSnxu4MSAcDvOrXrcO1GkPiC66lbAABlnUdHDQ&oe=6315A69F" >
+          </div>
+        </div>
+    </div>
+</div>
+<img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc45b08e1ebb64f08283c32/vsco5fc45b0a1ff46.jpg">
 
 <div class='twoPanelSpread'>
       <div class='row'>
@@ -30,7 +66,7 @@
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4FhnuKdVt2oQbeGl3uDgok?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 [CSS-Only Full-Width Responsive Images 2 Ways](https://moderncss.dev/css-only-full-width-responsive-images-2-ways/)
-<img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc4a8c81d78312109000003/vsco5fc4a8cb61459.jpg">
+
 
 <img src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5fc43db0da3cae4a21873cda/vsco5fc43db230a4d.jpg">
 
@@ -51,8 +87,6 @@
         </div>
     </div>
 </div>
-
-<img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc45b08e1ebb64f08283c32/vsco5fc45b0a1ff46.jpg">
 
 <div class='twoPanelSpread'>
       <div class='row'>
