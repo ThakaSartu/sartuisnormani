@@ -1,4 +1,22 @@
+
+<div class='twoPanelSpread'>
+      <div class='row'>
+        <div class='panelColumn'>
+          <div class='leftColumn'>
+            <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/matt_and_Dust.jpg" >
+          </div>
+        </div>
+        <div class='panelColumn'>
+          <div class='rightColumn'>
+            <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/matt_and_Dust.jpg" >
+          </div>
+        </div>
+    </div>
+</div>
+
+<img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/filmSTOCK.jpg">
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/crossprossessed_e100.jpg">
+
 ## Centennial Olympic Park bombing
 The Centennial Olympic Park bombing was a domestic terrorist pipe bombing attack on Centennial Olympic Park in Atlanta, Georgia, on July 27, 1996, during the Summer Olympics. The blast directly killed one person and injured 111 others; another person later died of a heart attack. It was the first of four bombings committed by Eric Rudolph.[1] Security guard Richard Jewell discovered the bomb before detonation and began clearing spectators out of the park.
 
