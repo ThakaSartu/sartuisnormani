@@ -1,3 +1,8 @@
+# Community: 
+## Re: Ugly Girl Killed
+### Nation Unshaken By Not-So-Tragic Death
+CASPER, WY—The people of America remained unmoved Monday as the sparse, barely attended funeral procession of Edith Pelphrey made its way to Pinelawn Cemetery in downtown Casper...[ReadMore](https://www.theonion.com/ugly-girl-killed-1819564191)
+
 ## Church Group Offers Homosexual New Life In Closet
 LAGUNA HILLS, CA—It is a typical Sunday in this conservative Orange County suburb, as the parishioners of Holy Christ Almighty Baptist Church gather for morning worship. Organ music descends from the rafters as the wholesome-looking congregation files quietly into the building. Seated in orderly rows, the assembled families stand for the minister's blessing and open their hymnals to sing...[ReadMore](https://www.theonion.com/church-group-offers-homosexual-new-life-in-closet-1819564858)
 
