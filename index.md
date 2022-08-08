@@ -1,4 +1,5 @@
-# Community: 
+<img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/121628670_1751717181656598_7113568985737519489_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=Ln5aUV1WQwYAX876VeN&_nc_ht=scontent-lax3-2.xx&oh=00_AT9kxYquPd1DBj3dcy0HRRifnNf3t-y22E1TjlmiI0nrAA&oe=63173FDA" >
+
 ## Re: Ugly Girl Killed
 ### Nation Unshaken By Not-So-Tragic Death
 CASPER, WY—The people of America remained unmoved Monday as the sparse, barely attended funeral procession of Edith Pelphrey made its way to Pinelawn Cemetery in downtown Casper...[ReadMore](https://www.theonion.com/ugly-girl-killed-1819564191)
@@ -10,7 +11,7 @@ LAGUNA HILLS, CA—It is a typical Sunday in this conservative Orange County sub
 JERUSALEM—Overwhelmed by a constant deluge of prayers and appeals for salvation, Jesus Christ announced Monday the hiring of Tacoma, WA, customer-service supervisor Dean Smoler as Associate Christ.
 
 Jesus Christ, swamped by requests for guidance and divine forgiveness, hired 38-year-old Dean Smoler (left) as the first-ever Assistant Savior.
-Jesus Christ, swamped by requests for guidance and divine forgiveness, hired 38-year-old Dean Smoler (left) as the first-ever Assistant Savior.
+
 "I've been in need of an Assistant Savior for a long time now, and I'm thrilled to finally have one," Christ told reporters at a press conference aired on the Trinity Broadcasting Network...[ReadMore](https://www.theonion.com/christ-announces-hiring-of-associate-christ-1819564714)
 
 [Microsoft Patents Ones, Zeroes](https://www.theonion.com/microsoft-patents-ones-zeroes-1819564663)
@@ -112,9 +113,10 @@ Jesus Christ, swamped by requests for guidance and divine forgiveness, hired 38-
 
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/tuk.jpg">
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/filmSTOCK.jpg">
-<img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/crossprossessed_e100.jpg">
+
 
 ## Centennial Olympic Park bombing
+<img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/crossprossessed_e100.jpg">
 The Centennial Olympic Park bombing was a domestic terrorist pipe bombing attack on Centennial Olympic Park in Atlanta, Georgia, on July 27, 1996, during the Summer Olympics. The blast directly killed one person and injured 111 others; another person later died of a heart attack. It was the first of four bombings committed by Eric Rudolph.[1] Security guard Richard Jewell discovered the bomb before detonation and began clearing spectators out of the park.
 
 After the bombing, Jewell was initially investigated as a suspect by the Federal Bureau of Investigation and news media aggressively focused on him as the presumed culprit when he was actually innocent. In October 1996, the FBI declared Jewell was no longer a person of interest. Following three more bombings in 1997 and 1998, Rudolph was identified by the FBI as the suspect. In 2003, Rudolph was arrested, and in 2005 he agreed to plead guilty to avoid a potential death sentence. Rudolph was sentenced to life imprisonment without parole for his crimes...[ReadMore](https://en.wikipedia.org/wiki/Centennial_Olympic_Park_bombing#Bombing)
