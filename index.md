@@ -1,3 +1,36 @@
+
+
+<div class='twoPanelSpread'>
+      <div class='row'>
+        <div class='panelColumn'>
+          <div class='leftColumn'>
+            <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/133697148_1821005678061081_2922677220126142680_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=HNN983rWd1wAX9I7r2A&_nc_ht=scontent-lax3-1.xx&oh=00_AT-IHl8QzU5iTYuL0KCY7bcUJr6Eh5pjJBpcRCsWlKlVxA&oe=6315F371">
+          </div>
+        </div>
+        <div class='panelColumn'>
+          <div class='rightColumn'>
+            <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/133697148_1821005678061081_2922677220126142680_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=HNN983rWd1wAX9I7r2A&_nc_ht=scontent-lax3-1.xx&oh=00_AT-IHl8QzU5iTYuL0KCY7bcUJr6Eh5pjJBpcRCsWlKlVxA&oe=6315F371">
+          </div>
+        </div>
+    </div>
+</div>
+<div class='twoPanelSpread'>
+      <div class='row'>
+        <div class='panelColumn'>
+          <div class='leftColumn'>
+            <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/134855113_1824279831066999_5096832470453765124_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=zikhYe5vxjQAX84TbEh&_nc_ht=scontent-lax3-2.xx&oh=00_AT8-S_3aAo_RiwqQ6Ws9ooCKtkfuhQE8UaysmwKG-Yg7eA&oe=63154861">
+          </div>
+        </div>
+        <div class='panelColumn'>
+          <div class='rightColumn'>
+            <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/134855113_1824279831066999_5096832470453765124_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=zikhYe5vxjQAX84TbEh&_nc_ht=scontent-lax3-2.xx&oh=00_AT8-S_3aAo_RiwqQ6Ws9ooCKtkfuhQE8UaysmwKG-Yg7eA&oe=63154861">
+          </div>
+        </div>
+    </div>
+</div>
+
+
+
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/episode/4WVvVW1GZQ8055lMM0Lunt?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/episode/3FvKcENNB2D2cMCJNO09k1?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
