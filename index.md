@@ -1,3 +1,21 @@
+
+<div class='twoPanelSpread'>
+      <div class='row'>
+        <div class='panelColumn'>
+          <div class='leftColumn'>
+            <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/132655620_1819446294883686_7038786996250502188_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=qiufWIpnd2YAX9irV0A&_nc_ht=scontent-lax3-1.xx&oh=00_AT_UUN_t6lCHjtbem46f_BxQgu-J-gClHk2S02dJXM1-FA&oe=63187670" alt="LOVER_GOD_GOTiT">
+          </div>
+        </div>
+        <div class='panelColumn'>
+          <div class='rightColumn'>
+            <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/132655620_1819446294883686_7038786996250502188_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=qiufWIpnd2YAX9irV0A&_nc_ht=scontent-lax3-1.xx&oh=00_AT_UUN_t6lCHjtbem46f_BxQgu-J-gClHk2S02dJXM1-FA&oe=63187670" >
+          </div>
+        </div>
+    </div>
+</div>
+
+
+
 <div class='twoPanelSpread'>
       <div class='row'>
         <div class='panelColumn'>
