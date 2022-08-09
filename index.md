@@ -1,3 +1,22 @@
+<div class='twoPanelSpread'>
+      <div class='row'>
+        <div class='panelColumn'>
+          <div class='leftColumn'>
+            <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/133105546_1819446271550355_2286404260433524179_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=0BGz5pBCsqQAX9Kj6Nz&tn=8fyA6EaSghqhMRXR&_nc_ht=scontent-lax3-2.xx&oh=00_AT9BLeuiNsbPKVX8D9UCJpQwy5oTKLjoOmV_sxoZmlNU2g&oe=6316978D" alt="LOVER_GOD_GOTiT">
+          </div>
+        </div>
+        <div class='panelColumn'>
+          <div class='rightColumn'>
+            <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/133105546_1819446271550355_2286404260433524179_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=0BGz5pBCsqQAX9Kj6Nz&tn=8fyA6EaSghqhMRXR&_nc_ht=scontent-lax3-2.xx&oh=00_AT9BLeuiNsbPKVX8D9UCJpQwy5oTKLjoOmV_sxoZmlNU2g&oe=6316978D" >
+          </div>
+        </div>
+    </div>
+</div>
+
+[M.I.A. THE MESSAGE GOOGLE GOVERNEMENT /\/\ /\ Y /\ ](https://www.youtube.com/watch?v=heEKez1l5V8)
+
+<img src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/6023450924abe12714000010/vsco6023450aa19a8.jpg" >
+
 
 
 [Tips for Improving CSS and JS Animation Performance](https://www.keycdn.com/blog/animation-performance) 
@@ -40,12 +59,12 @@
  <div class='row'>
  <div class='column'>
  <div class='blue-column'>
- <img src="https://m.media-amazon.com/images/I/513hrlq4RML.jpg" alt="Girl in a jacket" >
+ <img src="https://m.media-amazon.com/images/I/513hrlq4RML.jpg" alt="Girl in a jacket https://www.youtube.com/watch?v=heEKez1l5V8" >
  </div>
  </div>
  <div class='column'>
  <div class='green-column'>
- <img src="https://m.media-amazon.com/images/I/513hrlq4RML.jpg" alt="Girl in a jacket" >
+ <img src="https://m.media-amazon.com/images/I/513hrlq4RML.jpg" alt="Girl in a jacket https://www.youtube.com/watch?v=heEKez1l5V8" >
  </div>
  </div>
  </div>
