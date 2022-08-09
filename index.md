@@ -1,4 +1,17 @@
-
+<div class='twoPanelSpread'>
+      <div class='row'>
+        <div class='panelColumn'>
+          <div class='leftColumn'>
+            <img src="https://mksd.jp/seele_996.jpg" alt="MANiACKERS_DiSCO_FONT_4PHOENiXSTARR_and_OR_HUMA_SELASSiE">
+          </div>
+        </div>
+        <div class='panelColumn'>
+          <div class='rightColumn'>
+            <img src="https://mksd.jp/seele_996.jpg" alt="MANiACKERS_DiSCO_FONT_4PHOENiXSTARR_and_OR_HUMA_SELASSiE">
+          </div>
+        </div>
+    </div>
+</div>
 <div class='twoPanelSpread'>
       <div class='row'>
         <div class='panelColumn'>
