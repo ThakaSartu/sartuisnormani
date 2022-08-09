@@ -7,7 +7,30 @@
 
 <a href="https://youtu.be/zQDcJBrLcNQ" target="_blank" alt="WE_NEED_TO_MARRY_INFRONT_OF_PEOPLE_WITH_WITH_ALL_OUR_PEOPLEFRIENDS_FOREVER_WE_SURVIVED_THE_BOMBINGS_IN_GEORGIA!LETS_GET_MARRIED" ><img src="https://images.squarespace-cdn.com/content/v1/58c35a0e579fb3281396b7f0/1536723653240-5XGYW66WX97I4YODRJPE/silver+embrace+FB_FB2048.jpg"> </a>
 
+<h2>Since i couldn’t remove all my tattoos I’m getting them covered</h2>
 
+[https://twitter.com/kashdoll/status/1129563640259121153/photo/1](https://twitter.com/kashdoll/status/1129563640259121153/photo/1)
+<div class="sixpanel">
+  <div class="item1"> <img src="https://pbs.twimg.com/media/D60EAyRU8AA6HPZ?format=jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+  <div class="item2"> <img src="https://pbs.twimg.com/media/D60EAyRU8AA6HPZ?format=jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+  <div class="item3"> <img src="https://pbs.twimg.com/media/D60EAyRU8AA6HPZ?format=jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+</div>
+
+<h2>TRYiNG_SOME_BOX_POST_LAYOUTS_OWT</h2>
+
+<div class="flex-container">
+
+  <div class="item1">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/DEAR_SARTU_IM_READY_FOR_FALL_FEELINGS.gif" /></div>
+    <div class="item2">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/DEAR_SARTU_IM_READY_FOR_FALL_FEELINGS.gif" /></div>
+    <div class="item3">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/DEAR_SARTU_IM_READY_FOR_FALL_FEELINGS.gif" /></div>
+</div>
+
+<div class="flex-container">
+
+  <div class="item1">                        <img src="https://pbs.twimg.com/media/FOZKA0UWQAEe0GL?format=jpg&name=small" /></div>
+  <div class="item2">                        <img src="https://pbs.twimg.com/media/FOZKA0UWQAEe0GL?format=jpg&name=small" /></div>
+  <div class="item3">                        <img src="https://pbs.twimg.com/media/FOZKA0UWQAEe0GL?format=jpg&name=small" /></div>
+</div>
 <div class="panel4-container">
     <div class="item1"><img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5c9d3b13e58b91563424b6ca/vsco5c9d3b14e05d4.jpg"></div>
     <div class="item2"><img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5c9d3b13e58b91563424b6ca/vsco5c9d3b14e05d4.jpg"></div>
