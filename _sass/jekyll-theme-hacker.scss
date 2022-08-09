@@ -570,6 +570,32 @@ a:visited {
   flex: var(--magnifier);
 }
 
+
+
+	/* ROUNDED_CORNER_THEE_PANEL */
+
+  .flex-container-rounded {
+
+    display: flex;
+     align-items: stretch; 
+    /* flex-flow: row nowrap; */ 
+    flex-direction: row; 
+    flex-wrap: nowrap; 
+    justify-content: center;
+    align-content: stretch;
+    height: 100%;
+    padding: 15px;
+    gap: 5px;
+    
+                /* ##IMGE_ROLLOVERS  */
+  }
+
+  .flex-container-rounded> div img{
+   
+    border: 1px solid #c9ff23; 
+    padding: 15px;
+     border-radius: 44px;
+ 
 /* TEST FONT_RESET */
 
 img {
