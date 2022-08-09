@@ -1,3 +1,57 @@
+<img src="https://static01.nyt.com/images/2022/07/06/multimedia/06xp-guidestones-1/06xp-guidestones-1-jumbo.jpg?quality=75&auto=webp">
+
+## Explosion Destroys Mysterious Monument in Georgia, Authorities Say
+For more than four decades, the Georgia Guidestones near Elberton Ga., have been an enigma. On Wednesday, the authorities said, “unknown individuals” destroyed a large part of the structure... [ReadMore](https://www.nytimes.com/2022/07/06/us/georgia-guidestones-explosion.html)
+### About The Georgia Guidestones
+From 1980 until its destruction in 2022, one of the most intriguing and controversial granite monuments ever erected stood in Elbert County, near the South Carolina border.
+
+The Georgia Guidestones dominated the highest elevation in the county, which is located in the northeastern Piedmont section of the state. Known to some as the American Stonehenge because of their striking resemblance to England’s famous monument, the Georgia Guidestones were unveiled on March 22, 1980...[ReadMore](https://www.georgiaencyclopedia.org/articles/history-archaeology/georgia-guidestones/)
+<div class='twoPanelSpread'>
+      <div class='row'>
+        <div class='panelColumn'>
+          <div class='leftColumn'>
+            <img src="https://evfgxracv24.exactdn.com/wp-content/uploads/2021/02/georgia-guidestones_001.jpg" alt="MANiACKERS_DiSCO_FONT_4PHOENiXSTARR_and_OR_HUMA_SELASSiE">
+          </div>
+        </div>
+        <div class='panelColumn'>
+          <div class='rightColumn'>
+            <img src="https://evfgxracv24.exactdn.com/wp-content/uploads/2021/02/georgia-guidestones_001.jpg" alt="MANiACKERS_DiSCO_FONT_4PHOENiXSTARR_and_OR_HUMA_SELASSiE">
+          </div>
+        </div>
+    </div>
+</div>
+
+### Like ancient Stonehenge
+The modern Guidestones served as a celestial clock of sorts, recording the passage of time through special features. Unlike Stonehenge, however, the Guidestones contained a written message for humanity. The general layouts of the two sites also differed from one another. While Stonehenge is arranged in a circular manner, the Guidestones were positioned in an “X” pattern, with each line of the axis oriented toward specific areas of the moon’s annual rotation around the Earth.
+
+The Guidestones’ mysterious origins go back to the summer of 1979, when a man calling himself R. C. Christian came to Elberton in search of both a granite firm to execute his design for a monument and a suitable site for the construction of it. The man admitted that “Christian” was a pseudonym, chosen because it represented his own beliefs and those of the organization that planned and funded the project. To this day, Christian’s real name and the true identity of his organization are unknown. Christian claimed that he chose Elbert County because of its abundant supply of granite, the rural nature of its landscape, and its relatively mild climate, and because some of his ancestors had once lived in the region.
+
+Joe H. Fendley Sr., president of the Elberton Granite Finishing Company, was initially shocked when Christian first explained his plan to build a gigantic granite monument inscribed with wisdom for the ages—suggestions or directions that would lead humanity into an “age of reason.” Christian also informed Wyatt C. Martin, president of Granite City Bank, of his hope that other conservation-minded groups in the country would later erect even more stones to form an outer ring around the central structure. He told Martin that he wanted the monument to be erected in a rural area, away from crowds and tourists.
+
+Meanwhile, Fendley put his laborers to work on the structure, which consisted of four massive blue granite slabs, one center stone (known as the Gnomen stone), and a capstone. When finally completed, the monolithic structure weighed 119 tons and contained 951 cubic feet of granite. The structure also supported more than 4,000 sandblasted characters and letters, each averaging about four inches in height. Christian and Martin selected a five-acre plot in the middle of a cow pasture, approximately seven miles north of Elberton and eight miles south of Hartwell, with a commanding view to the east and the west, on which to build the monument. The area chosen was in close proximity to what the Cherokee Indians called “Al-yeh-li A lo-Hee,”—the center of the world. The land on which the Guidestones stood is owned by Elbert County.
+
+The inscriptions on the Guidestones were meant for current and future generations. Sandblasted along the square capstone sitting atop the structure was the basic message: “Let these be guidestones to an age of reason,” in Babylonian cuneiform, Egyptian hieroglyphics, Sanskrit, and classical Greek. The four granite slabs, each weighing 42,137 pounds and standing more than sixteen feet in height, listed ten “guides” for mankind in eight different languages. The languages represented on the four major stones were Arabic, Chinese, English, Hebrew, Hindi, Russian, Spanish, and Swahili. The engraved messages dealt with four major areas: governance and the establishment of a world government, population and reproduction control, the environment and humankind’s relationship to nature, and spirituality.
+<div class='twoPanelSpread'>
+      <div class='row'>
+        <div class='panelColumn'>
+          <div class='leftColumn'>
+            <img src="https://evfgxracv24.exactdn.com/wp-content/uploads/2021/02/georgia-guidestones_011-900x600.jpg" alt="MANiACKERS_DiSCO_FONT_4PHOENiXSTARR_and_OR_HUMA_SELASSiE">
+          </div>
+        </div>
+        <div class='panelColumn'>
+          <div class='rightColumn'>
+            <img src="https://evfgxracv24.exactdn.com/wp-content/uploads/2021/02/georgia-guidestones_011-900x600.jpg" alt="MANiACKERS_DiSCO_FONT_4PHOENiXSTARR_and_OR_HUMA_SELASSiE">
+          </div>
+        </div>
+    </div>
+</div>
+
+# The ‘Stonehenge of America’ Still Has Visitors Asking, ‘What Is This Place?
+Granite slabs known as the Georgia Guidestones keep attracting attention; ‘It is creepy, but it’s also kind of cool’[ReadMore](https://www.wsj.com/articles/stonehenge-of-america-georgia-tourists-11652801123)
+<img src="https://images.wsj.net/im-545990/square">
+
+
+
 <div class='twoPanelSpread'>
       <div class='row'>
         <div class='panelColumn'>
@@ -41,6 +95,7 @@
     </div>
 </div>
 
+[Rob Swift - I'm Leaving  ithought it was shaakira music... i still want her ya know](https://www.youtube.com/watch?v=fushfsow-tw)
 [Come One Come All · Zeph · Azeem](https://www.youtube.com/watch?v=RDFvwV3EE-8)
 [Everything's Different · Zeph · Azeem · DJ Teeko · Tut](https://www.youtube.com/watch?v=iFNAnKBEOVk)
 [ DJ_PHOENiXSTARR remember this from one of our ##iNDUSTRY_MONDAY sets ~> Play The Drum · Zeph · Azeem](https://www.youtube.com/watch?v=ClA_jXRT_U0&t=4s)
