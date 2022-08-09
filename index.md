@@ -5,6 +5,24 @@
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
 
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/120866840_1742622389232744_2248801366658331654_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=3mrHhmr3d30AX-AqDVO&_nc_ht=scontent-lax3-2.xx&oh=00_AT-ZL1UiddHglcCsAFcuVpixUEk7klfTQh-AYBdd_v_Qdw&oe=63195E23" alt="##QUXUBE_CANNOT_PICK_HER_OWN_MAN"> </a>
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/120866840_1742622389232744_2248801366658331654_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=3mrHhmr3d30AX-AqDVO&_nc_ht=scontent-lax3-2.xx&oh=00_AT-ZL1UiddHglcCsAFcuVpixUEk7klfTQh-AYBdd_v_Qdw&oe=63195E23" alt=""> </a>
+         </div>
+    </div>
+  </div>
+</div>
+
+
+<img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/120664272_1742640965897553_2039796719578498505_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=RS9yEsmN9t0AX-r-S3K&tn=yDeYolVP_3_Jzc6u&_nc_ht=scontent-lax3-2.xx&oh=00_AT-f1JvMbvi1fFsgo20_cUM6rTy8WrKw_2OHAdIt9jJuZw&oe=6319B34C" >
+<img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/120999468_1746355385526111_4116736716770605603_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_ohc=pgKEIoVvmREAX--wyc_&_nc_ht=scontent-lax3-2.xx&oh=00_AT-UvmhpzKgQ3-doCXrhcd9wzstzNCzJiLueqig-XhO-eA&oe=6319B837" alt="Sister_Roman_and_Tinish_From_THE_HORN_OF_AFRICA___ETHIOPIA_and_ERiTREA">
 <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/120750735_1746341688860814_3372622645216138140_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=AWW1jkN78GgAX-ogQqh&_nc_oc=AQnYxzotwY9DGax7-LAm8qMMyydXYuFOKQLMG3h7vXtCrsKyXjZm9jtq95erV5MbtWU&_nc_ht=scontent-lax3-1.xx&oh=00_AT-j8td17Ev-CFU_ihTJsansGKjUmxTnJNwd_9zWzYQLQA&oe=631A06C2">
 
 [FILMS STORIES SHAPE OUR WORLD. We use the power of film to awaken a passion for human dignity and the conviction that no human being should be bought, sold, or sexually exploited. Each feature-length and short documentary film is designed to educate, inspire, and shift harmful ways of thinking. Using hard facts and compelling storytelling with stunning imagery, we invite people around the world to join together to break the cycle of commercial sexual exploitation.](https://exoduscry.com/watch/) 
