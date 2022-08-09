@@ -1,4 +1,33 @@
 
+<div class='twoPanelSpread'>
+      <div class='row'>
+        <div class='panelColumn'>
+          <div class='leftColumn'>
+            <img src="https://mksd.jp/numberman_744.gif" alt="MANiACKERS_DiSCO_FONT_4PHOENiXSTARR_and_OR_HUMA_SELASSiE">
+          </div>
+        </div>
+        <div class='panelColumn'>
+          <div class='rightColumn'>
+            <img src="https://mksd.jp/numberman_744.gif" alt="MANiACKERS_DiSCO_FONT_4PHOENiXSTARR_and_OR_HUMA_SELASSiE">
+          </div>
+        </div>
+    </div>
+</div>
+<div class='twoPanelSpread'>
+      <div class='row'>
+        <div class='panelColumn'>
+          <div class='leftColumn'>
+            <img src="https://i.discogs.com/e4X74U5AqRxhOJKht-RR-ktSaLRb0PMPYgfIj86JnRo/rs:fit/g:sm/q:90/h:537/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwOTk5/MzYtMTQzMzcxODAz/MC05MTg2LmpwZWc.jpeg" alt="BUiLT_FROM_SCRATCH_IS_A_DOPE_RECORD_4PHOENiXSTARR_and_OR_HUMA_SELASSiE">
+          </div>
+        </div>
+        <div class='panelColumn'>
+          <div class='rightColumn'>
+            <img src="https://i.discogs.com/e4X74U5AqRxhOJKht-RR-ktSaLRb0PMPYgfIj86JnRo/rs:fit/g:sm/q:90/h:537/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwOTk5/MzYtMTQzMzcxODAz/MC05MTg2LmpwZWc.jpeg" alt="MANiACKERS_DiSCO_FONT_4PHOENiXSTARR_and_OR_HUMA_SELASSiE">
+          </div>
+        </div>
+    </div>
+</div>
+
 [The X-Ecutioners Built From Scratch 2002 Full Album](https://www.youtube.com/watch?v=VAyuCnX_bK8) 
 [Xecutioners - Mad Flava (Album: X-Pressions)](https://www.youtube.com/watch?v=P9E_p538Slc)
 No copyright infringement intended. All contents belong to its rightful owners. This is for entertainment purposes only.
