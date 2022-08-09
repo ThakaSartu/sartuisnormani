@@ -1,6 +1,8 @@
+<img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/122429347_1760080564153593_8742672523738622350_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=1esZDwF9ZFQAX-ZC8_N&_nc_ht=scontent-lax3-2.xx&oh=00_AT80WOPLOxyktfeXZFDvVBnOYgzID2xuaMbw2j63Pz1-2w&oe=631806D4" >
+
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/i6cRXFs6BzI" title="BOB MARLEY Live in Santa Barbara 1979 FULL CONCERT" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<h1>Pure CSS Gallery</h1>
+<h1>Pure CSS Gallery TESTing squares and rectangles, no javascript, yay!</h1>
 
 <section class="gallery">
   <div class="carousel">
