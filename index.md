@@ -1,3 +1,4 @@
+<img src="https://mksd.jp/millennium.gif" alt="MANiACKERS_DiSCO_FONT_4PHOENiXSTARR_and_OR_HUMA_SELASSiE">
 [Everything's Different · Zeph · Azeem · DJ Teeko · Tut](https://www.youtube.com/watch?v=iFNAnKBEOVk)
 [ DJ_PHOENiXSTARR remember this from one of our ##iNDUSTRY_MONDAY sets ~> Play The Drum · Zeph · Azeem](https://www.youtube.com/watch?v=ClA_jXRT_U0&t=4s)
 [| AL = Alphabet | KT = Katakana | HR = Hiragana | PS1 = Postscript Type1 | TT = TrueType | OTF = Opentype](https://mksd.jp/designfont.html) [Maniackers Design](https://mksd.jp/index-2.html)
