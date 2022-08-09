@@ -10,6 +10,21 @@
   <div class='row'>
     <div class='panelColumn'>
       <div class='leftColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/101433104_1624010071093977_3664040422738493440_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_ohc=DavuBpWcqkoAX-HZIEc&_nc_ht=scontent-lax3-1.xx&oh=00_AT-ux_Fq0yh66LwUOF3yVhj3bi9UddsjhNrY4IlVv96YEQ&oe=631830D4" alt="##QUXUBE_CANNOT_PICK_HER_OWN_MAN"> </a>
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/101433104_1624010071093977_3664040422738493440_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_ohc=DavuBpWcqkoAX-HZIEc&_nc_ht=scontent-lax3-1.xx&oh=00_AT-ux_Fq0yh66LwUOF3yVhj3bi9UddsjhNrY4IlVv96YEQ&oe=631830D4" alt=""> </a>
+         </div>
+    </div>
+  </div>
+</div>
+<img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/101734291_1625057927655858_4824005523386925056_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=iYyTy3LKTKMAX-mJSvK&_nc_ht=scontent-lax3-1.xx&oh=00_AT8WLAAmzHwAR6GwRhP3uvLjQ8CMY_QJP6Eexc_l4XykQg&oe=6318CDF4" >
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
         <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/101541776_1625070324321285_7576394942335942656_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=VQdBGK4Lf1QAX-Ok_Rl&_nc_oc=AQnT7J5YiGASZNRufGAU1T4RRraDMuME411Jk68M0wINtS15xPVRWg_RD_8c8cSRrAI&_nc_ht=scontent-lax3-1.xx&oh=00_AT9cahNmUg92yLrxt_C6cTrdVRYE29Dakr-JLF50PbGGRQ&oe=63199936" alt="##QUXUBE_CANNOT_PICK_HER_OWN_MAN"> </a>
         </div>
     </div>
