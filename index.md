@@ -1,7 +1,7 @@
 
 [The X-Ecutioners Built From Scratch 2002 Full Album](https://www.youtube.com/watch?v=VAyuCnX_bK8) 
 [Xecutioners - Mad Flava (Album: X-Pressions)](https://www.youtube.com/watch?v=P9E_p538Slc)
-
+No copyright infringement intended. All contents belong to its rightful owners. This is for entertainment purposes only.
 <img src="https://static01.nyt.com/images/2022/07/06/multimedia/06xp-guidestones-1/06xp-guidestones-1-jumbo.jpg?quality=75&auto=webp">
 
 ## Explosion Destroys Mysterious Monument in Georgia, Authorities Say
