@@ -5,7 +5,20 @@
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
 
-
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/95656953_1599263186901999_4337444990708875264_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=IyQMS7qIQOcAX_1PKXK&_nc_ht=scontent-lax3-1.xx&oh=00_AT_5ljgxiXt87wzoWH32YRghZEgX9MgWIPug0H3bpd3Mzg&oe=6319348A" alt="##QUXUBE_CANNOT_PICK_HER_OWN_MAN"> </a>
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/95656953_1599263186901999_4337444990708875264_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=IyQMS7qIQOcAX_1PKXK&_nc_ht=scontent-lax3-1.xx&oh=00_AT_5ljgxiXt87wzoWH32YRghZEgX9MgWIPug0H3bpd3Mzg&oe=6319348A" alt=""> </a>
+         </div>
+    </div>
+  </div>
+</div>
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
