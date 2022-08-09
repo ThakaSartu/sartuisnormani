@@ -1,3 +1,21 @@
+## It’s Time to Solve All That Sexual Frustration You’re Feeling
+No matter your relationship status—whether you're trying to reap the benefits of being single or find yourself in a marriage that's lacking intimacy—feeling sexually frustrated is no fun, nor is it something to ignore. Satiating your sex drive is important, as experts say it’s closely tied to overall quality of life...[ReadMore](https://www.oprahdaily.com/life/relationships-love/a33435407/sexual-frustration/)
+
+## What are the symptoms of sexual frustration?
+### Here's a list of signs of sexual frustration.
+Negatively Overreacting. There's being upset, and then there's overreacting. ...
+Giving Up. When sex hasn't happened in a while, people can fall into depressive episodes. ...
+Living Vicariously. ...
+Hypersensitivity. ...
+Jealous Rages. ...
+Substituting Food and Other Stimulants.
+[ReadMore](https://britishcondoms.uk/learn/sexual-health/what-are-the-signs-of-sexual-frustration/)
+
+[What to know about managing sexual frustration](https://www.medicalnewstoday.com/articles/sexually-frustrated)
+Sexual frustration is a natural response that many people experience at one time or another. It refers to an imbalance between a person’s sexual desires and their reality. Some people assume sexual frustration only applies to those with a high sex drive. However, it occurs in anyone whose sexual arousal is not met with sufficient activity, leading to tension.
+
+Sexual behavior is a complex human endeavor that can affect physical and mental well-being. While sexual frustration can present differently among individuals, it can cause negative health effects and lead to anger, recklessness, anxiety, and depression...[ReadMore](https://www.medicalnewstoday.com/articles/sexually-frustrated)
+
 [X-Men vs Invisibl Skratch Piklz July 27, 1996 Team Round](https://www.youtube.com/watch?v=t0scteKsQrY)
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/J1-V99dVZgk" title="Q-Bert VS. Craze /TTV vol.3/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
