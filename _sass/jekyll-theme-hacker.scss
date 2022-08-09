@@ -614,3 +614,45 @@ audio:active {
   -moz-transform: scale(1.05);
   transform: scale(1.05);
 }
+
+
+/* PORT_FROM_H2AU */
+
+ 
+.some-page-wrapper {
+
+}
+
+.row {
+ display: flex;
+ flex-direction: row;
+ flex-wrap: wrap;
+ width: 100%;
+}
+
+.column {
+ display: flex;
+ flex-direction: column;
+ flex-basis: 100%;
+ flex: 1;
+ overflow: hidden;
+}
+
+.double-column {
+ display: flex;
+ flex-direction: column;
+ flex-basis: 100%;
+ flex: 2;
+ overflow: hidden;
+}
+
+.blue-column {
+ background-color: #23ff32;
+ 
+}
+
+.green-column {
+ 
+ background-color: #c9ff23;
+} 
+ 
