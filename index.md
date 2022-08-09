@@ -6,6 +6,9 @@
 {% endhighlight %}
 
 
+[FILMS STORIES SHAPE OUR WORLD. We use the power of film to awaken a passion for human dignity and the conviction that no human being should be bought, sold, or sexually exploited. Each feature-length and short documentary film is designed to educate, inspire, and shift harmful ways of thinking. Using hard facts and compelling storytelling with stunning imagery, we invite people around the world to join together to break the cycle of commercial sexual exploitation.](https://exoduscry.com/watch/) 
+<div style="padding:41.67% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/306947857?h=69933fa621&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<p><a href="https://vimeo.com/306947857">Love Is Never Wasted - ReMoved Part 3</a> from <a href="https://vimeo.com/heschle">HESCHLE</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <iframe width="100%" height="490" src="https://www.youtube.com/embed/MFaDHgXPbUg" title="Nefarious: Merchant of Souls | Human Trafficking Documentary - Full Movie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/121964483_1760059737489009_1161224290892981810_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=YZxeREp8_MQAX9Lnn9U&_nc_ht=scontent-lax3-2.xx&oh=00_AT-aoGdeds_l8q7A00j0Rin9MlByIKJeS92_BV8fdUffWg&oe=6317D5CD" >
 
