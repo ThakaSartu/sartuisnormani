@@ -5,7 +5,34 @@
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
 
-
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://i.pinimg.com/564x/97/ab/2f/97ab2f63a12ad06666eab8feeb8fe1a5.jpg" alt="##QUXUBE_CANNOT_PICK_HER_OWN_MAN"> </a>
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://i.pinimg.com/564x/97/ab/2f/97ab2f63a12ad06666eab8feeb8fe1a5.jpg" alt=""> </a>
+         </div>
+    </div>
+  </div>
+</div>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://i.pinimg.com/564x/2f/76/14/2f7614a2ecf5b4ba43728c3af48ecdd5.jpg" alt="##KINGSTONS_BIRTHDAY_THATS_TASHiS_SON"> </a>
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://i.pinimg.com/564x/2f/76/14/2f7614a2ecf5b4ba43728c3af48ecdd5.jpg" alt="##KINGSTONS_BIRTHDAY_THATS_TASHiS_SON"> </a>
+         </div>
+    </div>
+  </div>
+</div>
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
