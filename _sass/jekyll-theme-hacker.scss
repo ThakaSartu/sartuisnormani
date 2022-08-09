@@ -8,7 +8,7 @@ $body-foreground: $gallery  !default;
 $header: $conifer  !default;
 $blockquote-color: $white  !default;
 $blockquote-border: $conifer  !default;
-$container-max-width: 95%;
+$container-max-width: 90%;
 
 @mixin media-max-width($max-width) {
   @media (max-width: $max-width) {
