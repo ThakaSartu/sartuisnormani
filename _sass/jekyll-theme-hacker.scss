@@ -663,10 +663,10 @@ audio:active {
 	-webkit-transform: translateX(-50%);
 	transform: translateX(-50%);
 	position: relative;
-	background: white;
-	width: 70%;
+	background: rgb(131,58,180);
+  background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,0.6516981792717087) 35%, rgba(252,176,69,1) 100%);	width: 100%;
 	box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
-	border-radius: 5px;
+	border-radius: 0px;
 }
 .gallery input[name$="control"] {
 	display: none;
@@ -680,7 +680,7 @@ audio:active {
 	-ms-flex-direction: row;
 	flex-direction: row;
 	position: relative;
-	height: 70vh;
+	height: 90vh;
 	width: 100%;
 }
 .gallery .wrap {
