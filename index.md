@@ -73,7 +73,22 @@
 </div>
 
 <a href="https://thakarashard.github.io/bubblegumpop/"><img src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5cf66bae52aad8210f45cbaf/vsco5cf66bafc30a6.jpg"> </a>
-<img src="https://typedifferent.com/fonts/bd_destination/bd_destination_example1.jpg" >
+
+
+<div class='twoPanelSpread'>
+      <div class='row'>
+        <div class='panelColumn'>
+          <div class='leftColumn'>
+            <img src="https://typedifferent.com/fonts/bd_destination/bd_destination_example1.jpg" alt="MANiACKERS_DiSCO_FONT_4PHOENiXSTARR_and_OR_HUMA_SELASSiE">
+          </div>
+        </div>
+        <div class='panelColumn'>
+          <div class='rightColumn'>
+            <img src="https://typedifferent.com/fonts/bd_destination/bd_destination_example1.jpg" alt="MANiACKERS_DiSCO_FONT_4PHOENiXSTARR_and_OR_HUMA_SELASSiE">
+          </div>
+        </div>
+    </div>
+</div>
 <div class='twoPanelSpread'>
       <div class='row'>
         <div class='panelColumn'>
