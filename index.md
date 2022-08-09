@@ -1,8 +1,11 @@
+[WEEKEND GIRL (Original Full-Length Album Version) - SOS Band](https://www.youtube.com/watch?v=8BvuSzxcE5o)
+
+
 <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/122429347_1760080564153593_8742672523738622350_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=1esZDwF9ZFQAX-ZC8_N&_nc_ht=scontent-lax3-2.xx&oh=00_AT80WOPLOxyktfeXZFDvVBnOYgzID2xuaMbw2j63Pz1-2w&oe=631806D4" >
 
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/i6cRXFs6BzI" title="BOB MARLEY Live in Santa Barbara 1979 FULL CONCERT" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<h1>Pure CSS Gallery TESTing squares and rectangles, no javascript, yay!</h1>
+<h1>Pure CSS Gallery TESTing rectangles, no javascript, yay!</h1>
 
 <section class="gallery">
   <div class="carousel">
@@ -54,58 +57,6 @@
   </div>
   </div>
 </section>
-<section class="gallery">
-  <div class="carousel">
-    <input type="radio" id="image1" name="gallery-control" checked>
-    <input type="radio" id="image2" name="gallery-control">
-    <input type="radio" id="image3" name="gallery-control">
-    <input type="radio" id="image4" name="gallery-control">
-
-  <input type="checkbox" id="fullscreen" name="gallery-fullscreen-control" />
-    <div class="wrap">
-
-  <figure>
-        <label for="fullscreen">
-          <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/132045058_1812904808871168_5753874003435804384_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=VEjNQEDlawUAX9P0Tvk&_nc_ht=scontent-lax3-1.xx&oh=00_AT91A-mc9jtIFKwWIUwiq8OY_Yoqlf6F5ffbjCAnlfqG2A&oe=6317D9E8" alt="image3" />
-        </label>
-      </figure>
-
-  <figure>
-        <label for="fullscreen">
-          <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/122466033_1763617780466538_4004521989100006080_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=kz_VegGcL04AX_uwO_9&tn=8fyA6EaSghqhMRXR&_nc_ht=scontent-lax3-1.xx&oh=00_AT9_7thGIEikpZz6fHET8QicnEUPvxDtbmRUYODUBYaXeg&oe=63168485" alt="image2" />
-        </label>
-      </figure>
-
-  <figure>
-        <label for="fullscreen">
-          <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/122177016_1760084254153224_2637435528121756203_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=nSZpfYiKx_sAX_bBA_F&_nc_ht=scontent-lax3-2.xx&oh=00_AT-jO1CIWTIFiGkXKoVxGDC3OfS-fu3VyeC-1ACdlZr2GQ&oe=6316D48E" alt="image3" />
-        </label>
-      </figure>
-
- <figure>
-        <label for="fullscreen">
-          <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/121005667_1745464908948492_2732019321500875720_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_ohc=pC0YRnayRKMAX_iVR6h&_nc_ht=scontent-lax3-2.xx&oh=00_AT8_HedbZPeNg_Tg4i_LX3iXInMgavKsdQycJLZhV1bOrQ&oe=6315F59B" alt="image4" />
-        </label>
-      </figure>
-    </div>
-
- <div class="thumbnails">
-
-  <div class="slider">
-        <div class="indicator"></div>
-      </div>
-
-  <label for="image1" class="thumb" style="background-image: url('https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/132045058_1812904808871168_5753874003435804384_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=VEjNQEDlawUAX9P0Tvk&_nc_ht=scontent-lax3-1.xx&oh=00_AT91A-mc9jtIFKwWIUwiq8OY_Yoqlf6F5ffbjCAnlfqG2A&oe=6317D9E8')"></label>
-
-  <label for="image2" class="thumb" style="background-image: url('https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/122466033_1763617780466538_4004521989100006080_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=kz_VegGcL04AX_uwO_9&tn=8fyA6EaSghqhMRXR&_nc_ht=scontent-lax3-1.xx&oh=00_AT9_7thGIEikpZz6fHET8QicnEUPvxDtbmRUYODUBYaXeg&oe=63168485')"></label>
-
-  <label for="image3" class="thumb" style="background-image: url('https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/122177016_1760084254153224_2637435528121756203_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=nSZpfYiKx_sAX_bBA_F&_nc_ht=scontent-lax3-2.xx&oh=00_AT-jO1CIWTIFiGkXKoVxGDC3OfS-fu3VyeC-1ACdlZr2GQ&oe=6316D48E')"></label>
-
-  <label for="image4" class="thumb" style="background-image: url('https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/121005667_1745464908948492_2732019321500875720_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_ohc=pC0YRnayRKMAX_iVR6h&_nc_ht=scontent-lax3-2.xx&oh=00_AT8_HedbZPeNg_Tg4i_LX3iXInMgavKsdQycJLZhV1bOrQ&oe=6315F59B')"></label>
-    </div>
-  </div>
-</section>
-
 <div class='twoPanelSpread'>
       <div class='row'>
         <div class='panelColumn'>
