@@ -50,9 +50,7 @@
  </div>
  </div>
 </div>
-<img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/123651548_1772313149597001_7871683850397876102_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=ARBgORI3W-8AX9QKRar&tn=QxTY8lokZVnG3dEp&_nc_ht=scontent-lax3-2.xx&oh=00_AT9dH2Y4AJTyTHrBrrmui-7cVny4291NzdD2L0W6r7XBXg&oe=63174B8F" alt="CHINA_WUHAN_SPRAYERS">
 
-[Electrostatic Loudspeaker (ESL) Technology - MartinLogan](https://www.youtube.com/watch?v=KGhFYSk4zJI)
 <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/132802332_1816879455140370_2544643186831573601_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=Sqm7URXcc70AX_6dI4g&_nc_ht=scontent-lax3-1.xx&oh=00_AT-50eeldMH5rxXPqVtqHIR5TYnmX3xEMUmMfUmEpQC0FQ&oe=6318E1A9" alt="LOVER_GOLD_SUBTRACK_TPAiN_FROM_SUSPiSCiON">
 <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/133980315_1822580354570280_6058692718229128176_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_ohc=QLGULuthW3IAX-GgFO1&_nc_oc=AQliqgZIc6uysv5ol-hSvbH1H88t7Byv5EqRIvSOs-Lz-c9-hhDhxy15_ltUFlcSn0A&_nc_ht=scontent-lax3-1.xx&oh=00_AT9E4C218hyc4xmmwoqN0gf_nkjoV9_ums8JBt7YVmSnHg&oe=63167659" alt="LOVER_DOA_iFFYMART">
 <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/133644109_1822580247903624_1222010712085889415_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=KxkczsqPWTYAX9uhZ8T&_nc_ht=scontent-lax3-2.xx&oh=00_AT_4btvZJuwn59MymokfmZpMXvJZCDdK1aVdC__d2ypE1Q&oe=6317135A" alt="LOVER_GRAFFITI##STARGAZiNG">
@@ -1065,7 +1063,9 @@ Dear Sartu... AHEM Arkeisha. This shit dope, you can hear old LOS_ANGELES DOPE_a
 <iframe width="100%" height="360" src="https://www.youtube.com/embed/4p37WA51K_U" title="Keeskoo _ Ethiopian Oromo New movie 2022 | Kesko _ Fiilmii Afaan Oromoo Haaraa 2022 | Hatameera" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <h3>Kash_Doll_is a </h3>
 <iframe width="100%" height="360" src="https://www.youtube.com/embed/HnS9CstXhXY" title="Gaadii Hiree|Full Afaan Oromoo Movie 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/123651548_1772313149597001_7871683850397876102_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=ARBgORI3W-8AX9QKRar&tn=QxTY8lokZVnG3dEp&_nc_ht=scontent-lax3-2.xx&oh=00_AT9dH2Y4AJTyTHrBrrmui-7cVny4291NzdD2L0W6r7XBXg&oe=63174B8F" alt="CHINA_WUHAN_SPRAYERS">
 
+[Electrostatic Loudspeaker (ESL) Technology - MartinLogan](https://www.youtube.com/watch?v=KGhFYSk4zJI)
 [https://youtube.com/shorts/GG99p9d1188?feature=share](https://youtube.com/shorts/GG99p9d1188?feature=share)
 [Feeling Over](https://www.youtube.com/watch?v=Gb_Whn3vGr0)
 [Rare Hero](https://www.youtube.com/watch?v=l3bhNLtXvHA)
