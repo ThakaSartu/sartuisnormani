@@ -4,8 +4,26 @@
 3 # ANOTHER###############################################
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/132818075_1816885688473080_7298094709213629150_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=7de2PzowOTcAX92Hr_8&_nc_ht=scontent-lax3-2.xx&oh=00_AT8DZ6n6OFagvIKHOVXf3C822PeGuqTvt0C7bm4ZZm--QA&oe=6317EB01" alt="##QUXUBE_CANNOT_PICK_HER_OWN_MAN"> </a>
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/132818075_1816885688473080_7298094709213629150_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=7de2PzowOTcAX92Hr_8&_nc_ht=scontent-lax3-2.xx&oh=00_AT8DZ6n6OFagvIKHOVXf3C822PeGuqTvt0C7bm4ZZm--QA&oe=6317EB01" alt=""> </a>
+         </div>
+    </div>
+  </div>
+</div>
+<img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/104588298_1643394085822242_3137382172370219359_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=K9gIfiQP5BIAX8ChW1g&_nc_ht=scontent-lax3-2.xx&oh=00_AT-taqrAAkNgGzXHGIDu8icUQYLm9BaJr2-GeSkzy5mXkg&oe=6312BF9C">
+<img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/132544861_1819218584906457_439453098938799085_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_ohc=lZ6AHJaHkDEAX85Zv59&_nc_ht=scontent-lax3-1.xx&oh=00_AT_xT5pjN5sPYiPQrtk3_pnzWrRmBxqnM3IumLavSnB2-g&oe=6317D4FB" >
 <iframe width="100%" height="520" src="https://www.youtube.com/embed/RvUVxYndYuU" title="M.I.A. - Bring The Noize (Matangi Street Edition)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-[bob marley legend full album](https://www.youtube.com/watch?v=Hp325M9MMFI)
+
+[Bob Marley Legend full album](https://www.youtube.com/watch?v=Hp325M9MMFI)
 [Artifacts - Between A Rock And A Hard Place 1994 FULL ALBUM](https://www.youtube.com/watch?v=vCu6ztxthXI) [Dr Dre - The Roadium Mix Tape - Criminal](https://www.youtube.com/watch?v=8oeff7LxaP4)
 <a href="https://youtu.be/zQDcJBrLcNQ" target="_blank" alt="WE_NEED_TO_MARRY_INFRONT_OF_PEOPLE_WITH_WITH_ALL_OUR_PEOPLEFRIENDS_FOREVER_WE_SURVIVED_THE_BOMBINGS_IN_GEORGIA!LETS_GET_MARRIED" ><img src="https://images.squarespace-cdn.com/content/v1/58c35a0e579fb3281396b7f0/1536723653240-5XGYW66WX97I4YODRJPE/silver+embrace+FB_FB2048.jpg"> </a>
 
