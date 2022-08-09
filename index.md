@@ -4,6 +4,20 @@
 3 # ANOTHER###############################################
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/103718426_1644270902401227_5980942142663911120_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_ohc=RnnWppHDpn8AX8o3EL4&_nc_ht=scontent-lax3-2.xx&oh=00_AT9mWMAFc4i5CW7qGdhWmStY1twnvqdJS_aAw6dJB1SX5Q&oe=631A62CD" alt="##QUXUBE_CANNOT_PICK_HER_OWN_MAN"> </a>
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/82117123_1644270885734562_3304057613987664657_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_ohc=xDxHpuND2AQAX8W4TLQ&_nc_ht=scontent-lax3-2.xx&oh=00_AT8jD8_3gBEjmqFPPaSzr8Vu_6VxFgmat-fBCtwo9MZcXg&oe=631950B7" alt=""> </a>
+         </div>
+    </div>
+  </div>
+</div>
 <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/118780706_1716618538499796_6846967536967192530_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_ohc=RVuQtXKPsf8AX_PzLTK&_nc_ht=scontent-lax3-1.xx&oh=00_AT_875oHGi6aWboUr2XDfXMeKqi7Tw7WCG643Y6xUvsvWg&oe=6317920C" alt="DANiELLE_MUSHONGA_SAW_EVERYTHING_AND_JUST_STOLE_MY_CHILD">
 <div class='twoPanelSpread'>
   <div class='row'>
