@@ -4,7 +4,20 @@
 3 # ANOTHER###############################################
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
-
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/94097421_1592724034222581_6669001105835294720_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=O_1zU7xWaFcAX_4Tz9K&_nc_ht=scontent-lax3-2.xx&oh=00_AT9ccCS42OW_UMt3NX2zGgSwqmb2UwA3J1cY905m2gJYdg&oe=63199688" alt="##KINGSTONS_BIRTHDAY_THATS_TASHiS_SON"> </a>
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/94097421_1592724034222581_6669001105835294720_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=O_1zU7xWaFcAX_4Tz9K&_nc_ht=scontent-lax3-2.xx&oh=00_AT9ccCS42OW_UMt3NX2zGgSwqmb2UwA3J1cY905m2gJYdg&oe=63199688" alt="##KINGSTONS_BIRTHDAY_THATS_TASHiS_SON"> </a>
+         </div>
+    </div>
+  </div>
+</div>
 <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/94779183_1592719207556397_1263879210150133760_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=0gYNEALTl0QAX_XwzaM&_nc_ht=scontent-lax3-2.xx&oh=00_AT94x4ybIdkn8Tf9xGWAvsYsfpdJu3S0aUkSqUyVxFHWuQ&oe=6316DF0B" >
 <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/92568826_1577252332436418_8616794574439841792_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=15Nqoc9WNFMAX-cQudj&_nc_oc=AQkYhLjqbLxKcOc7EQKXyOAavaM1tVxMIwRywIbWp-oFUes-JN1jdfiWQwBIWp4NRI8&_nc_ht=scontent-lax3-1.xx&oh=00_AT_kS06sF7PhIO4urdx-RSEHSoI_yHfL-WIMGHREOYrU6A&oe=631A3ADB" >
 <div class='twoPanelSpread'>
