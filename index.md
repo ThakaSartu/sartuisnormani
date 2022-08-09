@@ -4,6 +4,36 @@
 3 # ANOTHER###############################################
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
+
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://i.pinimg.com/564x/25/40/e7/2540e7544166a0f19ca2e87fa957575c.jpg" alt="##KINGSTONS_BIRTHDAY_THATS_TASHiS_SON"> </a>
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://i.pinimg.com/564x/25/40/e7/2540e7544166a0f19ca2e87fa957575c.jpg" alt="##KINGSTONS_BIRTHDAY_THATS_TASHiS_SON"> </a>
+         </div>
+    </div>
+  </div>
+</div>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/95655694_1599262970235354_2073225385734045696_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=LmwuMOHIubsAX8Mk7sR&_nc_ht=scontent-lax3-2.xx&oh=00_AT-vbF7lpEgrijEHPgfz5mDG9-8QtJe1Il0nSpdjoFXB5w&oe=6317C9AE" alt="##KINGSTONS_BIRTHDAY_THATS_TASHiS_SON"> </a>
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/95655694_1599262970235354_2073225385734045696_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=LmwuMOHIubsAX8Mk7sR&_nc_ht=scontent-lax3-2.xx&oh=00_AT-vbF7lpEgrijEHPgfz5mDG9-8QtJe1Il0nSpdjoFXB5w&oe=6317C9AE" alt="##KINGSTONS_BIRTHDAY_THATS_TASHiS_SON"> </a>
+         </div>
+    </div>
+  </div>
+</div>
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
