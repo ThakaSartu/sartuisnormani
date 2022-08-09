@@ -1,4 +1,55 @@
 <h1>Pure CSS Gallery</h1>
+
+<section class="gallery">
+  <div class="carousel">
+    <input type="radio" id="image1" name="gallery-control" checked>
+    <input type="radio" id="image2" name="gallery-control">
+    <input type="radio" id="image3" name="gallery-control">
+    <input type="radio" id="image4" name="gallery-control">
+
+  <input type="checkbox" id="fullscreen" name="gallery-fullscreen-control" />
+    <div class="wrap">
+
+  <figure>
+        <label for="fullscreen">
+          <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/131982779_1816884581806524_4305850813712768409_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_ohc=yROrn8kv3BUAX_zlFAW&tn=8fyA6EaSghqhMRXR&_nc_ht=scontent-lax3-1.xx&oh=00_AT9ofiozMX3cSrdbxs_wAozL57qC9abmiLMjW4W70Fjcng&oe=63168D84" alt="image3" />
+        </label>
+      </figure>
+
+  <figure>
+        <label for="fullscreen">
+          <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/131311572_1809548145873501_2317659640152677028_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=5wRrnGixRhgAX8I0O6y&_nc_ht=scontent-lax3-1.xx&oh=00_AT9WMky4_vvHIi6vY-eI-ELqgUdpXJQO4OxzZX2EqqiiRQ&oe=6315EA6D" alt="image2" />
+        </label>
+      </figure>
+
+  <figure>
+        <label for="fullscreen">
+          <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/132039690_1816882825140033_2985086163082087291_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_ohc=gK7RkbQyFoYAX8XeD93&_nc_ht=scontent-lax3-1.xx&oh=00_AT-nXT9AvwkHAKB-2oSF3IiJWqCoz6GXoj4ntIdqS8XRaw&oe=631669D1" alt="image3" />
+        </label>
+      </figure>
+
+  <figure>
+        <label for="fullscreen">
+          <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/131182446_1809503375877978_7577996265633068042_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=08kEakUm2_sAX8Lx4iu&_nc_oc=AQn4sLALpmoAjocKtkKB8BgMt4ZkKEmVlQHGGxkgMIySgFKgeu8feO4GO_7JtyzexbIZ_0HdLvD_JEElbojLbnEV&_nc_ht=scontent-lax3-2.xx&oh=00_AT9LkNdvNuq2KTTtJ7P77UvfpDPvtaGFcBE_i_7wYES--A&oe=631764B7" alt="image4" />
+  </label>
+  </figure>
+  </div>
+
+ <div class="thumbnails">
+
+  <div class="slider">
+  <div class="indicator"></div>
+  </div>
+
+  <label for="image1" class="thumb" style="background-image: url('https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/131982779_1816884581806524_4305850813712768409_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_ohc=yROrn8kv3BUAX_zlFAW&tn=8fyA6EaSghqhMRXR&_nc_ht=scontent-lax3-1.xx&oh=00_AT9ofiozMX3cSrdbxs_wAozL57qC9abmiLMjW4W70Fjcng&oe=63168D84')"></label>
+
+ <label for="image2" class="thumb" style="background-image: url('https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/131311572_1809548145873501_2317659640152677028_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=5wRrnGixRhgAX8I0O6y&_nc_ht=scontent-lax3-1.xx&oh=00_AT9WMky4_vvHIi6vY-eI-ELqgUdpXJQO4OxzZX2EqqiiRQ&oe=6315EA6D')"></label>
+  <label for="image3" class="thumb" style="background-image: url('https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/132039690_1816882825140033_2985086163082087291_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_ohc=gK7RkbQyFoYAX8XeD93&_nc_ht=scontent-lax3-1.xx&oh=00_AT-nXT9AvwkHAKB-2oSF3IiJWqCoz6GXoj4ntIdqS8XRaw&oe=631669D1')"></label>
+
+  <label for="image4" class="thumb" style="background-image: url('https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/131182446_1809503375877978_7577996265633068042_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=08kEakUm2_sAX8Lx4iu&_nc_oc=AQn4sLALpmoAjocKtkKB8BgMt4ZkKEmVlQHGGxkgMIySgFKgeu8feO4GO_7JtyzexbIZ_0HdLvD_JEElbojLbnEV&_nc_ht=scontent-lax3-2.xx&oh=00_AT9LkNdvNuq2KTTtJ7P77UvfpDPvtaGFcBE_i_7wYES--A&oe=631764B7')"></label>
+  </div>
+  </div>
+</section>
 <section class="gallery">
   <div class="carousel">
     <input type="radio" id="image1" name="gallery-control" checked>
