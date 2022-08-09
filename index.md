@@ -9,6 +9,39 @@
   <div class='row'>
     <div class='panelColumn'>
       <div class='leftColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/96539081_1607142046114113_3462614913346699264_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=qFqZR8ULgKwAX9WWjRa&_nc_ht=scontent-lax3-2.xx&oh=00_AT-d6NhvXA8TlutoMYkH1FuLZMNas54REf36gxuXEEITuQ&oe=63193CD0" alt="##QUXUBE_CANNOT_PICK_HER_OWN_MAN"> </a>
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/96539081_1607142046114113_3462614913346699264_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=qFqZR8ULgKwAX9WWjRa&_nc_ht=scontent-lax3-2.xx&oh=00_AT-d6NhvXA8TlutoMYkH1FuLZMNas54REf36gxuXEEITuQ&oe=63193CD0" alt=""> </a>
+         </div>
+    </div>
+  </div>
+</div>
+
+<img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/132767250_1817716541723328_1932297973789777153_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=TgzPSge815MAX84byss&tn=yDeYolVP_3_Jzc6u&_nc_ht=scontent-lax3-2.xx&oh=00_AT8_pM56sf1GqCUx3cShPs7fk6hq8Qbe7hy3eNsQf5QQGQ&oe=6316F218" >
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/119828919_1728469003981416_6021734581996159623_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=668lmDjMhDgAX9C9XHL&_nc_ht=scontent-lax3-1.xx&oh=00_AT8xY0a2XIRtCxedz4mv0PDY96Dfih042slld8vqs1OqBw&oe=6319ACC2" alt="##QUXUBE_CANNOT_PICK_HER_OWN_MAN"> </a>
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/119828919_1728469003981416_6021734581996159623_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=668lmDjMhDgAX9C9XHL&_nc_ht=scontent-lax3-1.xx&oh=00_AT8xY0a2XIRtCxedz4mv0PDY96Dfih042slld8vqs1OqBw&oe=6319ACC2" alt=""> </a>
+         </div>
+    </div>
+  </div>
+</div>
+
+<img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/119836011_1728470890647894_4547987481473672839_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_ohc=wZzYnSPcc30AX_3hIRn&_nc_ht=scontent-lax3-1.xx&oh=00_AT-r8-PDPF61G_wplXna75jlI2SAcpxcHj3F8Bj9b99D3w&oe=6316921D" >
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
         <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/120866840_1742622389232744_2248801366658331654_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=3mrHhmr3d30AX-AqDVO&_nc_ht=scontent-lax3-2.xx&oh=00_AT-ZL1UiddHglcCsAFcuVpixUEk7klfTQh-AYBdd_v_Qdw&oe=63195E23" alt="##QUXUBE_CANNOT_PICK_HER_OWN_MAN"> </a>
         </div>
     </div>
