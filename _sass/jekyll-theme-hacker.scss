@@ -77,9 +77,9 @@ h6 {
           0 0 102px #0DCBFF,
           0 0 125px #0DCBFF;
     
-  margin: 1.03em;
+  /* margin: 1.03em; */
   box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
-  padding: 1.03em;
+  padding: 10px;
   background: linear-gradient(135deg, #1f005c, #2c005d, #47005f, #680060, #8b0460, #ac265e, #c9475c, #df675c, #ef855e, #f89e63, #fdaf69, #ffb56b);  
 }
 
@@ -99,20 +99,29 @@ header {
   border-bottom: 1px dashed $conifer; //header;
   padding: 5px 0;
   box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
-
   margin: 0 0 0px 0;
 }
 
 header h1 {
-  font-size: 4.5em;
-  margin: 0 0 0 0px;
-  font-weight: bold;
+  font-size: 3rem;
+  line-height: 1.5;
+  margin: 0 0 0 -40px;
   font-family: 'Fredoka One', 'Anybody', -apple-system, Ubuntu, "Ariel Black", Verdana;
   color: $conifer; //$header;
-  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
+  /* text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
     0 0 5px rgba(181, 232, 83, 0.1),
-    0 0 10px rgba(181, 232, 83, 0.1);
-  letter-spacing: -1px;
+    0 0 10px rgba(181, 232, 83, 0.1);  */
+    color: #fff;
+    text-shadow:
+        0 0 7px #fff,
+        0 0 10px #fff,
+        0 0 21px #fff,
+        0 0 42px #0DCBFF,
+        0 0 82px #0DCBFF,
+        0 0 92px #0DCBFF,
+        0 0 102px #0DCBFF,
+        0 0 125px #0DCBFF;
+    letter-spacing: -1px;
   -webkit-font-smoothing: antialiased;
 
   @include media-max-width($container-max-width) {
@@ -130,7 +139,7 @@ header h1 {
 
 header h1:before {
   content: "./BUBBLEGUMPOP";
-  
+  font-size: 4rem;
 }
 
 header h2 {
@@ -570,7 +579,6 @@ img {
   margin: 0px;
   max-width: 100%;
   background-size: cover;
-  border: 0px solid #c9ff23;
   box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
 
 }
