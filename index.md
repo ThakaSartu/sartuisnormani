@@ -4,7 +4,22 @@
 3 # ANOTHER###############################################
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
-
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/97278557_1615655125262805_929152316915843072_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=cBz7z5NT0gEAX9K6yHB&_nc_ht=scontent-lax3-2.xx&oh=00_AT-bE-643Hyx0CMxDs00DWeNIsOKBOGfixTv25VuyNHAIA&oe=6317BF61" alt="##QUXUBE_CANNOT_PICK_HER_OWN_MAN"> </a>
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/98189558_1615625571932427_6248369459317178368_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=DnZ_IOCaNQ4AX_ZJdWs&_nc_oc=AQlZnrzW4b8134ps0vjOKS1iwvWVEW3VJkL-Z20tIvJdPAonADF_Ph16zqhG1fdiHGQ&_nc_ht=scontent-lax3-2.xx&oh=00_AT9jUnLRoCJbCT9fLl5AxR5-tcWKWW0-lgNHLqW9zeoY-g&oe=63196618" alt=""> </a>
+         </div>
+    </div>
+  </div>
+</div>
+<img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/98478478_1616568128504838_1080998617923190784_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=WhFzAqdNHoYAX9_ZEsb&_nc_ht=scontent-lax3-1.xx&oh=00_AT8AwSt_ogAZ6_5NyiGzF0bI7qVwl5XCEjnHAqMOmCb1ZQ&oe=63173AC4">
+<img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/105338748_1649132985248352_5761745220993083788_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=1QGnibVvrnAAX9O4LtV&tn=yDeYolVP_3_Jzc6u&_nc_ht=scontent-lax3-1.xx&oh=00_AT-z4a1jPRLtW2Y6VepwDjvZtbbdDW2lFRmtCKQPPSDJYw&oe=6317B168">
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
