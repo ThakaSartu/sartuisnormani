@@ -5,6 +5,7 @@
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
 
+<img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/120750735_1746341688860814_3372622645216138140_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=AWW1jkN78GgAX-ogQqh&_nc_oc=AQnYxzotwY9DGax7-LAm8qMMyydXYuFOKQLMG3h7vXtCrsKyXjZm9jtq95erV5MbtWU&_nc_ht=scontent-lax3-1.xx&oh=00_AT-j8td17Ev-CFU_ihTJsansGKjUmxTnJNwd_9zWzYQLQA&oe=631A06C2">
 
 [FILMS STORIES SHAPE OUR WORLD. We use the power of film to awaken a passion for human dignity and the conviction that no human being should be bought, sold, or sexually exploited. Each feature-length and short documentary film is designed to educate, inspire, and shift harmful ways of thinking. Using hard facts and compelling storytelling with stunning imagery, we invite people around the world to join together to break the cycle of commercial sexual exploitation.](https://exoduscry.com/watch/) 
 <div style="padding:41.67% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/306947857?h=69933fa621&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
