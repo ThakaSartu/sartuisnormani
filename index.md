@@ -1,7 +1,10 @@
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/J1-V99dVZgk" title="Q-Bert VS. Craze /TTV vol.3/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 [WEEKEND GIRL (Original Full-Length Album Version) - SOS Band](https://www.youtube.com/watch?v=8BvuSzxcE5o)
 [I DIDN'T MEAN TO TURN YOU ON (ALBUM VERSION)- CHERRELLE](https://www.youtube.com/watch?v=wmMwpi1iUUw)
 [Change- Say You Love Me Again (1984)](https://www.youtube.com/watch?v=TtULfxIC__o)
 [DearSartu, Summer Is The Coldest Time of Year ~ Patti Austin ~ ](https://www.youtube.com/watch?v=4ee2AkEgJeY)
+["When the Party's Over"	Alexander O'Neal](https://www.youtube.com/watch?v=OGEvUACWfk8)
+
 
 
 <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/122429347_1760080564153593_8742672523738622350_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=1esZDwF9ZFQAX-ZC8_N&_nc_ht=scontent-lax3-2.xx&oh=00_AT80WOPLOxyktfeXZFDvVBnOYgzID2xuaMbw2j63Pz1-2w&oe=631806D4" >
