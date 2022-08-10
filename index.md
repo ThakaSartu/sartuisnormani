@@ -5,6 +5,7 @@
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
 
+[Musiq Soulchild - So beautiful (Official Extended Music Video)](https://www.youtube.com/watch?v=t4z_62VYoXM)
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
@@ -19,6 +20,9 @@
     </div>
   </div>
 </div>
+
+[D'Angelo - Brown Sugar (Official Video)](https://www.youtube.com/watch?v=H_WzjiTzZBA) 
+
 
 ## All About SHM-CD Format
 Since its first release of 2007, SHM-CD format has gained much popularity and been highly-acclaimed by audiophiles around the world especially who put the importance on the quality of the sound the most. This page will show you all about SHM-CD format for further understanding on it. It would be great if this page helps your next adventure to the pursuing-the-high-fidelity-audio world...[ReadMore](https://www.cdjapan.co.jp/feature/shmcd_allabout)
