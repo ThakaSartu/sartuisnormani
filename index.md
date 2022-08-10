@@ -10,6 +10,7 @@
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
 
+[Soon as I Get Home](https://www.youtube.com/watch?v=VKxZ7Mdhnyo)
 [Set background color for specific cell in markdown table](https://stackoverflow.com/questions/26197579/set-background-color-for-specific-cell-in-markdown-table)
 [The vw and vh units](https://www.quirksmode.org/css/units-values/viewport.html)
 
@@ -19,7 +20,7 @@
 
   | SONG | SETTiNG two | USABLE? |
   |:-------------|:------------------|:------|
-  | [Roni](https://www.youtube.com/watch?v=tGySW4HMdRE) | [SWV - Rain](https://www.youtube.com/watch?v=QQyXHfOy1UU) | nice |
+  | [Roni](https://www.youtube.com/watch?v=tGySW4HMdRE) | [SWV - Rain](https://www.youtube.com/watch?v=QQyXHfOy1UU) | [Soon as I Get Home](https://www.youtube.com/watch?v=VKxZ7Mdhnyo) |
   | [SWV - Use Your Heart (Official Video)](https://www.youtube.com/watch?v=7H_o5whdCQA) | [SWV - Weak (Official HD Video)](https://www.youtube.com/watch?v=976b8TPPFJU) | nice |
   | [Bobby Brown - Every Little Step ](https://www.youtube.com/watch?v=P0FKzPfsxA4) | good `oreos` [Lady](https://youtu.be/m1WkZtA6QVk) | [Friends](https://www.youtube.com/watch?v=Huwu_gXRV24) |
   | [SWV - Right Here (Human Nature Radio Mix - Official Video)](https://www.youtube.com/watch?v=vHwXoY0LiQk) | good `zoute` drop | [DEAR_SAUTUZEE_PLEASE Come Home -Groove Theory](https://www.youtube.com/watch?v=LMUmpP_il2c) |
