@@ -12,7 +12,8 @@
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
 
- ## Header 6
+ ## TESTiNG_MARKDOWN_TABLES
+ I dont know how to style these, I wonder if we just add class=id for the entire td/tr container idk
 
   | SONG | SETTiNG two | USABLE? |
   |:-------------|:------------------|:------|
@@ -21,16 +22,8 @@
   | [Bobby Brown - Every Little Step ](https://www.youtube.com/watch?v=P0FKzPfsxA4) | good `oreos` [Lady](https://youtu.be/m1WkZtA6QVk) | [Friends](https://www.youtube.com/watch?v=Huwu_gXRV24) |
   | [SWV - Right Here (Human Nature Radio Mix - Official Video)](https://www.youtube.com/watch?v=vHwXoY0LiQk) | good `zoute` drop | [DEAR_SAUTUZEE_PLEASE Come Home -Groove Theory](https://www.youtube.com/watch?v=LMUmpP_il2c) |
 
-## There's a horizontal rule below this.
-
-  * * *
-
-
-
-
-
+[set background color for specific cell in markdown table](https://stackoverflow.com/questions/26197579/set-background-color-for-specific-cell-in-markdown-table)
 [The vw and vh units](https://www.quirksmode.org/css/units-values/viewport.html)
-
 [DEAR_SAUTUZEE_PLEASE Come Home -Groove Theory](https://www.youtube.com/watch?v=LMUmpP_il2c)
 
  
