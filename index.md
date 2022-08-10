@@ -5,6 +5,21 @@
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
 
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://cdn.shopify.com/s/files/1/1213/8910/products/1990_-_Ferrari_-_L_Floravanti_white_small_1024x1024.jpg?v=1498510750">
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://cdn.shopify.com/s/files/1/1213/8910/products/1990_-_Ferrari_-_L_Floravanti_black_small_1024x1024.jpg?v=1498510749"> </a>
+         </div>
+    </div>
+  </div>
+</div>
+
 [Beauty (Remix)](https://www.youtube.com/watch?v=6ePbn-Qt4os)
 <div class="sixpanel">
 <div class="item1"> <img src="https://i.pinimg.com/originals/3c/53/18/3c53181316e762aac88155fd15b17683.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
