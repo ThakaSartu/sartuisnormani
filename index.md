@@ -24,8 +24,9 @@
 [D'Angelo - Brown Sugar (Official Video)](https://www.youtube.com/watch?v=H_WzjiTzZBA) 
 
 
-## All About SHM-CD Format
-Since its first release of 2007, SHM-CD format has gained much popularity and been highly-acclaimed by audiophiles around the world especially who put the importance on the quality of the sound the most. This page will show you all about SHM-CD format for further understanding on it. It would be great if this page helps your next adventure to the pursuing-the-high-fidelity-audio world...[ReadMore](https://www.cdjapan.co.jp/feature/shmcd_allabout)
+## https://www.cdjapan.co.jp/ All About SHM-CD Format
+Since its first release of 2007, SHM-CD format has gained much popularity and been highly-acclaimed by audiophiles around the world especially who put the importance on the quality of the sound the most. This page will show you all about SHM-CD format for further understanding on it. It would be great if this page helps your next adventure to the pursuing-the-high-fidelity-audio world...[ReadMore](https://www.cdjapan.co.jp/feature/shmcd_allabout) 
+[cdjapan.co.jp](https://www.cdjapan.co.jp/)
 
 <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/131986944_1812914762203506_3632029158496098041_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_ohc=zoTXbcojibEAX9Nch7J&_nc_ht=scontent-lax3-1.xx&oh=00_AT9VwCJaG0hf15O3yGO0n__67jv8C-AbaJl42L62DDD3iA&oe=63190675" >
 <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/131966598_1816047658556883_3533267164318224237_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_ohc=k-Kwk-50xGkAX-5fPzI&_nc_ht=scontent-lax3-2.xx&oh=00_AT9yoOipMAwK1SmEdAiDeXMlBhPb5AH33IfOiV0aKJVEGg&oe=6318B3C1">
