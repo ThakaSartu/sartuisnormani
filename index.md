@@ -4,6 +4,7 @@
 3 # ANOTHER###############################################
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
+<img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/122684004_1763575960470720_3017276801433995810_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_ohc=fXK7mw3qsGQAX8WyEdL&_nc_ht=scontent-lax3-2.xx&oh=00_AT8kVgvTd1-lOqgIwaxE1DnAzKvVW2nHrFqZz-NhrtZiEg&oe=63199401" >
 
 [Musiq Soulchild - So beautiful (Official Extended Music Video)](https://www.youtube.com/watch?v=t4z_62VYoXM)
 <div class='twoPanelSpread'>
@@ -24,7 +25,7 @@
 [D'Angelo - Brown Sugar (Official Video)](https://www.youtube.com/watch?v=H_WzjiTzZBA) 
 
 
-## https://www.cdjapan.co.jp/ All About SHM-CD Format
+## https://www.cdjapan.co.jp/All_About_SHM-CD_Format
 Since its first release of 2007, SHM-CD format has gained much popularity and been highly-acclaimed by audiophiles around the world especially who put the importance on the quality of the sound the most. This page will show you all about SHM-CD format for further understanding on it. It would be great if this page helps your next adventure to the pursuing-the-high-fidelity-audio world...[ReadMore](https://www.cdjapan.co.jp/feature/shmcd_allabout) 
 [cdjapan.co.jp](https://www.cdjapan.co.jp/)
 
