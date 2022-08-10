@@ -11,20 +11,7 @@
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
 
-<div class='twoPanelSpread'>
-  <div class='row'>
-    <div class='panelColumn'>
-      <div class='leftColumn'>
-        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://mksd.jp/Partner_700px.gif" alt="##QUXUBE_CANNOT_PICK_HER_OWN_MAN"> </a>
-        </div>
-    </div>
-    <div class='panelColumn'>
-      <div class='rightColumn'>
-        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://mksd.jp/Partner_700px.gif" alt=""> </a>
-         </div>
-    </div>
-  </div>
-</div>
+
 
 [The vw and vh units](https://www.quirksmode.org/css/units-values/viewport.html)
 
