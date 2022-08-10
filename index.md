@@ -1,9 +1,7 @@
-  <head>
-    <meta charset="utf-8">
-    <script src="https://kit.fontawesome.com/a062562745.js" crossorigin="anonymous"></script>
-    <title>BUBBLEGUMPOP##NORMANiE_aka_SARTU</title>
-    <link rel=stylesheet href="./sartusstyle.css" media=all> 
-  </head>
+<head>
+<script src="https://kit.fontawesome.com/a062562745.js" crossorigin="anonymous"></script>
+<link rel=stylesheet href="./sartusstyle.css" media=all> 
+</head>
   
 {% highlight python %}
 1 # HOLE_TO_ANOTHER_UNiVERSE##############################
@@ -12,7 +10,11 @@
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
 
+[Set background color for specific cell in markdown table](https://stackoverflow.com/questions/26197579/set-background-color-for-specific-cell-in-markdown-table)
+[The vw and vh units](https://www.quirksmode.org/css/units-values/viewport.html)
+
  ## TESTiNG_MARKDOWN_TABLES
+
  I dont know how to style these, I wonder if we just add class=id for the entire td/tr container idk
 
   | SONG | SETTiNG two | USABLE? |
@@ -22,8 +24,7 @@
   | [Bobby Brown - Every Little Step ](https://www.youtube.com/watch?v=P0FKzPfsxA4) | good `oreos` [Lady](https://youtu.be/m1WkZtA6QVk) | [Friends](https://www.youtube.com/watch?v=Huwu_gXRV24) |
   | [SWV - Right Here (Human Nature Radio Mix - Official Video)](https://www.youtube.com/watch?v=vHwXoY0LiQk) | good `zoute` drop | [DEAR_SAUTUZEE_PLEASE Come Home -Groove Theory](https://www.youtube.com/watch?v=LMUmpP_il2c) |
 
-[set background color for specific cell in markdown table](https://stackoverflow.com/questions/26197579/set-background-color-for-specific-cell-in-markdown-table)
-[The vw and vh units](https://www.quirksmode.org/css/units-values/viewport.html)
+
 [DEAR_SAUTUZEE_PLEASE Come Home -Groove Theory](https://www.youtube.com/watch?v=LMUmpP_il2c)
 
  
