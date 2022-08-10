@@ -9,16 +9,17 @@
   <div class='row'>
     <div class='panelColumn'>
       <div class='leftColumn'>
-        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://i.ebayimg.com/images/g/i0cAAOSw5zVhqxj6/s-l500.jpg" alt="##QUXUBE_CANNOT_PICK_HER_OWN_MAN"> </a>
+        <a href="https://youtu.be/H_WzjiTzZBA"><img src="https://i.ebayimg.com/images/g/i0cAAOSw5zVhqxj6/s-l500.jpg" alt="##QUXUBE_CANNOT_PICK_HER_OWN_MAN"> </a>
         </div>
     </div>
     <div class='panelColumn'>
       <div class='rightColumn'>
-        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://i.ebayimg.com/images/g/i0cAAOSw5zVhqxj6/s-l500.jpg" alt=""> </a>
+        <a href="https://youtu.be/H_WzjiTzZBA"><img src="https://i.ebayimg.com/images/g/i0cAAOSw5zVhqxj6/s-l500.jpg" alt=""> </a>
          </div>
     </div>
   </div>
 </div>
+
 ## All About SHM-CD Format
 Since its first release of 2007, SHM-CD format has gained much popularity and been highly-acclaimed by audiophiles around the world especially who put the importance on the quality of the sound the most. This page will show you all about SHM-CD format for further understanding on it. It would be great if this page helps your next adventure to the pursuing-the-high-fidelity-audio world...[ReadMore](https://www.cdjapan.co.jp/feature/shmcd_allabout)
 
