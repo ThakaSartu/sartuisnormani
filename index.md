@@ -4,6 +4,7 @@
 3 # ANOTHER###############################################
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
+<img src="https://mksd.jp/Partner_700px.gif" >
 <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/100540018_1623577481137236_1934404161462337536_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=rEKRILQzT6cAX9vcSOa&_nc_ht=scontent-lax3-1.xx&oh=00_AT-J2LqCeVM2pWqa23grGJTXOOwgiGxTTVzLKtU_B0ZPUA&oe=631A4BB3">
 <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/100529422_1623616191133365_6493007652581277696_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=JWA12VbgweMAX9ha6vZ&_nc_ht=scontent-lax3-1.xx&oh=00_AT-IEJlBflzAG3q_kBPdVFiqz2XwmuDeHfD4x1BPXHDb2w&oe=631980E0">
 <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/104467864_1644079422420375_1831294445078167139_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_ohc=H001mI0bVgMAX-s2852&_nc_ht=scontent-lax3-1.xx&oh=00_AT-gR_b3rskIAA8RfCbmCzgWnuZsZFhWop34-7xQJdJ8gA&oe=631A6940">
