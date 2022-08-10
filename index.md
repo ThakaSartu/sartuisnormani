@@ -4,6 +4,7 @@
     <title>BUBBLEGUMPOP##NORMANiE_aka_SARTU</title>
     <link rel=stylesheet href="./sartusstyle.css" media=all> 
   </head>
+  
 {% highlight python %}
 1 # HOLE_TO_ANOTHER_UNiVERSE##############################
 2 # TO####################################################
@@ -11,19 +12,17 @@
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
 
+[SWV - Rain](https://www.youtube.com/watch?v=QQyXHfOy1UU)
+[SWV - Use Your Heart (Official Video)](https://www.youtube.com/watch?v=7H_o5whdCQA)
 [SWV - Weak (Official HD Video)](https://www.youtube.com/watch?v=976b8TPPFJU)
 [SWV - Right Here (Human Nature Radio Mix - Official Video)](https://www.youtube.com/watch?v=vHwXoY0LiQk)
 [The vw and vh units](https://www.quirksmode.org/css/units-values/viewport.html)
-
-
-
+[Bobby Brown - Every Little Step (Official Music Video)](https://www.youtube.com/watch?v=P0FKzPfsxA4)
 [DEAR_SAUTUZEE_PLEASE Come Home -Groove Theory](https://www.youtube.com/watch?v=LMUmpP_il2c)
 [Kidz Bop 37 - Friends](https://www.youtube.com/watch?v=Huwu_gXRV24)
-<div class='twoPanelSpread'>
-  <div class='row'>
-    <div class='panelColumn'>
-      <div class='leftColumn'>
-        <audio preload="metadata" id="myAudio" ontimeupdate="onTimeUpdate()">
+ 
+ 
+ <audio preload="metadata" id="myAudio" ontimeupdate="onTimeUpdate()">
   <!-- <source src="audio.ogg" type="audio/ogg"> -->
   <source id="source-audio" src="" type="audio/mpeg">
   Your browser does not support the audio element.
@@ -78,69 +77,6 @@
 
 <!-- partial -->
   <script  src="./sartusscript.js"></script>
-        </div>
-    </div>
-    <div class='panelColumn'>
-      <div class='rightColumn'>
-        <audio preload="metadata" id="myAudio" ontimeupdate="onTimeUpdate()">
-  <!-- <source src="audio.ogg" type="audio/ogg"> -->
-  <source id="source-audio" src="" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
-
-<div class="player-ctn">
-  <div class="infos-ctn">
-    <div class="timer">00:00</div>
-    <div class="title"></div>
-    <div class="duration">00:00</div>
-  </div>
-  <div id="myProgress">
-    <div id="myBar"></div>
-  </div>
-  <div class="btn-ctn">
-     <div class="btn-action first-btn" onclick="previous()">
-        <div id="btn-faws-back">
-          <i class='fas fa-step-backward'></i>
-        </div>
-     </div>
-     <div class="btn-action" onclick="rewind()">
-        <div id="btn-faws-rewind">
-          <i class='fas fa-backward'></i>
-        </div>
-     </div>
-     <div class="btn-action" onclick="toggleAudio()">
-        <div id="btn-faws-play-pause">
-          <i class='fas fa-play' id="icon-play"></i>
-          <i class='fas fa-pause' id="icon-pause" style="display: none"></i>
-        </div>
-     </div>
-     <div class="btn-play" onclick="forward()">
-        <div id="btn-faws-forward">
-          <i class='fas fa-forward'></i>
-        </div>
-     </div>
-     <div class="btn-action" onclick="next()">
-        <div id="btn-faws-next">
-          <i class='fas fa-step-forward'></i>
-        </div>
-     </div>
-     <div class="btn-mute" id="toggleMute" onclick="toggleMute()">
-        <div id="btn-faws-volume">
-          <i id="icon-vol-up" class='fas fa-volume-up'></i>
-          <i id="icon-vol-mute" class='fas fa-volume-mute' style="display: none"></i>
-        </div>
-     </div>
-  </div>
-  <div class="playlist-ctn"></div>
-</div>
-<script src=app.js></script>
-
-<!-- partial -->
-  <script  src="./sartusscript1.js"></script>
-         </div>
-    </div>
-  </div>
-</div>
 
 [Marsha Ambrosius - Far Away](https://www.youtube.com/watch?v=zRwLMC2wP0g)
 [Beauty (Remix)](https://www.youtube.com/watch?v=6ePbn-Qt4os)
