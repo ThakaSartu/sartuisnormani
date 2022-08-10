@@ -7,6 +7,22 @@
 <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/122684004_1763575960470720_3017276801433995810_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_ohc=fXK7mw3qsGQAX8WyEdL&_nc_ht=scontent-lax3-2.xx&oh=00_AT8kVgvTd1-lOqgIwaxE1DnAzKvVW2nHrFqZz-NhrtZiEg&oe=63199401" >
 
 [Musiq Soulchild - So beautiful (Official Extended Music Video)](https://www.youtube.com/watch?v=t4z_62VYoXM)
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://mksd.jp/Partner_700px.gif" alt="##QUXUBE_CANNOT_PICK_HER_OWN_MAN"> </a>
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://mksd.jp/Partner_700px.gif" alt=""> </a>
+         </div>
+    </div>
+  </div>
+</div>
+
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
@@ -47,7 +63,7 @@ Since its first release of 2007, SHM-CD format has gained much popularity and be
     </div>
   </div>
 </div>
-<img src="https://mksd.jp/Partner_700px.gif" >
+
 <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/100540018_1623577481137236_1934404161462337536_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=rEKRILQzT6cAX9vcSOa&_nc_ht=scontent-lax3-1.xx&oh=00_AT-J2LqCeVM2pWqa23grGJTXOOwgiGxTTVzLKtU_B0ZPUA&oe=631A4BB3">
 <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/100529422_1623616191133365_6493007652581277696_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=JWA12VbgweMAX9ha6vZ&_nc_ht=scontent-lax3-1.xx&oh=00_AT-IEJlBflzAG3q_kBPdVFiqz2XwmuDeHfD4x1BPXHDb2w&oe=631980E0">
 <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/104467864_1644079422420375_1831294445078167139_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_ohc=H001mI0bVgMAX-s2852&_nc_ht=scontent-lax3-1.xx&oh=00_AT-gR_b3rskIAA8RfCbmCzgWnuZsZFhWop34-7xQJdJ8gA&oe=631A6940">
