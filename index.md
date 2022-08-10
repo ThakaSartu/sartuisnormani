@@ -4,6 +4,24 @@
 3 # ANOTHER###############################################
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://i.ebayimg.com/images/g/i0cAAOSw5zVhqxj6/s-l500.jpg" alt="##QUXUBE_CANNOT_PICK_HER_OWN_MAN"> </a>
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://i.ebayimg.com/images/g/i0cAAOSw5zVhqxj6/s-l500.jpg" alt=""> </a>
+         </div>
+    </div>
+  </div>
+</div>
+## All About SHM-CD Format
+Since its first release of 2007, SHM-CD format has gained much popularity and been highly-acclaimed by audiophiles around the world especially who put the importance on the quality of the sound the most. This page will show you all about SHM-CD format for further understanding on it. It would be great if this page helps your next adventure to the pursuing-the-high-fidelity-audio world...[ReadMore](https://www.cdjapan.co.jp/feature/shmcd_allabout)
+
 <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/131986944_1812914762203506_3632029158496098041_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_ohc=zoTXbcojibEAX9Nch7J&_nc_ht=scontent-lax3-1.xx&oh=00_AT9VwCJaG0hf15O3yGO0n__67jv8C-AbaJl42L62DDD3iA&oe=63190675" >
 <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/131966598_1816047658556883_3533267164318224237_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_ohc=k-Kwk-50xGkAX-5fPzI&_nc_ht=scontent-lax3-2.xx&oh=00_AT9yoOipMAwK1SmEdAiDeXMlBhPb5AH33IfOiV0aKJVEGg&oe=6318B3C1">
 
