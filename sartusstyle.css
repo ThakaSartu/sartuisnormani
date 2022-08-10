@@ -58,7 +58,7 @@ padding-top: 20px;
 
 .player-ctn{
   border-radius: 0px;
-  width: 90vh;
+  width: 100%;
   padding: 10px;
   background: rgb(34,193,195);
 background: linear-gradient(115deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
