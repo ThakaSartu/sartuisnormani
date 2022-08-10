@@ -18,7 +18,7 @@
   |:-------------|:------------------|:------|
   | [Roni](https://www.youtube.com/watch?v=tGySW4HMdRE) | [SWV - Rain](https://www.youtube.com/watch?v=QQyXHfOy1UU) | nice |
   | [SWV - Use Your Heart (Official Video)](https://www.youtube.com/watch?v=7H_o5whdCQA) | [SWV - Weak (Official HD Video)](https://www.youtube.com/watch?v=976b8TPPFJU) | nice |
-  | [Bobby Brown - Every Little Step (Official Music Video)](https://www.youtube.com/watch?v=P0FKzPfsxA4) | good `oreos` | [Kidz Bop 37 - Friends](https://www.youtube.com/watch?v=Huwu_gXRV24) |
+  | [Bobby Brown - Every Little Step ](https://www.youtube.com/watch?v=P0FKzPfsxA4) | good `oreos` [Lady](https://youtu.be/m1WkZtA6QVk) | [Friends](https://www.youtube.com/watch?v=Huwu_gXRV24) |
   | [SWV - Right Here (Human Nature Radio Mix - Official Video)](https://www.youtube.com/watch?v=vHwXoY0LiQk) | good `zoute` drop | [DEAR_SAUTUZEE_PLEASE Come Home -Groove Theory](https://www.youtube.com/watch?v=LMUmpP_il2c) |
 
 ## There's a horizontal rule below this.
