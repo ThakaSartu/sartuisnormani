@@ -9,6 +9,9 @@
 3 # ANOTHER###############################################
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
+
+## Dear Sartu... Ill help (sigh)
+<img src="https://scontent-lax3-1.xx.fbcdn.net/v/t31.18172-8/1049089_186943181467347_344829648_o.jpg?_nc_cat=102&ccb=1-7&_nc_sid=19026a&_nc_ohc=-UR1nDFYCeQAX-1CM7O&_nc_ht=scontent-lax3-1.xx&oh=00_AT-OQZ3ULmlAtzdsfPyhCrQ3X--qr5rq_81xFMyiJCngCw&oe=631A312C">
 <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/91430370_1566683716826613_7020907816713977856_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=19026a&_nc_ohc=v2XExHV7S4UAX_yE3vj&_nc_ht=scontent-lax3-1.xx&oh=00_AT9ZloazVTH3JbbW9Yw7JnXq9CY5_0AFSH_Iqq6-LZHH-Q&oe=631C194B">
 <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/93364738_1585463791615272_5669609138573803520_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=19026a&_nc_ohc=ANSV5k8v6QcAX_PPcnt&_nc_ht=scontent-lax3-2.xx&oh=00_AT-g1hYKWdPIcduYr1zn2DASaARUKjrVkRTIfrVUncjzQw&oe=631A4CC0">
 <div class="sixpanel">
