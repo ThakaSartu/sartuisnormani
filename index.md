@@ -10,7 +10,7 @@
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
 
-
+["Visual Urban Data: A Journey Through Oakland Crimespotting," a talk by Michael Migurski at the Knight Digital Media Center's Technology Training for Reporters Workshop at the UC Berkeley Graduate School of Journalism](https://www.youtube.com/watch?v=zRA0fPCh7o8)
 [HAACK'S CYCLE -  Madison, Wisconsin CW FREESTYLE BMX TOUR 1986](https://www.youtube.com/watch?v=pbZ0P0CQgK4)
 [M.i.c.h.a.e.l * J.a.c.k.s.o.n - T.rille.r (1982)](https://www.youtube.com/watch?v=Ki3hVUgiCV4)
 [Rapture [Full Album] - Anita Baker](https://www.youtube.com/watch?v=jqZjsscpj1E)
