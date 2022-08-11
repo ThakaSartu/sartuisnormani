@@ -10,6 +10,52 @@
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
 
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://i.discogs.com/3Ya_1Q2AtI-5YYtYKDQlz8ZPfUsntrZf22PBRjCEuY0/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDI4/NjktMTI0MDQ4MTk2/Ni5qcGVn.jpeg" alt="##QUXUBE_CANNOT_PICK_HER_OWN_MAN"> </a>
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://i.discogs.com/ZQaC5PmqLW1VfntmiYRuqHpdiFoKu5qAa5HcLwn6ZZI/rs:fit/g:sm/q:90/h:470/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDI4/NjktMTI0MDU1NTIy/Mi5qcGVn.jpeg" alt=""> </a>
+         </div>
+    </div>
+  </div>
+</div>
+
+[TRU Freak Hoes Master P, Silkk The Shocker Mia X](https://www.youtube.com/watch?v=qgYmzkSqo9w)
+
+[Baby Yungin - Freak Hoes (Official Music Video)](https://www.youtube.com/watch?v=fF0JnR7bxJ0)
+I wonder what inspiration do modern entertainers draw from when reusing the names of songs Baby Yungin does not to appear to have spent much town in the muggy cellphone-less south of the mid 1990s, but he still used the title FreakHoe. The woman in the video looks like your run of the mill Atlantan prostituted and kidnapped lookin like she waitin on her dad to have a free weekend for fishing or softball...[There is not much info](https://genius.com/Baby-yungin-freak-hoes-lyrics) on the song. [DiSCOGS_iS_DiFFERENT](https://www.discogs.com) has so many soundcloud users with incomplete info. And the only thing you can do is find a digital file. There is no crate digging. My wife Sartu, who goes by [Kash_Doll](https://www.discogs.com/artist/4079638-Kash-Doll) had some hits. She works with me at Dance411's Los_Angeles chapter. We are the IT_Department and other family members contribute to maintiaining our webpresence here on github after the social media companies got taken over by a prostitution mob from the east and removed or reduced access for hundreds of people affected by the prostitution of americas mothers sexploited in [HollyWood](https://www.telegraph.co.uk/women/life/inside-multi-million-dollarorgasm-cult-endorsed-hollywood/). The hollywood prostitution of my wife Muna has left me penniless, the sextraffickers disable the family members of the [SexTrafficked_Women of Hollywood_California](https://womenandhollywood.com/tag/sex-trafficking/) by stealing their communication devices and banning them from places with internet access via the private security regime that protects pimps and child molestors. If a business has legitimate protection needs... Why cant they get a permit and assigned offduty or on duty offices with publicly accesible background records and thier real names on thier badges. Chemical Warfare injuries and organ harvest will drop by at least 50% in a day. 
+
+## Internet Leakage of your wifes Nudes
+[Discogs KA$H_DOLL page](https://www.discogs.com/artist/4079638-Kash-Doll) has a nude that one of the record producers that purchased her from he trafficker on her page as her Profile pic... Its super embarrasing... [Some of the traffickers are children as this video with TayB shows](https://youtu.be/XJOKtclFErI). I have not been touched in a year and suffering from a medical condition called [SEXUAL_FRUSTRATiON](https://www.cosmopolitan.com/uk/love-sex/sex/a221/sexually-frustrated/). And he just says mean things to me and disrespects her. She will get organ harvested if she rebels. Covid brought nothing to america but coverup for prostitution
+
+[MMM MMM (The Remix) (feat. ATL Jacob, Latto & Moneybagg Yo)](https://www.youtube.com/watch?v=Xue52X85Mog)
+
+
+[3 Hour Orgasm Cult Endorsed by Hollywood](https://www.youtube.com/watch?v=KkmanQqYK9I)
+## People like OneTaste are holding my family hostage
+[Ex-'orgasm cult' members reveal how topless women dubbed 'high priestesses' were sexually 'stroked' by men in a bizarre ritual](https://www.dailymail.co.uk/femail/article-9067151/Ex-orgasm-cult-members-share-details-bizarre-retreat.html)
+They dont think this is prostitution, but whay are my women kept away from me and my social media disabled, while im stalked and poisoned mercilessly in the street?
+
+```
+Orgasmic meditation involves a woman, naked from the waist down, having her clitoris 'stroked' for 15 minutes by a man, either her own partner or another paying customer.
+```
+
+
+[OneTaste is a business dedicated to teaching the practices of orgasmic meditation and slow sex.](https://en.wikipedia.org/wiki/OneTaste)
+OneTaste is currently under investigation by the FBI for sex trafficking, prostitution, and violations of labor law.[5][6] In 2018, OneTaste closed all of their U.S. locations and stopped hosting in-person classes.[7]
+[The Orgasm Cult](https://www.bbc.co.uk/programmes/p08xzk5h/episodes/downloads)
+## TRU TRU 2 DA GAME DOUBLE_CD 1997
+
+
+## Inside Hollywood’s Orgasm Cult
+With the support of stars like Gwyneth Paltrow, Nicole Daedone built a lucrative empire on the promise of a 15-minute female orgasm, but what seemed like sexual salvation to some was denounced as sexploitation by many others...[ReadMore](https://www.lamag.com/culturefiles/inside-hollywoods-orgasm-cult/)
+- By Mick Brown -May 26, 2022
+
 [Soon as I Get Home](https://www.youtube.com/watch?v=VKxZ7Mdhnyo)
 [Set background color for specific cell in markdown table](https://stackoverflow.com/questions/26197579/set-background-color-for-specific-cell-in-markdown-table)
 [The vw and vh units](https://www.quirksmode.org/css/units-values/viewport.html)
