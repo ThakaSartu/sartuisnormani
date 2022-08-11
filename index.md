@@ -10,6 +10,47 @@
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
 
+## Police say Hypnosis clinics on Chattanooga's north shore and on lee highway were fronts for prostitution.
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/eM_lWcA48UA" title="Chattanooga Today, April 25, 2013" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Two women were charged in a raid on Wednesday at Hypnosis for Power.
+
+Nelson Hampton, who also owns a downtown family tourist attraction, Vaudeville Cafe, is listed as the owner of Hypnosis for Power.
+Hampton said there was quote "absolutely nothing illegal going on," at his hypnosis business.
+Just a few days ago the clinic relocated from a North Shore business center owned by developer John Wise.
+Wise said he recently confronted Hampton about the women and when he threatened to call the police the clinic relocated in five days.
+And while the clinic's website touted treatments leading to a healthier lifestyle, a Backpage.com ad stated, quote "We will be your new addiction." and "We like clean, classy polite men. We do not see black men."
+A 23-year-old woman who declined to give her name, said she interviewed for a job at Hypnosis for Power. The woman said she was told she would be expected only to perform manual stimulation on male clients although girls could quote "do whatever they want back there."
+She said the only services offered were sex acts with prices quoted at $120 dollars for 15 minutes, $150 dollars for 30 minutes and $200 dollars for an hour. She said the man who runs the operation keeps half the profits.
+Chattanooga police Chief Bobby Dodd says most prostitution in the city is from people traveling through, but several years ago police began noticing permanent businesses using a front to hide prostitution.
+Investigators made arrests at another business that promoted prostitution under the name Chattanooga Acu-pressure Clinic in 2011. 
+And East Ridge police are working a case involving a local massage parlor listed on Backpage under the body rub and escort section. 
+______2
+Next up, TVA is keeping mum on details of a mysterious shooting near Watts Bar Nuclear Plant.
+The FBI is continuing to investigate a security officer's report of a gunfight with an intruder in the middle of the night.
+Shootings at nuclear power plants are rare. The last two, in 1998 and 1988, turned out to be false reports. In each case security officers had fired a shot while fooling around and then made up the stories of intruders to cover their misfires.
+No one's suggesting that's what happened at 2 a.m. Sunday, but it's still unclear why the intruder -- who escaped -- was there, and the nuclear plant remains under high security alert.
+Officials say searches of the plant, the river pump stations and the riverbanks have turned up no threats. 
+David Lochbaum, an independent nuclear power expert, indicates it is possible the intruder was made up, saying, quote:
+"Practicing one's quick draw seems to be among the things that security officers do in times of boredom. And apparently, sometimes the imaginary opponent wins."
+______3
+Next up, a rundown river barge across from Chattanooga's top tourist attraction isn't complying with its permit, which could ultimately lead to its removal.
+Barge owner Allen Casey says he's embarrassed it's taken this long to get financing to turn the barge into a floating restaurant.
+It's been nearly a year since the barge was refloated last June after sitting half-submerged on the north bank of the Tennessee River for months.
+When the barge was refloated, promises were made to clean it up. But windows are broken and debris is still strewn on the deck. 
+Even if the U.S. Army Corps of Engineers takes action to revoke the permit, removing the barge could still take a while.
+The chief of the Chattanooga Convention and Visitors Bureau
+____4
+In business news, a North Shore neighborhood is fighting a developer's plans to build a three-story apartment building on Cherokee Boulevard.
+Developer John Wise wants to build a $2 million dollar, 20-unit apartment building plus a new office building, but opponents have convinced city planners not to approve initial plans for the site.
+Residents presented city planners with a 30-signature petition against the proposed development, arguing that the building wouldn't blend in with the neighborhood and would increase traffic.
+Wise said none of the residents contacted him to voice concerns and that he expected them to be excited about the new development.
+Now he says he may hold a meeting to talk with residents, but if the neighborhood still doesn't approve, he might not go through with the project.
+____5
+And finally, Lookout Valley Presbyterian Church is launching the area's first drive-in worship service on Sunday, May 5.
+If you like the idea of staying in your pajamas, or going to church with your dog beside you — the service might be right up your alley.
+Senior pastor Grady Davidson says the service is designed for folks who may feel intimidated coming to a traditional church.
+The drive-in service will feature contemporary music and services will happen rain or shine, throughout the summer.
+
 ["Visual Urban Data: A Journey Through Oakland Crimespotting," a talk by Michael Migurski at the Knight Digital Media Center's Technology Training for Reporters Workshop at the UC Berkeley Graduate School of Journalism](https://www.youtube.com/watch?v=zRA0fPCh7o8)
 [HAACK'S CYCLE -  Madison, Wisconsin CW FREESTYLE BMX TOUR 1986](https://www.youtube.com/watch?v=pbZ0P0CQgK4)
 [M.i.c.h.a.e.l * J.a.c.k.s.o.n - T.rille.r (1982)](https://www.youtube.com/watch?v=Ki3hVUgiCV4)
