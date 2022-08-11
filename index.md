@@ -10,6 +10,13 @@
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
 
+<div class="sixpanel">
+<div class="item1"> <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-6/285285043_570982091056288_7524892081488607325_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=wQ1UwpNxzgwAX_ypYHa&_nc_oc=AQn3gSPom-7P3hM72x_57xEQlXZPGh3bET3MkvYPRC_JAwyNNdkx03fCM0XOp6WF0j_UJLuRqus7WsdY99-BDEF4&_nc_ht=scontent-lax3-1.xx&oh=00_AT9WpeLcnoUeZR9CAzZVbtf_b83Hzw2qDXqdQCn0jesD-w&oe=62F98326" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+  <div class="item2"> <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-6/285285043_570982091056288_7524892081488607325_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=wQ1UwpNxzgwAX_ypYHa&_nc_oc=AQn3gSPom-7P3hM72x_57xEQlXZPGh3bET3MkvYPRC_JAwyNNdkx03fCM0XOp6WF0j_UJLuRqus7WsdY99-BDEF4&_nc_ht=scontent-lax3-1.xx&oh=00_AT9WpeLcnoUeZR9CAzZVbtf_b83Hzw2qDXqdQCn0jesD-w&oe=62F98326" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+  <div class="item3"> <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-6/285285043_570982091056288_7524892081488607325_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=wQ1UwpNxzgwAX_ypYHa&_nc_oc=AQn3gSPom-7P3hM72x_57xEQlXZPGh3bET3MkvYPRC_JAwyNNdkx03fCM0XOp6WF0j_UJLuRqus7WsdY99-BDEF4&_nc_ht=scontent-lax3-1.xx&oh=00_AT9WpeLcnoUeZR9CAzZVbtf_b83Hzw2qDXqdQCn0jesD-w&oe=62F98326" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+</div>
+
+
 [How To Pronounce Monaleo Name Correctly, Reveals Her Real Name, Nickname Family Calls Her](https://www.youtube.com/watch?v=QOp2YXfHhHc)
 
 ## Police say Hypnosis clinics on Chattanooga's north shore and on lee highway were fronts for prostitution.
