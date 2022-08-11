@@ -9,6 +9,19 @@
 3 # ANOTHER###############################################
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
+
+
+
+<img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/121642425_1751744504987199_2653448392048549154_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_ohc=l0EwQgtBc8MAX9ICrzX&tn=GMGSQGTuSQDEmyR2&_nc_ht=scontent-lax3-1.xx&oh=00_AT9IEXp9SSt_CwJWcBacuNlybZfWh1gjn6AmdL8zGkK4mQ&oe=6319853E">
+
+[Lomography Simple Use Color 35mm Camera](https://www.urbanoutfitters.com/shop/lomography-simple-use-color-35mm-camera?color=095&type=REGULAR&size=ONE%20SIZE&quantity=1) 
+[Film Review Lomography Redscale](https://analoguewonderland.co.uk/blogs/film-review/film-review-lomography-redscale)
+
+<img src="https://cdn.shop.lomography.com/static/version1659692693/frontend/Lomography/Hyva/en_US/images/categories/cameras/simple-use.jpg"> 
+
+## Simple Use
+Capture every moment on 35 mm film, without breaking the bank. These fuss-free and functional Simple Use cameras are perfectly pocket-sized for ultimate portability, reliably reloadable and ready for every analogue adventure you throw their way.
+
 <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/94154016_1592718804223104_2638360008630206464_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=x0Pr2uqnMI0AX-6X498&_nc_ht=scontent-lax3-2.xx&oh=00_AT_YeXnEh1A1McSt9HPphaQBg0J2yEtsW3cORSvtcbjM3A&oe=631991B8">
 <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/94231161_1592719104223074_533702823863386112_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=Qh5wTpfeqkQAX-TAmMq&_nc_ht=scontent-lax3-1.xx&oh=00_AT9bNiqE9Zf4mFoI3QlfvTdngZuDpHN31Sc6rPzKzRHyVQ&oe=63193E5C" >
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/CHALK_LOVER_AWR.jpg">
