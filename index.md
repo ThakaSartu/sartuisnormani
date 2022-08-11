@@ -9,6 +9,40 @@
 3 # ANOTHER###############################################
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
+
+
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/116798375_1682151975279786_4986392408417685718_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=j0-q7pyNzmcAX8ffC63&_nc_ht=scontent-lax3-2.xx&oh=00_AT8PR9PYBgDrbN9sCVn7EaKsJ0YYT7vJ1rY-0U6HRmUSyA&oe=631CC5ED">
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://youtu.be/lDLEsnXauwU"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/116798375_1682151975279786_4986392408417685718_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=j0-q7pyNzmcAX8ffC63&_nc_ht=scontent-lax3-2.xx&oh=00_AT8PR9PYBgDrbN9sCVn7EaKsJ0YYT7vJ1rY-0U6HRmUSyA&oe=631CC5ED"> </a>
+         </div>
+    </div>
+  </div>
+</div>
+
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/109524850_1666693706825613_893067658709714038_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=ktsPeNdXtDkAX9rqpQ8&_nc_ht=scontent-lax3-2.xx&oh=00_AT9C6a3YyyvQJyjroZVkyE89en-CWzGeEmDq3-dYMyG2hw&oe=631C1DCC">
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://youtu.be/lDLEsnXauwU"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/109524850_1666693706825613_893067658709714038_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=ktsPeNdXtDkAX9rqpQ8&_nc_ht=scontent-lax3-2.xx&oh=00_AT9C6a3YyyvQJyjroZVkyE89en-CWzGeEmDq3-dYMyG2hw&oe=631C1DCC"> </a>
+         </div>
+    </div>
+  </div>
+</div>
+<img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/116725921_1683576465137337_6934997937459724642_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=RGlpsROZ4IsAX_gNgc2&_nc_oc=AQlE8oH0ldE_HqQ9LpdB_59OZgLXAL92ORyTCFVliXb4co9hPVPJFsyGS8E0Zef4FvI&_nc_ht=scontent-lax3-2.xx&oh=00_AT9xCbmPTN6jh9nIUSE8Q5xw5RXAHDQ8keZcXYKhv1gUFw&oe=631B5EB6">
 <div class='twoPanelSpread'>
       <div class='row'>
         <div class='panelColumn'>
