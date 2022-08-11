@@ -10,6 +10,20 @@
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
 
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/73324656_1649581621870155_7624105215925838601_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=svoPbcP130MAX8sCeaB&_nc_ht=scontent-lax3-2.xx&oh=00_AT9E7pvqLb59XujbuMO9vOr2WyqTFyWVRcUMPEbbDNmMxw&oe=6319B832">
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://youtu.be/Tc4mRi7W2Ls"  target="_blank"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/73324656_1649581621870155_7624105215925838601_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=svoPbcP130MAX8sCeaB&_nc_ht=scontent-lax3-2.xx&oh=00_AT9E7pvqLb59XujbuMO9vOr2WyqTFyWVRcUMPEbbDNmMxw&oe=6319B832"> </a>
+         </div>
+    </div>
+  </div>
+</div>
 
 [Glenn Lewis - Don't You Forget It](https://www.youtube.com/watch?v=Tc4mRi7W2Ls&list=PLbhht2to2ikPAnLEIIwJsWmRulUG68vhH&index=8)
 <div class='twoPanelSpread'>
