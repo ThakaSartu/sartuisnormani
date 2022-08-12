@@ -11,6 +11,7 @@
 {% endhighlight %}
 
 
+[Raafuu Qocqocca wajjiin/The best #collard#green Recipe/#Nyaata #Aadaa#Oromo](https://www.youtube.com/watch?v=JDkoQMsNrIo)
 
 <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/121642425_1751744504987199_2653448392048549154_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_ohc=l0EwQgtBc8MAX9ICrzX&tn=GMGSQGTuSQDEmyR2&_nc_ht=scontent-lax3-1.xx&oh=00_AT9IEXp9SSt_CwJWcBacuNlybZfWh1gjn6AmdL8zGkK4mQ&oe=6319853E">
 
