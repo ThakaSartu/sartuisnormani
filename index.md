@@ -10,7 +10,7 @@
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
 
-
+https://as2.ftcdn.net/v2/jpg/03/71/69/73/1000_F_371697352_K2hxkxtjzWfTzsqKgYWEDE8p5PajUIVe.jpg
 
 <img src="https://as2.ftcdn.net/v2/jpg/03/71/69/73/1000_F_371697352_K2hxkxtjzWfTzsqKgYWEDE8p5PajUIVe.jpg">
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/115293827&color=%23a87931&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/latenighttales" title="Late Night Tales" target="_blank" style="color: #cccccc; text-decoration: none;">Late Night Tales</a> · <a href="https://soundcloud.com/latenighttales/bonobo-get-thy-bearings" title="Bonobo ft. Szjerdene - Get Thy Bearings [Exclusive Cover] (Late Night Tales: Bonobo)" target="_blank" style="color: #cccccc; text-decoration: none;">Bonobo ft. Szjerdene - Get Thy Bearings [Exclusive Cover] (Late Night Tales: Bonobo)</a></div>
