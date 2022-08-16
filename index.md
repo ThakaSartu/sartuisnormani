@@ -9,6 +9,9 @@
 3 # ANOTHER###############################################
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
+[MiNOLTA_APO_TELEPHOTO](https://phillipreeve.net/blog/review-minolta-af-apo-tele-200mm-12-8/)
+<img src="https://phillipreeve.net/blog/wp-content/uploads/2016/09/Minolta_AF_200mmf2p8_A7-20.jpg">
+<img src="https://phillipreeve.net/blog/wp-content/uploads/2016/09/DSC09815.jpg" >
 <img src="https://q8x6q2v5.stackpathcdn.com/wp-content/uploads/2020/07/distress-displacement.jpg">
 <img src="https://mpng.subpng.com/20180423/lje/kisspng-vim-computer-icons-text-editor-installation-plug-i-design-works-5addb4c2314215.7668023815244791702018.jpg">
 <img src="https://miro.medium.com/max/1400/1*stlyv9lAMc9X-22uPex7mQ.png">
