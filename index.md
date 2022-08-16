@@ -9,6 +9,23 @@
 3 # ANOTHER###############################################
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
+
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/134948903_1824247541070228_2001926497572205032_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=2gxfxoi2sgMAX_T1nCV&_nc_ht=scontent-lax3-1.xx&oh=00_AT_hl6WXgZgEt-fcRHrNWB9Kq0I7bNSZP64HCJxjbrL41w&oe=6322B6AB">
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://youtu.be/lDLEsnXauwU"><img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/134948903_1824247541070228_2001926497572205032_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=2gxfxoi2sgMAX_T1nCV&_nc_ht=scontent-lax3-1.xx&oh=00_AT_hl6WXgZgEt-fcRHrNWB9Kq0I7bNSZP64HCJxjbrL41w&oe=6322B6AB"> </a>
+         </div>
+    </div>
+  </div>
+</div>
+
 [MiNOLTA_APO_TELEPHOTO](https://phillipreeve.net/blog/review-minolta-af-apo-tele-200mm-12-8/)
 <img src="https://phillipreeve.net/blog/wp-content/uploads/2016/09/Minolta_AF_200mmf2p8_A7-20.jpg">
 <img src="https://phillipreeve.net/blog/wp-content/uploads/2016/09/DSC09815.jpg" >
