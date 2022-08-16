@@ -49,8 +49,7 @@ iframe {
   padding: 0px;
   background-image: url("https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/bd_iFRAME_HOLDiN_iMAGE.jpg");
   border: none;
-  box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
-
+  
 }
 
 section {
@@ -76,9 +75,7 @@ h6 {
           0 0 102px #0DCBFF,
           0 0 125px #0DCBFF;
     
-  /* margin: 1.03em; */
-  box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
-  padding: 10px;
+  /* margin: 1.03em; */  padding: 10px;
   background: linear-gradient(135deg, #1f005c, #2c005d, #47005f, #680060, #8b0460, #ac265e, #c9475c, #df675c, #ef855e, #f89e63, #fdaf69, #ffb56b);  
 }
 
@@ -97,8 +94,7 @@ header {
   width: 100%;
   border-bottom: 1px dashed $conifer; //header;
   padding: 5px 0;
-  box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
-  margin: 0 0 0px 0;
+   margin: 0 0 0px 0;
 }
 
 header h1 {
@@ -127,11 +123,6 @@ header h1 {
     margin-left: 0;
   }
 
-  box-shadow: rgba(240, 46, 170, 0.4) 5px 5px,
-  rgba(240, 46, 170, 0.3) 10px 10px,
-  rgba(240, 46, 170, 0.2) 15px 15px,
-  rgba(240, 46, 170, 0.1) 20px 20px,
-  rgba(240, 46, 170, 0.05) 25px 25px;
 
 }
 
@@ -213,10 +204,10 @@ p {
   background: rgb(2, 0, 36);
   background: linear-gradient(90deg, rgba(2, 0, 36, 0.5220417633410672) 0%, rgba(0, 212, 255, 0.17865429234338748) 100%);
   letter-spacing: 1px;
+  padding: 10px 10px 10px 15px;
   font-weight: 500;
   font-style: normal;
   font-variant: normal;
-  box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
   text-transform: none;
 
 }
@@ -225,8 +216,7 @@ blockquote {
   color: $blockquote-color;
   padding-left: 10px;
   border-left: 1px dotted $blockquote-border;
-  box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
-  font-size: 1.3rem;
+   font-size: 1.3rem;
   font-style: italic;
 }
 
@@ -240,8 +230,7 @@ pre {
   word-wrap: normal;
   overflow: auto;
   overflow-y: hidden;
-  box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
-
+  
 }
 
 code.highlighter-rouge {
@@ -257,8 +246,7 @@ table {
   width: 100%;
   margin: 0 0 20px 0;
   background: #3500FF;
-  box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
-
+  
 }
 
 th {
@@ -368,7 +356,6 @@ a:visited {
  /* max-width: max-content; */
   width: 100%;
   display: grid;
-  box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
   grid-template-columns: auto auto auto;
   object-fit: contain;
 }
@@ -412,8 +399,6 @@ a:visited {
 .twoPanelSpread {
   margin: 0px;
   padding: 0px;
-  box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
-
   background: url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/810MATRiX.webp ) center repeat;
 }
 
@@ -609,8 +594,7 @@ img {
   margin: 0px;
   width: 100%;
   background-size: cover;
-  box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
-
+  
 }
 
 /* AUDiO+PLAYER+CSS */
@@ -711,8 +695,7 @@ audio:active {
    background: rgb(131,58,180);
  background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,0.6516981792717087) 35%, rgba(252,176,69,1) 100%);
    width: 70%;
-   box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
-
+   
    border-radius: 5px;
  }
  .gallery input[name$="control"] {
