@@ -11,6 +11,10 @@
 {% endhighlight %}
 
 [Feels So Real (Won't Let Go)](https://www.youtube.com/watch?v=GJroTM6cgDM)
+
+<img src="https://www.cnet.com/a/img/resize/9786e8cea342900002f1d58924866b593d6795fe/2022/07/27/1ea99030-0334-4ce2-afc5-ea9fa5d96237/doodle4google-2022-10-12.jpg?auto=webp&fit=crop&height=675&width=1200" >
+## Teen's Google Doodle Highlights Importance of Having Support
+The Florida high school student said her inspiration for the Doodle was her relationship with her mother, who gave her support, comfort and encouragement that helped see her through the isolation and loneliness of the pandemic...[ReadMore](https://www.cnet.com/culture/internet/teens-google-doodle-highlights-importance-of-having-support/)
 <img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc45575e1ebb64f08283be0/vsco5fc455766eb96.jpg?w=568&dpr=1">
 <div class='twoPanelSpread'>
   <div class='row'>
