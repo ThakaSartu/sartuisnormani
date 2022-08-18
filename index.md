@@ -11,6 +11,9 @@
 {% endhighlight %}
 
 ## DEAR_NORMANi_NiJA_SARTU_SARTUZULA
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/269925599&color=%23749486&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/tycho" title="Tycho" target="_blank" style="color: #cccccc; text-decoration: none;">Tycho</a> · <a href="https://soundcloud.com/tycho/edc-sunrise" title="EDC Sunrise 2016" target="_blank" style="color: #cccccc; text-decoration: none;">EDC Sunrise 2016</a></div>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Alfons_Mucha_-_1896_-_Biscuits_Lef%C3%A8vre-Utile.jpg">
+
 ## CRUiSiN_CALi_SOUNDS_4_PCH_US1::DATE_IDEAS 
 
 ## ERiKA_TORi BUDGET = PERFECTiON
