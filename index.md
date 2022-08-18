@@ -10,11 +10,120 @@
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
 
+## DEAR_NORMANi_NiJA_SARTU_SARTUZULA
+## CRUiSiN_CALi_SOUNDS_4_PCH_US1::DATE_IDEAS 
+
+## ERiKA_TORi BUDGET = PERFECTiON
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1322634691&color=%235c5c5c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/megan-thee-stallion" title="Megan Thee Stallion" target="_blank" style="color: #cccccc; text-decoration: none;">Megan Thee Stallion</a> · <a href="https://soundcloud.com/megan-thee-stallion/budget-ft-latto" title="Budget (feat. Latto)" target="_blank" style="color: #cccccc; text-decoration: none;">Budget (feat. Latto)</a></div>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1322630917&color=%236c6c6c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/megan-thee-stallion" title="Megan Thee Stallion" target="_blank" style="color: #cccccc; text-decoration: none;">Megan Thee Stallion</a> · <a href="https://soundcloud.com/megan-thee-stallion/ungrateful-feat-key-glock" title="Ungrateful (feat. Key Glock)" target="_blank" style="color: #cccccc; text-decoration: none;">Ungrateful (feat. Key Glock)</a></div>
+<a href="https://www.youtube.com/watch?v=6npSwAc2rWw"> Feel It Boy · Beenie Man · Janet Jackson </a>
+  <a href="https://www.youtube.com/watch?v=j7QWJXXqiOc">Super Cat--Nuff Man A Dead (GENERALLY_KNOWN_MiX)</a>
+    <a href="https://www.youtube.com/watch?v=4N7gITLIip4">Super Cat - Nuff Man A Dead (Wild Apache Productions mix)</a>
+    <a href="https://youtu.be/-u5m_LfiXzM">Super Cat - Dolly My Baby ft Puff_DADDY and The_Notorious_BiG</a>
+    <a href="https://youtu.be/zM4HXY1cLIY">I Chase the Devil · Max Romeo · The Upsetters</a>
+    <a href="https://www.youtube.com/watch?v=jlFJ1BA37vs">Bob Marley - Crazy Baldhead Live from The Beacon Theater, NYC 4-30-76</a>
+    <a href="youtube.com/watch?v=eR8UnjYag-U">Police In Helicopter · John Holt</a>
+    <a href="https://youtu.be/uozhx1xeTDg" alt="BARRiNGTON_LEVY UNDER_Mi_SENSi">BARRiNGTON_LEVY UNDER_Mi_SENSi</a>
+    <a href="https://youtu.be/Gk4ivz0dm1s" alt="Call On The Father · Beres Hammond">Call On The Father · Beres Hammond</a>
+<a href="https://fossheim.io/writing/posts/css-text-gradient/">How to add a gradient overlay to text with CSS</a>  <a href="https://youtu.be/TSffz_bl6zo">SNOW_iNFORMER::ANGLO_REGGAE</a>
+    <a href="https://youtu.be/SDsMkluc_Mk" alt="She Nuh Ready Yet · Spragga Benz REGGAE">She Nuh Ready Yet · Spragga Benz REGGAE_GOLD98</a>
+    <a href="https://youtu.be/d7S8qZ2c1R4">Love Sponge · Buju Banton</a>
+    <a href="https://www.youtube.com/watch?v=nMD4GumDjxA" alt="Buju Banton - CHAMPiON">Buju Banton - CHAMPiON</a>
+    <a href="https://youtu.be/3jVNX7UI2tw" alt="Whatcha Gonna Do · Peter Tosh"> Whatcha Gonna Do · Peter Tosh</a>
+    <a href="https://youtube.com/watch?v=YwSU0rcVTaE%20%20%3C" alt="Buju Banton - Wanna Be Loved (Official Music Video)">Buju Banton - Wanna Be Loved (Official Music Video)</a>
+    <a href="https://youtu.be/6M-ppiL7EPM" alt="Beenie Man- Bookshelf- Bookshelf Riddim"> Beenie Man- Bookshelf- Bookshelf Riddim</a>
+    <a alt="Beenie Man ‎– Crazy Notion (Beenie Man ‎– Art And Life, Virgin, 2000)" href="https://www.youtube.com/watch?v=X1RgygADUpE&t=5s">Beenie Man ‎– Crazy Notion (Beenie Man ‎– Art And Life, Virgin, 2000)</a>
+
+[The Jones Girls - Nights Over Egypt ](https://www.youtube.com/watch?v=pzxwZ6wjDAM) 
+[Remind Me · Patrice Rushen ·Straight From The Heart](https://www.youtube.com/watch?v=SOPp6EgpDrg) 
+[Yearning For Your Love::By::THE_GAP_BAND](https://www.youtube.com/watch?v=afqzUbvi7D8) 
+[The Jones Girls::Who Can I Run To?::1979](https://www.youtube.com/watch?v=JRpKQb9J-nU) 
+[Keke Wyatt::NOTHiNG_iN_THiS_WORLD](https://www.youtube.com/watch?v=diEV1qC34Og) 
+[Stephanie Mills-Two Hearts Featuring Teddy Pendergrass](https://www.youtube.com/watch?v=uJ7HN1nNdbc) 
+[NEW_EDiTiON::Cool It Now (Official Video)](https://www.youtube.com/watch?v=RZUq6N7Gx1c) 
+[NEW_EDiTiON::Mr. Telephone Man](https://www.youtube.com/watch?v=GsWrlzjxbPY) 
+[BOBBY_BROWN::Every Little Step](https://www.youtube.com/watch?v=muDCggSpqpE) 🔥 
+[A1 Warm It Up (LP Version) Producer – Jermaine Dupri](https://www.youtube.com/watch?v=fwXfhQaBRZI) 🔥 
+[TLC - What About Your Friends (Official Video)](https://www.youtube.com/watch?v=92gHq1s6G-c) 
+[Another Bad Creation - Iesha (Official Music Video)](https://www.youtube.com/watch?v=ZDPIK7Fz_g4) 
+[SWV – You're The One Genre: Funk / Soul Style: RnB/Swing, Hip Hop Year: 1996](https://www.youtube.com/watch?v=Ua4fg2FQ6w8) 
+[BRANDY::Sittin' Up In My Room from Waiting to Exhale - Original SoundtracK](https://www.youtube.com/watch?v=DGgANpSjoas) 
+[702 - Steelo feat. Missy Elliott::1996](https://www.youtube.com/watch?v=LdvRwHhla6Q)
+[Beenie Man ‎– Jamaica Way Ft. Kelis (Beenie Man ‎– Art And Life, Virgin, 2000)](https://youtu.be/MNk1ymskIGI)
+[Beenie Man ‎– Crazy Notion (Beenie Man ‎– Art And Life, Virgin, 2000)](https://youtu.be/X1RgygADUpE)
+[Sean Paul - I'm Still In Love With You (Official Video)](https://www.youtube.com/watch?v=AQ4TW5Z8eu0) 
+[C'mon N' Ride It (The Train)](https://www.youtube.com/watch?v=3Awey7AbXT0)
+[52nd Street - Tell Me (Extended Vers.)](https://www.youtube.com/watch?v=3Ck25PGjlLc)
+[The S.O.S. Band - Just The Way You Like It, Mall_oF_GEORGiA_FEELiNGS](https://www.youtube.com/watch?v=4Nlr9vU0DfU)
+[SLAVE_STONE_JAM ~> Watching You](https://www.youtube.com/watch?v=xkI_yIhIk1c)
+[WEEKEND GIRL (Original Full-Length Album Version) - SOS Band](https://www.youtube.com/watch?v=8BvuSzxcE5o)
+[HANDSTYLER::FAUST](https://faustnewyork.tumblr.com/archive)
+[The S.O.S. Band - Tell Me If You Still Care](https://www.youtube.com/watch?v=GSsTyAVP5j0)
+[Feels So Real (Won't Let Go)](https://www.youtube.com/watch?v=GJroTM6cgDM)
+[The S.O.S. Band  No One's Gonna Love You 1984](https://www.youtube.com/watch?v=3DDeZVnK2E0)
+[S.O.S. Band- Even When You Sleep](https://www.youtube.com/watch?v=aX0wGKIgSZU)
+[Mos Def - Mathematics](https://www.youtube.com/watch?v=m5vw4ajnWGA) 
+[Feels So Real (Won't Let Go)](https://www.youtube.com/watch?v=GJroTM6cgDM)
+<div class="sixpanel">
+
+  <div class="item1"> <img src="https://www.ladygunn.com/wp-content/uploads/2022/03/FINAL-LADYGUNN_MUNI_COVER_MARCH.png" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+  <div class="item2"> <img src="https://www.ladygunn.com/wp-content/uploads/2022/03/FINAL-LADYGUNN_MUNI_COVER_MARCH.png" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+  <div class="item3"> <img src="https://www.ladygunn.com/wp-content/uploads/2022/03/FINAL-LADYGUNN_MUNI_COVER_MARCH.png" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+
+  <div class="item1"> <img src="https://www.ladygunn.com/wp-content/uploads/2022/03/FINAL-LADYGUNN_MUNI_COVER_MARCH.png" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+  <div class="item2"> <img src="https://www.ladygunn.com/wp-content/uploads/2022/03/FINAL-LADYGUNN_MUNI_COVER_MARCH.png" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+  <div class="item3"> <img src="https://www.ladygunn.com/wp-content/uploads/2022/03/FINAL-LADYGUNN_MUNI_COVER_MARCH.png" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+</div>
+
+
+
+<div class="expandingGallery"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/135011431_1824376414390674_516658343576780341_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=QyHtisWkmKgAX-fNcur&_nc_ht=scontent-lax3-2.xx&oh=00_AT8dKR2-dQghB1fmut2lwCiwTKhpdR3ZaJbDrvXapw81QA&oe=6322DD45" /><img src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5cfc53f879eeec391e7a6730/vsco5cfc53f98b1fb.jpg" /><img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/134741910_1824376361057346_5760762196412101977_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_ohc=5I1Uppa3E8EAX-XA8qW&tn=LlHy2Qv6m3e-7RU1&_nc_ht=scontent-lax3-1.xx&oh=00_AT-0Bz95SjKPZ10mvaSbTfTccnaSTGBjxG_JfFZTcU6S_g&oe=6321A087" /><img src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5cf3623a82fdb56e8b3b868d/vsco5cf3623bd9721.jpg" /><img src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5fc4bb251d78313c14000007/vsco5fc4bb27bbd2e.jpg" /></div>
+
+## YOUNG GUERILLERO RECENTLY IN HIDING SPEAKS TO HIS FIRST CIVILIAN LADY, HAVANA, CUBA, JANUARY 1, 1959 - from our story '“Not a Bed of Roses” – Burt Glinn’s Photos of the Cuban Revolution (1959)'
+On New Year’s Eve 1958, young Magnum photographer Burt Glinn was celebrating at a black tie party in New York. All the talk that evening was of corrupt Cuban dictator Fulgencio Batista, rumoured to be ready to flee for his life from Havana and said to have already backed his army trucks up to the treasury.
+
+Glinn borrowed $400 from Magnum president Cornell Capa, grabbed his camera gear, raced to La Guardia just in time to make the last flight to Miami. He arrived just after dawn in Havana, Batista had fled, Fidel was still hundreds of miles away, nobody knew where, Che Guevara was on his way to Havana and nobody seemed to be in charge. As Glinn said “you just can’t hail a taxi and ask the cabbie to take you to the revolution”...[ReadMore](https://flashbak.com/see-the-cuban-revolution-unfold-in-burt-glinns-photos-1959-46574/)
+
+<img src="https://flashbak.com/wp-content/uploads/2015/11/Young-22guerillero22-recently-in-hiding-speaks-to-his-first-civilian-lady-Havana-Cuba-January-1-1959.jpg">
+<div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+<img src="https://flashbak.com/wp-content/uploads/2015/11/Young-22guerillero22-recently-in-hiding-speaks-to-his-first-civilian-lady-Havana-Cuba-January-1-1959.jpg">
+        </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+        <a href="https://soundcloud.com/deydey-79487267/kodak-black-snot-thot?si=3baf2cea5d7e4b1c9fb8ef80b96a9949&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" ><img src="https://flashbak.com/wp-content/uploads/2015/11/Young-22guerillero22-recently-in-hiding-speaks-to-his-first-civilian-lady-Havana-Cuba-January-1-1959.jpg">
+</a>
+         </div>
+    </div>
+  </div>
+</div>
+<div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+<img src="https://flashbak.com/wp-content/uploads/2015/11/Cuba-Burt-Glinn-1959-copy-1200x1786.jpg">
+</div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+        <a href="https://soundcloud.com/deydey-79487267/kodak-black-snot-thot?si=3baf2cea5d7e4b1c9fb8ef80b96a9949&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" >
+<img src="https://flashbak.com/wp-content/uploads/2015/11/Cuba-Burt-Glinn-1959-copy-1200x1786.jpg">
+</a>
+         </div>
+    </div>
+  </div>
+</div>
+
+
+<iframe width="333" height="670" src="https://www.youtube.com/embed/9c9wc3viswc" title="In Living Color Season 1 Episode 7" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/SvBVDibOrgs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="476" src="https://www.youtube.com/embed/2uMNtOQOaLU" title="Ghost in the Shell - English Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/8RF09G8Ymqg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/TDg7CFmydjE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-[Feels So Real (Won't Let Go)](https://www.youtube.com/watch?v=GJroTM6cgDM)
+
 
 <img src="https://www.cnet.com/a/img/resize/9786e8cea342900002f1d58924866b593d6795fe/2022/07/27/1ea99030-0334-4ce2-afc5-ea9fa5d96237/doodle4google-2022-10-12.jpg?auto=webp&fit=crop&height=675&width=1200" >
 ## Teen's Google Doodle Highlights Importance of Having Support
