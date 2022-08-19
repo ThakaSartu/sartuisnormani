@@ -12,6 +12,9 @@
 
 ## DEAR_NORMANi_NiJA_SARTU_SARTUZULA_ARKEiSHA
 
+<img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/screenshots/sa2z.PNG">
+<img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/screenshots/sa2zsav.PNG">
+
 [You check on Savannah cipher lately?](https://youtu.be/amSxhLf4Ctg) There is a population that is telling people I am not from Liberty City... I dont know how to get you out of prostitution and me clear of all the child molestation and terrorist allegations CM-MATT_FiELD_and_SEVER started with RiAD_NASER_and_TRAViS... i just wanna [GET_FREE](https://youtu.be/ytIfSuy_mOA)
 
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/X6-aOcG-wys" title="Bad Things" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
