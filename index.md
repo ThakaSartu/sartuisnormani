@@ -12,6 +12,21 @@
 
 ## DEAR_NORMANi_NiJA_SARTU_SARTUZULA_ARKEiSHA
 
+### HipHoP_PLAYLiST
+
+
+[KRS ONE - OUT FOR FAME (Rubens Video).wmv](https://www.youtube.com/watch?v=jhurGs6WBCw)
+[Seen, Can2, Cope2 & Zebster - Wallstreet Graffiti Meeting](https://www.youtube.com/watch?v=vVr296bJj2E)
+[Artifacts - Art of Graff](https://www.youtube.com/watch?v=Tn30EIvTKd4)
+[Artifacts - Art Of Facts (Jam-A-Holics Remix)](https://www.youtube.com/watch?v=3F7xEjfPHjA)
+[Artifacts - The Ultimate [Explicit]](https://www.youtube.com/watch?v=3WAq-n3qMpc)
+[Artifacts - C'mon Wit Da Git Down (Official Video) [Explicit]](https://www.youtube.com/watch?v=XimyEvDJWzA)
+[Digable Planets - 9th Wonder (Blackitolism)](https://www.youtube.com/watch?v=SyeI43BeR54)
+[Special Ed - I Got It Made (Official Video)](https://www.youtube.com/watch?v=N_9GuiE5Fck)
+[‘FX CREW’ (Graffiti Writers Crew) New York, 1998 [RARE full graff art VHS documentary archive]](https://www.youtube.com/watch?v=Jv7ECeiD1p4)
+
+<hr>
+
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/rjM2TOplSco" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/571949436&color=%23647c94&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
