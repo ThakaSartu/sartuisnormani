@@ -12,6 +12,17 @@
 
 ## DEAR_NORMANi_NiJA_SARTU_SARTUZULA_ARKEiSHA
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/rjM2TOplSco" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/571949436&color=%23647c94&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+[Half & Half S04E08 The Big How to Do & Undo It Air Date: Monday, November 14, 2005](https://www.youtube.com/watch?v=A9F6wwQLRrI)
+[The Parkers S07E04+05+06 The Parkers Full Episodes](https://www.youtube.com/watch?v=Lo670jttQ_g)
+[What's Happening !! When Daddy Comes Marching Home - What's Happening Season 1 Episode 3 + 4](https://youtu.be/ID5uU1_cCT0)
+[227 S4E1+2+3 The Whiz Kid, Hide the Star, A Funny Thing Happened on the Way to the Pageant](https://www.youtube.com/watch?v=7guUkkriZY8)
+[The Jeffersons | The First Store | Season 6 Episode 23 Full Episode | The Norman Lear Effect](https://www.youtube.com/watch?v=J0-MowBLQ7g)
+[The story of Fred and Esther](https://www.youtube.com/watch?v=NTv5QphVPag)
+
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/IozLX1ozpb8" title="RAP CIPHER-SAVANNAH GA- SEPTEMBER EDITION" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/screenshots/sa2z.PNG">
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/screenshots/sa2zsav.PNG">
