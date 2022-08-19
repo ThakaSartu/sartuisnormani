@@ -124,7 +124,7 @@ Glinn borrowed $400 from Magnum president Cornell Capa, grabbed his camera gear,
 </div>
 
 
-<iframe width="333" height="670" src="https://www.youtube.com/embed/9c9wc3viswc" title="In Living Color Season 1 Episode 7" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="670" src="https://www.youtube.com/embed/9c9wc3viswc" title="In Living Color Season 1 Episode 7" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/SvBVDibOrgs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="476" src="https://www.youtube.com/embed/2uMNtOQOaLU" title="Ghost in the Shell - English Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/8RF09G8Ymqg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
