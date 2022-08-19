@@ -8,6 +8,9 @@
 
 ## Usage
 
+https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg
+
+
 To use the Hacker theme:
 
 1. Add the following to your site's `_config.yml`:
