@@ -11,7 +11,7 @@
 {% endhighlight %}
 
 ## DEAR_NORMANi_NiJA_SARTU_SARTUZULA
-
+Lets check on Savannah cipher later on
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/X6-aOcG-wys" title="Bad Things" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [The Rolling Stones - Gimme Shelter](https://www.youtube.com/watch?v=RbmS3tQJ7Os)
