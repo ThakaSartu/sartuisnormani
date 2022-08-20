@@ -13,6 +13,9 @@
 ## DEAR_NORMANi_NiJA_SARTU_SARTUZULA_ARKEiSHA
 ## So you wanna serve our content with me? First, What Does a Server Do?
 
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/KLvxu6pHasU" title="Playa Poncho, LA Sno - Whatz Up, Whatz Up (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Intel_Xeon_2020_logo.svg/1200px-Intel_Xeon_2020_logo.svg.png">
+
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/cdAWpf9O08Q" title="Dis 'N' Dat - Whoot, Here It Is" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <img src="https://i.dell.com/is/image/DellContent//content/dam/images/products/servers/poweredge/r740/dellemc-per740-24x25-2-lf.psd?fmt=png-alpha&pscan=auto&scl=1&wid=4184&hei=1358&qlt=100,0&resMode=sharp2&size=4184,1358">
 <img src="https://i.dell.com/is/image/DellContent//content/dam/images/products/servers/poweredge/r740/dellemc-per740-24x25-2-b.psd?fmt=png-alpha&pscan=auto&scl=1&wid=4114&hei=810&qlt=100,0&resMode=sharp2&size=4114,810">
