@@ -12,6 +12,17 @@
 
 ## DEAR_NORMANi_NiJA_SARTU_SARTUZULA_ARKEiSHA
 
+[Kash Doll Reportedly Claims She Lost $500K In Car Burglary While Filming Music Video](https://hollywoodunlocked.com/kash-doll-reportedly-claims-she-lost-500k-in-car-burglary-while-filming-music-video/)
+
+## Kash Doll Reportedly Claims She Lost $500K In Car Burglary While Filming Music Video
+
+Kash Doll has not publicly spoken out on this big situation. No arrests have been made just yet.
+
+Kash Doll isn’t the only celebrity going through a robbery. As we previously reported, back in March Beyoncé’s storage unit was robbed where thieves made off with a total of $1M in goods...[ReadMe](https://hollywoodunlocked.com/kash-doll-reportedly-claims-she-lost-500k-in-car-burglary-while-filming-music-video/)
+
+
+
+
 <img src="https://static.hiphopdx.com/2021/05/kash-doll-e1621244269688-1200x675.png">
 
 ### HipHoP_PLAYLiST
