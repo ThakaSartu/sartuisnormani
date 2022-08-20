@@ -10,7 +10,9 @@
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
 
-
+<a href="https://chrome.google.com/webstore/category/collection/latino_artist_themes"><img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/8202022_GOoGLECHROME_LATiNO_THEMEs.PNG"></a>
+<img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/8202022_GiTHUB_BROWN_DARKMODE.PNG">
+<img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/DJTAZCOMMENT.PNG">
 
 [That's Right by DJ Taz](https://www.youtube.com/watch?v=xHLh0tZJfR0)
 [Success-N-Effect - Freeze](https://www.youtube.com/watch?v=aKhCo78np_o)
