@@ -10,6 +10,10 @@
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
 
+
+[Norm Spencer, The Cyclops Voice Actor Has Passed Away](https://www.gamespot.com/articles/norm-spencer-the-cyclops-voice-actor-has-passed-aw/1100-6481642/)
+<img src="https://www.gamespot.com/a/uploads/screen_kubrick/1562/15626911/3728225-cyclops.jpg">
+
 ## DEAR_NORMANi_NiJA_SARTU_SARTUZULA_ARKEiSHA
 ## So you wanna serve our content with me? First, What Does a Server Do?
 
