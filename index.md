@@ -12,6 +12,8 @@
 
 ## DEAR_NORMANi_NiJA_SARTU_SARTUZULA_ARKEiSHA
 
+<img src="https://static.hiphopdx.com/2021/05/kash-doll-e1621244269688-1200x675.png">
+
 ### HipHoP_PLAYLiST
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/p3gbeRyOPqc" title="Lost Boyz - Love, Peace And Nappiness" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
