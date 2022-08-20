@@ -13,7 +13,9 @@
 ## DEAR_NORMANi_NiJA_SARTU_SARTUZULA_ARKEiSHA
 ## So you wanna serve our content with me? First, What Does a Server Do?
 
-
+<img src="https://i.dell.com/is/image/DellContent//content/dam/images/products/servers/poweredge/r740/dellemc-per740-24x25-2-lf.psd?fmt=png-alpha&pscan=auto&scl=1&wid=4184&hei=1358&qlt=100,0&resMode=sharp2&size=4184,1358">
+<img src="https://i.dell.com/is/image/DellContent//content/dam/images/products/servers/poweredge/r740/dellemc-per740-24x25-2-b.psd?fmt=png-alpha&pscan=auto&scl=1&wid=4114&hei=810&qlt=100,0&resMode=sharp2&size=4114,810">
+<img src="https://i.dell.com/is/image/DellContent//content/dam/images/products/servers/poweredge/r740/dellemc-per740-24x25-bezel-lcd-2-above-ff-bold-reflection.psd?fmt=png-alpha&pscan=auto&scl=1&wid=4598&hei=2010&qlt=100,0&resMode=sharp2&size=4598,2010">
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/1XrNm_KCO28" title="Dis 'N' Dat - Dis 'N' Dat" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <div class='twoPanelSpread'>
   <div class='row'>
