@@ -11,12 +11,15 @@
 {% endhighlight %}
 
 
+
+<iframe src="https://www.gamespot.com/videos/embed/6457668/" height="360" width="100%" scrolling="no" frameborder="" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 [Norm Spencer, The Cyclops Voice Actor Has Passed Away](https://www.gamespot.com/articles/norm-spencer-the-cyclops-voice-actor-has-passed-aw/1100-6481642/)
 <img src="https://www.gamespot.com/a/uploads/screen_kubrick/1562/15626911/3728225-cyclops.jpg">
 
 ## DEAR_NORMANi_NiJA_SARTU_SARTUZULA_ARKEiSHA
 ## So you wanna serve our content with me? First, What Does a Server Do?
 
+[Success-N-Effect - Freeze](https://www.youtube.com/watch?v=aKhCo78np_o)
 [Kilo Ali - Donkey Kong (Bankhead Bounce) 1995 Atlanta Classic](https://www.youtube.com/watch?v=-K6IT8NnQR4)
 [A-Town Players - Wassup Wassup ( Bankhead Bounce ) Atlanta Classic 1995](https://www.youtube.com/watch?v=J90bUNuJ20k)
 <iframe src="https://www.gamespot.com/videos/embed/6455192/" height="360" width="100%" scrolling="no" frameborder="" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
