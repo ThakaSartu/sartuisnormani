@@ -12,6 +12,21 @@
 
 ## DEAR_NORMANi_NiJA_SARTU_SARTUZULA_ARKEiSHA
 
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://youtu.be/i-e9Ds0F6Sk"><img src="https://i.discogs.com/qh7QUMZiV-Rm9RTsdD7R_OzyHUP9KIoNXUF9iNcGvq4/rs:fit/g:sm/q:90/h:600/w:361/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDYz/MTIyLTE1MTY3Njc1/MzMtMTg0OS5qcGVn.jpeg" alt=""> </a>
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://youtu.be/i-e9Ds0F6Sk"><img src="https://i.discogs.com/qh7QUMZiV-Rm9RTsdD7R_OzyHUP9KIoNXUF9iNcGvq4/rs:fit/g:sm/q:90/h:600/w:361/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDYz/MTIyLTE1MTY3Njc1/MzMtMTg0OS5qcGVn.jpeg" alt=""> </a>
+         </div>
+    </div>
+  </div>
+</div>
+
 [Kash Doll Reportedly Claims She Lost $500K In Car Burglary While Filming Music Video](https://hollywoodunlocked.com/kash-doll-reportedly-claims-she-lost-500k-in-car-burglary-while-filming-music-video/)
 
 ## Kash Doll Reportedly Claims She Lost $500K In Car Burglary While Filming Music Video
