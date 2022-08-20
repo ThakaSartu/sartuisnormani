@@ -11,6 +11,42 @@
 {% endhighlight %}
 
 ## DEAR_NORMANi_NiJA_SARTU_SARTUZULA_ARKEiSHA
+## So you wanna serve our content with me? First, What Does a Server Do?
+
+May 24, 2020
+If you've been around anyone who works in tech, you've probably heard the word "server" used a lot. For someone who doesn't deal with computers every day, it can be a difficult word to understand. What is a server? How does it affect you? Read on to learn what these products do and why they have an essential role in how we enjoy the internet every day.
+What is a server?
+A server stores, sends, and receives data. In essence, it "serves" something else and exists to provide services. A computer, software program, or even a storage device may act as a server, and it may provide one service or several...
+
+0. Dedicated or not?
+The person or device that the server connects to in delivering the data is called the client. If a server does just one thing for one client, it’s considered a dedicated server. Anytime you do a web search, upload a file, access your workplace network files, or stream music, you are interacting with a server that exists somewhere else.
+There are entire rooms or buildings that house servers. Companies like Amazon have warehouses that exist only to keep their servers safe. They are cooled by enormous air conditioning (A/C) units with backup generators and sometimes their own electrical substations to make sure they don’t lose power. Smaller companies, like a typical insurance or financial business, will often have server a room that is kept cool by large fans and A/C units so the servers don’t overheat.
+Because server rooms and buildings house such large amounts of valuable data, they’re typically secure locations with limited access for only those employees who need to use them.
+What are the different types of servers?
+Most of us think of an internet server, or web server, as the most common type, but there are others. The most notable server types include:
+1. Web server
+If you’re online looking at a webpage, you are accessing a server. Viewing the web through your browser requires getting data from a web server for the text, images, videos, and any other components you can view on a webpage. When you send or receive files through the internet, download apps or programs, or even save your work files to the cloud, you are interacting with a variety of internet servers.
+2. Email server
+If you use a web-based program, such as Gmail or Yahoo!, to access your email account, you probably rely on a web server to handle your messaging. For those consumers who prefer to use a computer-based program, such as Outlook, you access a specific email server that supports the sending and receiving processes. If you see references to IMAP, POP, or SMTP when using email, you are connecting to a third-party email server.
+3. Print server
+Do you send print jobs to your computer over WiFi? The management of print files and printer tasks is done through a print server.
+
+4. Game server
+Gamers know all about these. Loading an online game requires you to connect to a server. Each game generally has its own server. If you've ever waited a long time for a game to load, congestion on the server may be the issue. From the biggest online computer games to the smallest, app-based smartphone games, they all use servers to send and receive the information necessary for gamers to play.
+5. Proxy server
+Any time there is a third-party intermediary between a person’s computer and another server, this middle-man is known as a proxy server. Proxies have useful roles in filtering content, speeding up internet traffic, and keeping unauthorized users from accessing the network. Most business internet connections use proxy servers on their networked computers to keep data safe and to ensure their workers only use permitted web functions.
+6. Streaming video server
+When you open Netflix on your phone or stream movies from Amazon on your smart TV, you are using a video server. All of those movies and TV shows are saved as data on these servers and are pushed out to you when you request them.
+In addition to those explained above, there are many, many other server types including fax servers, file servers, database servers, chat servers, audio servers, and application servers. Anytime data is stored and sent, a server is involved.
+What does a server cost?
+The list of servers and their wide variety of uses indicate that servers can be big or small. The more massive a server is, the more it will cost. Servers used by big cloud storage companies, such as Amazon’s Cloud or Google’s Drive, will be enormous and costly. For the average user, servers are readily available on a smaller scale.
+They can cost anywhere from a few hundred dollars to thousands. The price depends on how much data you will store and send, as well as any desire you have to scale later. Companies who expect to grow quickly should look at server solutions that can expand with their needs. These expandable options generally cost a bit more but offer the flexibility needed by enterprise-level customers.
+Choosing the best servers
+HP offers a variety of servers for all business sizes. The following have the highest marks for performance and price:
+
+### ABOUT THE AUTHOR
+[Linsey Knerl is a contributing writer](https://www.linseyknerl.com/) for HP® Tech Takes. Linsey is a Midwest-based author, public speaker, and member of the ASJA. She has a passion for helping consumers and small business owners do more with their resources via the latest tech solutions.
+
 
 <div class='twoPanelSpread'>
   <div class='row'>
