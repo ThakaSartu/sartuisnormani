@@ -10,6 +10,12 @@
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
 
+##_I_SARTU_PLAY_GAMES_WHERE_PEOPLE_LIE
+
+
+## First Class Trouble, rewards deception in game
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/Oy-BGIa9B6A" title="First Class Trouble - State of Play Oct 2021: A Guided Tour to Social Deduction | PS5, PS4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <iframe src="https://www.gamespot.com/videos/embed/6458653/" height="360" width="100%" scrolling="no" frameborder="" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 
 <iframe src="https://www.gamespot.com/videos/embed/6457668/" height="360" width="100%" scrolling="no" frameborder="" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
