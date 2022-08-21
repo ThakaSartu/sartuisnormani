@@ -9,6 +9,9 @@
 3 # ANOTHER###############################################
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
+
+## LosANGELES2000 = BLADERUNNER
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/S0Q4gqBUs7c" title="Bonobo - Kerala (Official Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Atlanta PHotojournalism
 ShocPhoto? What do I have to call you to get your attention. Remember my photo series on the homeless in Atlanta?
 <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/132047716_1813007112194271_7170677371723054067_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=OTdlBrhR3zAAX-1eLcr&tn=U8SqsrrZhXag5Qce&_nc_ht=scontent-lax3-2.xx&oh=00_AT-wFtURl-Xw0x5w7Uc_NlgSZ1glZpiicck6Pm7i8E3d0g&oe=6327FDEE">
