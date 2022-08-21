@@ -11,6 +11,10 @@
 {% endhighlight %}
 
 ## LosANGELES2000 = BLADERUNNER
+
+[Amon Tobin - Sultan Drops](https://www.youtube.com/watch?v=MbVPev7akDI)
+[Bonobo - Organic House Mix](https://www.youtube.com/watch?v=hwCPuVZJMf8)
+
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/S0Q4gqBUs7c" title="Bonobo - Kerala (Official Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Atlanta PHotojournalism
 ShocPhoto? What do I have to call you to get your attention. Remember my photo series on the homeless in Atlanta?
