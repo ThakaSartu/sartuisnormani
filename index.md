@@ -40,6 +40,10 @@ A grid system provides an easy way for designers to structure and present conten
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/422956530?h=4a5a06de5d&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
+[Developer Decisions For Building Flexible Components](https://www.smashingmagazine.com/2021/09/developer-decisions-building-flexible-components/)
+One of the key skills of a front-end developer is to be able to take designs and turn them into code. These designs are often presented as static mock-ups, which visualize the “ideal” experience of browsing the website.
+[ReadMore](Developer Decisions For Building Flexible Components)
+
 [5 Classic Books Every Designer Should Have by Margaret Penney | November 11, 2016](https://www.sessions.edu/notes-on-design/5-classic-books-every-designer-should-have/)
 
 <div class="twoPanelSpread">
