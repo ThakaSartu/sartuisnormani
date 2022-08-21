@@ -10,6 +10,8 @@
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
 
+[Overcoming Imposter Syndrome By Developing Your Own Guiding Principles ::even4pplWHOknewUiNahPassLifetime](https://www.smashingmagazine.com/2022/07/overcoming-imposter-syndrome-developing-guiding-principles/)
+
 ## GRAPHiC_DESiGN_RESOURCES
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/327956090?h=6b1a4743d3&color=0099ff&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <img src="https://www.oozlemedia.com/wp-content/uploads/2015/04/Oozle-Blog-Header-Jul2018.png">
