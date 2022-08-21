@@ -10,6 +10,9 @@
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
 
+## I Love you SARTU/NORMANiE/SARTUZULAH/NiJA/SAUTUZEE
+<img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/134722147_1826648854163430_4677603596670918485_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=W7KA6qTZYZ8AX8iQTv2&_nc_ht=scontent-lax3-1.xx&oh=00_AT9SoaR5XtwUkFOCSzqVnJR2MEIvpz4g4vw6Q_1JQV371Q&oe=632872E9">
+<hr>
 <a href="https://chrome.google.com/webstore/category/collection/latino_artist_themes"><img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/8202022_GOoGLECHROME_LATiNO_THEMEs.PNG"></a>
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/8202022_GiTHUB_BROWN_DARKMODE.PNG">
 <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/DJTAZCOMMENT.PNG">
