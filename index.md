@@ -10,12 +10,64 @@
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
 
+## GRAPHiC_DESiGN_RESOURCES
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/327956090?h=6b1a4743d3&color=0099ff&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<img src="https://www.oozlemedia.com/wp-content/uploads/2015/04/Oozle-Blog-Header-Jul2018.png">
+
+A grid system provides an easy way for designers to structure and present content and images in an organized, manageable, and readable way... [ReadMore](https://www.oozlemedia.com/advantages-of-grid-systems-in-web-design/)
+
+<img src="https://www.sessions.edu/wp-content/uploads/00115.jpg">
+<div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+<a href="https://youtu.be/q6-SFIAzFnA"><img src="https://1.bp.blogspot.com/-_VAM9vv6woU/Xf5er3xzNcI/AAAAAAAAGeM/OOYW18zZzPEwvYXcWg9M_fsAv5cS5KsMgCNcBGAsYHQ/s1600/bring.jpg"></a>
+        </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+
+<a href="https://youtu.be/q6-SFIAzFnA"><img src="https://1.bp.blogspot.com/-_VAM9vv6woU/Xf5er3xzNcI/AAAAAAAAGeM/OOYW18zZzPEwvYXcWg9M_fsAv5cS5KsMgCNcBGAsYHQ/s1600/bring.jpg"></a>
+         </div>
+    </div>
+  </div>
+</div>
+<a href="https://readings.design/PDF/the_elements_of_typographic_style.pdf">The Elements of Typographic Style Robert Bringhurst 1992 </a>
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/422956530?h=4a5a06de5d&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+[5 Classic Books Every Designer Should Have by Margaret Penney | November 11, 2016](https://www.sessions.edu/notes-on-design/5-classic-books-every-designer-should-have/)
+
+<div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+<a href="https://youtu.be/iCgdf4pkvtQ"><img src="https://untappedcities.com/wp-content/uploads/2015/09/NASA-Graphics-Standard-Manual-Kickstarter-Hamish-Smyth-Jesse-Reed-Pentagram-NYC-3.jpg"></a>
+        </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+
+<a href="https://youtu.be/iCgdf4pkvtQ"><img src="https://untappedcities.com/wp-content/uploads/2015/09/NASA-Graphics-Standard-Manual-Kickstarter-Hamish-Smyth-Jesse-Reed-Pentagram-NYC-3.jpg"></a>
+         </div>
+    </div>
+  </div>
+</div>
+<img src="https://s3.amazonaws.com/standardsmanualimages/worm/detail/nasawormbook_detail02-1600.jpg">
+
+
+[NASA Graphics Standards Manual (NHB 1430.2) (January 1976)](https://www.nasa.gov/sites/default/files/atoms/files/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf)
+
+<img src="https://www.hotfootdesign.co.uk/wp-content/uploads/2015/11/nasa07_1.jpg">
+
+
 ## LosANGELES2000 = BLADERUNNER
 
 [Amon Tobin - Sultan Drops](https://www.youtube.com/watch?v=MbVPev7akDI)
 [Bonobo - Organic House Mix](https://www.youtube.com/watch?v=hwCPuVZJMf8)
 
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/S0Q4gqBUs7c" title="Bonobo - Kerala (Official Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Atlanta PHotojournalism
 ShocPhoto? What do I have to call you to get your attention. Remember my photo series on the homeless in Atlanta?
 <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/132047716_1813007112194271_7170677371723054067_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=OTdlBrhR3zAAX-1eLcr&tn=U8SqsrrZhXag5Qce&_nc_ht=scontent-lax3-2.xx&oh=00_AT-wFtURl-Xw0x5w7Uc_NlgSZ1glZpiicck6Pm7i8E3d0g&oe=6327FDEE">
