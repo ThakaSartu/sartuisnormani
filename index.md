@@ -11,6 +11,7 @@
 {% endhighlight %}
 
 <iframe width="100%" height="375" src="https://www.youtube.com/embed/ArWQWAUoiSU" title="Bonobo - Bambro Koyo Ganda (feat. Innov Gnawa) (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/134440832_1826649174163398_748536422657434811_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=q2-gNN9zzcUAX8VDREZ&_nc_ht=scontent-lax3-1.xx&oh=00_AT8aXvxFJkDpmyXDypBqpHqxHAhJJG5wy7NHMpifMScPMQ&oe=63285EFF">
 <img src="https://i.pinimg.com/736x/38/dd/9c/38dd9c7c695ae21c6e94d297f064a9e0--transformers-toys-original-transformers.jpg">
 
 ## I Love you SARTU/ NORMANiE/ SARTUZULAH/ NiJA/ SAUTUZEE
