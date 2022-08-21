@@ -11,6 +11,8 @@
 {% endhighlight %}
 
 [Overcoming Imposter Syndrome By Developing Your Own Guiding Principles ::even4pplWHOknewUiNahPassLifetime](https://www.smashingmagazine.com/2022/07/overcoming-imposter-syndrome-developing-guiding-principles/)
+Design is one of those disciplines that has a very low barrier to entry. But what isn’t so easy is acquiring the softer skills that you’ll need when entering this job market. Unfortunately, not everyone has access to a mentor or a guide, which is why we often have to rely on “working it out” by ourselves. In this article, Luis Ouriach tries to help you in this task so that you can walk into the design critique meetings with more confidence and really deliver the best representation of your ideas.
+[ReadMore...](https://www.smashingmagazine.com/2022/07/overcoming-imposter-syndrome-developing-guiding-principles/)
 
 ## GRAPHiC_DESiGN_RESOURCES
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/327956090?h=6b1a4743d3&color=0099ff&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
