@@ -10,7 +10,9 @@
 4 # UNiVERSE##########################################HUMA
 {% endhighlight %}
 
-## I Love you SARTU/NORMANiE/SARTUZULAH/NiJA/SAUTUZEE
+<img src="https://i.pinimg.com/736x/38/dd/9c/38dd9c7c695ae21c6e94d297f064a9e0--transformers-toys-original-transformers.jpg">
+
+## I Love you SARTU/ NORMANiE/ SARTUZULAH/ NiJA/ SAUTUZEE
 <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/134722147_1826648854163430_4677603596670918485_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=W7KA6qTZYZ8AX8iQTv2&_nc_ht=scontent-lax3-1.xx&oh=00_AT9SoaR5XtwUkFOCSzqVnJR2MEIvpz4g4vw6Q_1JQV371Q&oe=632872E9">
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1197349651&color=%2398a088&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/juniorreidoneblood" title="Junior Reid" target="_blank" style="color: #cccccc; text-decoration: none;">Junior Reid</a> · <a href="https://soundcloud.com/juniorreidoneblood/one-blood" title="One Blood" target="_blank" style="color: #cccccc; text-decoration: none;">One Blood</a></div>
 <hr>
