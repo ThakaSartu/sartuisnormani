@@ -82,7 +82,7 @@ body {
 
 
 .container {
-  width: 90%;
+  width: 80%;
   max-width: $container-max-width;
   margin: 0 auto;
   padding: 0px;
@@ -95,7 +95,7 @@ iframe {
   padding: 0px;
   background-image: url("https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/bd_iFRAME_HOLDiN_iMAGE.jpg");
   border: none;
-  
+  box-shadow: rgba(255, 255, 255, 0.4) 0px 5px, rgba(255, 255, 255, 0.3) 0px 10px, rgba(255, 255, 255, 0.2) 0px 15px, rgba(255, 255, 255, 0.1) 0px 20px, rgba(255, 255, 255, 0.05) 0px 25px;
 }
 
 section {
