@@ -6,7 +6,7 @@
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
 
-
+<img src="http://www.wildstyletechnicians.com/store/graphics/00000001/dripnasty_pullover_hoodie_black_front_450x450.jpg">
 <img src="http://www.wildstyletechnicians.com/store/graphics/00000001/drip_nasty_girl_tee_front_1080px_450x450.jpg">
 <img src="http://www.wildstyletechnicians.com/store/graphics/00000001/dress_hoodie_front_800px_450x450.jpg">
 <img src="http://www.wildstyletechnicians.com/store/graphics/00000001/westoptoys_girl_tee_front_800px_450x450.jpg">
