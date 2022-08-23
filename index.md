@@ -5,7 +5,14 @@
 3 # ANOTHER########################################NORMANiE
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
+
 ## i_love_you
+
+
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/0yPE5s2h0XF9Umc6ENEKE8?utm_source=generator" width="100%" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<img src="https://i.scdn.co/image/ab67616d0000b273fff2685a2b38ea13e95632aa">
+<img src="https://i.discogs.com/I0BmPY_aV8lKzMgGYINi_mr38ZWsmvbN5C2lnagdu1U/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzQ5/Njk5LTE1MzM0ODU4/NjktNTk5NS5qcGVn.jpeg">
+
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/643348296&color=%2312bad0&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/bonobo" title="bonobo" target="_blank" style="color: #cccccc; text-decoration: none;">bonobo</a> · <a href="https://soundcloud.com/bonobo/linked" title="Linked" target="_blank" style="color: #cccccc; text-decoration: none;">Linked</a></div>
 <iframe width="100%" height="347" src="https://www.youtube.com/embed/92rYjlxqypM" title="Ingress - It's time to Move." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1305556006&color=%23989c9c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nija-music" title="Nija" target="_blank" style="color: #cccccc; text-decoration: none;">Nija</a> · <a href="https://soundcloud.com/nija-music/love-like-this" title="Love Like This" target="_blank" style="color: #cccccc; text-decoration: none;">Love Like This</a></div>
