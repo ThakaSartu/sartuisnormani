@@ -5,9 +5,12 @@
 3 # ANOTHER########################################NORMANiE
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
-<img src="https://www.americanoceans.org/wp-content/uploads/2021/02/fullsizeoutput_241.jpeg">
+<img src="https://media.istockphoto.com/illustrations/jellyfish-and-sky-swimming-in-blue-seas-illustration-id1390220756?k=20&m=1390220756&s=612x612&w=0&h=KnMVv9Q-nwTj67eootZAvMbLnaGA6M4CA3ATr9DlOFI=">
 
 ## Thanks4Tha MOTiVATiON, iLOVEu
+<iframe width="100%" height="503" src="https://www.youtube.com/embed/B_8b8dCbGCM" title="Nija - Someone Else (Visualizer)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<img src="https://www.americanoceans.org/wp-content/uploads/2021/02/fullsizeoutput_241.jpeg">
+
 <iframe width="100%" height="503" src="https://www.youtube.com/embed/FKXSh14svlQ" title="Normani - Motivation (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <a href="https://youtu.be/DFMEBquxeO8"><img src="https://static.scientificamerican.com/sciam/cache/file/B7E980C5-B182-4A2E-80369F2AC535EB35_source.jpg"></a>
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/289582530?h=3ce3d0d990&color=c9ff23" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
