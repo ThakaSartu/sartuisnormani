@@ -5,6 +5,8 @@
 3 # ANOTHER########################################NORMANiE
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
+<img src="https://www.americanoceans.org/wp-content/uploads/2021/02/fullsizeoutput_241.jpeg">
+
 ## Thanks4Tha MOTiVATiON, iLOVEu
 <iframe width="100%" height="503" src="https://www.youtube.com/embed/FKXSh14svlQ" title="Normani - Motivation (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <a href="https://youtu.be/DFMEBquxeO8"><img src="https://static.scientificamerican.com/sciam/cache/file/B7E980C5-B182-4A2E-80369F2AC535EB35_source.jpg"></a>
