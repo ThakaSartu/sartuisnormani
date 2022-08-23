@@ -6,7 +6,27 @@
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
 
+
 ## i_love_you
+## Dear _Normani Check out this 1999 Classic Start2Finish
+<img src="https://www.sessions.edu/wp-content/uploads/00115.jpg">
+<div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+<a href="https://open.spotify.com/album/1V3QiwyC0orSTlcTlzxX8A?si=kzK0B_t6QhOQdlSg6Ya-3Q"><img src="https://i.discogs.com/zxOb5-9eLN-d7phdCkMYItVvWXMYU4ROaWjh9jtJJX4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODYz/Ni0xMTk0NTMxMzU1/LmpwZWc.jpeg"></a>
+        </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+
+<a href="https://open.spotify.com/album/1V3QiwyC0orSTlcTlzxX8A?si=kzK0B_t6QhOQdlSg6Ya-3Q"><img src="https://www.rapmusicguide.com/amass/images/inventory/12815/Arsonists%20-%20As%20The%20World%20Burns%20rear.jpg"></a>
+         </div>
+    </div>
+  </div>
+</div>
+
+
 
 <img src="https://is2-ssl.mzstatic.com/image/thumb/Music/v4/8d/96/86/8d9686b6-eb49-992a-9628-1d011ac90acc/00077778403050.tif/600x600bf-60.jpg">
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/2jsrgbQzIgoj9Rmcoyh6N2?utm_source=generator" width="100%" height="275" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
