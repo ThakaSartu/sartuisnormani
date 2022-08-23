@@ -28,7 +28,7 @@
 
 
 
-<img src="https://is2-ssl.mzstatic.com/image/thumb/Music/v4/8d/96/86/8d9686b6-eb49-992a-9628-1d011ac90acc/00077778403050.tif/600x600bf-60.jpg">
+<img src="https://i.discogs.com/JidkKmxn7UGbKqnqLbjMA0nBPm4BFJg31_sBnJVlnVw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTk2/MTItMTQ4OTMzOTgw/Mi04NjA3LmpwZWc.jpeg">
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/2jsrgbQzIgoj9Rmcoyh6N2?utm_source=generator" width="100%" height="275" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <img src="https://images.roughtrade.com/product/images/files/000/176/884/original/A_Caddy_For_Daddy.jpg">
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/1YhqCshhUkaBZvRA1l1tcS?utm_source=generator" width="100%" height="250" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
