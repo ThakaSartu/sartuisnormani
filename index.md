@@ -9,7 +9,7 @@
 ## i_love_you
 <h1><em>FREEFORM</em></h1>
 <img src="https://i.discogs.com/mX5E1OER7L0tZkW5IfGHO0TUw3nWypaokc2uarsefVo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTA5/MjItMTI3MjM3Mzk5/My5qcGVn.jpeg">
-<iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/490Ui9cZvDXuv9bRf5mdB4?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/490Ui9cZvDXuv9bRf5mdB4?utm_source=generator" width="100%" height="300" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/0yPE5s2h0XF9Umc6ENEKE8?utm_source=generator" width="100%" height="300" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <img src="https://i.scdn.co/image/ab67616d0000b273fff2685a2b38ea13e95632aa">
 <img src="https://i.discogs.com/I0BmPY_aV8lKzMgGYINi_mr38ZWsmvbN5C2lnagdu1U/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzQ5/Njk5LTE1MzM0ODU4/NjktNTk5NS5qcGVn.jpeg">
