@@ -9,7 +9,6 @@
 
 ## i_love_you
 ## Dear _Normani Check out this 1999 Classic Start2Finish
-<img src="https://www.sessions.edu/wp-content/uploads/00115.jpg">
 <div class="twoPanelSpread">
   <div class="row">
     <div class="panelColumn">
@@ -25,6 +24,7 @@
     </div>
   </div>
 </div>
+<img src="https://www.sessions.edu/wp-content/uploads/00115.jpg">
 
 
 
