@@ -7,6 +7,8 @@
 {% endhighlight %}
 
 ## i_love_you
+<img src="https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/21/30/6c/21306c7d-1bc6-ce26-97ba-12d862ba59a5/05099972196854.rgb.jpg/1200x1200bf-60.jpg">
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/artist/0NRvpjoS4w3WdVSmkqSXgV?utm_source=generator" width="100%" height="300" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <h1><em>FREEFORM</em></h1>
 <img src="https://i.discogs.com/mX5E1OER7L0tZkW5IfGHO0TUw3nWypaokc2uarsefVo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTA5/MjItMTI3MjM3Mzk5/My5qcGVn.jpeg">
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/490Ui9cZvDXuv9bRf5mdB4?utm_source=generator" width="100%" height="300" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
