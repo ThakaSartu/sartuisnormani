@@ -9,7 +9,7 @@ $body-foreground: $gallery  !default;
 $header: $conifer  !default;
 $blockquote-color: $white  !default;
 $blockquote-border: $conifer  !default;
-$container-max-width: 90%;
+$container-max-width: 80%;
 
 @mixin media-max-width($max-width) {
   @media (max-width: $max-width) {
@@ -255,6 +255,8 @@ p {
   font-style: normal;
   font-variant: normal;
   text-transform: none;
+  box-shadow: rgba(255, 255, 255, 0.4) 0px 5px, rgba(255, 255, 255, 0.3) 0px 10px, rgba(255, 255, 255, 0.2) 0px 15px, rgba(255, 255, 255, 0.1) 0px 20px, rgba(255, 255, 255, 0.05) 0px 25px;
+
 
 }
 
@@ -276,7 +278,8 @@ pre {
   word-wrap: normal;
   overflow: auto;
   overflow-y: hidden;
-  
+  box-shadow: rgba(255, 255, 255, 0.4) 0px 5px, rgba(255, 255, 255, 0.3) 0px 10px, rgba(255, 255, 255, 0.2) 0px 15px, rgba(255, 255, 255, 0.1) 0px 20px, rgba(255, 255, 255, 0.05) 0px 25px;
+
 }
 
 code.highlighter-rouge {
@@ -292,6 +295,8 @@ table {
   width: 100%;
   margin: 0 0 20px 0;
   background: #3500FF;
+  box-shadow: rgba(255, 255, 255, 0.4) 0px 5px, rgba(255, 255, 255, 0.3) 0px 10px, rgba(255, 255, 255, 0.2) 0px 15px, rgba(255, 255, 255, 0.1) 0px 20px, rgba(255, 255, 255, 0.05) 0px 25px;
+
   
 }
 
@@ -359,6 +364,8 @@ a {
 
 a:hover {
   color: #c9ff23;
+  box-shadow: rgba(255, 255, 255, 0.4) 0px 5px, rgba(255, 255, 255, 0.3) 0px 10px, rgba(255, 255, 255, 0.2) 0px 15px, rgba(255, 255, 255, 0.1) 0px 20px, rgba(255, 255, 255, 0.05) 0px 25px;
+
 }
 
 a:visited {
@@ -640,7 +647,8 @@ img {
   margin: 0px;
   width: 100%;
   background-size: cover;
-  
+  box-shadow: rgba(255, 255, 255, 0.4) 0px 5px, rgba(255, 255, 255, 0.3) 0px 10px, rgba(255, 255, 255, 0.2) 0px 15px, rgba(255, 255, 255, 0.1) 0px 20px, rgba(255, 255, 255, 0.05) 0px 25px;
+
 }
 
 /* AUDiO+PLAYER+CSS */
