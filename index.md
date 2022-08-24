@@ -7,6 +7,46 @@
 {% endhighlight %}
 
 
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://freedomofmind.com/releasing-the-bonds/"><img src="https://images-na.ssl-images-amazon.com/images/I/51RMZE5EFZL.jpg" alt="##QUXUBE_CANNOT_PICK_HER_OWN_MAN"> </a>
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://ia800703.us.archive.org/33/items/StevenHassanCombattingCultMindControlThe1BestSellingGuideToProtectionRescueAndRe/Steven%20Hassan-Combatting%20Cult%20Mind%20Control_%20The%20%231%20Best-selling%20Guide%20to%20Protection%2C%20Rescue%2C%20and%20Recovery%20from%20Destructive%20Cults%20%20-Park%20Street%20Press%20%281990%29.pdf"><img src="https://images-na.ssl-images-amazon.com/images/I/71wDrLVtATL.jpg" alt=""> </a>
+         </div>
+    </div>
+  </div>
+</div>
+## Dear Sartu,
+Upon disassociating aka letting the witnesses know I could not represent them publicly anymore after what went down with preemie Coral and "The Blood Issue" as they once called it... I was never a fucked up person. I dont know how you ended up in my life, but hypnotizing me post sex is a cruel reality of maintaining a sexlife when you have been abducted by sex criminals. They put hella mind control on you... Like some of the people that perverted the intentions of the Watchtower's teaching. They did not make people go to bethel to make them gay that was just some people after the religeous hiearchy fell apart. Flesh and blood syndrome, They said they Jesus brothers. I doknt know where to start with that but This book helped me break free of Willie Kelly and Alfredo  and Ron mind control so I can feel free to be me!
+[READ_COMBATTING_CULT_MIND_CONTROL](https://ia800703.us.archive.org/33/items/StevenHassanCombattingCultMindControlThe1BestSellingGuideToProtectionRescueAndRe/Steven%20Hassan-Combatting%20Cult%20Mind%20Control_%20The%20%231%20Best-selling%20Guide%20to%20Protection%2C%20Rescue%2C%20and%20Recovery%20from%20Destructive%20Cults%20%20-Park%20Street%20Press%20%281990%29.pdf)
+<iframe src="https://archive.org/embed/StevenHassanCombattingCultMindControlThe1BestSellingGuideToProtectionRescueAndRe" width="100%" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+## That HollyWood Orgasm cult done got they hands on you I can tell Im miserable
+## Worksheet for
+Steven Hassan | Combating
+Cult Mind Control (Episode
+237 & 238)
+
+The Branch Davidians. The Manson Family. The People’s
+Temple. Boko Haram. ISIS. Al-Qaeda. Heaven’s Gate.
+NXIVM. Scientology. The Unification Church. The
+Children of God. The Rajneesh Movement. What do
+these organizations have in common? They’re all
+destructive cults that have employed mind control,
+brainwashing, parental alienation, estrangement,
+unethical hypnosis, abusive relationships, human
+trafficking, multi-level marketing, violent extremism, and
+other forms of undue influence to recruit, subvert, and
+dominate their members...[READ_MORE](https://www.jordanharbinger.com/wp-content/uploads/2019/08/Worksheet-for-Steven-Hassan-Combating-Cult-Mind-Control-Episode-237-238.pdf)
+
+
+
+
 ## WHERE_iS_EVERYONE??
 ## WHO_SAFE_WHO_NOT?!
 
