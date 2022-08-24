@@ -5,6 +5,16 @@
 3 # ANOTHER########################################NORMANiE
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
+
+## Dear Sartu,
+I started a playlist on codepen.io that documents the orgins of our sound at the studio! You can find dance history and everything. You are from Africa, but keep in mind most ATLiens are not native and might not have the understanding the and the ##COHABiTATiON_SiX of ##EAST_ATLANTA have from living with me...[ClickHere](https://codepen.io/thakarashard/pen/LYdJOjz). Its a nice Ui/UX excercise. Its my leanest layout... TheNoodleIncident had some great code I was able to implement. I can picture it working well with ANDROiD_TV because it is SUPA_RESPONSiVE
+<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="LYdJOjz" data-editable="true" data-user="thakarashard" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/thakarashard/pen/LYdJOjz">
+  BLOG LAYOUT BLUE_ROBOT Centering: Auto-width Margins##LAYOUT</a> by ThakaRashard (<a href="https://codepen.io/thakarashard">@thakarashard</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/gar0Rv8G3-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="504" src="https://www.youtube.com/embed/u4gzwTgXrvk" title="WELCOME TO HELL: The History and Influence of MEMPHIS RAP (2018 Documentary)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="503" src="https://www.youtube.com/embed/jUIrolORx6M" title="Saweetie - Tap In [Official Music Video]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
