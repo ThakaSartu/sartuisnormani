@@ -6,6 +6,10 @@
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
 
+
+## WHERE_iS_EVERYONE
+## WHO_SAFE_WHO_NOT?!
+<iframe width="100%" height="411" src="https://www.youtube.com/embed/Of7YqEAbpPc" title=""DONK"/ Soulja Boy/ Official Class Choreography By Jeremy Green" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <img src="https://www.graffiti.org/la/vox_dogtown.jpg">
 <img src="https://www.graffiti.org/la/cbs_los_angeles.jpg">
 <img src="https://www.graffiti.org/la/sever_los_angeles.jpg">
@@ -20,7 +24,7 @@ I started a playlist on codepen.io that documents the orgins of our sound at the
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
-
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/ceHeQB_MHIM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/gar0Rv8G3-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="504" src="https://www.youtube.com/embed/u4gzwTgXrvk" title="WELCOME TO HELL: The History and Influence of MEMPHIS RAP (2018 Documentary)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="503" src="https://www.youtube.com/embed/jUIrolORx6M" title="Saweetie - Tap In [Official Music Video]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
