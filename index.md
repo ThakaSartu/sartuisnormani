@@ -6,6 +6,7 @@
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
 
+<img src="https://www.graffiti.org/la/vox_dogtown.jpg">
 <img src="https://www.graffiti.org/la/cbs_los_angeles.jpg">
 <img src="https://www.graffiti.org/la/sever_los_angeles.jpg">
 <img src="https://www.graffiti.org/la/dsyple012.jpg">
