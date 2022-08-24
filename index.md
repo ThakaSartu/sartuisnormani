@@ -6,6 +6,29 @@
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
 
+## DearSartuS
+When I say I worked for GeorgiaPacific, I worked for Koch_Business_Solutions. They bought Georgia Pacific or something and I snagged a role as a storage enngineer once I hit a glass ceiling at the caste system mongreling GeorgiaTech... They had private events for staff... I want cake at your birthday party and simple things like that... It dosent have to become a religeous order like at Koch... They would not share chocholate cake with contractors on the  founders birthday.. But they from Kansas via Germany so they my understand telepathy poisoning, bc that still goes both ways, if the earth is full of telepathic beings then some sort of healthy hearding of peoples thoughts has to be present
+They did not give us chocholate cake but we got this book
+
+[The Science Success: How Market Based Management Built the Worlds Largest Private Company](https://www.goodreads.com/book/show/60286997-the-science-success?from_choice=false&from_home_module=false)
+
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://freedomofmind.com/releasing-the-bonds/"><img src="https://images-na.ssl-images-amazon.com/images/I/518cYbqVe8L.jpg" alt="##QUXUBE_CANNOT_PICK_HER_OWN_MAN"> </a>
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://ia800703.us.archive.org/33/items/StevenHassanCombattingCultMindControlThe1BestSellingGuideToProtectionRescueAndRe/Steven%20Hassan-Combatting%20Cult%20Mind%20Control_%20The%20%231%20Best-selling%20Guide%20to%20Protection%2C%20Rescue%2C%20and%20Recovery%20from%20Destructive%20Cults%20%20-Park%20Street%20Press%20%281990%29.pdf"><img src="https://images-na.ssl-images-amazon.com/images/I/518cYbqVe8L.jpg" alt=""> </a>
+         </div>
+    </div>
+  </div>
+</div>
+
+
 
 <div class='twoPanelSpread'>
   <div class='row'>
