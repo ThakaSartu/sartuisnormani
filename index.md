@@ -5,6 +5,7 @@
 3 # ANOTHER########################################NORMANiE
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
+<iframe width="100%" height="504" src="https://www.youtube.com/embed/u4gzwTgXrvk" title="WELCOME TO HELL: The History and Influence of MEMPHIS RAP (2018 Documentary)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="503" src="https://www.youtube.com/embed/jUIrolORx6M" title="Saweetie - Tap In [Official Music Video]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="503" src="https://www.youtube.com/embed/eAM9diyVRiM" title="Cults - Go Outside" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="671" src="https://www.youtube.com/embed/DMH5WgGFxlc" title="Mission Mind Control (1979)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
