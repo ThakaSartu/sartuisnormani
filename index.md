@@ -23,7 +23,9 @@
 </div>
 ## Dear Sartu,
 Upon disassociating aka letting the witnesses know I could not represent them publicly anymore after what went down with preemie Coral and "The Blood Issue" as they once called it... I was never a fucked up person. I dont know how you ended up in my life, but hypnotizing me post sex is a cruel reality of maintaining a sexlife when you have been abducted by sex criminals. They put hella mind control on you... Like some of the people that perverted the intentions of the Watchtower's teaching. They did not make people go to bethel to make them gay that was just some people after the religeous hiearchy fell apart. Flesh and blood syndrome, They said they Jesus brothers. I doknt know where to start with that but This book helped me break free of Willie Kelly and Alfredo  and Ron mind control so I can feel free to be me!
+
 [READ_COMBATTING_CULT_MIND_CONTROL](https://ia800703.us.archive.org/33/items/StevenHassanCombattingCultMindControlThe1BestSellingGuideToProtectionRescueAndRe/Steven%20Hassan-Combatting%20Cult%20Mind%20Control_%20The%20%231%20Best-selling%20Guide%20to%20Protection%2C%20Rescue%2C%20and%20Recovery%20from%20Destructive%20Cults%20%20-Park%20Street%20Press%20%281990%29.pdf)
+
 <iframe src="https://archive.org/embed/StevenHassanCombattingCultMindControlThe1BestSellingGuideToProtectionRescueAndRe" width="100%" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ## That HollyWood Orgasm cult done got they hands on you I can tell Im miserable
