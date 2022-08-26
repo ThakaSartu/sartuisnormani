@@ -6,15 +6,28 @@
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
 
+
+<img src="https://i.pinimg.com/564x/f2/02/38/f20238ad12bc9fb9a9146e02d4046bab.jpg">
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/2pPGkrEYiHUmqSyg3sAGII?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/6tDDoYIxWvMLTdKpjFkc1B?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ## SMASHiNG_MAGAZiNE TypeFACE_TUTORIAL
+
 [Measuring The Performance Of Typefaces For Users (Part 2)](https://www.smashingmagazine.com/2022/06/measuring-performance-typefaces-users-part2/)
 In this article, we will be discussing ways to test typefaces and other typographic issues. Though this article is slightly high-end and academic, fear not. The content will be interesting, especially for committed typeface designers and typographers. If you like complex issues and problems, this is for you...[READ_MORE](https://www.smashingmagazine.com/2022/06/measuring-performance-typefaces-users-part2)
 [Measuring The Performance Of Typefaces For Users (Part 1)](https://www.smashingmagazine.com/2022/06/measuring-performance-typefaces-users-part1/)
 
 ## Smart Interface Design Checklists
 
-In this article, we will be discussing how typefaces work, ways to test typefaces, and broader typographic issues. Though this article is slightly high-end and academic, fear not. The content will be of interest, especially for committed typeface designers and typographers. If you like complex issues and problems, this is for you. Our focus is on typefaces for reading large amounts of text and information in the most efficient, legible, pleasurable, comprehensible, and effective way possible. For instance, typefaces used for a novel, an academic paper in a journal, or a lengthy online article like this one that uses the <a href="https://processtypefoundry.com/fonts/elena">Elena</a> typeface, that you are reading now on this webpage. The questions that we will explore are:</p><ul><li>How well do typefaces for extended reading actually work?</li><li>How well does a typeface work and perform against another similar typeface?</li><li>How would we test to see if there is any difference between a good sans serif and a serif typeface with users?</li><li>What would the world’s most ideal, best practice and design research-driven highly legible serif, sans serif, and slab serif possibly be like? What characteristics and themes would be most advisable, and do we need a central public list of aspects and features?</li><li>There is both the aesthetic and functional aspect to a typeface, but what is the functional aspect, and how can it be investigated and measured?</li><li>How good is a new typeface, and how good is it compared to a similar typeface designed in previous years?</li></ul><p>Should typefaces be measured? There is no simple answer. The short answer: yes. The long answer: it is a difficult and imprecise task. We will discuss the pros and the cons, and I will show you what things are involved and how we could go about doing it.</p>
+In this article, we will be discussing how typefaces work, ways to test typefaces, and broader typographic issues. Though this article is slightly high-end and academic, fear not. The content will be of interest, especially for committed typeface designers and typographers. If you like complex issues and problems, this is for you. Our focus is on typefaces for reading large amounts of text and information in the most efficient, legible, pleasurable, comprehensible, and effective way possible. For instance, typefaces used for a novel, an academic paper in a journal, or a lengthy online article like this one that uses the <a href="https://processtypefoundry.com/fonts/elena">Elena</a> typeface, that you are reading now on this webpage. The questions that we will explore are:
+<ul>
+<li>How well do typefaces for extended reading actually work?</li>
+<li>How well does a typeface work and perform against another similar typeface?</li>
+<li>How would we test to see if there is any difference between a good sans serif and a serif typeface with users?</li>
+<li>What would the world’s most ideal, best practice and design research-driven highly legible serif, sans serif, and slab serif possibly be like? What characteristics and themes would be most advisable, and do we need a central public list of aspects and features?</li>
+<li>There is both the aesthetic and functional aspect to a typeface, but what is the functional aspect, and how can it be investigated and measured?</li>
+<li>How good is a new typeface, and how good is it compared to a similar typeface designed in previous years?</li>
+</ul>
+<p>Should typefaces be measured? There is no simple answer. The short answer: yes. The long answer: it is a difficult and imprecise task. We will discuss the pros and the cons, and I will show you what things are involved and how we could go about doing it.</p>
 
 [All Your Visual Media, One Powerful Platform](https://imgix.com)
 [Powerful Image Optimization Tools](https://www.smashingmagazine.com/2022/07/powerful-image-optimization-tools/)
