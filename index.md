@@ -6,8 +6,18 @@
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
 
+<iframe width="100%" height="350" src="https://www.youtube.com/embed/Ykwi_qoZ_Fo" title="Marriage Is a Partnership (1951)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/4Uv65Xq0mnBeR3JNc0e7I0?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/show/6hwcb3STfMBQkF1tVjASGw?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/Ykwi_qoZ_Fo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/1gTV4REZ5QdCNuCeDkswr5?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/5i3lYkjBeJdbdNY383bJ1f?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/0OMmiWMwsCNtpQ5aP6fdp9?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/21fXrzSxu2y51Yqf57QycI?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/2oMXvopfDLGmXaUK0LkkEy?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <img src="https://images.squarespace-cdn.com/content/5d275a9d176d030001f306ed/7d5c854a-3aea-4697-b73a-1fcbd723e60a/eric02.jpeg">
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/3RMiXi4LMRbTmhlwNGibRj?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
