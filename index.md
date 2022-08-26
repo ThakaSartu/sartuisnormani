@@ -7,6 +7,9 @@
 {% endhighlight %}
 
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/1WnqWQcWcuQbVzgE7ecfCY?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<a href=""><img src="https://media.pitchfork.com/photos/5a09ff5c5ba42932513caa25/master/pass/CyHi%20the%20Prynce_No%20Dope%20On%20Sundays.jpg"></a>
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/79yQxmlPsMM41NH3AiVSNK?utm_source=generator" width="100%" height="290" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 
 ## DearSartuS
 When I say I worked for GeorgiaPacific, I worked for Koch_Business_Solutions. They bought Georgia Pacific or something and I snagged a role as a storage enngineer once I hit a glass ceiling at the caste system mongreling GeorgiaTech... They had private events for staff... I want cake at your birthday party and simple things like that... It dosent have to become a religeous order like at Koch... They would not share chocholate cake with contractors on the  founders birthday.. But they from Kansas via Germany so they my understand telepathy poisoning, bc that still goes both ways, if the earth is full of telepathic beings then some sort of healthy hearding of peoples thoughts has to be present
