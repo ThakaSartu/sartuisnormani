@@ -26,6 +26,20 @@
   </div>
 </div>
 
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+       <a href="https://soundcloud.com/21savage/9-motorcycle-ft-dreezy-prodby-zaytoven?si=1f9f3f8021e74849888db1f99484eb9a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" alt="AMERiCA_IS_DYING_SLOWY_TO_PROSTITUTION"><img src="https://cdn.shopify.com/s/files/1/2264/7553/products/Ultraverse_Model_WMS_1024x1024@2x.jpg" ></a>
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+       <a href="https://soundcloud.com/21savage/9-motorcycle-ft-dreezy-prodby-zaytoven?si=1f9f3f8021e74849888db1f99484eb9a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" alt="AMERiCA_IS_DYING_SLOWY_TO_PROSTITUTION"><img src="https://cdn.shopify.com/s/files/1/2264/7553/products/super_Symm_Womens_1024x1024@2x.jpg" ></a>
+      </div>
+    </div>
+  </div>
+</div>
 
 
 <div class='twoPanelSpread'>
