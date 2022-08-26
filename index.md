@@ -15,12 +15,12 @@
   <div class='row'>
     <div class='panelColumn'>
       <div class='leftColumn'>
-       <a href="https://soundcloud.com/dreezydreezy/we-gon-ride?si=fd7f971072af43ef95feeb9907169c4b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" alt="AMERiCA_IS_DYING_SLOWY_TO_PROSTITUTION"><img src="https://d2or613lp2h38m.cloudfront.net/assets/boneswheels/productimage/size/1500x1467/method/strict/v/5a7a/WSCAEDTH5299X4.jpg" ></a>
+       <a href="https://soundcloud.com/hitmaka-music/thot-box-remix-feat-young-ma?si=ba1c3a4f46f2472ba2206c1369a7260b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" alt="AMERiCA_IS_DYING_SLOWY_TO_PROSTITUTION"><img src="https://images.footlocker.com/is/image/EBFL2/H0224100_a1?wid=2000&hei=2000&fmt=png-alpha" ></a>
       </div>
     </div>
     <div class='panelColumn'>
       <div class='rightColumn'>
-       <a href="https://soundcloud.com/dreezydreezy/we-gon-ride?si=fd7f971072af43ef95feeb9907169c4b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" alt="AMERiCA_IS_DYING_SLOWY_TO_PROSTITUTION"><img src="https://d2or613lp2h38m.cloudfront.net/assets/boneswheels/productimage/size/524x524/method/padding/v/065a/WPCALA0085803W4.jpg" ></a>
+       <a href="https://soundcloud.com/hitmaka-music/thot-box-remix-feat-young-ma?si=ba1c3a4f46f2472ba2206c1369a7260b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" alt="AMERiCA_IS_DYING_SLOWY_TO_PROSTITUTION"><img src="https://images.footlocker.com/is/image/EBFL2/H0224100_a1?wid=2000&hei=2000&fmt=png-alpha" ></a>
       </div>
     </div>
   </div>
