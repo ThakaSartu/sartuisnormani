@@ -5,6 +5,11 @@
 3 # ANOTHER########################################NORMANiE
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
+
+<iframe src="https://open.spotify.com/embed?uri=spotify%3Atrack%3A3lecA86POu0jRaFIubASoT" width="100%" height="80" frameborder="0" style="border-radius: 0px;"allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/yzG0cNsmR6o" title="BREAKING: Kash Doll Just Hit Up For 500K In Los Angeles!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/W0uqdyMns9M" title="Popeye The Sailor Man - Meets Alibaba's Forty Thieves | Best Episodes Collection | English Cartoon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [A Guide To Attracting Clients To Your Agency](https://www.smashingmagazine.com/2021/07/guide-attracting-clients-agency/)
 
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/1R28m5eWk1EV9FQ3puWrUp?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
