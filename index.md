@@ -6,7 +6,7 @@
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
 
-
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/6tDDoYIxWvMLTdKpjFkc1B?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ## SMASHiNG_MAGAZiNE TypeFACE_TUTORIAL
 [Measuring The Performance Of Typefaces For Users (Part 2)](https://www.smashingmagazine.com/2022/06/measuring-performance-typefaces-users-part2/)
 In this article, we will be discussing ways to test typefaces and other typographic issues. Though this article is slightly high-end and academic, fear not. The content will be interesting, especially for committed typeface designers and typographers. If you like complex issues and problems, this is for you...[READ_MORE](https://www.smashingmagazine.com/2022/06/measuring-performance-typefaces-users-part2)
