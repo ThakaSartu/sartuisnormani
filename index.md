@@ -6,6 +6,8 @@
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
 
+<img src="https://www.versace.com/on/demandware.static/-/Library-Sites-ver-shared-trans/default/dw8c6b9cb8/images/homepage/hp-pre-fall-22-19082022-desk.jpg">
+
 [SARTUS_LOOK_AT_THIS_SCARF](https://www.hermes.com/us/en/product/les-mustangs-bandana-55-H043941Sv13/)
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/887637964&color=%234c3c34&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/kurtis-blow-official" title="Kurtis Blow" target="_blank" style="color: #cccccc; text-decoration: none;">Kurtis Blow</a> · <a href="https://soundcloud.com/kurtis-blow-official/if-i-ruled-the-world-vocal" title="If I Ruled The World (Vocal Version) [feat. Alyson Williams &amp; Sheila E]" target="_blank" style="color: #cccccc; text-decoration: none;">If I Ruled The World (Vocal Version) [feat. Alyson Williams &amp; Sheila E]</a></div>
 
