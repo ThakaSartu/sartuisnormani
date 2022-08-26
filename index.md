@@ -6,7 +6,8 @@
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
 
-
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/5PA7U5YX0GTNfweWUhga8n?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/778072447&color=%23a04c5c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; "><a href="https://soundcloud.com/user-729893354" title="The Wine Up Podcast" target="_blank" style="color: #cccccc; text-decoration: none;">The Wine Up Podcast</a> · <a href="https://soundcloud.com/user-729893354/corona-bae" title="Corona Bae" target="_blank" style="color: #cccccc; text-decoration: none;">Corona Bae</a></div>
 <img src="https://i.pinimg.com/564x/f2/02/38/f20238ad12bc9fb9a9146e02d4046bab.jpg">
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/2pPGkrEYiHUmqSyg3sAGII?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/6tDDoYIxWvMLTdKpjFkc1B?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
