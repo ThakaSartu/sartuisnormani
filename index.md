@@ -6,6 +6,19 @@
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
 
+  [UNKLE - Psyence Fiction (full album)](https://www.youtube.com/watch?v=ojYI5XUlMV0) [UNKLE - Psyence Fiction (full album)](https://www.youtube.com/watch?v=ojYI5XUlMV0)
+
+  ## SUBURBAN_WIFEY_NiGHTMARE
+  [KASHDOLL ROBBED IN LA!!!](https://www.youtube.com/watch?v=6s4slL3_jtI)
+  # Dear_HAYAT
+  ## Sartu_got_robbed
+  <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/sort/Screenshot%202022-08-01%202.30.18%20AM.png">
+
+  [Please watch this video, you can feel her terror.](https://www.youtube.com/watch?v=6s4slL3_jtI) As we both know her parents were murdered during that 80s criminal ass regime in [Dire-Dawa](https://en.wikipedia.org/wiki/Dire_Dawa), earlier this week on the phone she left me inspired to look at the [RealEstate_iN_DiRE_DAWA](https://jiji.com.et/houses-apartments-for-sale). And I feel so helpless shes raped and sodomized to the point I often dont recognize her and Im going mad with lonelyness. As you know we are well known in Alpharetta, Hollywood and Venice's telepath communites as a fully telekinetic Tantric couple thats separated by prostitution. People in hollywood think because she is posted on the internet shes not kidnapped. I work for JPL still and I was taken away from my job because all my women got kidnapped. Including Muna, that derlic ass Cracker SEVER_MSK has ruined her, she is so fucking whitewashed and the children get no contact with me they have all caught so much BLACK_ENTERTAiNMENT_NETWORK_DiCK they dont look the same after all the molestation. Can you talk to DAnielle_Mushonga for us DPSS_iS_CLEARLY_HUMAN_TRAFFiCKiNG_WiTH_DFACS
+  [Please watch this video, you can feel her terror.](https://www.youtube.com/watch?v=6s4slL3_jtI)
+  <img src="https://images.genius.com/a41ee0150f3ce869e2b2546dc569e23c.1000x333x1.jpg">
+  <iframe width="100%" height="315" src="https://www.youtube.com/embed/Libbd7BCBHE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
 [Cacti monitors the performance and usage of devices.](https://nsrc.org/workshops/2020/ekiti-connect/netmgmt/en/cacti/cacti-from-packages.pdf)
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/4B46jgctIznhcRENWp1FE8?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/4aPTrOPzmdOF2Qmhhcr07p?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -3095,18 +3108,7 @@ I hope they handled the pit... You have a dead child by this story, and she simp
     </div>
   </div>
 
-  [UNKLE - Psyence Fiction (full album)](https://www.youtube.com/watch?v=ojYI5XUlMV0) [UNKLE - Psyence Fiction (full album)](https://www.youtube.com/watch?v=ojYI5XUlMV0)
 
-  ## SUBURBAN_WIFEY_NiGHTMARE
-  [KASHDOLL ROBBED IN LA!!!](https://www.youtube.com/watch?v=6s4slL3_jtI)
-  # Dear_HAYAT
-  ## Sartu_got_robbed
-  <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/sort/Screenshot%202022-08-01%202.30.18%20AM.png">
-
-  [Please watch this video, you can feel her terror.](https://www.youtube.com/watch?v=6s4slL3_jtI) As we both know her parents were murdered during that 80s criminal ass regime in [Dire-Dawa](https://en.wikipedia.org/wiki/Dire_Dawa), earlier this week on the phone she left me inspired to look at the [RealEstate_iN_DiRE_DAWA](https://jiji.com.et/houses-apartments-for-sale). And I feel so helpless shes raped and sodomized to the point I often dont recognize her and Im going mad with lonelyness. As you know we are well known in Alpharetta, Hollywood and Venice's telepath communites as a fully telekinetic Tantric couple thats separated by prostitution. People in hollywood think because she is posted on the internet shes not kidnapped. I work for JPL still and I was taken away from my job because all my women got kidnapped. Including Muna, that derlic ass Cracker SEVER_MSK has ruined her, she is so fucking whitewashed and the children get no contact with me they have all caught so much BLACK_ENTERTAiNMENT_NETWORK_DiCK they dont look the same after all the molestation. Can you talk to DAnielle_Mushonga for us DPSS_iS_CLEARLY_HUMAN_TRAFFiCKiNG_WiTH_DFACS
-  [Please watch this video, you can feel her terror.](https://www.youtube.com/watch?v=6s4slL3_jtI)
-  <img src="https://images.genius.com/a41ee0150f3ce869e2b2546dc569e23c.1000x333x1.jpg">
-  <iframe width="100%" height="315" src="https://www.youtube.com/embed/Libbd7BCBHE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
   <div class='twoPanelSpread'>
     <div class='row'>
