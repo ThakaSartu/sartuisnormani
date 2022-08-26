@@ -11,6 +11,8 @@ How do you feel whe you have to say things for the poorly_bootstrapedGOSSiPHOP_m
 
 <iframe width="100%" height="350" src="https://www.youtube.com/embed/DlZIZGYO8IA" title="Kash Doll Shares Intimate Details w/ TT Torrez About Her Life as a Stripper & Passing of Her Father" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Kash Doll Argues w/ Nick Cannon over Monogomy & Talks "Ready Set" Ft. Big Sean
+<iframe width="100%" height="350" src="https://www.youtube.com/embed/sFc1R8lYEYA" title="Kash Doll Argues w/ Nick Cannon over Monogomy & Talks "Ready Set" Ft. Big Sean" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe src="https://open.spotify.com/embed?uri=spotify%3Atrack%3A3lecA86POu0jRaFIubASoT" width="100%" height="80" frameborder="0" style="border-radius: 0px;"allowtransparency="true" allow="encrypted-media"></iframe>
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/yzG0cNsmR6o" title="BREAKING: Kash Doll Just Hit Up For 500K In Los Angeles!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/W0uqdyMns9M" title="Popeye The Sailor Man - Meets Alibaba's Forty Thieves | Best Episodes Collection | English Cartoon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
