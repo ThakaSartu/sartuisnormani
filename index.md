@@ -5,6 +5,7 @@
 3 # ANOTHER########################################NORMANiE
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
+<img src="https://images.footlocker.com/is/image/EBFL2/WLSB1663_om1?wid=2000&hei=2000&fmt=png-alpha">
 <img src="https://d2or613lp2h38m.cloudfront.net/media/wysiwyg/boneswheels/home/2022/Bones_Reyes_Crimson-Sweet_1280x720_opt.jpg">
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/2U5c6C6A3yg6rGUpnhwHfc?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/4ACru9MPI6lgmRg7lbMPoK?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
