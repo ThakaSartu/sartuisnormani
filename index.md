@@ -6,6 +6,21 @@
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
 
+<img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/transparent/png-transparent-overwatch-d-va-anime-drawing-anime-thumbnail.png">
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/K9HtSXwB1Fw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Bob Marley & The Wailers The Complete Wailers 1967 72 LP](https://www.youtube.com/watch?v=lhxzwvR6Mpo)
+
+[https://kodansha.us/series/initial-d/](https://kodansha.us/series/initial-d/)
+
+[THE SECRET OF SELLING THE NEGRO (1954)](https://www.youtube.com/watch?v=E8PBrhFN35c)
+[How Smartphones Change The Way You Think | Jeff Butler | TEDxHilliard](https://www.youtube.com/watch?v=pWvSwX-jq7o&t=315s)
+[Learning to look up again – controlling your smartphone addiction | Ross Sleight | TEDxLeamingtonSpa](https://www.youtube.com/watch?v=m1_QlV6XCNs)
+[From smartphone addiction to human connection | Ritzo ten Cate | TEDxBredaFrom smartphone addiction to human connection | Ritzo ten Cate | TEDxBreda](https://www.youtube.com/watch?v=B-sJ3vJxBiY)
+[Chappelle's Show - The Niggar Family - Uncensored](https://www.youtube.com/watch?v=hLOw_SzkRQ8)
+[Chappelle's Show - Charlie Murphy's True Hollywood Stories - Rick James Pt. 1 - Uncensored](https://www.youtube.com/watch?v=ZdVAH8Z5O90)
+[Chappelle's Show - The Wayne Brady Show - Uncensored](https://www.youtube.com/watch?v=X-zSJljpKNc)
 
 <img src="https://i.discogs.com/NYONv2tIFfJic7c9aVtZ5SHgKLX0CpaAfOnFs9J9rsQ/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDMz/NDgtMTUyNDk5MTAy/MS0yMTI5LmpwZWc.jpeg">
 
@@ -62,9 +77,9 @@
         </div>
       </div>
     </div>
-
-<img src="https://images.footlocker.com/is/image/EBFL2/GX5785_a1?wid=2000&hei=2000&fmt=png-alpha">
 <img src="https://images.footlocker.com/is/image/EBFL2/WLSB1663_om1?wid=2000&hei=2000&fmt=png-alpha">
+<img src="https://images.footlocker.com/is/image/EBFL2/GX5785_a1?wid=2000&hei=2000&fmt=png-alpha">
+
 <img style="float:right; width:100%; height:100%;" alt="Girl in a jacket" src="https://upload.wikimedia.org/wikipedia/commons/0/03/Emoji_u1f4af.svg">
 <img src="https://d2or613lp2h38m.cloudfront.net/media/wysiwyg/boneswheels/home/2022/Bones_Reyes_Crimson-Sweet_1280x720_opt.jpg">
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/2U5c6C6A3yg6rGUpnhwHfc?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
