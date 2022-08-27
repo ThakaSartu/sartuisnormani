@@ -6,7 +6,12 @@
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
 
+
+<img src="https://i.discogs.com/NYONv2tIFfJic7c9aVtZ5SHgKLX0CpaAfOnFs9J9rsQ/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDMz/NDgtMTUyNDk5MTAy/MS0yMTI5LmpwZWc.jpeg">
+
+[BOB MARLEY and THE WAILERS - Soul Rebels LP 1970 Full Album](https://www.youtube.com/watch?v=w967mz2v_BY)
 [Quit social media | Dr. Cal Newport | TEDxTysons](https://www.youtube.com/watch?v=3E7hkPZ-HTk)
+[Learning to look up again – controlling your smartphone addiction | Ross Sleight | TEDxLeamingtonSpa](https://www.youtube.com/watch?v=m1_QlV6XCNs)
 
 <img src="https://media.npr.org/assets/img/2020/11/13/outkastb-wflag_wide-265a1c04bb72a827735695a8503f585f246ffe14-s800-c85.webp">
 
