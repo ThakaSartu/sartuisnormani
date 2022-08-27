@@ -14,24 +14,9 @@
 [OutKast's 'Stankonia' Threw Us To The Wilderness
 Three Southern rap experts revisit the 20-year-old classic](https://www.npr.org/2020/11/18/934594401/outkast-stankonia-threw-us-to-the-wilderness)
 
-<img style="float:right; width:100%; height:100%;" alt="Girl in a jacket" src="https://upload.wikimedia.org/wikipedia/commons/0/03/Emoji_u1f4af.svg">
 
 
-<div class='twoPanelSpread'>
-  <div class='row'>
-    <div class='panelColumn'>
-      <div class='leftColumn'>
-        <img src="https://mirkoreisser.de/wp-admin/admin-ajax.php?action=kernel&p=image&src=WyJ3cC1jb250ZW50XC91cGxvYWRzXC8yMDE5XC8xMFwvTWlya28tUmVpc3Nlci1EQUlNX0ZpbmVBcnQtUHJpbnRzX21yZjMxNzU2LTY0OS5qcGciLFtbInR5cGUiLFsid2VicCIsIjg1Il1dXV0%3D&hash=41e376ca3b4a1a3be4163f0ca652ae78" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
-      </div>
-    </div>
-    <div class='panelColumn'>
-      <div class='rightColumn'>
- <img src="https://mirkoreisser.de/wp-admin/admin-ajax.php?action=kernel&p=image&src=WyJ3cC1jb250ZW50XC91cGxvYWRzXC8yMDE5XC8xMFwvTWlya28tUmVpc3Nlci1EQUlNX0ZpbmVBcnQtUHJpbnRzX21yZjMxNzU2LTY0OS5qcGciLFtbInR5cGUiLFsid2VicCIsIjg1Il1dXV0%3D&hash=41e376ca3b4a1a3be4163f0ca652ae78" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
-      </div>
-    </div>
-  </div>
-</div>
-</div>
+
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
@@ -75,6 +60,7 @@ Three Southern rap experts revisit the 20-year-old classic](https://www.npr.org/
 
 <img src="https://images.footlocker.com/is/image/EBFL2/GX5785_a1?wid=2000&hei=2000&fmt=png-alpha">
 <img src="https://images.footlocker.com/is/image/EBFL2/WLSB1663_om1?wid=2000&hei=2000&fmt=png-alpha">
+<img style="float:right; width:100%; height:100%;" alt="Girl in a jacket" src="https://upload.wikimedia.org/wikipedia/commons/0/03/Emoji_u1f4af.svg">
 <img src="https://d2or613lp2h38m.cloudfront.net/media/wysiwyg/boneswheels/home/2022/Bones_Reyes_Crimson-Sweet_1280x720_opt.jpg">
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/2U5c6C6A3yg6rGUpnhwHfc?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/4ACru9MPI6lgmRg7lbMPoK?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
