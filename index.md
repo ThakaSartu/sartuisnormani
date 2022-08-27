@@ -6,6 +6,21 @@
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
 
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/4ACru9MPI6lgmRg7lbMPoK?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/74eqYps27z6op00sAe9Nqq?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<div class="sixpanel">
+
+  <div class="item1"> <img src="https://www.ladygunn.com/wp-content/uploads/2022/03/FINAL-LADYGUNN_MUNI_COVER_MARCH.png" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+  <div class="item2"> <img src="https://www.ladygunn.com/wp-content/uploads/2022/03/FINAL-LADYGUNN_MUNI_COVER_MARCH.png" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+  <div class="item3"> <img src="https://www.ladygunn.com/wp-content/uploads/2022/03/FINAL-LADYGUNN_MUNI_COVER_MARCH.png" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+
+  <div class="item1"> <img src="https://www.ladygunn.com/wp-content/uploads/2022/03/FINAL-LADYGUNN_MUNI_COVER_MARCH.png" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+  <div class="item2"> <img src="https://www.ladygunn.com/wp-content/uploads/2022/03/FINAL-LADYGUNN_MUNI_COVER_MARCH.png" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+  <div class="item3"> <img src="https://www.ladygunn.com/wp-content/uploads/2022/03/FINAL-LADYGUNN_MUNI_COVER_MARCH.png" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+</div>
+<img src="https://cdn.shopify.com/s/files/1/2264/7553/products/Shopify_Create_MODEL_1024x1024@2x.jpg?v=1560031674">
+<img src="https://images.footlocker.com/is/image/EBFL2/H0224100_a1?wid=2000&hei=2000&fmt=png-alpha">
 <img src="https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/8b/fd/47/8bfd476e-5572-0816-8ebc-744c8aea0dc2/34_LNT_Bonobo_4500Px.jpg/600x600bf-60.jpg">
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/75mOIzgjMsFLN5hyQlpsy8?utm_source=generator" width="100%" height="300" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
  
@@ -224,6 +239,7 @@ They did not give us chocholate cake but we got this book
     </div>
   </div>
 </div>
+
 ## Dear Sartu,
 Upon disassociating aka letting the witnesses know I could not represent them publicly anymore after what went down with preemie Coral and "The Blood Issue" as they once called it... I was never a fucked up person. I dont know how you ended up in my life, but hypnotizing me post sex is a cruel reality of maintaining a sexlife when you have been abducted by sex criminals. They put hella mind control on you... Like some of the people that perverted the intentions of the Watchtower's teaching. They did not make people go to bethel to make them gay that was just some people after the religeous hiearchy fell apart. Flesh and blood syndrome, They said they Jesus brothers. I doknt know where to start with that but This book helped me break free of Willie Kelly and Alfredo  and Ron mind control so I can feel free to be me!
 
@@ -607,16 +623,7 @@ Kash Doll isn’t the only celebrity going through a robbery. As we previously r
 
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1322630917&color=%236c6c6c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/megan-thee-stallion" title="Megan Thee Stallion" target="_blank" style="color: #cccccc; text-decoration: none;">Megan Thee Stallion</a> · <a href="https://soundcloud.com/megan-thee-stallion/ungrateful-feat-key-glock" title="Ungrateful (feat. Key Glock)" target="_blank" style="color: #cccccc; text-decoration: none;">Ungrateful (feat. Key Glock)</a></div>
-<div class="sixpanel">
 
-  <div class="item1"> <img src="https://www.ladygunn.com/wp-content/uploads/2022/03/FINAL-LADYGUNN_MUNI_COVER_MARCH.png" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
-  <div class="item2"> <img src="https://www.ladygunn.com/wp-content/uploads/2022/03/FINAL-LADYGUNN_MUNI_COVER_MARCH.png" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
-  <div class="item3"> <img src="https://www.ladygunn.com/wp-content/uploads/2022/03/FINAL-LADYGUNN_MUNI_COVER_MARCH.png" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
-
-  <div class="item1"> <img src="https://www.ladygunn.com/wp-content/uploads/2022/03/FINAL-LADYGUNN_MUNI_COVER_MARCH.png" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
-  <div class="item2"> <img src="https://www.ladygunn.com/wp-content/uploads/2022/03/FINAL-LADYGUNN_MUNI_COVER_MARCH.png" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
-  <div class="item3"> <img src="https://www.ladygunn.com/wp-content/uploads/2022/03/FINAL-LADYGUNN_MUNI_COVER_MARCH.png" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
-</div>
 
 
 
