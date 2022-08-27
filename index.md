@@ -6,13 +6,13 @@
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
 
+[Quit social media | Dr. Cal Newport | TEDxTysons](https://www.youtube.com/watch?v=3E7hkPZ-HTk)
 
 <img src="https://media.npr.org/assets/img/2020/11/13/outkastb-wflag_wide-265a1c04bb72a827735695a8503f585f246ffe14-s800-c85.webp">
 
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/2tm3Ht61kqqRZtIYsBjxEj?utm_source=generator" width="100%" height="300" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-[OutKast's 'Stankonia' Threw Us To The Wilderness
-Three Southern rap experts revisit the 20-year-old classic](https://www.npr.org/2020/11/18/934594401/outkast-stankonia-threw-us-to-the-wilderness)
+[OutKast's 'Stankonia' Threw Us To The Wilderness Three Southern rap experts revisit the 20-year-old classic](https://www.npr.org/2020/11/18/934594401/outkast-stankonia-threw-us-to-the-wilderness)
 
 
 
