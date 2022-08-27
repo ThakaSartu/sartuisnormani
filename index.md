@@ -6,6 +6,8 @@
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
 
+<img style="float:right; width:100%; height:100%;" alt="Girl in a jacket" src="https://upload.wikimedia.org/wikipedia/commons/0/03/Emoji_u1f4af.svg">
+
 <div id="row_image">
  <img src="https://mirkoreisser.de/wp-admin/admin-ajax.php?action=kernel&p=image&src=WyJ3cC1jb250ZW50XC91cGxvYWRzXC8yMDE5XC8xMFwvTWlya28tUmVpc3Nlci1EQUlNX0ZpbmVBcnQtUHJpbnRzX21yZjMxNzU2LTY0OS5qcGciLFtbInR5cGUiLFsid2VicCIsIjg1Il1dXV0%3D&hash=41e376ca3b4a1a3be4163f0ca652ae78" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
  <img src="https://mirkoreisser.de/wp-admin/admin-ajax.php?action=kernel&p=image&src=WyJ3cC1jb250ZW50XC91cGxvYWRzXC8yMDE5XC8xMFwvTWlya28tUmVpc3Nlci1EQUlNX0ZpbmVBcnQtUHJpbnRzX21yZjMxNzU2LTY0OS5qcGciLFtbInR5cGUiLFsid2VicCIsIjg1Il1dXV0%3D&hash=41e376ca3b4a1a3be4163f0ca652ae78" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
