@@ -6,6 +6,14 @@
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
 
+
+
+<div class="flex3BorderedPaddedROW">
+<div class="item1">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/DEAR_SARTU_IM_READY_FOR_FALL_FEELINGS.gif" /></div>
+<div class="item2">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/DEAR_SARTU_IM_READY_FOR_FALL_FEELINGS.gif" /></div>
+<div class="item3">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/DEAR_SARTU_IM_READY_FOR_FALL_FEELINGS.gif" /></div>
+</div>
+
 <div class='twoPanelSpread'>
       <div class='row'>
         <div class='panelColumn'>
@@ -20,6 +28,7 @@
         </div>
       </div>
     </div>
+
 <img src="https://images.footlocker.com/is/image/EBFL2/GX5785_a1?wid=2000&hei=2000&fmt=png-alpha">
 <img src="https://images.footlocker.com/is/image/EBFL2/WLSB1663_om1?wid=2000&hei=2000&fmt=png-alpha">
 <img src="https://d2or613lp2h38m.cloudfront.net/media/wysiwyg/boneswheels/home/2022/Bones_Reyes_Crimson-Sweet_1280x720_opt.jpg">
