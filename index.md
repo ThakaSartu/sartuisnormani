@@ -5,6 +5,21 @@
 3 # ANOTHER########################################NORMANiE
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
+
+<div class='twoPanelSpread'>
+      <div class='row'>
+        <div class='panelColumn'>
+          <div class='leftColumn'>
+            <a href="https://soundcloud.com/goomar-2/apollo-brown-feat-oc-trophies-full-album?si=2062cadbf8d74df8886da837d2744729&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/sartu_melisza_workout1.jpg"> </a>
+            </div>
+        </div>
+        <div class='panelColumn'>
+          <div class='rightColumn'>
+            <a href="https://soundcloud.com/goomar-2/apollo-brown-feat-oc-trophies-full-album?si=2062cadbf8d74df8886da837d2744729&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/sartu_melisza_workout.jpg"> </a>
+             </div>
+        </div>
+      </div>
+    </div>
 <img src="https://images.footlocker.com/is/image/EBFL2/GX5785_a1?wid=2000&hei=2000&fmt=png-alpha">
 <img src="https://images.footlocker.com/is/image/EBFL2/WLSB1663_om1?wid=2000&hei=2000&fmt=png-alpha">
 <img src="https://d2or613lp2h38m.cloudfront.net/media/wysiwyg/boneswheels/home/2022/Bones_Reyes_Crimson-Sweet_1280x720_opt.jpg">
