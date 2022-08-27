@@ -6,7 +6,22 @@
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
 
-<img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/transparent/png-transparent-overwatch-d-va-anime-drawing-anime-thumbnail.png">
+<div class='twoPanelSpread'>
+      <div class='row'>
+        <div class='panelColumn'>
+          <div class='leftColumn'>
+            <a href="https://soundcloud.com/emil-rottmayer/mega?si=8a77e1d7e8574b0da577bab017607b22&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/transparent/png-transparent-dragon-balls-san-guko-illustration-goku-dragon-ball-heroes-vegeta-shenron-piccolo-dragon-ball-logo-manga-computer-wallpaper-boy%20(1).png"> </a>
+            </div>
+        </div>
+        <div class='panelColumn'>
+          <div class='rightColumn'>
+            <a href="https://soundcloud.com/emil-rottmayer/mega?si=8a77e1d7e8574b0da577bab017607b22&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/transparent/png-transparent-overwatch-d-va-anime-drawing-anime-thumbnail%20(1)%20(1).png"> </a>
+             </div>
+        </div>
+      </div>
+    </div>
+
+
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/K9HtSXwB1Fw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
