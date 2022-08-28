@@ -6,6 +6,9 @@
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
 
+
+<img src="https://www.basementskate.com.au/blog/wp-content/uploads/2019/08/spitfire-charger-58mm-conical-clear-80a-skateboard-wheels.png">
+<img src="https://www.spitfirewheels.com/formulafour/img/tablets.png">
 <img src="https://images.footlocker.com/is/image/EBFL2/2699118_a3?wid=2000&hei=2000&fmt=png-alpha">
 <img src="https://images.footlocker.com/is/image/EBFL2/GU1770_om1?wid=2000&hei=2000&fmt=png-alpha">
 <img src="https://images.footlocker.com/is/image/EBFL2/X3718100_a3?wid=2000&hei=2000&fmt=png-alpha">
