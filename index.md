@@ -6,6 +6,21 @@
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
 
+<IMG src="https://www.aenigma-images.com/wp-content/uploads/2018/09/mrs-alfred-g-vanderbilt-by-richard-avedon.png">
+<div class='twoPanelSpread'>
+      <div class='row'>
+        <div class='panelColumn'>
+          <div class='leftColumn'>
+            <a href="https://soundcloud.com/emil-rottmayer/mega?si=8a77e1d7e8574b0da577bab017607b22&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://i0.wp.com/ultrawolvesunderthefullmoon.blog/wp-content/uploads/2022/04/Cecil-Beaton-22Baba-Beaton22.jpg"> </a>
+            </div>
+        </div>
+        <div class='panelColumn'>
+          <div class='rightColumn'>
+            <a href="https://soundcloud.com/emil-rottmayer/mega?si=8a77e1d7e8574b0da577bab017607b22&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://i0.wp.com/ultrawolvesunderthefullmoon.blog/wp-content/uploads/2022/04/Cecil-Beaton-22Baba-Beaton22.jpg"> </a>
+             </div>
+        </div>
+      </div>
+    </div>
 
 <img src="https://c8.alamy.com/comp/F4RTN5/italian-actress-anna-maria-moneta-caglio-in-a-scene-from-the-movie-F4RTN5.jpg">
 
