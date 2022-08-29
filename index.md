@@ -5,6 +5,79 @@
 3 # ANOTHER########################################NORMANiE
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
+
+## ATMOSPHEREiK_KNOCK
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/FP8TqtTbXJQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. 
+
+Sentinel of Sound.
+A journey into the world of techno.
+
+Curating the freshest and strongest releases within our community around the world. Genres chosen for this project are to encompass a range of sounds that evoke the feeling of Passion, Confidence, Empowerment and Perseverance . Foundational techno includes techno genres;
+Hard House / Raw / Hard Techno / Deep House / Hypnotic / Peak Time / Driving / House / Progressive House / Progressive Techno
+
+Episode 30 is a large bundle of beats from the ending weeks of July. Freshly packed just for your listening pleasure. This batch is @ 122 Bpm
+
+Lets see what's inside;
+
+Lilla Støv, Julie/Anne - Wolken (Original Mix)
+Emaxx Cost, Mai Schiavi - Chromatic Mornings (Original Mix)
+Patrick Evans - Dysphoria (Kazko Remix)
+Warung - The Nihilist (Extended Mix)
+Scippo - Whales (Original Mix)
+Tinga - Emersione (Original)
+Nikko.Z - Anatole (Sebastian Sellares Remix) CHECK SILENCE AT 45 MINUTES
+Munz (AR) - Lucid Dreams (Original Mix)
+Gorkiz, NUFECTS - Redentor (Original Mix)
+EMPHI - The Box (Original Mix)
+SURFFACE - Modernity (Original Mix)
+Platon (RU) - Neorugenesis (Original Mix)
+Numedian - Balearic Sunset (Original Mix)
+Xspance - Waking Motion (Santiago Rossi Remix)
+Forty Cats - Forest Beast (Berni Turletti Remix)
+Dastan, Mustafa Ismaeel - Luft (Original Mix)
+Tonaco - Setentrional (Original Mix)
+Willman Zavala - Superfly (Original Mix)
+Kabi (AR) - Uncertainty (Original Mix)
+Luis Damora - All Is Heaven (Agustin Pietrocola Remix)
+Forty Cats - Forest Beast (Weird Sounding Dude Remix)
+Willman Zavala - Spirit of Life (Original Mix)
+Cream (PL) - Voyager (Analog Jungs Remix)
+Rafa'EL - Light the Shades (Imran Khan Remix)
+Placebo eFx - Too Far Gone (Extended Mix)
+Capa (Official), Luke Coulson - Let Me Out feat. Luke Coulson (Extended Mix)
+Tinga - Energy Light (Original)
+VOLV (RU) - Goodbye, My Friend (Original Mix)
+MONNER - First Day In Under (Original Mix)
+Ambient Pino - Yes Yes (Space Motion Remix)
+Santiago Luna - Samaya (Original Mix)
+Scippo - Whales (Fabri Lopez Remix)
+Bagback - Tribally (Original mix)
+Seleck - Take Me Down (Dowden Remix)
+Inessa - Cosmic Communicator (Original Mix)
+Pissi - I Think Too Much (Original Mix)
+Tinlicker, Nathan Nicholson - Be Here and Now feat. Nathan Nicholson (Helsloot Extended Mix
+Andrey Kadyshevsky - The Passing Day (Original Mix)
+Willman Zavala - Life Things (Original Mix)
+Oliver Bach - Desert Dreams (Instrumental Mix)
+Axel Zambrano - Malph (Original Mix)
+
+
+______________________________________________________________________
+Music arranged by Reco Wray
+    Instagram - @reco.wray
+    Twitter - @Reco.Wray
+Artwork by John Mchenry
+    Instagram - @j.m.mchenry
+______________________________________________________________________
+!!!!OPEN FOR EVENT BOOKINGS!!!
+       IN PERSON OR ONLINE
+RecoWrayProductions@gmail.com
+______________________________________________________________________
+<hr>
+
+[New York’s LOST Skyscraper - The Rise and Fall of SINGER TOWER - IT'S HISTORY](https://www.youtube.com/watch?v=l0R8cRpdbR0)
 <IMG src="https://www.jamesabbe.com/wp-content/plugins/justified-image-grid/timthumb.php?src=https%3A%2F%2Fwww.jamesabbe.com%2Fwp-content%2Fgallery%2Fjazz-age%2FAbbeArchive_059-Cooper-Novello-1.jpg&h=990&w=990&q=90&f=.jpg" alt="pictured_SYMBOLiKLY = $##SARTU">
 
 [FREEDOM_ARCHiVE](https://99books.freedomarchives.org/)
