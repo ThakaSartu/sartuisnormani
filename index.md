@@ -6,6 +6,9 @@
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
 
+<IMG src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/Screenshot%202022-08-29%205.16.56%20AM.png">
+<IMG src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/Screenshot%202022-08-29%209.19.16%20AM.png">
+
 [New York City 1997](https://www.youtube.com/watch?v=V3V5X2mKUCo)
 <IMG src="https://images-na.ssl-images-amazon.com/images/I/61kwafCCbnL.jpg">
 <IMG src="https://raw.githubusercontent.com/ThakaRashard/BUBBLEGUMPOP_HUMA/master/assets/images/KASHDOLLMONEYSLiDE.gif">
