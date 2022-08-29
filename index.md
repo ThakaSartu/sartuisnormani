@@ -5,6 +5,23 @@
 3 # ANOTHER########################################NORMANiE
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
+
+
+<div class='twoPanelSpread'>
+      <div class='row'>
+        <div class='panelColumn'>
+          <div class='leftColumn'>
+            <a href="https://soundcloud.com/emil-rottmayer/mega?si=8a77e1d7e8574b0da577bab017607b22&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://assets.vogue.com/photos/58912ecf97a3db337a248b27/master/w_1600,c_limit/02-amalia-dayan.jpg"> </a>
+            </div>
+        </div>
+        <div class='panelColumn'>
+          <div class='rightColumn'>
+            <a href="https://soundcloud.com/emil-rottmayer/mega?si=8a77e1d7e8574b0da577bab017607b22&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://assets.vogue.com/photos/58912ecf97a3db337a248b27/master/w_1600,c_limit/02-amalia-dayan.jpg"> </a>
+             </div>
+        </div>
+      </div>
+    </div>
+
 <IMG scr="https://www.officialroyalwedding2011.org/wp-content/uploads/2019/09/westminster.jpg">
 <IMG src="https://live.staticflickr.com/1120/536728582_31ce5ad54a_b.jpg">
 <IMG src="https://www.aenigma-images.com/wp-content/uploads/2018/09/mrs-alfred-g-vanderbilt-by-richard-avedon.png">
