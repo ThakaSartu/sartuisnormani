@@ -7,6 +7,21 @@
 {% endhighlight %}
 
 
+
+<div class='twoPanelSpread'>
+      <div class='row'>
+        <div class='panelColumn'>
+          <div class='leftColumn'>
+            <a href="https://soundcloud.com/emil-rottmayer/mega?si=8a77e1d7e8574b0da577bab017607b22&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://media.tatler.com/photos/6141e4dfd66a1e15fd8df76b/master/w_1600,c_limit/10636981.jpg"> </a>
+            </div>
+        </div>
+        <div class='panelColumn'>
+          <div class='rightColumn'>
+            <a href="https://soundcloud.com/emil-rottmayer/mega?si=8a77e1d7e8574b0da577bab017607b22&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://media.tatler.com/photos/6141e4dfd66a1e15fd8df76b/master/w_1600,c_limit/10636981.jpg"></a>
+             </div>
+        </div>
+      </div>
+    </div>
 <div class='twoPanelSpread'>
       <div class='row'>
         <div class='panelColumn'>
