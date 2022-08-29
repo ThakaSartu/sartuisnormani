@@ -5,6 +5,9 @@
 3 # ANOTHER########################################NORMANiE
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
+
+<IMG src="https://raw.githubusercontent.com/ThakaRashard/BUBBLEGUMPOP_HUMA/master/assets/images/KASHDOLLMONEYSLiDE.gif">
+
 ## Dear_Sartu, I got mad
 About you guys taking over my brand when you were with those guys... Thanks for the free advertising! Im going to save up for some graffiti supplies and work on making tshirts again. My Southern_east_coast_flavah is west_coasting and my work is becoming hard edged vs curvy and rounded. Well my peicing has always been kinda hard edge but its flowy so... Either way our lovebomrs IG is gone from Matt lying on me being a terrorist a sexual harrasser, a snitch, and child molster. The crazy thing is, hiow could I even do all those bad things? That dude is a loon. I cant wait for the population shifts so I can reenter society... Well you should be healthy at that point too. Here some dope legal advice for your design work... Do you know what the public domain is? Ethiopia may not have a copyrighting system in place I dont know,  but this info will keep you balanced
 
