@@ -5,6 +5,8 @@
 3 # ANOTHER########################################NORMANiE
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
+<a href="https://music.amontobin.com/album/supermodified"><IMG src="https://f4.bcbits.com/img/0003778798_10.jpg"></a>
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/54zaC0AviuCfkDwHsUJIra?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <IMG src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/Screenshot%202022-08-29%205.16.56%20AM.png">
 <IMG src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/Screenshot%202022-08-29%209.19.16%20AM.png">
