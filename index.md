@@ -5,7 +5,12 @@
 3 # ANOTHER########################################NORMANiE
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
-         <IMG src="https://gregletson.files.wordpress.com/2017/11/547495.jpg">           
+
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/7eNHeLu7yJB5HN9Srvrocv?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<IMG src="https://i.discogs.com/GXQZnraIeTJnxUPGzQZ3i28T-xjLKcdphc_SZT94Yhw/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjQ0/NzktMTQzNDcwNTQ4/OS0yNzA2LmpwZWc.jpeg">
+
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/0p8IFUzQvw5BZS4rMSwEYF?utm_source=generator" width="100%" height="300" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<IMG src="https://gregletson.files.wordpress.com/2017/11/547495.jpg">           
 
 <IMG src="https://dyn1.heritagestatic.com/lf?set=path%5B1%2F3%2F3%2F5%2F8%2F13358722%5D&call=url%5Bfile%3Aproduct.chain%5D">
 <a href="https://youtu.be/rTq7w8P6_2I"><IMG src="https://64.media.tumblr.com/0951f39580d610c78f9590edcbde9757/f1c063a798eca5bb-20/s1280x1920/f1805ac3e3c4c8b23a65f3d8d9172bdffa9a76fb.jpg" alt="CHAPEL_OF_LOVE"></a>
