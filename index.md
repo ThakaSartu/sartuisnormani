@@ -12,6 +12,8 @@
 <IMG src="https://live.staticflickr.com/4087/4996945465_86364ee4e9_b.jpg">
 
 ## Dear Mama_SaaH
+<IMG src="https://platypus1917.org/wp-content/uploads/image2.png">
+
 <p class="codepen" data-height="300" data-theme-id="light" data-default-tab="css,result" data-slug-hash="MWVNybZ" data-editable="true" data-user="thakarashard" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/thakarashard/pen/MWVNybZ">
   CSS3 inset text-shadow</a> by ThakaRashard (<a href="https://codepen.io/thakarashard">@thakarashard</a>)
