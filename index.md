@@ -26,13 +26,13 @@ The term “public domain” refers to creative materials that are not protected
 [JAZZ_ERA_PHOTO_GALLERY](https://www.jamesabbe.com/jazz-age-fashion/)
 This dude work so brilliant I hope its preserved... You know there is a rumor that those prostitution ppl have been destrying old photos as a part of thier infrastructure takeover in physicallity just like they locked people out of thier social media accounts... The dope thing about this is the fact that Muna and I had past lifetimes in this era we shared, she was a flapper... I forgot my occupation but I can imagine her entertainment lifestyle brought me grief then as well... "The Pretty Things" its so creepy when you guys talk like that. I did not know you were my cousins from africa so I never got a possesive statue like veiw of you guys, Its like vickye's sewing room. And sex often feels like a trip to the girls locker room in Tantra
 
-<IMG scr="https://www.jamesabbe.com/wp-content/uploads/2016/09/AbbeArchive2235-600px.jpg">
+<IMG src="https://www.jamesabbe.com/wp-content/uploads/2016/09/AbbeArchive2235-600px.jpg">
 
-<IMG scr="https://www.jamesabbe.com/wp-content/gallery/screen-and-stage/AbbeArchive_850-Mistinguett.jpg">
-<IMG scr="https://www.jamesabbe.com/wp-content/gallery/jazz-age/AbbeArchive_393-mannequins-lanvin.jpg">
-<IMG scr="https://live.staticflickr.com/3813/11655631064_b7707358c8_b.jpg">
-<IMG scr="https://cdn11.bigcommerce.com/s-yzgoj/images/stencil/1280x1280/products/948677/4022684/apiiarqix__82578.1626632885.jpg">
-<IMG scr="https://3.bp.blogspot.com/-E-BtUkbo-to/XEwujRUk5QI/AAAAAAABxg4/4RqJ4TcxrCg_-aguGePTAGGEoymycTgfwCLcBGAs/s1600/Janet%2BGaynor%2B1920s%2Band%2B1930s%2B%25280%2529.jpg">
+<IMG src="https://www.jamesabbe.com/wp-content/gallery/screen-and-stage/AbbeArchive_850-Mistinguett.jpg">
+<IMG src="https://www.jamesabbe.com/wp-content/gallery/jazz-age/AbbeArchive_393-mannequins-lanvin.jpg">
+<IMG src="https://live.staticflickr.com/3813/11655631064_b7707358c8_b.jpg">
+<IMG src="https://cdn11.bigcommerce.com/s-yzgoj/images/stencil/1280x1280/products/948677/4022684/apiiarqix__82578.1626632885.jpg">
+<IMG src="https://3.bp.blogspot.com/-E-BtUkbo-to/XEwujRUk5QI/AAAAAAABxg4/4RqJ4TcxrCg_-aguGePTAGGEoymycTgfwCLcBGAs/s1600/Janet%2BGaynor%2B1920s%2Band%2B1930s%2B%25280%2529.jpg">
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/4LwU4Vp6od3Sb08CsP99GC?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 [NYPLBase The Library's rapid prototyping system and design pattern library](nypl.github.io/NYPLBase/styleguide/index.html)
