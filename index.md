@@ -7,6 +7,26 @@
 {% endhighlight %}
 
 
+<a href="https://youtu.be/rTq7w8P6_2I"><IMG src="https://64.media.tumblr.com/0951f39580d610c78f9590edcbde9757/f1c063a798eca5bb-20/s1280x1920/f1805ac3e3c4c8b23a65f3d8d9172bdffa9a76fb.jpg" alt="CHAPEL_OF_LOVE"></a>
+<a href="https://soundcloud.com/megan-thee-stallion/sets/tina-snow?si=c6b3f75f7c2d44e89e225f12aa163474&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><IMG src="https://images.squarespace-cdn.com/content/v1/5e55cfef6623dd0964bf8fd4/1583457848327-CN10I47CS9GC04X8ZSJB/IMGL7132.jpg?format=1000w"></a>
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/26jEIrN7WSAnVQXXUmLRSN?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<IMG src="https://images.fineartamerica.com/images-medium-large-5/bridesmaids-for-the-wedding-of-sir-hugh-houston-cecil-beaton.jpg">
+<img src="https://c8.alamy.com/comp/F4RTN5/italian-actress-anna-maria-moneta-caglio-in-a-scene-from-the-movie-F4RTN5.jpg">
+<div class='twoPanelSpread'>
+      <div class='row'>
+        <div class='panelColumn'>
+          <div class='leftColumn'>
+<a href="https://soundcloud.com/emil-rottmayer/mega?si=8a77e1d7e8574b0da577bab017607b22&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://i.pinimg.com/originals/d2/6c/33/d26c33e3359e2d95009262a015ec6501.jpg"> </a>
+            </div>
+        </div>
+        <div class='panelColumn'>
+          <div class='rightColumn'>
+ <a href="https://soundcloud.com/emil-rottmayer/mega?si=8a77e1d7e8574b0da577bab017607b22&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://media.tatler.com/photos/6141e4dfd66a1e15fd8df76b/master/w_1600,c_limit/10636981.jpg"></a>
+             </div>
+        </div>
+      </div>
+    </div>
+<IMG src="https://collectionimages.npg.org.uk/large/mw88464/The-wedding-of-Nancy-Beaton-and-Sir-Hugh-Houston-Smiley-3rd-Bt.jpg">
 
 <div class='twoPanelSpread'>
       <div class='row'>
@@ -58,6 +78,7 @@
 <img src="https://c8.alamy.com/comp/F4RTN5/italian-actress-anna-maria-moneta-caglio-in-a-scene-from-the-movie-F4RTN5.jpg">
 
 <IMG src="https://live.staticflickr.com/4087/4996945465_86364ee4e9_b.jpg">
+<IMG src="https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F5d5b74fa-47b6-11ec-aa43-5cc5157b09b9.jpg?crop=2190%2C3504%2C88%2C54">
 
 ## Dear Mama_SaaH
 <IMG src="https://platypus1917.org/wp-content/uploads/image2.png">
