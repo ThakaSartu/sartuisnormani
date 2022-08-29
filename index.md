@@ -6,6 +6,18 @@
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
 
+<IMG src="https://live.staticflickr.com/4087/4996945465_86364ee4e9_b.jpg">
+
+## Dear Mama_SaaH
+<p class="codepen" data-height="300" data-theme-id="light" data-default-tab="css,result" data-slug-hash="MWVNybZ" data-editable="true" data-user="thakarashard" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/thakarashard/pen/MWVNybZ">
+  CSS3 inset text-shadow</a> by ThakaRashard (<a href="https://codepen.io/thakarashard">@thakarashard</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+I did work that the family business will gain from... why, I forgot you are adopted... You act like you just got off the banana boat...
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/r-Nw7HbaeWY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [Getting Deep Into Shadows](https://css-tricks.com/getting-deep-into-shadows/)
 ## ATMOSPHEREiK_KNOCK
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/FP8TqtTbXJQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
