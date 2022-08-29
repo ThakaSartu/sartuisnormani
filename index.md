@@ -6,6 +6,8 @@
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
 
+
+<IMG src="https://images-na.ssl-images-amazon.com/images/I/61kwafCCbnL.jpg">
 <IMG src="https://raw.githubusercontent.com/ThakaRashard/BUBBLEGUMPOP_HUMA/master/assets/images/KASHDOLLMONEYSLiDE.gif">
 
 ## Dear_Sartu, I got mad
