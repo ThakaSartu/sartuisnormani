@@ -6,6 +6,7 @@
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
 
+[Getting Deep Into Shadows](https://css-tricks.com/getting-deep-into-shadows/)
 ## ATMOSPHEREiK_KNOCK
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/FP8TqtTbXJQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
