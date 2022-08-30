@@ -19,7 +19,7 @@
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/1mXMkMg5LJGMVOAyM6euB6?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <IMG src="https://i.scdn.co/image/ab67616d0000b27314300785e5794be1d8437f94">
-<iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/1E9d27n8wmmVVONPvNhYkj?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/1E9d27n8wmmVVONPvNhYkj?utm_source=generator" width="100%" height="300" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <a href="https://www.turntablelab.com/collections/the-wall/products/thee-sacred-souls-indie-exclusive-colored-vinyl-vinyl-lp"><IMG src="https://cdn.shopify.com/s/files/1/0105/4542/products/technics-sl-1200m7l-turntable-anniversary-edition-black_1000x1000.jpg?v=1656712557"></a>
 <a href="https://peopleunderthestairs.bandcamp.com/"><IMG src="https://i.discogs.com/qKntCFKPVIRnRCViRMSP9amGvomxUAr2WGLLTUwkml8/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTUy/Mi0xNDU5NDU0NjUx/LTYwNjMuanBlZw.jpeg"></a>
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/6wRasCHEWubnqxdDlUf7mo?utm_source=generator" width="100%" height="300" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
