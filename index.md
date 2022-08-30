@@ -6,6 +6,23 @@
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
 
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://i.discogs.com/KHqHWIKhW2dkwbg3OAL6HlwFXV-hFwY5wuQbQhrAJZI/rs:fit/g:sm/q:90/h:584/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNzE1/NTMtMTQ0NTQ4MDE3/MS05MjA1LmpwZWc.jpeg"> </a>
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><IMG src="https://i.scdn.co/image/ab67616d0000b273f602ecb7c8c4bcf517c669ab">  </a>
+         </div>
+    </div>
+  </div>
+</div>
+
+                             
+  
 <IMG src="https://i.discogs.com/6xMRdauctYKgCC3n3vfpPyMaXVc1k_804leBhHBwGUE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjc3/MTItMTQ1NjY1ODQ4/Ny04NDkyLmpwZWc.jpeg">
 <img src="https://cdn.shoplightspeed.com/shops/636018/files/46268951/1500x4000x3/ben-jorge-samba-esquema-novo-lp-clear-vinyl.jpg">
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/3xWp6y0HGsHZlXljNs7VRy?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
