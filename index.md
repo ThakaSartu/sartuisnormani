@@ -6,9 +6,11 @@
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
 
+## Dear Normani/Sartu
+I want my life back I want sex and fresh consistent food. Please help me who works with Matt Field. You know a lot of powerful people that can look into graffiti and help me get free, I dont deserve this because gentrified_graffiti_prostituted_America
 
-
-
+[Aidz; Incurable Vol. 1](https://www.youtube.com/watch?v=y9d-ymYjR28)
+[what Happens When LAPD Let Us Keep Painting | Los Angeles Graffiti](https://www.youtube.com/watch?v=wRSKLPVjhRE)
 [Day Time Bombing With Luni | Los Angeles Graffiti](https://www.youtube.com/watch?v=c_ZNIYOK6Ew)
 [Graffiti Video: Vayne - State of Surveillance](https://www.youtube.com/watch?v=tDQnHh-MK6o)
 [Sace and earsnot](https://www.youtube.com/watch?v=QRUpY-bYlz8)
