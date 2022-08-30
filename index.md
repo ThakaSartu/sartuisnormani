@@ -6,6 +6,10 @@
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
 
+
+<a href="https://vampisoul.bandcamp.com/album/vagamente"><IMG src="https://f4.bcbits.com/img/a1826935183_10.jpg"></a>
+
+
 <IMG src="https://d30k6iate490n1.cloudfront.net/record_covers/422/tamba-trio-tamba_front.jpg">
 <img src="https://m.media-amazon.com/images/I/71lfeWDfgtL._SS500_.jpg">
 <IMG src="https://i.discogs.com/GXQZnraIeTJnxUPGzQZ3i28T-xjLKcdphc_SZT94Yhw/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjQ0/NzktMTQzNDcwNTQ4/OS0yNzA2LmpwZWc.jpeg">
@@ -176,7 +180,7 @@ ______________________________________________________________________
 <hr>
 
 [New York’s LOST Skyscraper - The Rise and Fall of SINGER TOWER - IT'S HISTORY](https://www.youtube.com/watch?v=l0R8cRpdbR0)
-<IMG src="https://www.jamesabbe.com/wp-content/plugins/justified-image-grid/timthumb.php?src=https%3A%2F%2Fwww.jamesabbe.com%2Fwp-content%2Fgallery%2Fjazz-age%2FAbbeArchive_059-Cooper-Novello-1.jpg&h=990&w=990&q=90&f=.jpg" alt="pictured_SYMBOLiKLY = $##SARTU">
+<IMG src="https://www.jamesabbe.com/wp-content/plugins/justified-image-grid/timthumb.php?src=https%3A%2F%2Fwww.jamesabbe.com%2Fwp-content%2Fgallery%2Fjazz-age%2FAbbeArchive_059-Cooper-Novello-1.jpg&h=490&w=490&q=90&f=.jpg" alt="pictured_SYMBOLiKLY = $##SARTU">
 
 [FREEDOM_ARCHiVE](https://99books.freedomarchives.org/)
 <IMG src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/Screenshot%202022-08-29%209.04.53%20AM.png">
