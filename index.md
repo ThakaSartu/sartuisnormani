@@ -8,7 +8,9 @@
 
 ## Dear Normani/Sartu
 I want my life back I want sex and fresh consistent food. Please help me! Who works with Matt Field? You know a lot of powerful people that can look into graffiti and help me get free, I dont deserve this because gentrified_graffiti_prostituted_America
-
+<IMG src="https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2011%2F11%2F12oz-earsnot-interview-000.jpg?fit=max&cbr=1&q=90&w=750&h=500">
+[Making Street Art On Most Famous Wall in LA](https://www.youtube.com/watch?v=hHsgBz96YEs)
+[Los Angeles Graffiti Writers - LA Graff Art - Street Artist](https://www.youtube.com/watch?v=Auy7oXYAHLM)
 [Aidz; Incurable Vol. 1](https://www.youtube.com/watch?v=y9d-ymYjR28)
 [what Happens When LAPD Let Us Keep Painting | Los Angeles Graffiti](https://www.youtube.com/watch?v=wRSKLPVjhRE)
 [Day Time Bombing With Luni | Los Angeles Graffiti](https://www.youtube.com/watch?v=c_ZNIYOK6Ew)
