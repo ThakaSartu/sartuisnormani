@@ -5,12 +5,26 @@
 3 # ANOTHER########################################NORMANiE
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/wFLCqKsBIY8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/G-ROMm8tHYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Dear Normani/Sartu
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/6SI4JD7iyQ0rrudhCNtMv0?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 I want my life back I want sex and fresh consistent food. Please help me! Who works with Matt Field? You know a lot of powerful people that can look into graffiti and help me get free, I dont deserve this because gentrified_graffiti_prostituted_America
 <IMG src="https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2011%2F11%2F12oz-earsnot-interview-000.jpg?fit=max&cbr=1&q=90&w=750&h=500">
 
+
+[【日本語字幕】The Show (1995) VHS rip Japanese subtitle](https://www.youtube.com/watch?v=OyjAite9rkk)
+[Public Enemy - Prophets Of Rage Documentary](https://www.youtube.com/watch?v=1fM_VXPZqBg)
+[The Show Documentary (1995)](https://www.youtube.com/watch?v=YL18g4yHVYY)
+[Hobo Culture of the 1930s](https://www.youtube.com/watch?v=7ZQzTaI3F_A)
+[The Great American Hobo (c)1979 Fogcutter Productions](https://www.youtube.com/watch?v=YVobfMUTnbg)
+[No Tracks Home - A Train-Hoppers Documentary](https://www.youtube.com/watch?v=G69Ie5RLkAs)
+[Hobo (1992) - Full Documentary](https://www.youtube.com/watch?v=Na0ii9W224A)
+[Just to Get a Rep - full movie - graffiti hip-hop documentary](https://www.youtube.com/watch?v=GT0WbXfPXM0)
+[Sly Artistic City - Philly graffiti history](https://www.youtube.com/watch?v=xIVuaS08C3c)
+[Watching my name go by - 1976 New York City Graffiti Documentary HD](https://www.youtube.com/watch?v=-6N-rHB-u9c)
+[Style Wars - legendary graffiti documentary (1983) DVD RIP](https://www.youtube.com/watch?v=7DXD1HBaLX0)
 [Making Street Art On Most Famous Wall in LA](https://www.youtube.com/watch?v=hHsgBz96YEs)
 [Los Angeles Graffiti Writers - LA Graff Art - Street Artist](https://www.youtube.com/watch?v=Auy7oXYAHLM)
 [Aidz; Incurable Vol. 1](https://www.youtube.com/watch?v=y9d-ymYjR28)
