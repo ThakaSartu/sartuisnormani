@@ -6,6 +6,22 @@
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
 
+<img src="https://www.pantone.com/media/wysiwyg/pantone-connect/homepage/02_Hero.png">
+
+ <div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://youtu.be/XE0xXv-jQAI"> <img src=" https://i.pinimg.com/originals/16/82/ff/1682ffeda206e172b6ffa5cbc6b13fbe.jpg"></a>
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://youtu.be/XE0xXv-jQAI"><img src="https://i.pinimg.com/originals/16/82/ff/1682ffeda206e172b6ffa5cbc6b13fbe.jpg"> </a>
+         </div>
+    </div>
+  </div>
+</div>
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
