@@ -7,6 +7,7 @@
 {% endhighlight %}
 
 ## Dear Normani/Sartu
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/6SI4JD7iyQ0rrudhCNtMv0?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 I want my life back I want sex and fresh consistent food. Please help me! Who works with Matt Field? You know a lot of powerful people that can look into graffiti and help me get free, I dont deserve this because gentrified_graffiti_prostituted_America
 <IMG src="https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2011%2F11%2F12oz-earsnot-interview-000.jpg?fit=max&cbr=1&q=90&w=750&h=500">
 [Making Street Art On Most Famous Wall in LA](https://www.youtube.com/watch?v=hHsgBz96YEs)
