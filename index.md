@@ -6,6 +6,14 @@
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
 
+
+## Dear Sartu, maybe one day we can go to TurntableLAB in person together
+### SHARON JONES AND THE DAP-KINGS I Learned The Hard Way Vinyl LP
+<img src="https://cdn.shopify.com/s/files/1/0105/4542/products/sharonjones-ilearned_2048x2048.jpg?v=1571264483">
+
+[SHARON JONES AND THE DAP-KINGS I Learned The Hard Way Vinyl LP](https://www.turntablelab.com/products/sharon-jones-and-the-dap-kings-i-learned-the-hard-way-vinyl-lp)
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/1mXMkMg5LJGMVOAyM6euB6?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 <IMG src="https://i.scdn.co/image/ab67616d0000b27314300785e5794be1d8437f94">
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/1E9d27n8wmmVVONPvNhYkj?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <a href="https://www.turntablelab.com/collections/the-wall/products/thee-sacred-souls-indie-exclusive-colored-vinyl-vinyl-lp"><IMG src="https://cdn.shopify.com/s/files/1/0105/4542/products/technics-sl-1200m7l-turntable-anniversary-edition-black_1000x1000.jpg?v=1656712557"></a>
