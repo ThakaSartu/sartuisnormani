@@ -8,7 +8,7 @@
 
 
 
-<IMG src="https://m.media-amazon.com/images/I/81RCe4DFm5L._SS500_.jpg">
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/playlist/7JWTTSMbXcivh5zFO3rnu7?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <IMG src="https://prvnce.files.wordpress.com/2013/05/tumblr_mnl3wdhiwy1rlz3l5o1_1280.jpg?w=554">
 <IMG src="https://e.snmc.io/i/300/s/9714cf790d571d4da0dda834881d80c0/1392323">
 
