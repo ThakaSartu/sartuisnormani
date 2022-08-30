@@ -6,7 +6,7 @@
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
 
-
+<IMG src="https://d30k6iate490n1.cloudfront.net/record_covers/422/tamba-trio-tamba_front.jpg">
 <img src="https://m.media-amazon.com/images/I/71lfeWDfgtL._SS500_.jpg">
 <IMG src="https://i.discogs.com/GXQZnraIeTJnxUPGzQZ3i28T-xjLKcdphc_SZT94Yhw/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjQ0/NzktMTQzNDcwNTQ4/OS0yNzA2LmpwZWc.jpeg">
 <IMG src="https://images.squarespace-cdn.com/content/v1/558ffc4be4b023b6b857c016/1437294076293-8ZVRDO0X268BYGHGEA4Q/space_hunters_by_jamajurabaev-d7kyam1.jpg?format=original">
