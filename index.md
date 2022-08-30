@@ -99,7 +99,7 @@ I want my life back I want sex and fresh consistent food. Please help me! Who wo
 
 [How to Add Text in Borders Using Basic HTML Elements](https://css-tricks.com/how-to-add-text-in-borders-using-basic-html-elements/)
 
-<-- you still fucked up, walking to fuck him and rejecting my  gesture at that level... your facial muscles relaxed when he came in you... thats where you lost me boo -->
+<!-- you still fucked up, walking to fuck him and rejecting my  gesture at that level... your facial muscles relaxed when he came in you... thats where you lost me boo -->
 <img src="https://www.pantone.com/media/wysiwyg/pantone-connect/homepage/02_Hero.png">
 
  <div class='twoPanelSpread'>
