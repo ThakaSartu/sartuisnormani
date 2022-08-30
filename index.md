@@ -6,6 +6,29 @@
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
 
+
+<!-- partial:index.partial.html -->
+<p style="text-align: center;margin-top:30px;"><button class="btn btn-primary" data-target="#video-modal" data-toggle="modal">Open Modal</button></p>
+
+<!-- Modal -->
+<div aria-hidden="true" aria-labelledby="myModalLabel" class="modal fade close-video" id="video-modal" role="dialog" tabindex="-1">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <button type="button" class="close close-video" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+      </button>
+      <div ><iframe width="100%" height="315" src="https://www.youtube.com/embed/6Rj2IABk0eI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+      <script src="https://player.vimeo.com/api/player.js"></script>
+    </div>
+
+  </div>
+</div>
+</div>
+<!-- /.modal -->
+<!-- partial -->
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+<script src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js'></script><script  src="./script.js"></script>
+
  <a href="https://thakarashard.github.io/BUBBLEGUMPOP_TiNASHE/"></a>https://thakarashard.github.io/BUBBLEGUMPOP_TiNASHE/</a>
 
 
