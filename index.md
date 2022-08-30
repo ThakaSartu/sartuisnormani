@@ -7,7 +7,10 @@
 {% endhighlight %}
 
 
+<img src="https://m.media-amazon.com/images/I/71lfeWDfgtL._SS500_.jpg">
+<IMG src="https://i.discogs.com/GXQZnraIeTJnxUPGzQZ3i28T-xjLKcdphc_SZT94Yhw/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjQ0/NzktMTQzNDcwNTQ4/OS0yNzA2LmpwZWc.jpeg">
 <IMG src="https://images.squarespace-cdn.com/content/v1/558ffc4be4b023b6b857c016/1437294076293-8ZVRDO0X268BYGHGEA4Q/space_hunters_by_jamajurabaev-d7kyam1.jpg?format=original">
+<IMG src="https://jamanetwork.com/imagelibrary/CollectionFeaturedImages/JamaNetwork/5713_medical-journals-and-publishing.png">
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/7eNHeLu7yJB5HN9Srvrocv?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <IMG src="https://i.discogs.com/GXQZnraIeTJnxUPGzQZ3i28T-xjLKcdphc_SZT94Yhw/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjQ0/NzktMTQzNDcwNTQ4/OS0yNzA2LmpwZWc.jpeg">
 
