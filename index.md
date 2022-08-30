@@ -6,6 +6,10 @@
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
 
+<IMG src="https://files.nccih.nih.gov/cannabinoids-scientific-general-01-01.jpg">
+
+[Better Use Of Leisure Time (1950)](https://www.youtube.com/watch?v=BH_gncP_5vc)
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/2O2tYm5RhayjbMfqrMBIOd?utm_source=generator" width="100%" height="300" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## Dear Sartu, maybe one day we can go to TurntableLAB in person together
 ### SHARON JONES AND THE DAP-KINGS I Learned The Hard Way Vinyl LP
