@@ -7,7 +7,10 @@
 {% endhighlight %}
 
 ## AT_LEAST_WE_HAVE_THIS
-<IMG src="https://cdn.theatlantic.com/media/img/photo/2011/08/world-war-ii-the-american-home-front-in-color/w04_1a35329u/main_1200.jpg"> 
+<IMG src="https://cdn.theatlantic.com/media/img/photo/2011/08/world-war-ii-the-american-home-front-in-color/w04_1a35329u/main_1200.jpg">
+## YOUR_CODiNG_RENDERS_BEAUTiFULLY
+### Pretty girl 
+<IMG src="https://www.womenofwwii.com/wp/wp-content/uploads/2017/12/waves172.jpg">
 
 ## Hi bae,
  I love you today! The longbeach library has connectivity issues or something... Nope someone is tampering with our spotify login, its saying we cant watch content  based on country of origin, You know proton.me is from Eurasia
