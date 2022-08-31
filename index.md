@@ -8,6 +8,7 @@
 
 ## AT_LEAST_WE_HAVE_THIS
 <IMG src="https://cdn.theatlantic.com/media/img/photo/2011/08/world-war-ii-the-american-home-front-in-color/w04_1a35329u/main_1200.jpg">
+
 ## YOUR_CODiNG_RENDERS_BEAUTiFULLY
 ### Pretty girl 
 <IMG src="https://www.womenofwwii.com/wp/wp-content/uploads/2017/12/waves172.jpg">
