@@ -7,6 +7,8 @@
 {% endhighlight %}
 
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/PAFAfhod9TU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/184010230&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/djangelbabymusic" title="DjAngelBaby" target="_blank" style="color: #cccccc; text-decoration: none;">DjAngelBaby</a> · <a href="https://soundcloud.com/djangelbabymusic/dj-angelbaby-get-pumped-vol3" title="DJ AngelBaby - Get Pumped Vol.3" target="_blank" style="color: #cccccc; text-decoration: none;">DJ AngelBaby - Get Pumped Vol.3</a></div>
 <!-- partial:index.partial.html -->
 <p style="text-align: center;margin-top:30px;"><button class="btn btn-primary" data-target="#video-modal" data-toggle="modal">Open Modal</button></p>
 
@@ -23,13 +25,13 @@
 
   </div>
 </div>
-</div>
+
 <!-- /.modal -->
 <!-- partial -->
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
 <script src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js'></script><script  src="./script.js"></script>
 
- <a href="https://thakarashard.github.io/BUBBLEGUMPOP_TiNASHE/"></a>https://thakarashard.github.io/BUBBLEGUMPOP_TiNASHE/</a>
+ <a href="https://thakarashard.github.io/BUBBLEGUMPOP_TiNASHE/">https://thakarashard.github.io/BUBBLEGUMPOP_TiNASHE/</a>
 
 
 [Caribbean Queen (No More Love On the Run)](https://www.youtube.com/watch?v=VOiZC020nl0)
