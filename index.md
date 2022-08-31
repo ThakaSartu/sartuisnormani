@@ -6,6 +6,9 @@
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
 
+
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/5M3BrdaT0TV5SsYsM5PM8X?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Ngojb70-YHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <IMG src="https://www.pantone.com/media/wysiwyg/pantone-connect/homepage/04_Hero.png">
