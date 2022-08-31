@@ -3880,3 +3880,4 @@ I hope they handled the pit... You have a dead child by this story, and she simp
   The final element.
   ```
 <IMG src="https://img.favpng.com/24/13/9/comptia-a-training-kit-exam-220-801-and-exam-220-802-professional-certification-test-technology-png-favpng-i3J9s1QzvaVZCCsruqitheJQF.jpg">
+<img src="https://img.favpng.com/24/13/9/comptia-a-training-kit-exam-220-801-and-exam-220-802-professional-certification-test-technology-png-favpng-i3J9s1QzvaVZCCsruqitheJQF.jpg">
