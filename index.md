@@ -6,6 +6,38 @@
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
 
+
+## Hi bae,
+ I love you today! The longbeach library has connectivity issues or something... Nope someone is tampering with our spotify login, its saying we cant watch content  based on country of origin, You know proton.me is from Eurasia
+## CROSSPOST from 7&Luna
+## Yo_Sev
+<IMG src="https://i.pinimg.com/originals/8e/7c/36/8e7c3604eeb16048f6023c507d5b62af.jpg">
+
+## They are scrambling videos I watch... 
+I talked to this guy who complimented me on how well I interact with beautiful women and this is the pain of dealing with a human that has a symetrical face and is at a healthy point on the [bmi](https://www.nhs.uk/common-health-questions/lifestyle/what-is-the-body-mass-index-bmi/). I talked to Moon and Normanie about beauty, and the perception of beauty is what is a real hinderance in healing the assualts and us living in a Safe_Los_Angeles where you can pick your own intimate partner
+
+<iframe width="100%" height="507" src="https://www.youtube.com/embed/Bp6mjUTloUA" title="Transformers The Movie 1986" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Dear Sevyn
+
+## CROSSPOST_FROM_MUNAS_BLOG
+<hr>
+## MUNA_THEY_HACKED_US
+The iframes work when Im not logged in, I do have a german email address, but thats really unprofessional to judge the users location by email address... and I cant get work or social security... Just ask yourself what were the people in yo stank ass ABC tribe doing in the dark? What is Matt Field and Sever an Vedo doin in the dark? Because this is ##MALiCiOUS_iNCOMPETENCE 
+<IMG src="https://raw.githubusercontent.com/ThakaRashard/bubblegumfm/master/assets/images/HACKED.PNG">
+
+## Dearr Muna, 
+### Im in LongBeach at BillyJean, and Transformers is scrambled like Quxube's videos... 
+I can work and such but these political issues are over my head... The blackballing is insane. No one cares about the Social_BestBuy_Technology_Section_Media. Det_SHiT_BORiNG and they mad I can entertain myself as I work through the prostitution of our dance studio, I love you
+<IMG src="https://raw.githubusercontent.com/ThakaRashard/BUBBLEGUMPOP_MUNA/master/assets/images/screenshots/TRANSFORMERS_IS_SCRAMBLED_AFTER_WE_WATCHED_IT_FAMiLYTiME1.PNG">
+<IMG src="https://raw.githubusercontent.com/ThakaRashard/BUBBLEGUMPOP_MUNA/master/assets/images/screenshots/TRANSFORMERS_IS_SCRAMBLED_AFTER_WE_WATCHED_IT_FAMiLYTiME.PNG">
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1MRyz2eNPJqOhArrP6vcDw?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<hr>
+
+
+
 <a href="https://open.spotify.com/track/3Q7E5m8Ek0TTCAJj4mLlJV?si=b5577ae6e7d345b5"><IMG src="https://i.discogs.com/07a3xgsYfSdcbcpfplTUseVHCFkvVfUMgunwyZNMC7E/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTIz/MzEtMTYzOTY4MTgw/Ny04OTMyLmpwZWc.jpeg"></a>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/03b1NUHnoavfpLLKcEMfIb?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4slt7bfeNHSJUOMVtuIdxP?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
