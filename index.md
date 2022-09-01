@@ -5,7 +5,8 @@
 3 # ANOTHER########################################NORMANiE
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
-
+<img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/101988327_1625085520986432_1062518421620523008_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=4SGRiS1w0JsAX9ysrY9&_nc_ht=scontent-lax3-1.xx&oh=00_AT8ko_6OJyxj2CXJ_WoXBwXNPSARL-r6YJP5gq1WRaW30A&oe=6317BFDD">
+<img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/104820131_1643401582488159_2303690237508253502_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=5bKV75yikkgAX_DNGLZ&_nc_ht=scontent-lax3-1.xx&oh=00_AT-VZ03-PsxzKJd1vfLLeOVBMjeHbRjs6GWEWSodyNBPhQ&oe=6319D447">
 ## A-6: CSS ZEN GARDEN PROJECT
 This project focuses intensely on design, CSS styling methods, and the separation of presentation from content...
 The CSS Zen Garden project is based on the worldwide web development project at csszengarden.com, started by David Shea. The Zen Garden project was started to:
@@ -23,14 +24,13 @@ The CSS Zen Garden project is based on the worldwide web development project at 
 <a href="https://www.salon.com/2016/08/09/normani-kordeis-twitter-abuse-the-troll-problem-keeps-getting-worse-especially-for-women-and-people-of-color/"><IMG src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/Feelin_Myelf_because_normani_is_my_girlfriend.PNG"></a>
 
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/09PHKY9BV6zm663CM4ABel?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-<div class="pinupGallery">
-  <a href="https://youtu.be/FKXSh14svlQ"><img class="pinupImage featured-pinupImage" src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/tabloid/NORMANiE_COSMO_IS_BALLIiN_MAYNE.png" alt=""></a>
-  <a href="https://youtu.be/FKXSh14svlQ"><img class="pinupImage" src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/tabloid/NORMANiE_COSMO_IS_BALLIiN_MAYNE.png" alt=""></a>
-  <a href="https://youtu.be/FKXSh14svlQ"><img class="pinupImage" src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/tabloid/NORMANiE_COSMO_IS_BALLIiN_MAYNE.png" alt=""></a>
-  <a href="https://youtu.be/FKXSh14svlQ"><img class="pinupImage" src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/tabloid/NORMANiE_COSMO_IS_BALLIiN_MAYNE.png" alt=""></a>
-  <a href="https://youtu.be/FKXSh14svlQ"><img class="pinupImage" src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/tabloid/NORMANiE_COSMO_IS_BALLIiN_MAYNE.png" alt=""></a>
-</div>
 
+<div class="pinupGallery">
+  <img class="pinupImage featured-pinupImage" src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/tabloid/NORMANiE_COSMO_IS_BALLIiN_MAYNE.png" alt="">
+  <img class="pinupImage" src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/tabloid/NORMANiE_COSMO_IS_BALLIiN_MAYNE.png" alt="">
+  <img class="pinupImage" src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/tabloid/NORMANiE_COSMO_IS_BALLIiN_MAYNE.png" alt="">
+  <img class="pinupImage" src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/tabloid/NORMANiE_COSMO_IS_BALLIiN_MAYNE.png" alt="">
+</div>
 <div class='twoPanelSpread'>
       <div class='row'>
         <div class='panelColumn'>
