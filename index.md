@@ -6,6 +6,58 @@
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
 
+## Normani Kordei's Twitter abuse: The troll problem keeps getting worse, especially for women and people of color 
+[The Fifth Harmony member's departure is just the latest defection in the wake of racist, misogynist harassment](https://www.salon.com/2016/08/09/normani-kordeis-twitter-abuse-the-troll-problem-keeps-getting-worse-especially-for-women-and-people-of-color/)
+<IMG src="">
+<IMG src="">
+<IMG src="https://www.graffiti.org/la/uti.jpg">
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/09PHKY9BV6zm663CM4ABel?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div class="pinupGallery">
+  <img class="pinupImage featured-pinupImage" src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/tabloid/NORMANiE_COSMO_IS_BALLIiN_MAYNE.png" alt="">
+  <img class="pinupImage  " src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/tabloid/NORMANiE_COSMO_IS_BALLIiN_MAYNE.png" alt="">
+  <img class="pinupImage" src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/tabloid/NORMANiE_COSMO_IS_BALLIiN_MAYNE.png" alt="">
+  <img class="pinupImage" src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/tabloid/NORMANiE_COSMO_IS_BALLIiN_MAYNE.png" alt="">
+   <img class="pinupImage" src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/tabloid/NORMANiE_COSMO_IS_BALLIiN_MAYNE.png" alt="">
+</div>
+
+<div class='twoPanelSpread'>
+      <div class='row'>
+        <div class='panelColumn'>
+          <div class='leftColumn'>
+<IMG src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/tabloid/NORMANiE_COSMO_IS_BALLIiN_MAYNE2radio2.jpg">
+          </div>
+        </div>
+        <div class='panelColumn'>
+          <div class='rightColumn'>
+<IMG src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/tabloid/NORMANiE_COSMO_IS_BALLIiN_MAYNE2radio2.jpeg">
+          </div>
+        </div>
+    </div>
+</div>
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/2qYIdNaktgtpaPHxDVMXbE?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<IMG src="https://portalpopline.com.br/wp-content/uploads/2018/10/Normani6-800x476.jpg">
+<IMG src="https://portalpopline.com.br/wp-content/uploads/2018/10/Normani2-615x800.jpg">
+<IMG src="https://lastfm.freetls.fastly.net/i/u/770x0/dd78ba0c6a9b3e75719ed453624d4f25.jpg">
+<IMG src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/fallback-1574403823.png">
+<IMG src="https://images.popbuzz.com/images/77274?crop=16_9&width=660&relax=1&signature=IcQbWrWLc7DXXePGsf5Y1wKHdok=">
+
+<div class='twoPanelSpread'>
+      <div class='row'>
+        <div class='panelColumn'>
+          <div class='leftColumn'>
+<IMG src="https://images.popbuzz.com/images/77274?crop=16_9&width=660&relax=1&signature=IcQbWrWLc7DXXePGsf5Y1wKHdok=">
+          </div>
+        </div>
+        <div class='panelColumn'>
+          <div class='rightColumn'>
+<IMG src="https://images.popbuzz.com/images/77274?crop=16_9&width=660&relax=1&signature=IcQbWrWLc7DXXePGsf5Y1wKHdok=">
+          </div>
+        </div>
+    </div>
+</div>
+
+[Normani talks Camila Cabello, racism and bullying in new interview](https://www.ajc.com/news/normani-talks-camila-cabello-racism-and-bullying-new-interview/1QoirFXkoiQYdH1Z0THkvN/)
+
 ## When your
 Life winds down, I hope I get a place to [Cater 2 U](https://www.youtube.com/watch?v=juqws1LIH-I)
 
