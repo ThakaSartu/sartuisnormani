@@ -6,6 +6,13 @@
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
 
+## A-6: CSS ZEN GARDEN PROJECT
+This project focuses intensely on design, CSS styling methods, and the separation of presentation from content...
+The CSS Zen Garden project is based on the worldwide web development project at csszengarden.com, started by David Shea. The Zen Garden project was started to:
+
+…showcase what is possible with CSS-based design. Style sheets contributed by graphic designers from around the world are used to change the visual presentation of a single HTML file, producing hundreds of different designs. Aside from reference to an external CSS file, the HTML markup itself never changes. All visual differences are the result of the CSS (and supporting imagery).
+[ReadMore](http://learn.leighcotnoir.com/courses/mat-125-2/mat-125/p1-css-zen-garden-project/)
+
 <IMG src="https://www.graffiti.org/la/uti.jpg">
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/7h3thl3oFIIl5yMiW4vyif?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <IMG src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/Feelin_Myelf.PNG">
