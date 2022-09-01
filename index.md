@@ -5,6 +5,21 @@
 3 # ANOTHER########################################NORMANiE
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/103718426_1644270902401227_5980942142663911120_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_ohc=RnnWppHDpn8AX8o3EL4&_nc_ht=scontent-lax3-2.xx&oh=00_AT9mWMAFc4i5CW7qGdhWmStY1twnvqdJS_aAw6dJB1SX5Q&oe=631A62CD" alt="##QUXUBE_CANNOT_PICK_HER_OWN_MAN"> </a>
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/82117123_1644270885734562_3304057613987664657_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_ohc=xDxHpuND2AQAX8W4TLQ&_nc_ht=scontent-lax3-2.xx&oh=00_AT8jD8_3gBEjmqFPPaSzr8Vu_6VxFgmat-fBCtwo9MZcXg&oe=631950B7" alt=""> </a>
+         </div>
+    </div>
+  </div>
+</div>
 <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/101988327_1625085520986432_1062518421620523008_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=4SGRiS1w0JsAX9ysrY9&_nc_ht=scontent-lax3-1.xx&oh=00_AT8ko_6OJyxj2CXJ_WoXBwXNPSARL-r6YJP5gq1WRaW30A&oe=6317BFDD">
 <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/104820131_1643401582488159_2303690237508253502_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=5bKV75yikkgAX_DNGLZ&_nc_ht=scontent-lax3-1.xx&oh=00_AT-VZ03-PsxzKJd1vfLLeOVBMjeHbRjs6GWEWSodyNBPhQ&oe=6319D447">
 ## A-6: CSS ZEN GARDEN PROJECT
@@ -112,7 +127,7 @@ I can work and such but these political issues are over my head... The blackball
 <IMG src="https://raw.githubusercontent.com/ThakaRashard/BUBBLEGUMPOP_MUNA/master/assets/images/screenshots/TRANSFORMERS_IS_SCRAMBLED_AFTER_WE_WATCHED_IT_FAMiLYTiME1.PNG">
 <IMG src="https://raw.githubusercontent.com/ThakaRashard/BUBBLEGUMPOP_MUNA/master/assets/images/screenshots/TRANSFORMERS_IS_SCRAMBLED_AFTER_WE_WATCHED_IT_FAMiLYTiME.PNG">
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1MRyz2eNPJqOhArrP6vcDw?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/1MRyz2eNPJqOhArrP6vcDw?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <hr>
 
