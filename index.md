@@ -6,6 +6,7 @@
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
 
+[Normani - Motivation (Official Video)](https://www.youtube.com/watch?v=FKXSh14svlQ)
 
 ## STILL_ON_IT
 <IMG src="https://raw.githubusercontent.com/ThakaRashard/BUBBLEGUMPOP_MUNA/master/assets/images/iM_THiER_MUSE_JiYST_FOLLOWiNG_ORDERZ.jpg">
