@@ -6,18 +6,22 @@
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
 
+<IMG src="https://www.graffiti.org/la/uti.jpg">
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/7h3thl3oFIIl5yMiW4vyif?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<IMG src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/Feelin_Myelf.PNG">
+
+
 ## Normani Kordei's Twitter abuse: The troll problem keeps getting worse, especially for women and people of color 
 [The Fifth Harmony member's departure is just the latest defection in the wake of racist, misogynist harassment](https://www.salon.com/2016/08/09/normani-kordeis-twitter-abuse-the-troll-problem-keeps-getting-worse-especially-for-women-and-people-of-color/)
-<IMG src="">
-<IMG src="">
-<IMG src="https://www.graffiti.org/la/uti.jpg">
+<a href="https://www.salon.com/2016/08/09/normani-kordeis-twitter-abuse-the-troll-problem-keeps-getting-worse-especially-for-women-and-people-of-color/"><IMG src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/Feelin_Myelf_because_normani_is_my_girlfriend.PNG"></a>
+
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/09PHKY9BV6zm663CM4ABel?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <div class="pinupGallery">
-  <img class="pinupImage featured-pinupImage" src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/tabloid/NORMANiE_COSMO_IS_BALLIiN_MAYNE.png" alt="">
-  <img class="pinupImage  " src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/tabloid/NORMANiE_COSMO_IS_BALLIiN_MAYNE.png" alt="">
-  <img class="pinupImage" src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/tabloid/NORMANiE_COSMO_IS_BALLIiN_MAYNE.png" alt="">
-  <img class="pinupImage" src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/tabloid/NORMANiE_COSMO_IS_BALLIiN_MAYNE.png" alt="">
-   <img class="pinupImage" src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/tabloid/NORMANiE_COSMO_IS_BALLIiN_MAYNE.png" alt="">
+  <a href="https://youtu.be/FKXSh14svlQ"><img class="pinupImage featured-pinupImage" src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/tabloid/NORMANiE_COSMO_IS_BALLIiN_MAYNE.png" alt=""></a>
+  <a href="https://youtu.be/FKXSh14svlQ"><img class="pinupImage" src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/tabloid/NORMANiE_COSMO_IS_BALLIiN_MAYNE.png" alt=""></a>
+  <a href="https://youtu.be/FKXSh14svlQ"><img class="pinupImage" src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/tabloid/NORMANiE_COSMO_IS_BALLIiN_MAYNE.png" alt=""></a>
+  <a href="https://youtu.be/FKXSh14svlQ"><img class="pinupImage" src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/tabloid/NORMANiE_COSMO_IS_BALLIiN_MAYNE.png" alt=""></a>
+  <a href="https://youtu.be/FKXSh14svlQ"><img class="pinupImage" src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/tabloid/NORMANiE_COSMO_IS_BALLIiN_MAYNE.png" alt=""></a>
 </div>
 
 <div class='twoPanelSpread'>
