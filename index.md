@@ -6,6 +6,32 @@
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
 
+<IMG src="https://raw.githubusercontent.com/ThakaSartu/sartuisnormani/master/assets/images/KASHDOLL_SHADES.gif">
+
+## Dear Mormani, I wanna call you that today, you looked so nice on the train platform
+Anywho, while I port peoples repos over to this account something surprising happened! That bulge in your "TwoPanelSpread" entries that show the matrix rainfall from the right is gone! Its a super clean layout. People have been injecting code, If you study branching with me we can make hella money wiz! The concepts can also help us run our household and family buisiness with healthy structure so everyone remains balanced and the [hedonists](https://www.google.com/search?q=hedonists&rlz=1C1GCEJ_enUS867US1021&oq=hedonists&aqs=chrome..69i57j0i512l4j0i10i512j0i512j0i10i512j0i512l2.2472j0j4&sourceid=chrome&ie=UTF-8) dont destroy all of our work
+<IMG src="https://raw.githubusercontent.com/ThakaSartu/sartuisnormani/master/assets/images/branchProtection.PNG">
+
+
+
+[Teddy Pendergrass - Love T.K.O. (Official Audio)](https://www.youtube.com/watch?v=Pb4j2UqkOJ0)
+[Teddy Pendergrass - Come Go with Me (Official Audio)](https://www.youtube.com/watch?v=uKg7HxAFo60)
+[If You Think You're Lonely Now](https://www.youtube.com/watch?v=FzHVEjk9YII)
+
+<hr>
+
+## Sartu,
+I learned [painter5](https://painter.software.informer.com/5.5/) buy downloading pirated software...SCAD would not help me with financial aid and willie cant afford that shit at $100000 not that he would anyway, but there was these dudes in savannah from other places that knew and I think they glassWalled_BlackBalled me for possibly Onika's prostitution. Them White dudes from the art district hella scary sex traffickers... I feel so dumb and stripped of my masculinity... Anyway I included a link to painter for windows... We need an older 9x ##WiNDOWS_BOX to run it and the text effects are not found in any other graphics program, nd look amazing... I made a nice sign for a Barbeque resturant on MartinLutherKingBlvd in savannah... Im drilling in webdesign since I can code out a lot of designwork and at some point ill be so good someone will pick me up with an offer so im working like your little steam engine that could, can, would, will and alway love on you softly when you need it and firmly when you dont want anyone else guiding you but me 
+<IMG src="https://guidebookgallery.org/pics/splashes/painter/5.png" alt="Dear Sartu, I learned painter buy downloading pirated software...SCAD would not help me with financial aid and willie cant afford that shit at $100000 not that he would anyway, but there was these dudes in savannah from other places that knew and I think they glassWalled_BlackBalled me for possibly Onika's prostitution. Them White dudes from the art district hella scary sex traffickers... I feel so dumb and stripped of my masculinity">
+<hr>
+
+[Teddy Pendergrass - Come Go with Me (Official Audio)](https://www.youtube.com/watch?v=uKg7HxAFo60)
+[Don't Let It Go to Your Head (12" Version)](https://www.youtube.com/watch?v=2TaQl86Ob4U)
+[The Glamorous Life](https://www.youtube.com/watch?v=HpO07s-Aw4I)
+[You Gonna Make Me Love Somebody Else](https://www.youtube.com/watch?v=sILFP6Z5P_o)
+[THE_BROTHERS_JOHNSON Strawberry Letter 23](https://www.youtube.com/watch?v=rquygdjf0d8)
+[The Jones Girls - Nights Over Egypt (HD)](https://www.youtube.com/watch?v=pzxwZ6wjDAM)
+<hr>
 
 [Gooba | Tekashi 6ix9ine | Official Choreography By Jeremy Green](https://www.youtube.com/watch?v=z4VRgy91V1k)
 [APESH*T | The Carters | Choreography By: Jeremy Green](https://www.youtube.com/watch?v=XA5S8W1Y6jk)
