@@ -6,6 +6,11 @@
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
 
+<div class="sixpanel">
+ <div class="item1"> <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+  <div class="item2"> <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+  <div class="item3"> <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+</div>
 <IMG src="https://raw.githubusercontent.com/ThakaSartu/sartuisnormani/master/assets/images/KASHDOLL_SHADES.gif">
 
 ## Dear Mormani, I wanna call you that today, you looked so nice on the train platform
@@ -20,6 +25,32 @@ Anywho, while I port peoples repos over to this account something surprising hap
 
 <hr>
 
+
+<div class="flex-container">
+
+  <div class="item1">                        <img src="https://pbs.twimg.com/media/FOZKA0UWQAEe0GL?format=jpg&name=small" /></div>
+  <div class="item2">                        <img src="https://pbs.twimg.com/media/FOZKA0UWQAEe0GL?format=jpg&name=small" /></div>
+  <div class="item3">                        <img src="https://pbs.twimg.com/media/FOZKA0UWQAEe0GL?format=jpg&name=small" /></div>
+</div>
+<div class="panel4-container">
+    <div class="item1"><img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5c9d3b13e58b91563424b6ca/vsco5c9d3b14e05d4.jpg"></div>
+    <div class="item2"><img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5c9d3b13e58b91563424b6ca/vsco5c9d3b14e05d4.jpg"></div>
+    <div class="item3"><img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5c9d3b13e58b91563424b6ca/vsco5c9d3b14e05d4.jpg"></div>
+    <div class="item4"><img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5c9d3b13e58b91563424b6ca/vsco5c9d3b14e05d4.jpg"></div>
+</div>
+
+
+<div class="panel4-container">
+   
+  <div class="item1"><img src="https://www.tribalgear.com/global/wp-content/uploads/JOKER_FLAG_MAIN.jpg"></div>
+    <div class="item2"><img src="https://www.tribalgear.com/global/wp-content/uploads/JOKER_FLAG_MAIN.jpg"></div>
+    <div class="item3"><img src="https://www.tribalgear.com/global/wp-content/uploads/JOKER_FLAG_MAIN.jpg"></div>
+    <div class="item4"><img src="https://www.tribalgear.com/global/wp-content/uploads/JOKER_FLAG_MAIN.jpg"></div>
+
+</div>
+
+
+<hr>
 ## Sartu,
 I learned [painter5](https://painter.software.informer.com/5.5/) buy downloading pirated software...SCAD would not help me with financial aid and willie cant afford that shit at $100000 not that he would anyway, but there was these dudes in savannah from other places that knew and I think they glassWalled_BlackBalled me for possibly Onika's prostitution. Them White dudes from the art district hella scary sex traffickers... I feel so dumb and stripped of my masculinity... Anyway I included a link to painter for windows... We need an older 9x ##WiNDOWS_BOX to run it and the text effects are not found in any other graphics program, nd look amazing... I made a nice sign for a Barbeque resturant on MartinLutherKingBlvd in savannah... Im drilling in webdesign since I can code out a lot of designwork and at some point ill be so good someone will pick me up with an offer so im working like your little steam engine that could, can, would, will and alway love on you softly when you need it and firmly when you dont want anyone else guiding you but me 
 <IMG src="https://guidebookgallery.org/pics/splashes/painter/5.png" alt="Dear Sartu, I learned painter buy downloading pirated software...SCAD would not help me with financial aid and willie cant afford that shit at $100000 not that he would anyway, but there was these dudes in savannah from other places that knew and I think they glassWalled_BlackBalled me for possibly Onika's prostitution. Them White dudes from the art district hella scary sex traffickers... I feel so dumb and stripped of my masculinity">
@@ -833,7 +864,7 @@ Since its first release of 2007, SHM-CD format has gained much popularity and be
 
 <h2>Since i couldn’t remove all my tattoos I’m getting them covered</h2>
 
-[https://twitter.com/kashdoll/status/1129563640259121153/photo/1](https://twitter.com/kashdoll/status/1129563640259121153/photo/1)
+[twitter.com/kashdoll/status](https://twitter.com/kashdoll/status/1129563640259121153/photo/1)
 <div class="sixpanel">
   <div class="item1"> <img src="https://pbs.twimg.com/media/D60EAyRU8AA6HPZ?format=jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
   <div class="item2"> <img src="https://pbs.twimg.com/media/D60EAyRU8AA6HPZ?format=jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
@@ -857,39 +888,12 @@ Since its first release of 2007, SHM-CD format has gained much popularity and be
   <div class="item3"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/9d6d3b16944b6ee2bab5f04b20c445a8.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
 </div>
 	
-<div class="sixpanel">
- <div class="item1"> <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
-  <div class="item2"> <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
-  <div class="item3"> <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
-</div>
+
 
 <div class="sixpanel">
   <div class="item1"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/574e8d8380f296deb01bf129fe3052fd.jpg#574e8d8380f296deb01bf129fe3052fd" /></div>
   <div class="item2"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/574e8d8380f296deb01bf129fe3052fd.jpg#574e8d8380f296deb01bf129fe3052fd" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
   <div class="item3"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/574e8d8380f296deb01bf129fe3052fd.jpg#574e8d8380f296deb01bf129fe3052fd" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
-</div>
-
-<div class="flex-container">
-
-  <div class="item1">                        <img src="https://pbs.twimg.com/media/FOZKA0UWQAEe0GL?format=jpg&name=small" /></div>
-  <div class="item2">                        <img src="https://pbs.twimg.com/media/FOZKA0UWQAEe0GL?format=jpg&name=small" /></div>
-  <div class="item3">                        <img src="https://pbs.twimg.com/media/FOZKA0UWQAEe0GL?format=jpg&name=small" /></div>
-</div>
-<div class="panel4-container">
-    <div class="item1"><img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5c9d3b13e58b91563424b6ca/vsco5c9d3b14e05d4.jpg"></div>
-    <div class="item2"><img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5c9d3b13e58b91563424b6ca/vsco5c9d3b14e05d4.jpg"></div>
-    <div class="item3"><img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5c9d3b13e58b91563424b6ca/vsco5c9d3b14e05d4.jpg"></div>
-    <div class="item4"><img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5c9d3b13e58b91563424b6ca/vsco5c9d3b14e05d4.jpg"></div>
-</div>
-
-
-<div class="panel4-container">
-   
-  <div class="item1"><img src="https://www.tribalgear.com/global/wp-content/uploads/JOKER_FLAG_MAIN.jpg"></div>
-    <div class="item2"><img src="https://www.tribalgear.com/global/wp-content/uploads/JOKER_FLAG_MAIN.jpg"></div>
-    <div class="item3"><img src="https://www.tribalgear.com/global/wp-content/uploads/JOKER_FLAG_MAIN.jpg"></div>
-    <div class="item4"><img src="https://www.tribalgear.com/global/wp-content/uploads/JOKER_FLAG_MAIN.jpg"></div>
-
 </div>
 
 <div class="panel4-container">
