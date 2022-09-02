@@ -6,6 +6,7 @@
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
 
+<IMG src="https://i.discogs.com/zcEKRLIOkxYLYFemd3I8h4-sTStT1w65KppNy8-gSN4/rs:fit/g:sm/q:90/h:528/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0ODcx/MTUtMTYzODgyNDky/OS01NTQ4LmpwZWc.jpeg">
 <iframe  src="https://open.spotify.com/embed/track/2arYwvMEmqwnMWvOOASv5U?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/3VEZvzr84WVnoorZ4tlBSw?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
