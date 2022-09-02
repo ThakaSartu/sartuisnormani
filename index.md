@@ -26,6 +26,10 @@ Anywho, while I port peoples repos over to this account something surprising hap
 
 <hr>
 
+[Beauty (Remix) - Dru Hill feat. Case](https://www.youtube.com/watch?v=6ePbn-Qt4os)
+[Provided to YouTube by So So Def/Columbia Softest Place On Earth · Xscape](https://www.youtube.com/watch?v=6AySILOJ3Fo)
+[Musiq Soulchild - So beautiful (Official Extended Music Video)](https://www.youtube.com/watch?v=t4z_62VYoXM)
+<hr>
 
 <div class="flex-container">
 
@@ -394,65 +398,6 @@ With the support of stars like Gwyneth Paltrow, Nicole Daedone built a lucrative
 
 [DEAR_SAUTUZEE_PLEASE Come Home -Groove Theory](https://www.youtube.com/watch?v=LMUmpP_il2c)
 
- 
-
- 
- <audio preload="metadata" id="myAudio" ontimeupdate="onTimeUpdate()">
-  <!-- <source src="audio.ogg" type="audio/ogg"> -->
-  <source id="source-audio" src="" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
-
-<div class="player-ctn">
-  <div class="infos-ctn">
-    <div class="timer">00:00</div>
-    <div class="title"></div>
-    <div class="duration">00:00</div>
-  </div>
-  <div id="myProgress">
-    <div id="myBar"></div>
-  </div>
-  <div class="btn-ctn">
-     <div class="btn-action first-btn" onclick="previous()">
-        <div id="btn-faws-back">
-          <i class='fas fa-step-backward'></i>
-        </div>
-     </div>
-     <div class="btn-action" onclick="rewind()">
-        <div id="btn-faws-rewind">
-          <i class='fas fa-backward'></i>
-        </div>
-     </div>
-     <div class="btn-action" onclick="toggleAudio()">
-        <div id="btn-faws-play-pause">
-          <i class='fas fa-play' id="icon-play"></i>
-          <i class='fas fa-pause' id="icon-pause" style="display: none"></i>
-        </div>
-     </div>
-     <div class="btn-play" onclick="forward()">
-        <div id="btn-faws-forward">
-          <i class='fas fa-forward'></i>
-        </div>
-     </div>
-     <div class="btn-action" onclick="next()">
-        <div id="btn-faws-next">
-          <i class='fas fa-step-forward'></i>
-        </div>
-     </div>
-     <div class="btn-mute" id="toggleMute" onclick="toggleMute()">
-        <div id="btn-faws-volume">
-          <i id="icon-vol-up" class='fas fa-volume-up'></i>
-          <i id="icon-vol-mute" class='fas fa-volume-mute' style="display: none"></i>
-        </div>
-     </div>
-  </div>
-  <div class="playlist-ctn"></div>
-</div>
-<script src=app.js></script>
-
-<!-- partial -->
-  <script  src="./sartusscript.js"></script>
-
 [Marsha Ambrosius - Far Away](https://www.youtube.com/watch?v=zRwLMC2wP0g)
 [Beauty (Remix)](https://www.youtube.com/watch?v=6ePbn-Qt4os)
 [Say Yes](https://www.youtube.com/watch?v=vTFg3QjSfw4)
@@ -462,11 +407,10 @@ With the support of stars like Gwyneth Paltrow, Nicole Daedone built a lucrative
   <div class="item3"> <img src="https://i.pinimg.com/originals/3c/53/18/3c53181316e762aac88155fd15b17683.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
 </div>
 
-[Beauty (Remix) - Dru Hill feat. Case](https://www.youtube.com/watch?v=6ePbn-Qt4os)
-[Provided to YouTube by So So Def/Columbia Softest Place On Earth · Xscape](https://www.youtube.com/watch?v=6AySILOJ3Fo)
 <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/122684004_1763575960470720_3017276801433995810_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_ohc=fXK7mw3qsGQAX8WyEdL&_nc_ht=scontent-lax3-2.xx&oh=00_AT8kVgvTd1-lOqgIwaxE1DnAzKvVW2nHrFqZz-NhrtZiEg&oe=63199401" >
 
-[Musiq Soulchild - So beautiful (Official Extended Music Video)](https://www.youtube.com/watch?v=t4z_62VYoXM)
+
+
 
 <div class='twoPanelSpread'>
   <div class='row'>
