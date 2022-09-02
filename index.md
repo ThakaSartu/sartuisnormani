@@ -13,7 +13,7 @@ Anywho, while I port peoples repos over to this account something surprising hap
 <IMG src="https://raw.githubusercontent.com/ThakaSartu/sartuisnormani/master/assets/images/branchProtection.PNG">
 
 
-
+[Yearning For Your Love](https://www.youtube.com/watch?v=afqzUbvi7D8)
 [Teddy Pendergrass - Love T.K.O. (Official Audio)](https://www.youtube.com/watch?v=Pb4j2UqkOJ0)
 [Teddy Pendergrass - Come Go with Me (Official Audio)](https://www.youtube.com/watch?v=uKg7HxAFo60)
 [If You Think You're Lonely Now](https://www.youtube.com/watch?v=FzHVEjk9YII)
@@ -131,7 +131,9 @@ Life winds down, I hope I get a place to [Cater 2 U](https://www.youtube.com/wat
 
 ## STILL_ON_IT
 <IMG src="https://raw.githubusercontent.com/ThakaRashard/BUBBLEGUMPOP_MUNA/master/assets/images/iM_THiER_MUSE_JiYST_FOLLOWiNG_ORDERZ.jpg">
-songs dope https://open.spotify.com/track/6SLTPbDxDYR0uSMTT7gSb7?si=7a2a32ff0b464559
+
+[songs dope](https://open.spotify.com/track/6SLTPbDxDYR0uSMTT7gSb7?si=7a2a32ff0b464559)
+
 ## AT_LEAST_WE_HAVE_THIS
 <IMG src="https://cdn.theatlantic.com/media/img/photo/2011/08/world-war-ii-the-american-home-front-in-color/w04_1a35329u/main_1200.jpg">
 
