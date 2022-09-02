@@ -4,7 +4,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Anybody:wght@900&family=Fredoka+One&display=swap');
 @import "rouge-base16-dark";
 @import "default_colors";
-@import url('https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css');
+
 
 
 $body-background: $cod-grey  !default;
@@ -233,12 +233,12 @@ header h1 {
 
 
 header h1:before {
-  content: "./BUBBLEGUMPOP";
+/*  content: ""; */
   font-size: 4rem;
 }
 
 header h2 {
-  content: "./BUBBLEGUMPOP_SARTU_LETS_GO ~>";
+ /* content: "./BUBBLEGUMPOP_SARTU_LETS_GO ~>"; */
   font-size: 1em;
   font-weight: 300;
   color: #fff;
