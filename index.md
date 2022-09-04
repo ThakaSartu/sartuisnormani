@@ -6,6 +6,11 @@
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
 
+
+<IMG src="https://thephotoacademy.com/storage/magazine/444/THE-PHOTO-ACADEMY-courses-nature-7.jpg">
+
+ <iframe width="100%" height="400" src="https://www.youtube.com/embed/zq8Kr7SREys" title="Clara Bow is dancing the Hula" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [The Dark Connection Between UFOs and Grisly Mutilations](https://www.history.com/news/ufos-aliens-animal-human-mutilation-lovette-cunningham)
 
 <IMG src="https://static01.nyt.com/images/2011/10/04/blogs/20111004-Lens-Brandt2-slide-PBCC/20111004-Lens-Brandt2-slide-PBCC-jumbo.jpg">
@@ -790,9 +795,9 @@ Since its first release of 2007, SHM-CD format has gained much popularity and be
 
 <div class="flex-container">
 
-  <div class="item1"> <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_AND_I_INVENTED_THIS_STYLE_MEGAN_CARDi_DREEZY_AND_THE_GUYS_FROM_ALPHARETTA_GAY_DANCE_CAN_CONFiRM.jpg" /></div>
-  <div class="item2"> <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_AND_I_INVENTED_THIS_STYLE_MEGAN_CARDi_DREEZY_AND_THE_GUYS_FROM_ALPHARETTA_GAY_DANCE_CAN_CONFiRM.jpg" /></div>
-  <div class="item3"> <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_AND_I_INVENTED_THIS_STYLE_MEGAN_CARDi_DREEZY_AND_THE_GUYS_FROM_ALPHARETTA_GAY_DANCE_CAN_CONFiRM.jpg" /></div>
+  <div class="item1"> <img src="https://c8.alamy.com/comp/AY3M86/touching-up-eyelashes-AY3M86.jpg" /></div>
+  <div class="item2"> <img src="https://c8.alamy.com/comp/AY3M86/touching-up-eyelashes-AY3M86.jpg" /></div>
+  <div class="item3"> <img src="https://c8.alamy.com/comp/AY3M86/touching-up-eyelashes-AY3M86.jpg" /></div>
 </div>
 
 <img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc4a8c81d78312109000003/vsco5fc4a8cb61459.jpg" alt="#MSK_GRAFFITI">
@@ -2538,3 +2543,4 @@ I hope they handled the pit... You have a dead child by this story, and she simp
 <img src="https://img.favpng.com/24/13/9/comptia-a-training-kit-exam-220-801-and-exam-220-802-professional-certification-test-technology-png-favpng-i3J9s1QzvaVZCCsruqitheJQF.jpg">
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Z5Ndys7Ygcc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="513" src="https://www.youtube.com/embed/Kqa4s8ufvqA" title="Fire & Ice - Full Version Animated Movie {English}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<IMG src="https://thephotoacademy.com/storage/magazine/444/THE-PHOTO-ACADEMY-courses-nature-7.jpg">
