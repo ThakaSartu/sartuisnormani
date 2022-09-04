@@ -6,7 +6,6 @@
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
 
-<IMG src="https://upload.wikimedia.org/wikipedia/commons/f/fd/It_%281927_film_poster%29.jpg">
 
 <IMG src="https://thephotoacademy.com/storage/magazine/444/THE-PHOTO-ACADEMY-courses-nature-7.jpg">
 
@@ -158,6 +157,7 @@ The CSS Zen Garden project is based on the worldwide web development project at 
 <IMG src="https://lastfm.freetls.fastly.net/i/u/770x0/dd78ba0c6a9b3e75719ed453624d4f25.jpg">
 <IMG src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/fallback-1574403823.png">
 <IMG src="https://images.popbuzz.com/images/77274?crop=16_9&width=660&relax=1&signature=IcQbWrWLc7DXXePGsf5Y1wKHdok=">
+<IMG src="https://upload.wikimedia.org/wikipedia/commons/f/fd/It_%281927_film_poster%29.jpg">
 
 <div class='twoPanelSpread'>
       <div class='row'>
