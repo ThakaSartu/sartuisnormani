@@ -5,6 +5,9 @@
 3 # ANOTHER########################################NORMANiE
 4 # UNiVERSE##########################################SARTU
 {% endhighlight %}
+
+[The Dark Connection Between UFOs and Grisly Mutilations](https://www.history.com/news/ufos-aliens-animal-human-mutilation-lovette-cunningham)
+
 <IMG src="https://static01.nyt.com/images/2011/10/04/blogs/20111004-Lens-Brandt2-slide-PBCC/20111004-Lens-Brandt2-slide-PBCC-jumbo.jpg">
 <IMG src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png">
 <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="zYjxYMv" data-editable="true" data-user="thakarashard" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
